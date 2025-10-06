@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	zambullo .
+%mor:	v|zambulli-1S&PRES=dive .
+*T:	zambulles .
+%mor:	v|zambulli-2S&PRES=dive .
+*T:	zambulle .
+%mor:	imp|zambulli-2S&IMP=dive .
+*T:	zambullimos .
+%mor:	v|zambulli-1P&PRES&PRET=dive .
+*T:	zambullís .
+%mor:	v|zambulli-2P&PRES=dive .
+*T:	zambullen .
+%mor:	v|zambulli-3P&PRES=dive .
+@Blank
+*T:	zambullía .
+%mor:	v|zambulli-13S&PAS=dive .
+*T:	zambullías .
+%mor:	v|zambulli-2S&PAS=dive .
+*T:	zambullía .
+%mor:	v|zambulli-13S&PAS=dive .
+*T:	zambullíamos .
+%mor:	v|zambulli-1P&PAS=dive .
+*T:	zambullíais .
+%mor:	v|zambulli-2P&PAS=dive .
+*T:	zambullían .
+%mor:	v|zambulli-3P&PAS=dive .
+@Blank
+*T:	zambullí .
+%mor:	imp|zambulli-2S&IMP=dive .
+*T:	zambulliste .
+%mor:	v|zambulli-2S&PRET=dive .
+*T:	zambulló .
+%mor:	v|zambulli-3S&PRET=dive .
+*T:	zambullimos .
+%mor:	v|zambulli-1P&PRES&PRET=dive .
+*T:	zambullisteis .
+%mor:	v|zambulli-2P&PRET=dive .
+*T:	zambulleron .
+%mor:	v|zambulli-3P&PRET=dive .
+@Blank
+*T:	zambulliré .
+%mor:	v|zambulli-1S&FUT=dive .
+*T:	zambullirás .
+%mor:	v|zambulli-2S&FUT=dive .
+*T:	zambullirá .
+%mor:	v|zambulli-3S&FUT=dive .
+*T:	zambulliremos .
+%mor:	v|zambulli-1P&FUT=dive .
+*T:	zambulliréis .
+%mor:	v|zambulli-2P&FUT=dive .
+*T:	zambullirán .
+%mor:	v|zambulli-3P&FUT=dive .
+@Blank
+*T:	zambulla .
+%mor:	imp|zambulli-3S&IMP=dive .
+*T:	zambullas .
+%mor:	v|zambulli-2S&SUB&PRES=dive .
+*T:	zambulla .
+%mor:	imp|zambulli-3S&IMP=dive .
+*T:	zambullamos .
+%mor:	v|zambulli-1P&SUB&PRES=dive .
+*T:	zambulláis .
+%mor:	v|zambulli-2P&SUB&PRES=dive .
+*T:	zambullan .
+%mor:	imp|zambulli-3P&IMP=dive .
+@Blank
+*T:	zambullera .
+%mor:	v|zambulli-13S&SUB&PAS=dive .
+*T:	zambulleras .
+%mor:	v|zambulli-2S&SUB&PAS=dive .
+*T:	zambullera .
+%mor:	v|zambulli-13S&SUB&PAS=dive .
+*T:	zambulléramos .
+%mor:	v|zambulli-1P&SUB&PAS=dive .
+*T:	zambullerais .
+%mor:	v|zambulli-2P&SUB&PAS=dive .
+*T:	zambulleran .
+%mor:	v|zambulli-3P&SUB&PAS=dive .
+@Blank
+*T:	zambullendo .
+%mor:	ger|zambulli-PROG=dive .
+*T:	zambullido .
+%mor:	part|zambulli-PPART-MASC=dive .
+*T:	zambulle .
+%mor:	imp|zambulli-2S&IMP=dive .
+*T:	zambulla .
+%mor:	imp|zambulli-3S&IMP=dive .
+*T:	zambullid .
+%mor:	imp|zambulli-2P&IMP=dive .
+*T:	zambullan .
+%mor:	imp|zambulli-3P&IMP=dive .
+@End

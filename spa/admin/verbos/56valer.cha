@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	valgo .
+%mor:	v|vale-1S&PRES=cost .
+*T:	vales .
+%mor:	v|vale-2S&PRES=cost .
+*T:	vale .
+%mor:	co|vale=okay .
+*T:	valemos .
+%mor:	v|vale-1P&PRES=cost .
+*T:	valéis .
+%mor:	v|vale-2P&PRES=cost .
+*T:	valen .
+%mor:	v|vale-3P&PRES=cost .
+@Blank
+*T:	valía .
+%mor:	v|vale-13S&PAS=cost .
+*T:	valías .
+%mor:	v|vale-2S&PAS=cost .
+*T:	valía .
+%mor:	v|vale-13S&PAS=cost .
+*T:	valíamos .
+%mor:	v|vale-1P&PAS=cost .
+*T:	valíais .
+%mor:	v|vale-2P&PAS=cost .
+*T:	valían .
+%mor:	v|vale-3P&PAS=cost .
+@Blank
+*T:	valí .
+%mor:	v|vale-1S&PRET=cost .
+*T:	valiste .
+%mor:	v|vale-2S&PRET=cost .
+*T:	valió .
+%mor:	v|vale-3S&PRET=cost .
+*T:	valimos .
+%mor:	v|vale-1P&PRES&PRET=cost .
+*T:	valisteis .
+%mor:	v|vale-2P&PRET=cost .
+*T:	valieron .
+%mor:	v|vale-3P&PRET=cost .
+@Blank
+*T:	valdré .
+%mor:	v|vale-1S&FUT=cost .
+*T:	valdrás .
+%mor:	v|vale-2S&FUT=cost .
+*T:	valdrá .
+%mor:	v|vale-3S&FUT=cost .
+*T:	valdremos .
+%mor:	v|vale-1P&FUT=cost .
+*T:	valdréis .
+%mor:	v|vale-2P&FUT=cost .
+*T:	valdrán .
+%mor:	v|vale-3P&FUT=cost .
+@Blank
+*T:	valga .
+%mor:	v|vale-13S&SUB&PRES=cost .
+*T:	valgas .
+%mor:	v|vale-2S&SUB&PRES=cost .
+*T:	valga .
+%mor:	v|vale-13S&SUB&PRES=cost .
+*T:	valgamos .
+%mor:	imp|vale-1P&IMP=cost .
+*T:	valgáis .
+%mor:	v|vale-2P&SUB&PRES=cost .
+*T:	valgan .
+%mor:	v|vale-3P&SUB&PRES=cost .
+@Blank
+*T:	valiera .
+%mor:	v|vale-13S&SUB&PAS=cost .
+*T:	valieras .
+%mor:	v|vale-2S&SUB&PAS=cost .
+*T:	valiera .
+%mor:	v|vale-13S&SUB&PAS=cost .
+*T:	valiéramos .
+%mor:	v|vale-1P&SUB&PAS=cost .
+*T:	valierais .
+%mor:	v|vale-2P&SUB&PAS=cost .
+*T:	valieran .
+%mor:	v|vale-3P&SUB&PAS=cost .
+@Blank
+*T:	valiendo .
+%mor:	ger|vale-PROG=cost .
+*T:	valido .
+%mor:	part|vale-PPART-MASC=cost .
+*T:	vale .
+%mor:	co|vale=okay .
+*T:	valga .
+%mor:	v|vale-13S&SUB&PRES=cost .
+*T:	valed .
+%mor:	imp|vale-2P&IMP=cost .
+*T:	valgan .
+%mor:	v|vale-3P&SUB&PRES=cost .
+@Blank
+@End

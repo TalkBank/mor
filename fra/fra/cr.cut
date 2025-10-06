@@ -1,0 +1,453 @@
+@UTF8
+@Window:	162_1593_677_700_-1_-1_393_0_393_0
+
+% ******************************************************
+% CONCATENATION RULES  for FRENCH
+% ******************************************************
+
+X = .*    % anything
+Y = .*	% second anything
+
+% This rule starts all of the words that have full form listings
+
+RULENAME: misc-start
+CTYPE: START
+ if
+NEXTCAT = [scat OR bab chi dia fam n:let \
+	neo on phon meta L2 sing sign sas test uni wplay unk beg end cm \
+	adv adv:int adv:place adv:yn co co:act conj det:poss \
+	det:art det:gen det:dem neg n:let n:prop part pct prep prep:art \
+	pro pro:dem pro:int pro:ind pro:indef pro:sub pro:obj pro:poss pro:dat \
+	pro:refl pro:rel pro:y qn v:exist v:int v:mdl v:mdllex unk \
+	0adj 0adv 0adv:neg 0conj 0det 0n 0prep 0pro 0pro:sub 0pro:y 0pro:refl 0pro:rel \
+	0rel 0v 0v:aux 0zero ], ![bare no]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {}
+
+%***************
+% PRECLITICS
+%***************
+
+RULENAME: vpreclit-start
+CTYPE: START
+ if
+ NEXTCAT = [pcat vpreclit]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {vpreclit-cont}
+
+RULENAME: cpreclit-start
+CTYPE: START
+ if
+ NEXTCAT = [pcat cpreclit]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {cpreclit-cont}
+
+RULENAME: vpreclit-cont
+CTYPE: $
+ if 				% blocking
+ STARTCAT = [pre obj]
+ NEXTCAT = [scat OR v:exist v:aux]
+ then
+ RESULTCAT = STARTCAT		% keep [bare no] feature
+ RULEPACKAGE = {}
+ if
+ STARTCAT = [pre subj]
+ NEXTCAT = [scat OR v:exist v:aux]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {}
+if
+ STARTCAT = [scat pro:obj]
+ NEXTCAT = [scat pro:sub]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {}
+if
+ STARTCAT = [scat OR neg pro:dem pro:obj pro:sub pro:refl]
+ NEXTCAT = [scat OR part pro:y]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {}
+ if
+ STARTCAT = ![pre subj]			%  exclude t' as subject before main verb
+ NEXTCAT = [scat OR v v:mdllex v:int v:aux v:exist v:poss]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {v-part, v-regul, v-irregul}
+if
+ NEXTCAT = [scat vpfx], ![bare no]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {pfx-verb}
+
+RULENAME: cpreclit-cont
+CTYPE: $
+ if
+ NEXTCAT = [scat OR adv adv:place det:art det:gen n n:prop part pro pro:sub pro:obj \
+	pro:y pro:rel pro:refl prep v:aux v:inf v:int v:exist]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {}
+
+RULENAME: preclit-de-start
+CTYPE: START
+ if
+ NEXTSURF = d'
+ NEXTCAT = [pcat npreclit]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {preclit-de-cont}
+
+RULENAME: preclit-de-cont
+CTYPE: $
+ if
+  NEXTCAT = [scat OR n n:prop pro pro:sub pro:rel pro:int pro:y]
+ then
+  RESULTCAT = NEXTCAT, DEL [bare]
+  RULEPACKAGE = {n-pl}
+ if
+  NEXTCAT = [scat OR v v:mdl v:aux v:poss ]
+ then
+  RESULTCAT = NEXTCAT, DEL [bare]
+  RULEPACKAGE = {v-part, v-regul, v-irregul}
+ if
+  NEXTCAT = [scat OR part adj adv adv:place]
+ then
+  RESULTCAT = NEXTCAT, DEL [bare]
+  RULEPACKAGE = {adj-special, adj-regul, adj-pl, adv-ment}
+
+RULENAME: preclit-le-start
+CTYPE: START
+ if
+ NEXTSURF = l'
+ NEXTCAT = [pcat npreclit]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {preclit-le-cont}
+
+RULENAME: preclit-le-cont
+CTYPE: $
+ if
+ NEXTCAT = [scat  OR adj n n:prop pro]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {n-pl}
+
+%***************
+% PREFIXES
+%***************
+
+RULENAME: pfx-verb-start
+CTYPE: START
+ if
+ NEXTCAT = [scat vpfx], [pcat v]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {pfx-verb, v-part}
+
+RULENAME: pfx-verb
+CTYPE: #
+ % first blocking
+ if
+ NEXTCAT = [scat OR v v:mdllex]
+ MATCHCAT [block]
+ then
+ RESULTCAT = ADD [bare no]    %  poison pill
+ RULEPACKAGE = {}
+ if
+ NEXTCAT = [scat OR v v:mdl v:mdllex], ![pre no]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {v-part, v-regul, v-irregul}
+
+RULENAME: pfx-adj-start
+CTYPE: START
+ if
+ NEXTCAT = [scat apfx], [pcat adj]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {pfx-adj, pfx-det}
+
+RULENAME: pfx-adj
+CTYPE: #
+ % first blocking
+ if
+ NEXTCAT = [scat adj]
+ MATCHCAT [block]
+ then
+ RESULTCAT = ADD [bare no]    %  poison pill
+ RULEPACKAGE = {}
+ if
+ NEXTCAT = [scat adj], ![pre no]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {adj-pl, adv-ment}
+
+RULENAME: pfx-det
+CTYPE: #
+ if
+ NEXTCAT = [scat OR det:art det:gen], ![pre no]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {}
+
+%************
+% NOUN PREFIX STARTS
+%************
+
+RULENAME: pfx-n-start
+CTYPE: START
+ if
+ NEXTCAT = [scat npfx], [pcat n]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {pfx-n, pfx-pro}
+
+RULENAME: pfx-n
+CTYPE: #
+ % first blocking
+ if
+ NEXTCAT = [scat n]
+ MATCHCAT [block]
+ then
+ RESULTCAT = ADD [bare no]    %  poison pill
+ RULEPACKAGE = {}
+ if
+ NEXTCAT = [scat n], ![pre no]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {n-pl}
+
+RULENAME: pfx-pro
+CTYPE: #
+ if
+ NEXTCAT = [scat pro:sub], ![pre no]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {}
+
+%***************
+% NUMERALS
+%***************
+
+RULENAME: num-start
+CTYPE: START
+ if
+ NEXTCAT = [scat num]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {num-pl}
+
+RULENAME: num-pl
+CTYPE: -
+ if
+ STARTCAT = [scat num], ![gn invar]
+ NEXTCAT = [scat nsfx], [g pl_s]
+ then
+ RESULTCAT = STARTCAT, DEL [bare]
+ RULEPACKAGE = {}
+
+%***************
+% NOUNS
+%***************
+
+RULENAME: n-start
+CTYPE: START
+ if
+ NEXTCAT = [scat OR n n:prop]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {n-pl, n-deic}
+
+%  plurals of nouns
+
+RULENAME: n-deic
+CTYPE: -
+ if
+ STARTCAT = [scat n], ![bare no]
+ NEXTCAT = [scat nsfx], [allo deic]
+ then
+ RESULTCAT = STARTCAT
+ RULEPACKAGE = {}
+
+if
+ STARTCAT = [scat v:inf]
+ NEXTCAT = [scat nsfx], [allo deic]
+ then
+ RESULTCAT = STARTCAT
+ RULEPACKAGE = {}
+
+RULENAME: n-pl
+CTYPE: -
+ if
+ STARTCAT = [scat n], ![bare no], ![tn singpl]
+ NEXTCAT = [scat nsfx], [num pl]
+ NEXTSURF = s
+ then
+ RESULTCAT = STARTCAT
+ RULEPACKAGE = {n-deic}
+
+ if
+ STARTSURF = $X$Vu
+ STARTCAT = [scat n], ![g pl_s]
+ NEXTCAT = [scat nsfx], [num pl], [g pl_x]
+ then
+ RESULTCAT = STARTCAT,  DEL [bare]
+ RULEPACKAGE = {n-deic}
+
+ if
+ STARTCAT = [scat n], ![bare no]
+ NEXTCAT = [scat nsfx], [num pl]
+ MATCHCAT [g]
+ then
+ RESULTCAT = STARTCAT
+ RULEPACKAGE = {n-deic}
+
+%***************
+% ADJECTIVES
+%***************
+
+RULENAME: adj-invar-start
+CTYPE: START
+ if
+ NEXTCAT = [scat adj], [gn invar]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {adj-pl, adv-ment}
+
+RULENAME: adj-var-start
+CTYPE: START
+ if
+ NEXTCAT = [scat adj]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {adj-special, adj-regul, adj-pl, adv-ment}
+
+RULENAME: adj-special
+CTYPE: -
+ if
+ STARTCAT = [scat adj]
+ NEXTCAT = [scat adjsfx], [g OR al eau el et eur eux er ic if ien on trice vs]
+ MATCHCAT [g]
+ MATCHCAT [gen]
+ then
+ RESULTCAT = STARTCAT, DEL [gen],  DEL [num], DEL [g], ADD [g pl_s], DEL [bare]
+ RULEPACKAGE = {adj-pl, adv-ment}
+
+RULENAME: adj-regul
+CTYPE: -
+ if
+ STARTCAT = [scat adj], ![g OR al eau el et eur eux er ic if ien on vs]
+ NEXTCAT = [scat nsfx], ![num pl]
+ MATCHCAT [g]
+ MATCHCAT [gen]
+ then
+ RESULTCAT = STARTCAT, DEL [gn], DEL [g], ADD [g pl_s], DEL [bare]
+ RULEPACKAGE = {adj-pl, adv-ment}
+
+%  plurals of adjectives in 's'
+
+RULENAME: adj-pl
+CTYPE: -
+ if
+ STARTCAT = [scat adj], ![g OR al eau el et eur eux er ic if ien on vs]
+ NEXTCAT = [scat nsfx]
+ MATCHCAT [g]
+ then
+ RESULTCAT = STARTCAT, DEL [bare]
+ RULEPACKAGE = {}
+
+RULENAME: adv-ment
+CTYPE: -
+ if
+ STARTCAT = [scat adj]
+ NEXTCAT = [scat adv:adj]
+ then
+ RESULTCAT = ADD [scat adv:adj], DEL [gn], DEL [g], DEL [bare]
+ RULEPACKAGE = {}
+
+%**************
+% VERBS
+%**************
+
+% analytic rule for verbs
+
+RULENAME: v-start
+CTYPE: START
+ if
+ NEXTCAT = [scat OR v v:poss v:aux v:mdl v:mdllex]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {v-part, v-regul, v-irregul, v-clit}
+
+% participles
+RULENAME: v-part
+CTYPE: -
+ if				% for regulars
+ STARTCAT = [scat OR v v:mdllex]
+ NEXTCAT = [scat part]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {}
+
+ if				% for specials
+ STARTCAT = [scat OR v v:mdl v:mdllex]
+ NEXTCAT = [scat part]
+ MATCHCAT [special]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare], DEL [bare]
+ RULEPACKAGE = {}
+
+ if				% for prefixed irregulars
+ STARTCAT = [scat vpfx]
+ NEXTCAT = [scat part], [pcat irreg]
+ then
+ RESULTCAT = NEXTCAT, DEL [bare]
+ RULEPACKAGE = {}
+
+% regular verbs
+RULENAME: v-regul
+CTYPE: -
+ if
+ STARTCAT = [scat OR v v:mdl v:mdllex]
+ NEXTCAT = [scat vsfx]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = STARTCAT, DEL [bare]
+ RULEPACKAGE = {v-clit}
+
+% irregular verbs
+
+RULENAME: v-irregul
+CTYPE: -
+ if
+ STARTCAT = [scat OR v v:mdl v:mdllex]
+ NEXTCAT = [scat vsfx]
+ MATCHCAT [special]
+ then
+ RESULTCAT = STARTCAT, DEL [special], DEL [bare]
+ RULEPACKAGE = {v-clit}
+
+RULENAME: v-clit
+CTYPE: ~
+ if
+ STARTCAT = [scat OR v v:mdl v:poss v:aux v:mdllex]
+ NEXTCAT = [scat vclit]
+ then
+ RESULTCAT = STARTCAT
+ RULEPACKAGE = {}
+
+%  This rule ends everything.   If you don't end things,
+%  they will not get into the output
+
+RULENAME: all-end
+ CTYPE: END
+ if
+ STARTCAT = ![bare no]
+ then
+ RESULTCAT = STARTCAT
+ RULEPACKAGE = {}

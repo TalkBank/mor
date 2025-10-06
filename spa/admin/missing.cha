@@ -1,0 +1,13 @@
+@UTF8
+alguito {[scat n-DIM]}
+decilo {[scat v|deci~pro:clit]}
+decime {[scat v|deci~pro:clit|]}
+maíces {[scat n|PL=corn]}
+maicito {[scat n][DIM]} =corn=
+mantente {[scat v|mantene=keep~pro:clit|2S]}
+recójalo {[scat v|recoge-3S&IMP~pro:clit|OBJ&m=collect~it]}
+recójame {[scat v|recoje-3S&IMP~pro|clit|]}
+reponlas {[scat v|repon-3S&IMP=replenish~pro:clit|OBJ&f&PL]}
+unámoslo {[scat v|uni-1SPL~pro:clit?]}
+
+

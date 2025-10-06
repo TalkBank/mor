@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	siento .
+%mor:	v|senti-1S&PRES=feel .
+*T:	sientes .
+%mor:	v|senti-2S&PRES=feel .
+*T:	siente .
+%mor:	v|senti-3S&PRES=feel .
+*T:	sentimos .
+%mor:	v|senti-1P&PRES&PRET=feel .
+*T:	sentís .
+%mor:	v|senti-2P&PRES=feel .
+*T:	sienten .
+%mor:	v|senti-3P&PRES=feel .
+@Blank
+*T:	sentía .
+%mor:	v|senti-13S&PAS=feel .
+*T:	sentías .
+%mor:	v|senti-2S&PAS=feel .
+*T:	sentía .
+%mor:	v|senti-13S&PAS=feel .
+*T:	sentíamos .
+%mor:	v|senti-1P&PAS=feel .
+*T:	sentíais .
+%mor:	v|senti-2P&PAS=feel .
+*T:	sentían .
+%mor:	v|senti-3P&PAS=feel .
+@Blank
+*T:	sentí .
+%mor:	imp|senti-2S&IMP=feel .
+*T:	sentiste .
+%mor:	v|senti-2S&PRET=feel .
+*T:	sintió .
+%mor:	v|senti-3S&PRET=feel .
+*T:	sentimos .
+%mor:	v|senti-1P&PRES&PRET=feel .
+*T:	sentisteis .
+%mor:	v|senti-2P&PRET=feel .
+*T:	sintieron .
+%mor:	v|senti-3P&PRET=feel .
+@Blank
+*T:	sentiré .
+%mor:	v|senti-1S&FUT=feel .
+*T:	sentirás .
+%mor:	v|senti-2S&FUT=feel .
+*T:	sentirá .
+%mor:	v|senti-3S&FUT=feel .
+*T:	sentiremos .
+%mor:	v|senti-1P&FUT=feel .
+*T:	sentiréis .
+%mor:	v|senti-2P&FUT=feel .
+*T:	sentirán .
+%mor:	v|senti-3P&FUT=feel .
+@Blank
+*T:	sienta .
+%mor:	v|senta-3S&PRES=sit .
+*T:	sientas .
+%mor:	v|senta-2S&PRES=sit .
+*T:	sienta .
+%mor:	v|senta-3S&PRES=sit .
+*T:	sintamos .
+%mor:	v|senti-1P&SUB&PRES=feel .
+*T:	sintáis .
+%mor:	v|senti-2P&SUB&PRES=feel .
+*T:	sientan .
+%mor:	v|senta-3P&PRES=sit .
+@Blank
+*T:	sintiera .
+%mor:	v|senti-13S&SUB&PAS=feel .
+*T:	sintieras .
+%mor:	v|senti-2S&SUB&PAS=feel .
+*T:	sintiera .
+%mor:	v|senti-13S&SUB&PAS=feel .
+*T:	sintiéramos .
+%mor:	v|senti-1P&SUB&PAS=feel .
+*T:	sintierais .
+%mor:	v|senti-2P&SUB&PAS=feel .
+*T:	sintieran .
+%mor:	v|senti-3P&SUB&PAS=feel .
+@Blank
+*T:	sintiendo .
+%mor:	ger|senti-PROG=feel .
+*T:	sentido .
+%mor:	part|senti-PPART-MASC=feel .
+*T:	siente .
+%mor:	v|senti-3S&PRES=feel .
+*T:	sienta .
+%mor:	v|senta-3S&PRES=sit .
+*T:	sentid .
+%mor:	imp|senti-2P&IMP=feel .
+*T:	sientan .
+%mor:	v|senta-3P&PRES=sit .
+@Blank
+@End

@@ -1,0 +1,7 @@
+@UTF8
+pare-balles {[scat n][gen m]} ==
+pare-boue {[scat n][gen m]} ==
+pare-brise {[scat n][gen m]} ==
+pare-choc {[scat n][gen m]} =bumper=
+pare-feu {[scat n][gen m]} ==
+pare-soleil {[scat n][gen m]} ==

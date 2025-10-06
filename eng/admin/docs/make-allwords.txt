@@ -1,0 +1,11 @@
+change all tabs to spaces
+remove 0affix.cut from folder
+cd to lex
+cat *.cut > 0allwords.cdc
+replace 0affix.cut
+move 0allwords.cdc out of folder
+in BBedit
+([^ ]*) (.*)\r -> \1\r
+remove front space with ^space -> nothing
+sort lines
+remove top junk and final Chinese

@@ -1,0 +1,27 @@
+@UTF8
+@Window:	293_620_582_820_-1_-1_84_0_84_0
+*@b	{[scat bab]}
+*@c	{[scat chi]}
+*@d	{[scat dia]}
+*@f	{[scat fam]}
+*@fp {[scat co]}
+*@g	skip
+*@i	{[scat co]}
+*@k	{[scat n:let] [allo n0]}
+*@l	{[scat n:let] [allo OR pl-s pl-es]}
+*@n	{[scat neo]}
+*@o	{[scat on]}
+*@p	{[scat phon]}
+*@q	{[scat meta]}
+*@s	{[scat L2]}
+*@s:*	{[scat L2]}
+*@s$*	{[scat L2]}
+*@si	{[scat sing]}
+*@sl	{[scat sign]}
+*@sas	{[scat sas]}
+*@t	{[scat test]}
+*@u	{[scat uni]}
+*@wp	{[scat wp]}
+*@x	{[scat unk]}
+*@x:*	{[scat unk]}
+*@z:*	skip

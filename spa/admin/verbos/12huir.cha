@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	huyo .
+%mor:	v|hui-1S&PRES=flee .
+*T:	huyes .
+%mor:	v|hui-2S&PRES=flee .
+*T:	huye .
+%mor:	v|hui-3S&PRES=flee .
+*T:	huimos .
+%mor:	v|hui-1P&PRES&PRET=flee .
+*T:	huís .
+%mor:	v|hui-2P&PRES=flee .
+*T:	huyen .
+%mor:	v|hui-3P&PRES=flee .
+@Blank
+*T:	huía .
+%mor:	v|hui-13S&PAS=flee .
+*T:	huías .
+%mor:	v|hui-2S&PAS=flee .
+*T:	huía .
+%mor:	v|hui-13S&PAS=flee .
+*T:	huíamos .
+%mor:	v|hui-1P&PAS=flee .
+*T:	huíais .
+%mor:	v|hui-2P&PAS=flee .
+*T:	huían .
+%mor:	v|hui-3P&PAS=flee .
+@Blank
+*T:	huí .
+%mor:	imp|hui-2S&IMP=flee .
+*T:	huíste .
+%mor:	v|hui-2S&PRET=flee .
+*T:	huyó .
+%mor:	v|hui-3S&PRET=flee .
+*T:	huimos .
+%mor:	v|hui-1P&PRES&PRET=flee .
+*T:	huísteis .
+%mor:	v|hui-2P&PRET=flee .
+*T:	huyeron .
+%mor:	v|hui-3P&PRET=flee .
+@Blank
+*T:	huiré .
+%mor:	v|hui-1S&FUT=flee .
+*T:	huirás .
+%mor:	v|hui-2S&FUT=flee .
+*T:	huirá .
+%mor:	v|hui-3S&FUT=flee .
+*T:	huiremos .
+%mor:	v|hui-1P&FUT=flee .
+*T:	huiréis .
+%mor:	v|hui-2P&FUT=flee .
+*T:	huirán .
+%mor:	v|hui-3P&FUT=flee .
+@Blank
+*T:	huya .
+%mor:	imp|hui-3S&IMP=flee .
+*T:	huyas .
+%mor:	v|hui-2S&SUB&PRES=flee .
+*T:	huya .
+%mor:	imp|hui-3S&IMP=flee .
+*T:	huyamos .
+%mor:	v|hui-1P&SUB&PRES=flee .
+*T:	huyáis .
+%mor:	v|hui-2P&SUB&PRES=flee .
+*T:	huyan .
+%mor:	imp|hui-3P&IMP=flee .
+@Blank
+*T:	huyera .
+%mor:	v|hui-13S&SUB&PAS=flee .
+*T:	huyeras .
+%mor:	v|hui-2S&SUB&PAS=flee .
+*T:	huyera .
+%mor:	v|hui-13S&SUB&PAS=flee .
+*T:	huyéramos .
+%mor:	v|hui-1P&SUB&PAS=flee .
+*T:	huyerais .
+%mor:	v|hui-2P&SUB&PAS=flee .
+*T:	huyeran .
+%mor:	v|hui-3P&SUB&PAS=flee .
+@Blank
+*T:	huyendo .
+%mor:	ger|hui-PROG=flee .
+*T:	huido .
+%mor:	part|hui-PPART-MASC=flee .
+*T:	huye .
+%mor:	v|hui-3S&PRES=flee .
+*T:	huya .
+%mor:	imp|hui-3S&IMP=flee .
+*T:	huid .
+%mor:	imp|hui-2P&IMP=flee .
+*T:	huyan .
+%mor:	imp|hui-3P&IMP=flee .
+@End

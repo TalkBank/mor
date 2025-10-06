@@ -1,0 +1,59 @@
+@UTF8
+# 得 as stative after verbs
+# 走 得 快
+# v|* v:resc|de2=get^v:aux|dei3=should_be^stative|de => v|* stative|de
+# adv|* v:resc|de2=get^v:aux|dei3=should_be^stative|de => adv|* stative|de
+
+# 够 as verb before v:resc 到
+# adv|gou4=enough^v|gou4=reach v:resc|dao4=arrive => v|gou4=reach v:resc|dao4=arrive
+# adv|gou4=enough^v|gou4=reach *|* v:resc|dao4=arrive => v|gou4=reach *|* v:resc|dao4=arrive
+
+# ASP/V
+# 这 件 事 了 了.
+# v|*^asp|*^* v|*^asp|* => v|* asp|*
+# the rest
+# v|*^asp|* => asp|*
+
+# AUX/V
+# v|*^v:aux|*^* *|* v|* => v:aux|* *|* v|*
+# v:resc|*^v:aux|*^* *^* v|* => v:aux|* *^* v|*
+# v:resc|*^v:aux|*^* *^* n|* => v:resc|* *^* n|*
+
+#ADV/V => ADV
+# 我 在 玩 手机 .
+# adv|*^v|*^prep|* v|*^* => adv|* v|*
+# 他 够 好看的 了 .
+# adv|*^v|*^* adj|*^* => adv|* adj|*
+# adv|*^v:*|*^* adj|*^* => adv|* adj|*
+# 还 不 是 你 的 .
+# adv|*^v|* adv|* v:*|* => adv|* adv|* v:*|*
+# adv|*^v|* adv|* v|* => adv|* adv|* v|*
+# 还 讲 故事 .
+# adv|*^v|* v:*|* => adv|* v:*|*
+# adv|*^v|* v|* => adv|* v|*
+# 还 书 .
+# adv|*^v|* n|* => v|* n|*
+# 小 狗 在 .
+# adv|*^v|*^* $e => v|* $e
+
+#ADV/V/PREP => PREP
+# 我 在 学校 里 .
+# adv|*^prep|*^v|* *^* post|*^* => prep|* *^* post|*
+# 你 在 哪儿 ?
+# adv|*^prep|*^v|* pro:*|*^* => prep|* pro:*|*
+# 他 在 外头 .
+# adv|*^prep|*^v|* n|* => prep|* n|*
+
+# PREP/V => V
+# 不 用 害怕
+# prep|*^v|*^* v|* => v|* v|*
+
+# PREP/V => PREP
+# 把 他 给 打 了
+# prep|*^v|* *^* prep|*^v|*^* *^* v|*^* => prep|* *^* prep|* *^* v|*
+# 给 小 猫咪 洗澡
+# prep|*^v|*^* *^* v|*^* => prep|* *^* v|*
+
+# PREP/ADJ => PREP
+# 对 他 说话
+# prep|*^adj|*^* *^* v|*^* => prep|* *^* v|*

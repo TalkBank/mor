@@ -1,0 +1,3015 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Instructor Participant
+@ID:	eng|MICASE-train|PAR|||||Participant|||
+*PAR:	okay so let's start out with <what we> [/] what we ran out_of time
+	on last time .
+%mor:	co|okay co|so v|let~pro:obj|us v|start adv|out prep|with
+	pro:int|what pro:sub|we v|run&PAST prep|out_of n|time prep|on
+	adj|last n|time .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|5|JCT 8|10|LINK
+	9|10|SUBJ 10|7|CPOBJ 11|10|JCT 12|11|POBJ 13|10|JCT 14|15|MOD 15|13|POBJ
+	16|3|PUNCT
+%trn:	co|okay co|so v|let~pro:obj|us v|start adv|out prep|with
+	pro:int|what pro:sub|we v|run&PAST prep|out_of n|time adv|on
+	adj|last n|time .
+%grt:	1|3|COM 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|5|JCT 8|10|LINK
+	9|10|SUBJ 10|7|CPOBJ 11|10|JCT 12|11|POBJ 13|10|JCT 14|15|MOD
+	15|10|JCT 16|3|PUNCT
+*PAR:	okay this was an article in People that we talked about like I
+	guess it was two weeks ago now about [//] when we read about the
+	little two year+old who was murdered by two ten year+old boys in
+	England .
+%mor:	co|okay pro:dem|this cop|be&PAST&13S det:art|a n|article prep|in
+	n:prop|People pro:rel|that pro:sub|we v|talk-PAST adv|about
+	conj|like pro:sub|I v|guess pro:per|it cop|be&PAST&13S det:num|two
+	n|week-PL post|ago adv:tem|now conj|when pro:sub|we v|read&ZERO
+	prep|about det:art|the adj|little det:num|two n|+n|year+adj|old
+	pro:rel|who aux|be&PAST&13S part|murder-PASTP prep|by det:num|two
+	det:num|ten n|+n|year+adj|old n|boy-PL prep|in n:prop|England .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|14|LINK 13|14|SUBJ 14|3|CJCT 15|16|SUBJ
+	16|14|COMP 17|18|QUANT 18|16|PRED 19|18|POSTMOD 20|18|JCT 21|23|LINK
+	22|23|SUBJ 23|18|CJCT 24|23|JCT 25|28|DET 26|28|MOD 27|28|QUANT 28|24|POBJ
+	29|31|LINK 30|31|AUX 31|28|CMOD 32|31|JCT 33|35|QUANT 34|35|QUANT
+	35|36|MOD 36|32|POBJ 37|36|NJCT 38|37|POBJ 39|3|PUNCT
+%trn:	co|okay pro:dem|this cop|be&PAST&13S det:art|a n|article prep|in
+	n:prop|People pro:rel|that pro:sub|we v|talk-PAST adv|about
+	conj|like pro:sub|I v|guess pro:per|it cop|be&PAST&13S det:num|two
+	n|week-PL post|ago adv:tem|now conj|when pro:sub|we v|read&ZERO
+	prep|about det:art|the adj|little det:num|two n|+n|year+adj|old
+	pro:rel|who aux|be&PAST&13S part|murder-PASTP prep|by det:num|two
+	det:num|ten n|+n|year+adj|old n|boy-PL prep|in n:prop|England .
+%grt:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|10|LINK 9|10|SUBJ 10|5|CMOD 11|10|JCT 12|14|LINK 13|14|SUBJ
+	14|10|CJCT 15|16|SUBJ 16|14|COMP 17|18|QUANT 18|16|PRED
+	19|18|POSTMOD 20|18|JCT 21|23|LINK 22|23|SUBJ 23|10|CJCT 24|23|JCT
+	25|28|DET 26|28|MOD 27|28|QUANT 28|24|POBJ 29|31|LINK 30|31|AUX
+	31|28|CMOD 32|31|JCT 33|36|QUANT 34|35|QUANT 35|36|MOD 36|32|POBJ
+	37|36|NJCT 38|37|POBJ 39|3|PUNCT
+*PAR:	and I'll pass it around .
+%mor:	coord|and pro:sub|I~mod|will v|pass pro:per|it adv|around .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%trn:	coord|and pro:sub|I~mod|will v|pass pro:per|it adv|around .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	I &h highlighted some things with my pen that were the interesting
+	parts like +"/.
+%mor:	pro:sub|I v|+adj|high+v|light-PAST qn|some n|thing-PL prep|with
+	det:poss|my n|pen pro:rel|that cop|be&PAST det:art|the
+	adj|interesting n|part-PL prep|like +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|12|DET 11|12|MOD 12|9|PRED 13|12|NJCT 14|2|PUNCT
+%trn:	pro:sub|I v|+adj|high+n|light-PAST qn|some n|thing-PL prep|with
+	det:poss|my n|pen pro:rel|that cop|be&PAST det:art|the
+	adj|interesting n|part-PL prep|like +"/.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|9|LINK 9|4|CMOD 10|12|DET 11|12|MOD 12|9|PRED 13|12|NJCT
+	14|2|PUNCT
+*PAR:	+" on January eighth of this year a London High Court judge ruled
+	that Jamie's killers , both eighteen and &el eligible to be released
+	, now be given new identities and &anom anonymity for life to
+	protect them from reprisals and the ferocity of the [//] &Briti
+	Britain's tabloids .
+%mor:	prep|on n:prop|January adj|eighth prep|of det:dem|this n|year
+	det:art|a n:prop|London n:prop|High n:prop|Court n|judge v|rule-PAST
+	det:dem|that adj|Jamie&dn-POSS n|kill&dv-AGT-PL cm|cm post|both
+	det:num|eighteen coord|and adj|eligible inf|to aux|be
+	part|release-PASTP cm|cm adv:tem|now aux|be part|give&PASTP adj|new
+	n|identity-PL coord|and n|anonymity prep|for n|life inf|to v|protect
+	pro:obj|them prep|from n|reprisal-PL coord|and det:art|the
+	n|ferocity prep|of adj|Britain&dn-POSS n|tabloid-PL .
+%gra:	1|12|LINK 2|11|MOD 3|11|MOD 4|3|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|11|MOD
+	9|11|MOD 10|11|MOD 11|12|SUBJ 12|0|ROOT 13|15|DET 14|15|MOD 15|12|PUNCT
+	16|15|LP 17|15|ENUM 18|17|INCROOT 19|18|CONJ 20|19|COORD 21|23|INF
+	22|23|AUX 23|20|XMOD 24|18|LP 25|27|JCT 26|27|AUX 27|18|XJCT 28|29|MOD
+	29|27|OBJ 30|29|CONJ 31|30|COORD 32|31|NJCT 33|32|POBJ 34|35|INF 35|27|COMP
+	36|35|OBJ 37|35|JCT 38|37|POBJ 39|35|CONJ 40|41|DET 41|39|COORD 42|41|NJCT
+	43|44|MOD 44|42|POBJ 45|18|PUNCT
+%trn:	prep|on n:prop|January adj|eighth prep|of det:dem|this n|year
+	det:art|a n:prop|London n:prop|High n:prop|Court n|judge v|rule-PAST
+	comp|that adj|Jamie&dn-POSS n|kill&dv-AGT-PL cm|cm post|both
+	det:num|eighteen coord|and adj|eligible inf|to aux|be
+	part|release-PASTP cm|cm adv:tem|now aux|be part|give&PASTP adj|new
+	n|identity-PL coord|and n|anonymity prep|for n|life inf|to v|protect
+	pro:obj|them prep|from n|reprisal-PL coord|and det:art|the
+	n|ferocity prep|of adj|Britain&dn-POSS n|tabloid-PL .
+%grt:	1|12|JCT 2|3|DATE 3|1|POBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|11|DET
+	8|10|MOD 9|10|MOD 10|11|MOD 11|12|SUBJ 12|0|ROOT 13|27|LINK 14|15|MOD
+	15|27|SUBJ 16|15|LP 17|15|PQ 18|15|POSTMOD 19|18|CONJ 20|19|COORD
+	21|23|INF 22|23|AUX 23|20|XMOD 24|18|LP 25|27|JCT 26|27|AUX
+	27|12|COMP 28|29|MOD 29|27|OBJ 30|29|CONJ 31|30|COORD 32|31|NJCT
+	33|32|POBJ 34|35|INF 35|27|XJCT 36|35|OBJ 37|35|JCT 38|37|POBJ
+	39|38|CONJ 40|41|DET 41|39|COORD 42|41|NJCT 43|44|MOD 44|42|POBJ
+	45|12|PUNCT
+*PAR:	and you_know &i they've only been in jail for eight years but the
+	justice described the two as genuinely extremely remorseful and say
+	that no further detention would [/] &s would serve any purpose so
+	it's kind_of interesting .
+%mor:	coord|and co|you_know pro:sub|they~aux|have adv|only cop|be&PASTP
+	prep|in n|jail prep|for det:num|eight n|year-PL conj|but det:art|the
+	n|justice v|describe-PAST det:art|the det:num|two prep|as
+	adv|genuine&dadj-LY adv|extreme&dadj-LY adj|remorse&dn-FULL
+	coord|and v|say comp|that qn|no adj|further n|detention
+	mod|will&COND v|serve qn|any n|purpose co|so pro:per|it~cop|be&3S
+	adv|kind_of adj|interesting .
+%gra:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|11|QUANT 11|9|POBJ 12|15|LINK 13|14|DET 14|15|SUBJ 15|6|CJCT
+	16|17|DET 17|15|OBJ 18|21|COORD 19|20|JCT 20|21|JCT 21|17|ENUM 22|6|CONJ
+	23|22|COORD 24|29|LINK 25|27|QUANT 26|27|MOD 27|29|SUBJ 28|29|AUX
+	29|23|COMP 30|31|QUANT 31|29|OBJ 32|34|COM 33|34|SUBJ 34|6|CJCT 35|36|JCT
+	36|34|PRED 37|6|PUNCT
+%trn:	coord|and co|you_know pro:sub|they~aux|have adv|only cop|be&PASTP
+	prep|in n|jail prep|for det:num|eight n|year-PL conj|but det:art|the
+	n|justice v|describe-PAST det:art|the det:num|two prep|as
+	adv|genuine&dadj-LY adv|extreme&dadj-LY adj|remorse&dn-FULL
+	coord|and v|say comp|that qn|no adj|further n|detention
+	mod|will&COND v|serve qn|any n|purpose co|so pro:per|it~cop|be&3S
+	adv|kind_of adj|interesting .
+%grt:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|11|QUANT 11|9|POBJ 12|15|LINK 13|14|DET 14|15|SUBJ
+	15|6|CJCT 16|17|DET 17|15|OBJ 18|21|COORD 19|21|JCT 20|21|JCT
+	21|15|JCT 22|15|CONJ 23|22|COORD 24|29|LINK 25|27|QUANT 26|27|MOD
+	27|29|SUBJ 28|29|AUX 29|23|COMP 30|31|QUANT 31|29|OBJ 32|34|COM
+	33|34|SUBJ 34|6|CJCT 35|36|JCT 36|34|PRED 37|6|PUNCT
+*PAR:	and then there's a long thing about you_know what other people
+	think about it and what they've been doing in the past eight years ,
+	these two kids , and how they're gonna try and make their debut back
+	into society .
+%mor:	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|a adj|long
+	n|thing prep|about co|you_know pro:int|what qn|other n|person&PL
+	v|think prep|about pro:per|it coord|and pro:int|what
+	pro:sub|they~aux|have aux|be&PASTP part|do-PRESP prep|in det:art|the
+	adj|past det:num|eight n|year-PL cm|cm det:dem|these det:num|two
+	n|kid-PL cm|cm coord|and pro:rel|how pro:sub|they~aux|be&PRES
+	part|go-PRESP~inf|to v|try coord|and v|make det:poss|their n|debut
+	adv|back prep|into n|society .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|13|JCT
+	9|13|COM 10|13|LINK 11|12|QUANT 12|13|SUBJ 13|7|CMOD 14|13|JCT 15|14|POBJ
+	16|15|CONJ 17|21|LINK 18|21|SUBJ 19|21|AUX 20|21|AUX 21|16|COORD
+	22|21|JCT 23|26|DET 24|26|MOD 25|26|QUANT 26|22|POBJ 27|21|LP 28|30|DET
+	29|30|QUANT 30|21|ENUM 31|30|LP 32|13|CONJ 33|36|LINK 34|36|SUBJ 35|36|AUX
+	36|32|COORD 37|38|INF 38|36|COMP 39|36|CONJ 40|39|COORD 41|42|DET 42|40|OBJ
+	43|40|JCT 44|40|JCT 45|44|POBJ 46|4|PUNCT
+%trn:	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|a adj|long
+	n|thing prep|about co|you_know pro:int|what qn|other n|person&PL
+	v|think prep|about pro:per|it coord|and pro:int|what
+	pro:sub|they~aux|have aux|be&PASTP part|do-PRESP prep|in det:art|the
+	adj|past det:num|eight n|year-PL cm|cm det:dem|these det:num|two
+	n|kid-PL cm|cm coord|and pro:rel|how pro:sub|they~aux|be&PRES
+	part|go-PRESP~inf|to v|try coord|and v|make det:poss|their n|debut
+	adv|back prep|into n|society .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED
+	8|7|NJCT 9|13|COM 10|13|LINK 11|12|QUANT 12|13|SUBJ 13|8|CPOBJ
+	14|13|JCT 15|14|POBJ 16|13|CONJ 17|21|LINK 18|21|SUBJ 19|21|AUX
+	20|21|AUX 21|16|COORD 22|21|JCT 23|26|DET 24|26|MOD 25|26|QUANT
+	26|22|POBJ 27|26|LP 28|30|DET 29|30|QUANT 30|26|ENUM 31|30|LP
+	32|21|CONJ 33|36|LINK 34|36|SUBJ 35|36|AUX 36|32|COORD 37|38|INF
+	38|36|COMP 39|38|CONJ 40|39|COORD 41|42|DET 42|40|OBJ 43|42|NJCT
+	44|42|NJCT 45|44|POBJ 46|4|PUNCT
+*PAR:	so ‡ it's [//] I_mean it's kind_of scary and it's interesting why
+	[//] to think why somebody would rule that they should be allowed to
+	be given anonymity .
+%mor:	co|so beg|beg co|I_mean pro:per|it~cop|be&3S adv|kind_of
+	adj|scare&dn-Y coord|and pro:per|it~cop|be&3S adj|interesting inf|to
+	v|think pro:int|why pro:indef|somebody mod|will&COND v|rule
+	comp|that pro:sub|they mod|should aux|be part|allow-PASTP inf|to
+	aux|be part|give&PASTP n|anonymity .
+%gra:	1|0|BEG 2|1|BEGP 3|5|COM 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|10|PRED 12|13|INF 13|11|XMOD 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|13|COMP 18|22|LINK 19|22|SUBJ 20|22|AUX 21|22|AUX
+	22|17|COMP 23|25|INF 24|25|AUX 25|22|COMP 26|25|OBJ 27|5|PUNCT
+%trn:	co|so beg|beg co|I_mean pro:per|it~cop|be&3S adv|kind_of
+	adj|scare&dn-Y coord|and pro:per|it~cop|be&3S adj|interesting inf|to
+	v|think pro:int|why pro:indef|somebody mod|will&COND v|rule
+	comp|that pro:sub|they mod|should aux|be part|allow-PASTP inf|to
+	aux|be part|give&PASTP n|anonymity .
+%grt:	1|0|BEG 2|1|BEGP 3|5|COM 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|10|PRED 12|13|INF 13|11|XMOD 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|13|COMP 18|22|LINK 19|22|SUBJ 20|22|AUX 21|22|AUX
+	22|17|COMP 23|25|INF 24|25|AUX 25|22|COMP 26|25|OBJ 27|5|PUNCT
+*PAR:	you_know (be)cause the issue is I guess that they were ten years
+	old when they did this and they should be given a chance at another
+	life .
+%mor:	co|you_know conj|because det:art|the n|issue cop|be&3S pro:sub|I
+	v|guess comp|that pro:sub|they cop|be&PAST det:num|ten n|year-PL
+	adj|old conj|when pro:sub|they v|do&PAST pro:dem|this coord|and
+	pro:sub|they mod|should aux|be part|give&PASTP det:art|a n|chance
+	prep|at qn|another n|life .
+%gra:	1|5|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|CPRED 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|12|QUANT 12|13|MOD 13|10|PRED 14|16|LINK
+	15|16|SUBJ 16|10|CJCT 17|16|OBJ 18|22|LINK 19|22|SUBJ 20|22|AUX 21|22|AUX
+	22|16|CJCT 23|24|DET 24|22|OBJ 25|24|NJCT 26|27|QUANT 27|25|POBJ 28|5|PUNCT
+%trn:	co|you_know conj|because det:art|the n|issue cop|be&3S pro:sub|I
+	v|guess comp|that pro:sub|they cop|be&PAST det:num|ten n|year-PL
+	adj|old conj|when pro:sub|they v|do&PAST pro:dem|this coord|and
+	pro:sub|they mod|should aux|be part|give&PASTP det:art|a n|chance
+	prep|at qn|another n|life .
+%grt:	1|5|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|CJCT
+	8|10|LINK 9|10|SUBJ 10|5|CPRED 11|12|QUANT 12|13|MOD 13|10|PRED
+	14|16|LINK 15|16|SUBJ 16|10|CJCT 17|16|OBJ 18|22|LINK 19|22|SUBJ
+	20|22|AUX 21|22|AUX 22|10|CJCT 23|24|DET 24|22|OBJ 25|24|NJCT
+	26|27|QUANT 27|25|POBJ 28|5|PUNCT
+*PAR:	and then the argument is that it was such a horrible crime that
+	you_know why should you protect <these two> [/] &pe these two kids ?
+%mor:	coord|and adv:tem|then det:art|the n|argue&dv-MENT cop|be&3S
+	comp|that pro:per|it cop|be&PAST&13S qn|such det:art|a adj|horrible
+	n|crime pro:rel|that co|you_know pro:int|why mod|should pro:per|you
+	v|protect det:dem|these det:num|two n|kid-PL ?
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|PRED
+	9|12|QUANT 10|12|DET 11|12|MOD 12|8|PRED 13|18|LINK 14|18|COM 15|18|JCT
+	16|18|AUX 17|18|SUBJ 18|12|CMOD 19|21|DET 20|21|QUANT 21|18|JCT
+	22|5|PUNCT
+%trn:	coord|and adv:tem|then det:art|the n|argue&dv-MENT cop|be&3S
+	comp|that pro:per|it cop|be&PAST&13S qn|such det:art|a adj|horrible
+	n|crime comp|that co|you_know pro:int|why mod|should pro:per|you
+	v|protect det:dem|these det:num|two n|kid-PL ?
+%grt:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ
+	8|5|CPRED 9|12|QUANT 10|12|DET 11|12|MOD 12|8|PRED 13|18|LINK
+	14|18|COM 15|18|JCT 16|18|AUX 17|18|SUBJ 18|12|CMOD 19|21|DET
+	20|21|QUANT 21|18|OBJ 22|5|PUNCT
+*PAR:	and this is anonymity in terms of their names right ?
+%mor:	coord|and pro:dem|this cop|be&3S n|anonymity prep|in n|term-PL
+	prep|of det:poss|their n|name-PL co|right ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|COM 11|3|PUNCT
+%trn:	coord|and pro:dem|this cop|be&3S n|anonymity prep|in n|term-PL
+	prep|of det:poss|their n|name-PL co|right ?
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|3|COM 11|3|PUNCT
+*PAR:	how_about their images , their faces ?
+%mor:	pro:int|how_about det:poss|their n|image-PL cm|cm det:poss|their
+	n|face-PL ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|LP 5|6|DET 6|3|ENUM 7|3|PUNCT
+%trn:	pro:int|how_about det:poss|their n|image-PL cm|cm det:poss|their
+	n|face-PL ?
+%grt:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|LP 5|6|DET 6|3|ENUM 7|3|PUNCT
+*PAR:	can newspapers take pictures and publish the photograph without the
+	name ?
+%mor:	mod|can n|newspaper-PL v|take n|picture-PL coord|and v|publish
+	det:art|the photo#n|graph prep|without det:art|the n|name ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+%trn:	mod|can n|newspaper-PL v|take n|picture-PL coord|and v|publish
+	det:art|the photo#n|graph prep|without det:art|the n|name ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|8|DET
+	8|6|OBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	or is that not in the judge's ruling ?
+%mor:	coord|or cop|be&3S comp|that neg|not prep|in det:art|the
+	n|judge~aux|be&3S part|rule-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|9|LINK 4|3|NEG 5|9|JCT 6|7|DET 7|5|POBJ 8|9|AUX
+	9|2|CPRED 10|2|PUNCT
+%trn:	coord|or cop|be&3S pro:dem|that neg|not prep|in det:art|the
+	adj|judge&dn-POSS n:gerund|rule-PRESP ?
+%grt:	1|2|LINK 2|0|ROOT 3|2|SUBJ 4|5|NEG 5|2|JCT 6|7|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*PAR:	(be)cause [/] (be)cause wherever they're living , you_know let's
+	say they're living in some town somewhere in England , once you
+	publish the photograph anybody in the town that sees that person on
+	the street is gonna know who they are .
+%mor:	conj|because pro:indef|wherever pro:sub|they~aux|be&PRES
+	part|live-PRESP cm|cm co|you_know v|let~pro:obj|us v|say
+	pro:sub|they~aux|be&PRES part|live-PRESP prep|in qn|some n|town
+	adv|somewhere prep|in n:prop|England cm|cm conj|once pro:per|you
+	v|publish det:art|the photo#n|graph pro:indef|anybody prep|in
+	det:art|the n|town pro:rel|that v|see-3S det:dem|that n|person
+	prep|on det:art|the n|street aux|be&3S part|go-PRESP~inf|to v|know
+	pro:int|who pro:sub|they cop|be&PRES .
+%gra:	1|2|LINK 2|5|CJCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|LP 7|8|COM 8|5|ENUM
+	9|8|OBJ 10|8|COMP 11|13|SUBJ 12|13|AUX 13|10|COMP 14|13|JCT 15|16|QUANT
+	16|14|POBJ 17|13|JCT 18|13|JCT 19|18|POBJ 20|8|LP 21|23|LINK 22|23|SUBJ
+	23|5|CJCT 24|25|DET 25|23|OBJ 26|38|SUBJ 27|26|NJCT 28|29|DET 29|27|POBJ
+	30|31|LINK 31|29|CMOD 32|33|DET 33|31|OBJ 34|31|JCT 35|36|DET 36|34|POBJ
+	37|38|AUX 38|25|CMOD 39|40|INF 40|38|COMP 41|43|LINK 42|43|SUBJ
+	43|40|COMP 44|5|PUNCT
+%trn:	conj|because pro:indef|wherever pro:sub|they~aux|be&PRES
+	part|live-PRESP cm|cm co|you_know v|let~pro:obj|us v|say
+	pro:sub|they~aux|be&PRES part|live-PRESP prep|in qn|some n|town
+	adv|somewhere prep|in n:prop|England cm|cm conj|once pro:per|you
+	v|publish det:art|the photo#n|graph pro:indef|anybody prep|in
+	det:art|the n|town pro:rel|that v|see-3S det:dem|that n|person
+	prep|on det:art|the n|street aux|be&3S part|go-PRESP~inf|to v|know
+	pro:int|who pro:sub|they cop|be&PRES .
+%grt:	1|38|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|38|XJCT 6|5|LP 7|8|COM 8|5|CJCT
+	9|8|OBJ 10|8|COMP 11|13|SUBJ 12|13|AUX 13|10|COMP 14|13|JCT
+	15|16|QUANT 16|14|POBJ 17|16|NJCT 18|16|NJCT 19|18|POBJ 20|13|LP
+	21|23|LINK 22|23|SUBJ 23|38|CJCT 24|25|DET 25|23|OBJ 26|38|SUBJ
+	27|26|NJCT 28|29|DET 29|27|POBJ 30|31|LINK 31|26|CMOD 32|33|DET
+	33|31|OBJ 34|31|JCT 35|36|DET 36|34|POBJ 37|38|AUX 38|0|ROOT
+	39|40|INF 40|38|COMP 41|43|LINK 42|43|SUBJ 43|40|COMP 44|38|PUNCT
+*PAR:	then you might as_well publish their name because it [/] it then
+	becomes public knowledge .
+%mor:	adv:tem|then pro:per|you mod|might adv|as_well v|publish
+	det:poss|their n|name conj|because pro:per|it adv:tem|then
+	cop|become-3S adj|public n|knowledge .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|JCT 11|5|CJCT 12|13|MOD 13|11|PRED 14|5|PUNCT
+%trn:	adv:tem|then pro:per|you mod|might adv|as_well v|publish
+	det:poss|their n|name conj|because pro:per|it adv:tem|then
+	cop|become-3S adj|public n|knowledge .
+%grt:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|JCT 11|5|CJCT 12|13|MOD 13|11|PRED 14|5|PUNCT
+*PAR:	I couldn't find another picture so I chose this one .
+%mor:	pro:sub|I mod|could~neg|not v|find qn|another n|picture co|so
+	pro:sub|I v|choose&PAST det:dem|this pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|9|COM 8|9|SUBJ
+	9|6|CMOD 10|11|DET 11|9|OBJ 12|4|PUNCT
+%trn:	pro:sub|I mod|could~neg|not v|find qn|another n|picture co|so
+	pro:sub|I v|choose&PAST det:dem|this pro:indef|one .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|9|COM
+	8|9|SUBJ 9|4|CJCT 10|11|DET 11|9|OBJ 12|4|PUNCT
+*PAR:	so ‡ I'm just gonna say it right now but this is an interesting
+	picture to publish because it's a picture of one of the boys leading
+	the two year+old out_of the mall .
+%mor:	co|so beg|beg pro:sub|I~aux|be&1S adv|just part|go-PRESP~inf|to
+	v|say pro:per|it adv|right adv:tem|now conj|but pro:dem|this cop|be&3S
+	det:art|a adj|interesting n|picture inf|to v|publish conj|because
+	pro:per|it~cop|be&3S det:art|a n|picture prep|of det:num|one prep|of
+	det:art|the n|boy-PL part|lead-PRESP det:art|the det:num|two
+	n|+n|year+adj|old prep|out_of det:art|the n|mall .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|11|JCT 11|8|JCT 12|14|LINK 13|14|SUBJ 14|6|CJCT 15|17|DET
+	16|17|MOD 17|14|PRED 18|19|INF 19|17|XMOD 20|22|LINK 21|22|SUBJ 22|14|CJCT
+	23|24|DET 24|22|PRED 25|24|NJCT 26|25|POBJ 27|26|NJCT 28|29|DET 29|27|POBJ
+	30|24|XMOD 31|33|DET 32|33|QUANT 33|30|OBJ 34|30|JCT 35|36|DET
+	36|34|POBJ 37|6|PUNCT
+%trn:	co|so beg|beg pro:sub|I~aux|be&1S adv|just part|go-PRESP~inf|to
+	v|say pro:per|it adv|right adv:tem|now conj|but pro:dem|this cop|be&3S
+	det:art|a adj|interesting n|picture inf|to v|publish conj|because
+	pro:per|it~cop|be&3S det:art|a n|picture prep|of det:num|one prep|of
+	det:art|the n|boy-PL part|lead-PRESP det:art|the det:num|two
+	n|+n|year+adj|old prep|out_of det:art|the n|mall .
+%grt:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|11|JCT 11|8|JCT 12|14|LINK 13|14|DET 14|6|CJCT 15|17|DET
+	16|17|MOD 17|14|PRED 18|19|INF 19|17|XMOD 20|22|LINK 21|22|SUBJ
+	22|14|CJCT 23|24|DET 24|22|PRED 25|24|NJCT 26|25|POBJ 27|26|NJCT
+	28|29|DET 29|27|POBJ 30|26|XMOD 31|33|DET 32|33|QUANT 33|30|OBJ
+	34|30|JCT 35|36|DET 36|34|POBJ 37|6|PUNCT
+*PAR:	which is obviously kind_of scary because you see this [//] what
+	normally looks like two kids walking hand in hand down a mall and
+	you don't realize that one of these is &a about to commit like a
+	really bad murder .
+%mor:	pro:rel|which cop|be&3S adv|obvious&dadj-LY adv|kind_of
+	adj|scare&dn-Y conj|because pro:per|you v|see pro:int|what
+	adv|normal&dadj-LY v|look-3S prep|like det:num|two n|kid-PL
+	part|walk-PRESP n|hand prep|in n|hand prep|down det:art|a n|mall
+	coord|and pro:per|you mod|do~neg|not v|realize comp|that
+	pro:indef|one prep|of pro:dem|these cop|be&3S adv|about inf|to
+	v|commit co|like det:art|a adv|real&dadj-LY adj|bad n|murder .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|11|DET 10|11|JCT 11|8|COMP 12|11|JCT 13|14|QUANT 14|12|POBJ 15|11|XJCT
+	16|15|OBJ 17|15|JCT 18|17|POBJ 19|15|JCT 20|21|DET 21|19|POBJ 22|26|LINK
+	23|26|SUBJ 24|26|AUX 25|24|NEG 26|15|CJCT 27|31|LINK 28|31|SUBJ
+	29|28|NJCT 30|29|POBJ 31|26|COMP 32|31|PRED 33|34|INF 34|32|COMP 35|34|COM
+	36|39|DET 37|38|JCT 38|39|MOD 39|34|OBJ 40|2|PUNCT
+%trn:	pro:rel|which cop|be&3S adv|obvious&dadj-LY adv|kind_of
+	adj|scare&dn-Y conj|because pro:per|you v|see pro:int|what
+	adv|normal&dadj-LY v|look-3S prep|like det:num|two n|kid-PL
+	part|walk-PRESP n|hand prep|in n|hand adv|down det:art|a n|mall
+	coord|and pro:per|you mod|do~neg|not v|realize comp|that
+	pro:indef|one prep|of pro:dem|these aux|be&3S adv|about inf|to
+	v|commit co|like det:art|a adv|real&dadj-LY adj|bad n|murder .
+%grt:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|8|LINK 7|8|SUBJ
+	8|2|CJCT 9|11|LINK 10|11|JCT 11|8|COBJ 12|11|JCT 13|14|QUANT
+	14|12|POBJ 15|14|XMOD 16|15|JCT 17|16|NJCT 18|17|POBJ 19|15|JCT
+	20|21|DET 21|19|POBJ 22|26|LINK 23|26|SUBJ 24|26|AUX 25|24|NEG
+	26|8|CJCT 27|34|LINK 28|34|SUBJ 29|28|NJCT 30|29|POBJ 31|34|AUX
+	32|34|JCT 33|34|INF 34|26|COMP 35|39|COM 36|39|DET 37|38|JCT
+	38|39|MOD 39|34|OBJ 40|2|PUNCT
+*PAR:	anybody happen to watch Nightline last night ?
+%mor:	pro:indef|anybody v|happen inf|to v|watch n:prop|Nightline adj|last
+	n|night ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|7|MOD 7|5|APP 8|2|PUNCT
+%trn:	pro:indef|anybody v|happen inf|to v|watch n:prop|Nightline adj|last
+	n|night ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|7|MOD 7|2|JCT
+	8|2|PUNCT
+*PAR:	they mentioned that photograph .
+%mor:	pro:sub|they v|mention-PAST det:dem|that photo#n|graph .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%trn:	pro:sub|they v|mention-PAST det:dem|that photo#n|graph .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	they did a story about privacy in England and hidden cameras .
+%mor:	pro:sub|they v|do&PAST det:art|a n|story prep|about n|privacy
+	prep|in n:prop|England coord|and part|hide&PASTP n|camera-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|2|CONJ 10|9|COORD 11|10|OBJ 12|2|PUNCT
+%trn:	pro:sub|they v|do&PAST det:art|a n|story prep|about n|privacy
+	prep|in n:prop|England coord|and part|hide&PASTP n|camera-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|6|NJCT
+	8|7|POBJ 9|6|CONJ 10|11|XMOD 11|9|COORD 12|2|PUNCT
+*PAR:	in fact the police wanna have cameras posted all over the place .
+%mor:	prep|in n|fact det:art|the n|police v|want~inf|to v|have
+	n|camera-PL part|post-PASTP adv|all prep|over det:art|the n|place .
+%gra:	1|5|JCT 2|1|POBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|XMOD 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+%trn:	prep|in n|fact det:art|the n|police v|want~inf|to v|have
+	n|camera-PL part|post-PASTP adv|all prep|over det:art|the n|place .
+%grt:	1|5|JCT 2|1|POBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|XMOD 10|11|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	remember how at the Superbowl people were surprised to hear that
+	everyone who attended the Superbowl had their photograph taken by
+	police ?
+%mor:	v|remember pro:int|how prep|at det:art|the n:prop|Superbowl
+	n|person&PL aux|be&PAST part|surprise-PASTP inf|to v|hear comp|that
+	pro:indef|everyone pro:rel|who v|attend-PAST det:art|the
+	n:prop|Superbowl v|have&PAST det:poss|their photo#n|graph
+	part|take&PASTP prep|by n|police ?
+%gra:	1|0|ROOT 2|8|LINK 3|8|JCT 4|6|DET 5|6|MOD 6|8|SUBJ 7|8|AUX 8|1|COMP
+	9|10|INF 10|8|COMP 11|10|JCT 12|11|POBJ 13|14|LINK 14|12|CMOD 15|16|DET
+	16|17|SUBJ 17|14|COMP 18|19|DET 19|17|OBJ 20|19|XMOD 21|20|JCT 22|21|POBJ
+	23|1|PUNCT
+%trn:	v|remember pro:int|how prep|at det:art|the n:prop|Superbowl
+	n|person&PL aux|be&PAST part|surprise-PASTP inf|to v|hear comp|that
+	pro:indef|everyone pro:rel|who v|attend-PAST det:art|the
+	n:prop|Superbowl v|have&PAST det:poss|their photo#n|graph
+	part|take&PASTP prep|by n|police ?
+%grt:	1|0|ROOT 2|8|LINK 3|8|JCT 4|5|DET 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|1|COMP
+	9|10|INF 10|8|COMP 11|17|LINK 12|17|SUBJ 13|14|LINK 14|12|CMOD
+	15|16|DET 16|14|OBJ 17|10|COMP 18|19|DET 19|17|OBJ 20|19|XMOD
+	21|20|JCT 22|21|POBJ 23|1|PUNCT
+*PAR:	so ‡ in England they wanna do that on a constant basis , have
+	cameras everywhere .
+%mor:	co|so beg|beg prep|in n:prop|England pro:sub|they v|want~inf|to
+	v|do pro:dem|that prep|on det:art|a adj|constant n|basis cm|cm
+	v|have n|camera-PL adv|everywhere .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|6|LP 15|6|ENUM
+	16|15|OBJ 17|6|JCT 18|6|PUNCT
+%trn:	co|so beg|beg prep|in n:prop|England pro:sub|they v|want~inf|to
+	v|do pro:dem|that prep|on det:art|a adj|constant n|basis cm|cm
+	v|have n|camera-PL adv|everywhere .
+%grt:	1|0|BEG 2|1|BEGP 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|8|INF
+	8|6|COMP 9|8|OBJ 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|8|LP
+	15|8|ENUM 16|15|OBJ 17|15|JCT 18|6|PUNCT
+*PAR:	and this piece last night on Nightline specifically mentioned that
+	photograph as an example of police saying there's a value to having
+	cameras out there .
+%mor:	coord|and det:dem|this n|piece adj|last n|night prep|on
+	n:prop|Nightline adv|specific&dadj-AL-LY v|mention-PAST det:dem|that
+	photo#n|graph prep|as det:art|a n|example prep|of n|police
+	part|say-PRESP pro:exist|there~cop|be&3S det:art|a n|value prep|to
+	n:gerund|have-PRESP n|camera-PL prep|out n|there .
+%gra:	1|5|LINK 2|3|DET 3|5|MOD 4|5|MOD 5|9|SUBJ 6|5|NJCT 7|6|POBJ 8|9|JCT
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|11|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|11|XJCT 18|19|SUBJ 19|17|COMP 20|21|DET 21|19|PRED 22|21|NJCT
+	23|22|POBJ 24|23|OBJ 25|24|NJCT 26|25|POBJ 27|9|PUNCT
+%trn:	coord|and det:dem|this n|piece adj|last n|night prep|on
+	n:prop|Nightline adv|specific&dadj-AL-LY v|mention-PAST det:dem|that
+	photo#n|graph prep|as det:art|a n|example prep|of n|police
+	part|say-PRESP pro:exist|there~cop|be&3S det:art|a n|value
+	prep|to n:gerund|have-PRESP n|camera-PL prep|out pro:indef|there .
+%grt:	1|5|LINK 2|3|DET 3|9|SUBJ 4|5|MOD 5|3|NJCT 6|3|NJCT 7|6|POBJ 8|9|JCT
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ
+	15|14|NJCT 16|17|SUBJ 17|15|CPOBJ 18|19|SUBJ 19|17|COMP 20|21|DET
+	21|19|PRED 22|21|NJCT 23|22|POBJ 24|23|OBJ 25|23|JCT 26|25|POBJ
+	27|9|PUNCT
+*PAR:	well the article that I found over the weekend was about the
+	American Society of Newspaper Editors with support of Society of
+	Professional Journalists trying to get copies of the autopsy photos
+	of race car driver Dale Earnhardt's body <after he> [/] after he was
+	killed in a stock car race at the Daytona Five Hundred .
+%mor:	co|well det:art|the n|article pro:rel|that pro:sub|I v|find&PAST
+	prep|over det:art|the n|+n|week+n|end cop|be&PAST&13S prep|about
+	det:art|the n:prop|American n:prop|Society prep|of n:prop|Newspaper
+	n:prop|Editors prep|with n|support prep|of n:prop|Society prep|of
+	n:prop|Professional n:prop|Journalists part|try-PRESP inf|to v|get
+	n|copy-PL prep|of det:art|the n|autopsy n|photo-PL prep|of n|race
+	n|car n|drive&dv-AGT n:prop|Dale adj|Earnhardt&dn-POSS n|body
+	prep|after pro:sub|he aux|be&PAST&13S part|kill-PASTP prep|in
+	det:art|a n|stock n|car n|race prep|at det:art|the n:prop|Daytona
+	n:prop|Five n:prop|Hundred .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|CPOBJ 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|14|NJCT
+	16|15|POBJ 17|14|APP 18|17|JCT 19|18|POBJ 20|19|NJCT 21|20|POBJ
+	22|21|NJCT 23|22|POBJ 24|17|APP 25|24|XMOD 26|27|INF 27|25|COMP 28|27|OBJ
+	29|28|NJCT 30|32|DET 31|32|MOD 32|29|POBJ 33|32|NJCT 34|36|MOD 35|36|MOD
+	36|39|MOD 37|39|MOD 38|39|MOD 39|33|POBJ 40|27|JCT 41|43|SUBJ 42|43|AUX
+	43|40|CPOBJ 44|43|JCT 45|48|DET 46|48|MOD 47|48|MOD 48|44|POBJ 49|48|NJCT
+	50|51|DET 51|53|NAME 52|53|NAME 53|49|POBJ 54|3|PUNCT
+%trn:	co|well det:art|the n|article pro:rel|that pro:sub|I v|find&PAST
+	prep|over det:art|the n|+n|week+n|end cop|be&PAST&13S prep|about
+	det:art|the n:prop|American n:prop|Society prep|of n:prop|Newspaper
+	n:prop|Editors prep|with n|support prep|of n:prop|Society prep|of
+	n:prop|Professional n:prop|Journalists part|try-PRESP inf|to
+	v|get n|copy-PL prep|of det:art|the n|autopsy n|photo-PL prep|of
+	n|race n|car n|drive&dv-AGT n:prop|Dale adj|Earnhardt&dn-POSS n|body
+	conj|after pro:sub|he aux|be&PAST&13S part|kill-PASTP prep|in
+	det:art|a n|stock n|car n|race prep|at det:art|the n:prop|Daytona
+	n:prop|Five n:prop|Hundred .
+%grt:	1|3|COM 2|3|DET 3|10|SUBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|0|ROOT 11|10|JCT 12|14|DET 13|14|NAME
+	14|25|SUBJ 15|14|NJCT 16|17|MOD 17|15|POBJ 18|14|NJCT 19|18|POBJ
+	20|19|NJCT 21|20|POBJ 22|21|NJCT 23|24|NAME 24|22|POBJ 25|11|CPOBJ
+	26|27|INF 27|25|COMP 28|27|OBJ 29|28|NJCT 30|32|DET 31|32|MOD
+	32|29|POBJ 33|32|NJCT 34|35|MOD 35|36|MOD 36|38|APP 37|38|NAME
+	38|39|MOD 39|33|POBJ 40|43|LINK 41|43|SUBJ 42|43|AUX 43|25|CJCT
+	44|43|JCT 45|48|DET 46|47|MOD 47|48|MOD 48|44|POBJ 49|48|NJCT
+	50|53|DET 51|53|NAME 52|53|NAME 53|49|POBJ 54|10|PUNCT
+*PAR:	part of the background of the story is the other article that I
+	passed out which talks about Teresa Earnhardt's reaction just a few
+	days <after the> [/] after the race where she said that she wanted
+	the medical examiner's records to remain confidential .
+%mor:	n|part prep|of det:art|the n|background prep|of det:art|the n|story
+	cop|be&3S det:art|the qn|other n|article pro:rel|that pro:sub|I
+	v|pass-PAST adv|out pro:rel|which v|talk-3S prep|about n:prop|Teresa
+	adj|Earnhardt&dn-POSS n|reaction adv|just det:art|a qn|few n|day-PL
+	prep|after det:art|the n|race pro:rel|where pro:sub|she v|say&PAST
+	comp|that pro:sub|she v|want-PAST det:art|the adj|medic&dn-AL
+	adj|examine&dn-AGT-POSS n|record-PL inf|to v|remain adj|confidential
+	.
+%gra:	1|8|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|0|ROOT
+	9|11|DET 10|11|QUANT 11|8|PRED 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|JCT
+	16|17|LINK 17|8|CJCT 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|25|JCT
+	23|25|DET 24|25|QUANT 25|17|OBJ 26|25|NJCT 27|28|DET 28|26|POBJ
+	29|31|LINK 30|31|SUBJ 31|28|CMOD 32|34|LINK 33|34|SUBJ 34|31|COMP 35|38|DET
+	36|38|MOD 37|38|MOD 38|34|OBJ 39|40|INF 40|38|XMOD 41|40|PRED 42|8|PUNCT
+%trn:	n|part prep|of det:art|the n|background prep|of det:art|the n|story
+	cop|be&3S det:art|the qn|other n|article pro:rel|that pro:sub|I
+	v|pass-PAST adv|out pro:rel|which v|talk-3S prep|about n:prop|Teresa
+	adj|Earnhardt&dn-POSS n|reaction adv|just det:art|a qn|few n|day-PL
+	prep|after det:art|the n|race pro:rel|where pro:sub|she v|say&PAST
+	comp|that pro:sub|she v|want-PAST det:art|the adj|medic&dn-AL
+	adj|examine&dn-AGT-POSS n|record-PL inf|to v|remain adj|confidential
+	.
+%grt:	1|8|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|0|ROOT 9|11|DET 10|11|QUANT 11|8|PRED 12|14|LINK 13|14|SUBJ
+	14|11|CMOD 15|14|JCT 16|17|LINK 17|11|CMOD 18|17|NJCT 19|20|NAME
+	20|21|MOD 21|18|POBJ 22|25|JCT 23|25|DET 24|25|QUANT 25|21|NJCT
+	26|25|NJCT 27|28|DET 28|26|POBJ 29|31|LINK 30|31|SUBJ 31|21|CMOD
+	32|34|LINK 33|34|SUBJ 34|31|COMP 35|38|DET 36|37|MOD 37|38|MOD
+	38|34|OBJ 39|40|INF 40|34|COMP 41|40|PRED 42|8|PUNCT
+*PAR:	of_course there's the aspect in photo journalism of [x 4] public
+	harm and of_course granting public access to &aus autopsy
+	photographs .
+%mor:	co|of_course pro:exist|there~cop|be&3S det:art|the n|aspect prep|in
+	n|photo n|journal-ISM prep|of n|public n|harm coord|and co|of_course
+	part|grant-PRESP n|public n|access prep|to n|autopsy
+	photo#n|graph-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|5|CONJ 13|14|COM 14|12|COORD 15|16|MOD
+	16|14|OBJ 17|14|JCT 18|19|MOD 19|17|POBJ 20|3|PUNCT
+%trn:	co|of_course pro:exist|there~cop|be&3S det:art|the n|aspect prep|in
+	n|photo n|journal-ISM prep|of adj|public n|harm coord|and
+	co|of_course n:gerund|grant-PRESP adj|public n|access prep|to
+	n|autopsy photo#n|graph-PL .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|MOD
+	8|6|POBJ 9|5|NJCT 10|11|MOD 11|9|POBJ 12|11|CONJ 13|14|COM
+	14|12|COORD 15|16|MOD 16|14|OBJ 17|16|NJCT 18|19|MOD 19|17|POBJ
+	20|3|PUNCT
+*PAR:	it turns out that Florida has a pretty liberal law regarding
+	autopsy photographs if they're not part of the active criminal
+	investigation .
+%mor:	pro:per|it v|turn-3S adv|out comp|that n:prop|Florida v|have&3S
+	det:art|a adv|pretty adj|liberal n|law part|regard-PRESP n|autopsy
+	photo#n|graph-PL conj|if pro:sub|they~cop|be&PRES neg|not n|part
+	prep|of det:art|the adj|active adj|criminal n|investigate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|COMP 7|10|DET 8|9|JCT
+	9|10|MOD 10|6|OBJ 11|10|XMOD 12|11|OBJ 13|10|XMOD 14|16|LINK 15|16|SUBJ
+	16|13|CJCT 17|16|NEG 18|16|PRED 19|18|NJCT 20|23|DET 21|23|MOD 22|23|MOD
+	23|19|POBJ 24|2|PUNCT
+%trn:	pro:per|it v|turn-3S adv|out comp|that n:prop|Florida v|have&3S
+	det:art|a adv|pretty adj|liberal n|law part|regard-PRESP n|autopsy
+	photo#n|graph-PL conj|if pro:sub|they~cop|be&PRES neg|not n|part
+	prep|of det:art|the adj|active adj|criminal n|investigate&dv-TION .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|COMP 7|10|DET
+	8|9|JCT 9|10|MOD 10|6|OBJ 11|10|XMOD 12|13|MOD 13|11|OBJ
+	14|16|LINK 15|16|SUBJ 16|6|CJCT 17|16|NEG 18|16|PRED 19|18|NJCT
+	20|23|DET 21|23|MOD 22|23|MOD 23|19|POBJ 24|2|PUNCT
+*PAR:	so ‡ therefore the newspaper editors collectively are going after
+	these documents .
+%mor:	co|so beg|beg adv|therefore det:art|the n|newspaper n|editor-PL
+	adv|collective&dadj-LY aux|be&PRES part|go-PRESP prep|after
+	det:dem|these n|document-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|9|JCT 4|6|DET 5|6|MOD 6|9|SUBJ 7|9|JCT 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|PUNCT
+%trn:	co|so beg|beg adv|therefore det:art|the n|newspaper n|editor-PL
+	adv|collective&dadj-LY aux|be&PRES part|go-PRESP prep|after
+	det:dem|these n|document-PL .
+%grt:	1|0|BEG 2|1|BEGP 3|9|JCT 4|6|DET 5|6|MOD 6|9|SUBJ 7|9|JCT 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|PUNCT
+*PAR:	the reason is [/] is they want to hire an independent investigator
+	to determine if there was another reason why he died during his car
+	crash , if there was a reason that was contrary to the official
+	finding .
+%mor:	det:art|the n|reason cop|be&3S pro:sub|they v|want inf|to v|hire
+	det:art|a in#adj|dependent n|investigator inf|to v|determine comp|if
+	pro:exist|there cop|be&PAST&13S qn|another n|reason pro:rel|why
+	pro:sub|he v|die-PAST prep|during det:poss|his n|car n|crash cm|cm
+	conj|if pro:exist|there cop|be&PAST&13S det:art|a n|reason
+	pro:rel|that cop|be&PAST&13S adj|contrary prep|to det:art|the
+	n|official part|find-PRESP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|CPRED 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|12|INF 12|7|XJCT 13|15|LINK 14|15|SUBJ 15|12|COMP
+	16|17|QUANT 17|15|PRED 18|20|LINK 19|20|SUBJ 20|17|CMOD 21|20|JCT
+	22|24|DET 23|24|MOD 24|21|POBJ 25|5|LP 26|28|LINK 27|28|SUBJ 28|3|CJCT
+	29|30|DET 30|28|PRED 31|32|LINK 32|30|CMOD 33|32|PRED 34|33|JCT 35|36|DET
+	36|34|POBJ 37|32|XJCT 38|3|PUNCT
+%trn:	det:art|the n|reason cop|be&3S pro:sub|they v|want inf|to v|hire
+	det:art|a in#adj|dependent n|investigator inf|to v|determine comp|if
+	pro:exist|there cop|be&PAST&13S qn|another n|reason pro:rel|why
+	pro:sub|he v|die-PAST prep|during det:poss|his n|car n|crash cm|cm
+	conj|if pro:exist|there cop|be&PAST&13S det:art|a n|reason
+	pro:rel|that cop|be&PAST&13S adj|contrary prep|to det:art|the
+	adj|official n:gerund|find-PRESP .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|CPRED 6|7|INF 7|5|COMP
+	8|10|DET 9|10|MOD 10|7|OBJ 11|12|INF 12|10|XMOD 13|15|LINK 14|15|SUBJ
+	15|12|COMP 16|17|QUANT 17|15|PRED 18|20|LINK 19|20|SUBJ 20|17|CMOD
+	21|20|JCT 22|24|DET 23|24|MOD 24|21|POBJ 25|15|LP 26|28|LINK
+	27|28|SUBJ 28|15|CJCT 29|30|DET 30|28|PRED 31|32|LINK 32|30|CMOD
+	33|32|PRED 34|33|JCT 35|37|DET 36|37|MOD 37|34|POBJ 38|3|PUNCT
+*PAR:	I should also note as a side bar to these stories that it became
+	also published or it became known that Dale Earnhardt's car +//.
+%mor:	pro:sub|I mod|should adv|also v|note prep|as det:art|a n|side n|bar
+	prep|to det:dem|these n|story-PL pro:rel|that pro:per|it
+	cop|become&PAST adv|also part|publish-PASTP coord|or pro:per|it
+	cop|become&PAST part|know&PASTP comp|that n:prop|Dale
+	adj|Earnhardt&dn-POSS n|car +//.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|JCT
+	16|14|XJCT 17|19|LINK 18|19|SUBJ 19|16|CJCT 20|19|PRED 21|24|MOD 22|24|MOD
+	23|24|MOD 24|20|OBJ 25|4|PUNCT
+%trn:	pro:sub|I mod|should adv|also v|note prep|as det:art|a adj|side
+	n|bar prep|to det:dem|these n|story-PL comp|that pro:per|it
+	cop|become&PAST adv|also part|publish-PASTP coord|or pro:per|it
+	cop|become&PAST part|know&PASTP comp|that n:prop|Dale
+	adj|Earnhardt&dn-POSS n|car +//.
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|4|COMP
+	15|14|JCT 16|14|PRED 17|14|CONJ 18|19|SUBJ 19|17|COORD 20|19|PRED
+	21|24|COMP 22|23|NAME 23|24|MOD 24|20|OM 25|4|PUNCT
+*PAR:	there was a question regarding the safety or the [//] whether he
+	was actually wearing a [//] an intact safety belt which would have
+	restrained him .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|question
+	part|regard-PRESP det:art|the n|safety coord|or conj|whether
+	pro:sub|he aux|be&PAST&13S adv|actual&dadj-LY part|wear-PRESP
+	det:art|a adj|intact n|safety n|belt pro:rel|which mod|will&COND
+	aux|have part|restrain-PASTP pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|JCT 13|8|COORD 14|17|DET 15|16|MOD
+	16|17|MOD 17|13|OBJ 18|21|LINK 19|21|AUX 20|21|AUX 21|17|CMOD 22|21|OBJ
+	23|2|PUNCT
+%trn:	pro:exist|there cop|be&PAST&13S det:art|a n|question
+	part|regard-PRESP det:art|the n|safety coord|or conj|whether
+	pro:sub|he aux|be&PAST&13S adv|actual&dadj-LY part|wear-PRESP
+	det:art|a adj|intact n|safety n|belt pro:rel|which mod|will&COND
+	aux|have part|restrain-PASTP pro:obj|him .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|7|DET 7|5|OBJ
+	8|7|CONJ 9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|JCT 13|8|COORD
+	14|17|DET 15|17|MOD 16|17|MOD 17|13|OBJ 18|21|LINK 19|21|AUX
+	20|21|AUX 21|17|CMOD 22|21|OBJ 23|2|PUNCT
+*PAR:	now obviously if you're going two hundred miles an hour in a stock
+	car race and you slam into the wall you_know the odds are [/] &k are
+	heavily against you .
+%mor:	adv:tem|now adv|obvious&dadj-LY conj|if pro:per|you~aux|be&PRES
+	part|go-PRESP det:num|two det:num|hundred n|mile-PL det:art|a n|hour
+	prep|in det:art|a n|stock n|car n|race coord|and pro:per|you v|slam
+	prep|into det:art|the n|wall co|you_know det:art|the n:pt|odds
+	cop|be&PRES adv|heavy&dadj-LY prep|against pro:per|you .
+%gra:	1|2|JCT 2|0|INCROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CJCT 7|9|QUANT
+	8|9|QUANT 9|6|OBJ 10|11|DET 11|9|OBJ 12|11|NJCT 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|POBJ 17|19|LINK 18|19|SUBJ 19|11|CJCT 20|19|JCT 21|22|DET
+	22|20|POBJ 23|26|COM 24|25|DET 25|26|SUBJ 26|19|CJCT 27|26|JCT 28|26|JCT
+	29|28|POBJ 30|2|PUNCT
+%trn:	adv:tem|now adv|obvious&dadj-LY conj|if pro:per|you~aux|be&PRES
+	part|go-PRESP det:num|two det:num|hundred n|mile-PL det:art|a
+	n|hour prep|in det:art|a n|stock n|car n|race coord|and pro:per|you
+	v|slam prep|into det:art|the n|wall co|you_know det:art|the
+	n:pt|odds cop|be&PRES adv|heavy&dadj-LY prep|against pro:per|you .
+%grt:	1|26|JCT 2|26|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|26|CJCT 7|9|QUANT
+	8|9|QUANT 9|6|JCT 10|11|DET 11|9|POSTMOD 12|6|JCT 13|16|DET
+	14|15|MOD 15|16|MOD 16|12|POBJ 17|19|LINK 18|19|SUBJ 19|6|CJCT
+	20|19|JCT 21|22|DET 22|20|POBJ 23|26|COM 24|25|DET 25|26|SUBJ
+	26|0|ROOT 27|26|JCT 28|26|JCT 29|28|POBJ 30|26|PUNCT
+*PAR:	&wh what are the unanswered questions in his case ?
+%mor:	pro:int|what aux|be&PRES det:art|the un#part|answer-PASTP
+	n|question-PL prep|in det:poss|his n|case ?
+%gra:	1|5|SUBJ 2|5|AUX 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%trn:	pro:int|what cop|be&PRES det:art|the un#part|answer-PASTP
+	n|question-PL prep|in det:poss|his n|case ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|XMOD 5|2|PRED 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|2|PUNCT
+*PAR:	(be)cause I_mean &sh surely the cause of death is pretty clear „
+	isn't it ?
+%mor:	conj|because co|I_mean adv|sure&dadj-LY det:art|the n|cause prep|of
+	n|death cop|be&3S adv|pretty adj|clear end|end cop|be&3S~neg|not
+	pro:per|it ?
+%gra:	1|2|LINK 2|8|COM 3|8|JCT 4|5|DET 5|8|SUBJ 6|5|NJCT 7|6|POBJ 8|0|ROOT
+	9|10|JCT 10|8|PRED 11|12|ENDP 12|8|END 13|8|NEG 14|8|SUBJ 15|8|PUNCT
+%trn:	conj|because co|I_mean adv|sure&dadj-LY det:art|the n|cause prep|of
+	n|death cop|be&3S adv|pretty adj|clear end|end cop|be&3S~neg|not
+	pro:per|it ?
+%grt:	1|8|LINK 2|8|COM 3|8|JCT 4|5|DET 5|8|SUBJ 6|5|NJCT 7|6|POBJ
+	8|0|ROOT 9|10|JCT 10|8|PRED 11|12|ENDP 12|8|END 13|12|NEG 14|12|SUBJ
+	15|8|PUNCT
+*PAR:	&wh what questions are there left to ask ?
+%mor:	pro:int|what n|question-PL cop|be&PRES pro:exist|there
+	part|leave&PASTP inf|to v|ask ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|XMOD 6|7|INF 7|5|COMP 8|3|PUNCT
+%trn:	det:int|what n|question-PL cop|be&PRES pro:exist|there
+	part|leave&PASTP inf|to v|ask ?
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|XJCT 6|7|INF 7|5|XJCT
+	8|3|PUNCT
+*PAR:	one is the access of the pictures .
+%mor:	pro:indef|one cop|be&3S det:art|the n|access prep|of det:art|the
+	n|picture-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%trn:	pro:indef|one cop|be&3S det:art|the n|access prep|of det:art|the
+	n|picture-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*PAR:	in_order_to determine an independent investigation since they were
+	newspaper editors they felt that under Florida law they had a right
+	to actually get a copy of them .
+%mor:	inf|in_order_to v|determine det:art|a in#adj|dependent
+	n|investigate&dv-TION conj|since pro:sub|they cop|be&PAST
+	n|newspaper n|editor-PL pro:sub|they v|feel&PAST comp|that adv|under
+	n:prop|Florida n|law pro:sub|they v|have&PAST det:art|a n|right
+	inf|to adv|actual&dadj-LY v|get det:art|a n|copy prep|of
+	pro:obj|them .
+%gra:	1|2|INF 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|LINK 7|8|SUBJ 8|12|CJCT
+	9|10|MOD 10|8|PRED 11|12|SUBJ 12|2|CJCT 13|12|OBJ 14|15|JCT 15|16|MOD
+	16|13|POBJ 17|18|SUBJ 18|16|CMOD 19|20|DET 20|18|OBJ 21|23|INF 22|23|JCT
+	23|20|XMOD 24|25|DET 25|23|OBJ 26|25|NJCT 27|26|POBJ 28|2|PUNCT
+%trn:	inf|in_order_to v|determine det:art|a in#adj|dependent
+	n|investigate&dv-TION conj|since pro:sub|they cop|be&PAST
+	n|newspaper n|editor-PL pro:sub|they v|feel&PAST comp|that prep|under
+	n:prop|Florida n|law pro:sub|they v|have&PAST det:art|a n|right
+	inf|to adv|actual&dadj-LY v|get det:art|a n|copy prep|of
+	pro:obj|them .
+%grt:	1|2|INF 2|12|XJCT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|LINK 7|8|SUBJ
+	8|12|CJCT 9|10|MOD 10|8|PRED 11|12|SUBJ 12|0|ROOT 13|18|LINK
+	14|18|JCT 15|16|MOD 16|14|POBJ 17|18|SUBJ 18|12|CJCT 19|20|DET
+	20|18|OBJ 21|23|INF 22|23|JCT 23|20|XMOD 24|25|DET 25|23|OBJ
+	26|25|NJCT 27|26|POBJ 28|12|PUNCT
+*PAR:	and evidently they [//] as I said before <as a> [/] as a news
+	organization they've gotten support of SPJ and other newspaper
+	editors so it's not exactly <like they're> [/] like they're making
+	some &met kind of maverick intention here .
+%mor:	coord|and adv|evident&dadj-LY conj|as pro:sub|I v|say&PAST
+	adv|before prep|as det:art|a n|news n|organize&dv-TION
+	pro:sub|they~aux|have part|get&PASTP n|support prep|of n:prop|SPJ
+	coord|and qn|other n|newspaper n|editor-PL conj|so
+	pro:per|it~cop|be&3S neg|not adv|exact&dadj-LY prep|like
+	pro:sub|they~aux|be&PRES part|make-PRESP qn|some n|kind prep|of
+	adj|maverick n|intention adv|here .
+%gra:	1|5|LINK 2|5|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|13|SUBJ 12|13|AUX 13|10|CMOD 14|13|OBJ 15|14|NJCT
+	16|15|POBJ 17|14|CONJ 18|19|QUANT 19|20|MOD 20|17|COORD 21|23|LINK
+	22|23|SUBJ 23|5|CJCT 24|23|NEG 25|23|JCT 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|23|CPRED 30|31|QUANT 31|29|OBJ 32|31|NJCT 33|34|MOD 34|32|POBJ 35|29|JCT
+	36|5|PUNCT
+%trn:	coord|and adv|evident&dadj-LY conj|as pro:sub|I v|say&PAST
+	adv|before prep|as det:art|a n|news n|organize&dv-TION
+	pro:sub|they~aux|have part|get&PASTP n|support prep|of n:prop|SPJ
+	coord|and qn|other n|newspaper n|editor-PL conj|so
+	pro:per|it~cop|be&3S neg|not adv|exact&dadj-LY prep|like
+	pro:sub|they~aux|be&PRES part|make-PRESP qn|some n|kind prep|of
+	adj|maverick n|intention adv|here .
+%grt:	1|13|LINK 2|13|JCT 3|5|LINK 4|5|SUBJ 5|13|CJCT 6|5|JCT 7|13|JCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|OBJ
+	15|14|NJCT 16|15|POBJ 17|16|CONJ 18|20|QUANT 19|20|MOD 20|17|COORD
+	21|23|LINK 22|23|SUBJ 23|13|CJCT 24|25|NEG 25|23|JCT 26|23|JCT
+	27|29|SUBJ 28|29|AUX 29|26|CPOBJ 30|31|QUANT 31|29|OBJ 32|31|NJCT
+	33|34|MOD 34|32|POBJ 35|29|JCT 36|13|PUNCT
+*PAR:	+, and the other aspect of_course is the fact that +...
+%mor:	coord|and det:art|the qn|other n|aspect co|of_course cop|be&3S
+	det:art|the n|fact pro:rel|that +...
+%gra:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|COM 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|OM 10|6|PUNCT
+%trn:	coord|and det:art|the qn|other n|aspect co|of_course cop|be&3S
+	det:art|the n|fact comp|that +...
+%grt:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|COM 6|0|ROOT 7|8|DET
+	8|6|PRED 9|8|OM 10|6|PUNCT
+*PAR:	what is to be determined by actually having it in ?
+%mor:	pro:int|what cop|be&3S inf|to aux|be part|determine-PASTP prep|by
+	adv|actual&dadj-LY n:gerund|have-PRESP pro:per|it prep|in ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|AUX 5|2|XJCT 6|5|JCT 7|8|JCT 8|6|POBJ
+	9|8|OBJ 10|8|JCT 11|2|PUNCT
+%trn:	pro:int|what cop|be&3S inf|to aux|be part|determine-PASTP prep|by
+	adv|actual&dadj-LY n:gerund|have-PRESP pro:per|it adv|in ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|AUX 5|2|CPRED 6|5|JCT 7|8|JCT
+	8|6|POBJ 9|8|OBJ 10|8|JCT 11|2|PUNCT
+*PAR:	<what's the> [//] what are the ramifications of actually having a
+	third party investigator look at another possible cause of death ?
+%mor:	pro:int|what cop|be&PRES det:art|the n|ramify&dv-TION-PL prep|of
+	adv|actual&dadj-LY part|have-PRESP det:art|a adj|third n|party
+	n|investigator v|look prep|at qn|another adj|possible n|cause
+	prep|of n|death ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|JCT 7|5|POBJ 8|11|DET
+	9|10|MOD 10|11|MOD 11|12|SUBJ 12|7|COMP 13|12|JCT 14|16|QUANT 15|16|MOD
+	16|13|POBJ 17|16|NJCT 18|17|POBJ 19|2|PUNCT
+%trn:	pro:int|what cop|be&PRES det:art|the n|ramify&dv-TION-PL prep|of
+	adv|actual&dadj-LY n:gerund|have-PRESP det:art|a adj|third n|party
+	n|investigator v|look prep|at qn|another adj|possible n|cause
+	prep|of n|death ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|JCT 7|5|POBJ
+	8|11|DET 9|10|MOD 10|11|MOD 11|7|OBJ 12|7|COMP 13|12|JCT
+	14|16|QUANT 15|16|MOD 16|13|POBJ 17|16|NJCT 18|17|POBJ 19|2|PUNCT
+*PAR:	the question is what aspect of the crash specifically caused his
+	death ?
+%mor:	det:art|the n|question cop|be&3S pro:int|what n|aspect prep|of
+	det:art|the n|crash adv|specific&dadj-AL-LY v|cause-PAST
+	det:poss|his n|death ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|10|SUBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|10|JCT 10|3|CPRED 11|12|DET 12|10|OBJ 13|3|PUNCT
+%trn:	det:art|the n|question cop|be&3S det:int|what n|aspect prep|of
+	det:art|the n|crash adv|specific&dadj-AL-LY v|cause-PAST
+	det:poss|his n|death ?
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|10|SUBJ 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|10|JCT 10|3|CPRED 11|12|DET 12|10|OBJ 13|3|PUNCT
+*PAR:	there were a_lot_of questions about the type of restraints , like
+	there're so many different seat belts and there's certain ones +...
+%mor:	pro:exist|there cop|be&PAST qn|a_lot_of n|question-PL prep|about
+	det:art|the n|type prep|of n|restraint-PL cm|cm conj|like
+	pro:exist|there~cop|be&PRES adv|so qn|many adj|different n|seat
+	n|belt-PL coord|and pro:exist|there~cop|be&3S adj|certain
+	pro:indef|one-PL +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|2|LP 11|13|LINK 12|13|SUBJ 13|2|CJCT 14|18|JCT 15|18|QUANT
+	16|18|MOD 17|18|MOD 18|13|PRED 19|21|LINK 20|21|SUBJ 21|13|CJCT
+	22|23|MOD 23|21|PRED 24|2|PUNCT
+%trn:	pro:exist|there cop|be&PAST qn|a_lot_of n|question-PL prep|about
+	det:art|the n|type prep|of n|restraint-PL cm|cm conj|like
+	pro:exist|there~cop|be&PRES adv|so qn|many adj|different n|seat
+	n|belt-PL coord|and pro:exist|there~cop|be&3S adj|certain
+	pro:indef|one-PL +...
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|8|POBJ 10|2|LP 11|13|LINK 12|13|SUBJ 13|2|CJCT 14|15|JCT
+	15|18|QUANT 16|18|MOD 17|18|MOD 18|13|PRED 19|21|LINK 20|21|SUBJ
+	21|13|CJCT 22|23|MOD 23|21|PRED 24|2|PUNCT
+*PAR:	what happened to him at the moment of impact ?
+%mor:	pro:int|what v|happen-PAST prep|to pro:obj|him prep|at det:art|the
+	n|moment prep|of n|impact ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|2|PUNCT
+%trn:	pro:int|what v|happen-PAST prep|to pro:obj|him prep|at det:art|the
+	n|moment prep|of n|impact ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|8|POBJ 10|2|PUNCT
+*PAR:	like should NASCAR change their rules about safety precautions ?
+%mor:	co|like mod|should n:prop|NASCAR v|change det:poss|their n|rule-PL
+	prep|about n|safety pre#n|caution-PL ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+%trn:	co|like mod|should n:prop|NASCAR v|change det:poss|their n|rule-PL
+	prep|about n|safety pre#n|caution-PL ?
+%grt:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT
+	8|9|MOD 9|7|POBJ 10|4|PUNCT
+*PAR:	because &th like if he was using the safety precautions they have
+	right now and he died maybe they should up$v the safety precautions
+	.
+%mor:	conj|because co|like conj|if pro:sub|he aux|be&PAST&13S
+	part|use-PRESP det:art|the n|safety pre#n|caution-PL pro:sub|they
+	v|have adv|right adv:tem|now coord|and pro:sub|he v|die-PAST adv|maybe
+	pro:sub|they mod|should v|up det:art|the n|safety pre#n|caution-PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CJCT 7|8|DET 8|6|OBJ
+	9|6|OBJ 10|11|SUBJ 11|9|CMOD 12|13|JCT 13|11|JCT 14|16|LINK 15|16|SUBJ
+	16|20|CJCT 17|16|JCT 18|20|SUBJ 19|20|AUX 20|11|COMP 21|22|DET 22|20|OBJ
+	23|22|POSTMOD 24|2|PUNCT
+%trn:	conj|because co|like conj|if pro:sub|he aux|be&PAST&13S
+	part|use-PRESP det:art|the n|safety pre#n|caution-PL pro:sub|they
+	v|have adv|right adv:tem|now coord|and pro:sub|he v|die-PAST adv|maybe
+	pro:sub|they mod|should v|up det:art|the n|safety pre#n|caution-PL .
+%grt:	1|20|LINK 2|20|COM 3|6|LINK 4|6|SUBJ 5|6|AUX 6|20|CJCT 7|9|DET
+	8|9|MOD 9|6|OBJ 10|11|SUBJ 11|9|CMOD 12|13|JCT 13|11|JCT 14|16|LINK
+	15|16|SUBJ 16|6|CJCT 17|20|JCT 18|20|SUBJ 19|20|AUX 20|0|ROOT
+	21|23|DET 22|23|MOD 23|20|OBJ 24|20|PUNCT
+*PAR:	part of the other controversy quote_unquote is the fact that NASCAR
+	is under some heat right now because this is the fourth race car
+	driver to die in the last nine months .
+%mor:	n|part prep|of det:art|the qn|other n|controversy co|quote_unquote
+	cop|be&3S det:art|the n|fact pro:rel|that n:prop|NASCAR cop|be&3S
+	prep|under qn|some n|heat adv|right adv:tem|now conj|because
+	pro:dem|this cop|be&3S det:art|the n|fourth n|race n|car
+	n|drive&dv-AGT inf|to v|die prep|in det:art|the adj|last
+	det:num|nine n|month-PL .
+%gra:	1|7|SUBJ 2|1|NJCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|7|COM 7|0|ROOT 8|9|DET
+	9|7|PRED 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT 14|15|QUANT 15|13|POBJ
+	16|17|JCT 17|12|JCT 18|20|LINK 19|20|SUBJ 20|7|CJCT 21|25|DET 22|25|MOD
+	23|25|MOD 24|25|MOD 25|20|PRED 26|27|INF 27|25|XMOD 28|27|JCT 29|32|DET
+	30|32|MOD 31|32|QUANT 32|28|POBJ 33|7|PUNCT
+%trn:	n|part prep|of det:art|the qn|other n|controversy co|quote_unquote
+	cop|be&3S det:art|the n|fact pro:rel|that n:prop|NASCAR cop|be&3S
+	prep|under qn|some n|heat adv|right adv:tem|now conj|because pro:dem|this
+	cop|be&3S det:art|the adj|fourth n|race n|car n|drive&dv-AGT inf|to
+	v|die prep|in det:art|the adj|last det:num|nine n|month-PL .
+%grt:	1|7|SUBJ 2|1|NJCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|5|COM 7|0|ROOT
+	8|9|DET 9|7|PRED 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT
+	14|15|QUANT 15|13|POBJ 16|17|JCT 17|12|JCT 18|20|LINK 19|20|DET
+	20|12|CJCT 21|25|DET 22|25|MOD 23|24|MOD 24|25|MOD 25|20|PRED
+	26|27|INF 27|25|XMOD 28|27|JCT 29|32|DET 30|32|MOD 31|32|QUANT
+	32|28|POBJ 33|7|PUNCT
+*PAR:	so ‡ there's the suspicion and then there's the perception that
+	safety [/] safety measurements aren't exactly up to snuff here .
+%mor:	co|so beg|beg pro:exist|there~cop|be&3S det:art|the n|suspicion
+	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|the
+	n|perception det:dem|that n|safety n|measure&dv-MENT-PL
+	cop|be&PRES~neg|not adv|exact&dadj-LY adv|up prep|to n|snuff
+	adv|here .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|10|LINK 8|10|JCT
+	9|10|SUBJ 10|6|CMOD 11|12|DET 12|10|PRED 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|12|CMOD 17|16|NEG 18|19|JCT 19|16|JCT 20|16|JCT 21|20|POBJ 22|21|NJCT
+	23|4|PUNCT
+%trn:	co|so beg|beg pro:exist|there~cop|be&3S det:art|the n|suspicion
+	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|the
+	n|perception pro:rel|that n|safety n|measure&dv-MENT-PL
+	cop|be&PRES~neg|not adv|exact&dadj-LY adv|up prep|to n|snuff
+	adv|here .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|10|LINK
+	8|10|JCT 9|10|SUBJ 10|4|CJCT 11|12|DET 12|10|PRED 13|16|LINK
+	14|15|MOD 15|16|SUBJ 16|12|CMOD 17|18|NEG 18|16|JCT 19|16|JCT
+	20|16|JCT 21|20|POBJ 22|16|JCT 23|4|PUNCT
+*PAR:	and as [x 3] a news story I think these [/] these editors are [//]
+	and photo people are looking at this information as possible
+	information that they'd like to impart to the public .
+%mor:	coord|and prep|as det:art|a n|news n|story pro:sub|I v|think
+	det:dem|these n|editor-PL coord|and n|photo n|person&PL aux|be&PRES
+	part|look-PRESP prep|at det:dem|this n|inform&dv-TION prep|as
+	adj|possible n|inform&dv-TION pro:rel|that pro:sub|they~mod|genmod
+	v|like inf|to v|impart prep|to det:art|the n|public .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|14|SUBJ 10|9|CONJ 11|12|MOD 12|10|COORD 13|14|AUX 14|7|COMP 15|14|JCT
+	16|17|DET 17|15|POBJ 18|14|JCT 19|20|MOD 20|18|POBJ 21|24|LINK 22|24|SUBJ
+	23|24|AUX 24|20|CMOD 25|26|INF 26|24|COMP 27|26|JCT 28|29|DET 29|27|POBJ
+	30|7|PUNCT
+%trn:	coord|and prep|as det:art|a n|news n|story pro:sub|I v|think
+	det:dem|these n|editor-PL coord|and n|photo n|person&PL aux|be&PRES
+	part|look-PRESP prep|at det:dem|this n|inform&dv-TION prep|as
+	adj|possible n|inform&dv-TION pro:rel|that pro:sub|they~mod|genmod
+	v|like inf|to v|impart prep|to det:art|the n|public .
+%grt:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|14|SUBJ 10|9|CONJ 11|12|MOD 12|10|COORD 13|14|AUX 14|7|COMP
+	15|14|JCT 16|17|DET 17|15|POBJ 18|14|JCT 19|20|MOD 20|18|POBJ
+	21|24|LINK 22|24|SUBJ 23|24|AUX 24|20|CMOD 25|26|INF 26|24|COMP
+	27|26|JCT 28|29|DET 29|27|POBJ 30|7|PUNCT
+*PAR:	one of the questions <that they were> [//] that I know that
+	independent sources want to find out is there's a different helmet
+	that you can wear and Dale Earnhardt <is like> [//] was vehemently
+	like against that helmet .
+%mor:	pro:indef|one prep|of det:art|the n|question-PL pro:rel|that
+	pro:sub|I v|know comp|that in#adj|dependent n|source-PL v|want
+	inf|to v|find adv|out cop|be&3S pro:exist|there~cop|be&3S det:art|a
+	adj|different n|helmet pro:rel|that pro:per|you mod|can v|wear
+	coord|and n:prop|Dale n:prop|Earnhardt cop|be&PAST&13S
+	adv|vehement&dadj-LY prep|like prep|against det:dem|that n|helmet .
+%gra:	1|15|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|11|LINK 9|10|MOD 10|11|SUBJ 11|7|COMP 12|13|INF 13|11|COMP 14|13|JCT 15|0|ROOT
+	16|17|SUBJ 17|15|PRED 18|20|DET 19|20|MOD 20|17|PRED 21|24|LINK
+	22|24|SUBJ 23|24|AUX 24|20|CMOD 25|28|LINK 26|27|NAME 27|28|SUBJ 28|24|COMP
+	29|28|JCT 30|29|JCT 31|30|POBJ 32|33|DET 33|31|POBJ 34|15|PUNCT
+%trn:	pro:indef|one prep|of det:art|the n|question-PL pro:rel|that
+	pro:sub|I v|know comp|that in#adj|dependent n|source-PL v|want
+	inf|to v|find adv|out cop|be&3S pro:exist|there~cop|be&3S det:art|a
+	adj|different n|helmet pro:rel|that pro:per|you mod|can v|wear
+	coord|and n:prop|Dale n:prop|Earnhardt cop|be&PAST&13S
+	adv|vehement&dadj-LY co|like prep|against det:dem|that n|helmet .
+%grt:	1|15|SUBJ 2|1|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|11|LINK 9|10|MOD 10|11|SUBJ 11|7|COMP 12|13|INF 13|11|COMP
+	14|13|JCT 15|0|ROOT 16|17|SUBJ 17|15|CPRED 18|20|DET 19|20|MOD
+	20|17|PRED 21|24|LINK 22|24|SUBJ 23|24|AUX 24|20|CMOD 25|28|LINK
+	26|27|NAME 27|28|SUBJ 28|17|CJCT 29|31|JCT 30|31|JCT 31|28|JCT
+	32|33|DET 33|31|POBJ 34|15|PUNCT
+*PAR:	he wore the open faced helmet and there's another helmet that has
+	like the closed face helmet and apparently he died of head injuries
+	.
+%mor:	pro:sub|he v|wear&PAST det:art|the adj|open part|face-PASTP
+	n|helmet coord|and pro:exist|there~cop|be&3S qn|another n|helmet
+	pro:rel|that v|have&3S co|like det:art|the part|close-PASTP n|face
+	n|helmet coord|and adv|apparent&dadj-LY pro:sub|he v|die-PAST
+	prep|of n|head n|injury-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|11|QUANT 11|9|PRED 12|13|LINK 13|11|CMOD 14|13|COM 15|18|DET
+	16|17|XMOD 17|18|MOD 18|13|OBJ 19|18|CONJ 20|19|COORD 21|22|SUBJ
+	22|18|CMOD 23|22|JCT 24|25|MOD 25|23|POBJ 26|2|PUNCT
+%trn:	pro:sub|he v|wear&PAST det:art|the adj|open part|face-PASTP
+	n|helmet coord|and pro:exist|there~cop|be&3S qn|another n|helmet
+	pro:rel|that v|have&3S co|like det:art|the part|close-PASTP n|face
+	n|helmet coord|and adv|apparent&dadj-LY pro:sub|he v|die-PAST
+	prep|of n|head n|injury-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|MOD 5|6|XMOD 6|2|OBJ 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|11|QUANT 11|9|PRED 12|13|LINK 13|11|CMOD 14|18|COM
+	15|18|DET 16|17|XMOD 17|18|MOD 18|13|OBJ 19|22|LINK 20|22|JCT
+	21|22|SUBJ 22|2|CJCT 23|22|JCT 24|25|MOD 25|23|POBJ 26|2|PUNCT
+*PAR:	so ‡ they were wondering if like he had worn the [/] the closed
+	face helmet if that would have possibly like helped him .
+%mor:	co|so beg|beg pro:sub|they aux|be&PAST part|wonder-PRESP conj|if
+	co|like pro:sub|he aux|have&PAST part|wear&PASTP det:art|the
+	part|close-PASTP n|face n|helmet conj|if pro:dem|that mod|will&COND
+	aux|have adv|possible&dadj-LY co|like v|help-PAST pro:obj|him .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|10|LINK 7|10|COM 8|10|SUBJ
+	9|10|AUX 10|5|CJCT 11|14|DET 12|13|XMOD 13|14|MOD 14|10|OBJ 15|21|LINK
+	16|21|SUBJ 17|21|AUX 18|21|AUX 19|21|JCT 20|21|COM 21|10|CJCT 22|21|OBJ
+	23|5|PUNCT
+%trn:	co|so beg|beg pro:sub|they aux|be&PAST part|wonder-PRESP conj|if
+	co|like pro:sub|he aux|have&PAST part|wear&PASTP det:art|the
+	part|close-PASTP n|face n|helmet conj|if pro:dem|that mod|will&COND
+	aux|have adv|possible&dadj-LY co|like part|help-PASTP pro:obj|him .
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|10|LINK 7|10|COM
+	8|10|SUBJ 9|10|AUX 10|21|CJCT 11|14|DET 12|13|XMOD 13|14|MOD
+	14|10|OBJ 15|21|LINK 16|21|SUBJ 17|21|AUX 18|21|AUX 19|21|JCT
+	20|21|COM 21|5|COMP 22|21|OBJ 23|5|PUNCT
+*PAR:	and that's what independent sources wanted to check into after the
+	autopsy was released .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:int|what in#adj|dependent
+	n|source-PL v|want-PAST inf|to v|check prep|into conj|after
+	det:art|the n|autopsy aux|be&PAST&13S part|release-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|MOD 6|7|SUBJ 7|3|CPRED 8|9|INF
+	9|7|COMP 10|9|JCT 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX 15|10|CPOBJ
+	16|3|PUNCT
+%trn:	coord|and pro:dem|that~cop|be&3S pro:int|what in#adj|dependent
+	n|source-PL v|want-PAST inf|to v|check prep|into conj|after
+	det:art|the n|autopsy aux|be&PAST&13S part|release-PASTP .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|JCT 6|7|SUBJ 7|3|CPRED
+	8|9|INF 9|7|COMP 10|9|JCT 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX
+	15|7|CJCT 16|3|PUNCT
+*PAR:	common sense would dictate that going around the track at two
+	hundred forty miles per hour &=laughs:multiple is probably unsafe in
+	itself .
+%mor:	adj|common n|sense mod|will&COND v|dictate comp|that
+	n:gerund|go-PRESP prep|around det:art|the n|track prep|at
+	det:num|two det:num|hundred det:num|forty n|mile-PL prep|per n|hour
+	cop|be&3S adv|probable&dadj-LY un#adj|safe prep|in pro:refl|itself .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|17|LINK 6|17|SUBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|QUANT 12|14|QUANT 13|14|QUANT 14|10|POBJ
+	15|14|NJCT 16|15|POBJ 17|4|COMP 18|19|JCT 19|17|PRED 20|19|JCT 21|20|POBJ
+	22|4|PUNCT
+%trn:	adj|common n|sense mod|will&COND v|dictate comp|that
+	n:gerund|go-PRESP prep|around det:art|the n|track prep|at
+	det:num|two det:num|hundred det:num|forty n|mile-PL prep|per n|hour
+	cop|be&3S adv|probable&dadj-LY un#adj|safe prep|in pro:refl|itself .
+%grt:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|17|LINK 6|17|SUBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|JCT 11|12|QUANT 12|13|QUANT 13|14|QUANT 14|10|POBJ
+	15|14|NJCT 16|15|POBJ 17|4|COMP 18|19|JCT 19|17|PRED 20|19|JCT
+	21|20|POBJ 22|4|PUNCT
+*PAR:	and if four drivers have died in the last nine months I'm sure
+	NASCAR will take some steps to correct that and it doesn't require
+	the involvement of journalists .
+%mor:	coord|and conj|if det:num|four n|drive&dv-AGT-PL aux|have
+	part|die-PASTP prep|in det:art|the adj|last det:num|nine n|month-PL
+	pro:sub|I~cop|be&1S adj|sure n:prop|NASCAR mod|will v|take qn|some
+	n|step-PL inf|to v|correct pro:dem|that coord|and pro:per|it
+	mod|do&3S~neg|not v|require det:art|the n|involve&dv-MENT prep|of
+	n|journal-IST-PL .
+%gra:	1|13|LINK 2|6|LINK 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|13|CJCT 7|6|JCT
+	8|11|DET 9|11|MOD 10|11|QUANT 11|7|POBJ 12|13|SUBJ 13|0|ROOT 14|13|PRED
+	15|17|SUBJ 16|17|AUX 17|14|CMOD 18|19|QUANT 19|17|OBJ 20|21|INF 21|17|XJCT
+	22|21|OBJ 23|27|LINK 24|27|SUBJ 25|27|AUX 26|25|NEG 27|21|CJCT 28|29|DET
+	29|27|OBJ 30|29|NJCT 31|30|POBJ 32|13|PUNCT
+%trn:	coord|and conj|if det:num|four n|drive&dv-AGT-PL aux|have
+	part|die-PASTP prep|in det:art|the adj|last det:num|nine n|month-PL
+	pro:sub|I~cop|be&1S adj|sure n:prop|NASCAR mod|will v|take qn|some
+	n|step-PL inf|to v|correct pro:dem|that coord|and pro:per|it
+	mod|do&3S~neg|not v|require det:art|the n|involve&dv-MENT prep|of
+	n|journal-IST-PL .
+%grt:	1|13|LINK 2|6|LINK 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|13|CJCT 7|6|JCT
+	8|11|DET 9|11|MOD 10|11|QUANT 11|7|POBJ 12|13|SUBJ 13|0|ROOT
+	14|13|PRED 15|17|SUBJ 16|17|AUX 17|14|CMOD 18|19|QUANT 19|17|OBJ
+	20|21|INF 21|19|XMOD 22|21|OBJ 23|27|LINK 24|27|SUBJ 25|27|AUX
+	26|25|NEG 27|17|CJCT 28|29|DET 29|27|OBJ 30|29|NJCT 31|30|POBJ
+	32|13|PUNCT
+*PAR:	are they more likely to take steps if the press puts some heat on
+	them ?
+%mor:	aux|be&PRES pro:sub|they adv|more adj|likely inf|to v|take
+	n|step-PL conj|if det:art|the n|press v|put-3S qn|some n|heat
+	prep|on pro:obj|them ?
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|JCT 4|1|PRED 5|6|INF 6|4|XMOD 7|6|OBJ
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|6|CJCT 12|13|QUANT 13|11|OBJ 14|11|JCT
+	15|14|POBJ 16|1|PUNCT
+%trn:	cop|be&PRES pro:sub|they adv|more adj|likely inf|to v|take
+	n|step-PL conj|if det:art|the n|press v|put-3S qn|some n|heat
+	prep|on pro:obj|them ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|4|JCT 4|1|PRED 5|6|INF 6|4|XMOD 7|6|OBJ
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|1|CJCT 12|13|QUANT 13|11|OBJ
+	14|13|JCT 15|14|POBJ 16|1|PUNCT
+*PAR:	well they're obviously not having enough heat put on them because
+	it keeps happening .
+%mor:	co|well pro:sub|they~aux|be&PRES adv|obvious&dadj-LY neg|not
+	part|have-PRESP qn|enough n|heat part|put&PASTP prep|on pro:obj|them
+	conj|because pro:per|it v|keep-3S part|happen-PRESP .
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|6|JCT 5|4|NEG 6|0|ROOT 7|8|QUANT 8|9|JCT
+	9|6|COMP 10|9|JCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|6|CJCT 15|14|COMP
+	16|6|PUNCT
+%trn:	co|well pro:sub|they~aux|be&PRES adv|obvious&dadj-LY neg|not
+	part|have-PRESP qn|enough n|heat part|put&PASTP prep|on pro:obj|them
+	conj|because pro:per|it v|keep-3S part|happen-PRESP .
+%grt:	1|6|COM 2|6|SUBJ 3|6|AUX 4|6|JCT 5|6|NEG 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|8|XMOD 10|9|JCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|6|CJCT
+	15|14|COMP 16|6|PUNCT
+*PAR:	showing pictures of a dead body is not gonna put the heat on (th)em
+	that's necessary to make the changes though .
+%mor:	part|show-PRESP n|picture-PL prep|of det:art|a adj|dead n|body
+	aux|be&3S neg|not part|go-PRESP~inf|to v|put&ZERO det:art|the n|heat
+	prep|on pro:obj|them pro:dem|that~cop|be&3S adj|necessary inf|to
+	v|make det:art|the n|change-PL adv|though .
+%gra:	1|2|DET 2|9|SUBJ 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|11|JCT 15|14|POBJ
+	16|17|SUBJ 17|9|CJCT 18|17|PRED 19|20|INF 20|18|XMOD 21|22|DET 22|20|OBJ
+	23|20|JCT 24|9|PUNCT
+%trn:	n:gerund|show-PRESP n|picture-PL prep|of det:art|a adj|dead n|body
+	aux|be&3S neg|not part|go-PRESP~inf|to v|put&ZERO det:art|the n|heat
+	prep|on pro:obj|them pro:rel|that~cop|be&3S adj|necessary inf|to
+	v|make det:art|the n|change-PL adv|though .
+%grt:	1|9|SUBJ 2|1|OBJ 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|11|JCT
+	15|14|POBJ 16|17|LINK 17|13|CMOD 18|17|PRED 19|20|INF 20|18|XMOD
+	21|22|DET 22|20|OBJ 23|9|JCT 24|9|PUNCT
+*PAR:	it was their attorney who said the photos are important because
+	they might reveal what caused Earnhardt's death .
+%mor:	pro:per|it cop|be&PAST&13S det:poss|their n|attorney pro:rel|who
+	v|say&PAST det:art|the n|photo-PL cop|be&PRES adj|important
+	conj|because pro:sub|they mod|might v|reveal pro:int|what
+	v|cause-PAST adj|Earnhardt&dn-POSS n|death .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|9|PRED 11|14|LINK 12|14|SUBJ 13|14|AUX 14|2|CJCT 15|16|SUBJ
+	16|14|COMP 17|18|MOD 18|16|OBJ 19|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S det:poss|their n|attorney pro:rel|who
+	v|say&PAST det:art|the n|photo-PL cop|be&PRES adj|important
+	conj|because pro:sub|they mod|might v|reveal pro:int|what
+	v|cause-PAST adj|Earnhardt&dn-POSS n|death .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|8|DET
+	8|9|SUBJ 9|6|COMP 10|9|PRED 11|14|LINK 12|14|SUBJ 13|14|AUX
+	14|9|CJCT 15|16|LINK 16|14|COBJ 17|18|MOD 18|16|OBJ 19|2|PUNCT
+*PAR:	and then <the other> [//] &th as I said before the other thing is
+	that [/] that in Florida granting public access to autopsy
+	photographs is permissible if it's not part of a criminal
+	investigation .
+%mor:	coord|and adv:tem|then conj|as pro:sub|I v|say&PAST prep|before
+	det:art|the qn|other n|thing cop|be&3S comp|that prep|in
+	n:prop|Florida part|grant-PRESP adj|public n|access prep|to
+	n|autopsy photo#n|graph-PL cop|be&3S adj|permissible conj|if
+	pro:per|it~cop|be&3S neg|not n|part prep|of det:art|a adj|criminal
+	n|investigate&dv-TION .
+%gra:	1|5|LINK 2|5|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|5|CJCT 11|10|PRED 12|11|JCT 13|12|POBJ 14|20|JCT 15|16|MOD
+	16|14|OBJ 17|16|NJCT 18|17|POBJ 19|20|SUBJ 20|12|POBJ 21|20|PRED
+	22|24|LINK 23|24|SUBJ 24|20|CJCT 25|24|NEG 26|24|PRED 27|26|NJCT 28|30|DET
+	29|30|MOD 30|27|POBJ 31|5|PUNCT
+%trn:	coord|and adv:tem|then conj|as pro:sub|I v|say&PAST prep|before
+	det:art|the qn|other n|thing cop|be&3S comp|that prep|in
+	n:prop|Florida n:gerund|grant-PRESP adj|public n|access prep|to
+	n|autopsy photo#n|graph-PL cop|be&3S adj|permissible conj|if
+	pro:per|it~cop|be&3S neg|not n|part prep|of det:art|a adj|criminal
+	n|investigate&dv-TION .
+%grt:	1|10|LINK 2|10|JCT 3|5|LINK 4|5|SUBJ 5|10|CJCT 6|5|JCT 7|9|DET
+	8|9|QUANT 9|10|OBJ 10|0|ROOT 11|20|LINK 12|20|JCT 13|12|POBJ
+	14|20|SUBJ 15|16|MOD 16|14|OBJ 17|16|NJCT 18|19|MOD 19|17|POBJ
+	20|10|CPRED 21|20|PRED 22|24|LINK 23|24|SUBJ 24|20|CJCT 25|24|NEG
+	26|24|PRED 27|26|NJCT 28|30|DET 29|30|MOD 30|27|POBJ 31|10|PUNCT
+*PAR:	so ‡ the other feather in their cap is the fact that if it was
+	another state then we [/] we might not be having this argument .
+%mor:	co|so beg|beg det:art|the qn|other n|feather prep|in det:poss|their
+	n|cap cop|be&3S det:art|the n|fact pro:rel|that conj|if pro:per|it
+	cop|be&PAST&13S qn|another n|state adv:tem|then pro:sub|we mod|might
+	neg|not aux|be part|have-PRESP det:dem|this n|argue&dv-MENT .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|QUANT 5|9|SUBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|0|ROOT 10|11|DET 11|9|PRED 12|15|LINK 13|15|LINK 14|15|SUBJ 15|11|CMOD
+	16|17|QUANT 17|15|PRED 18|23|JCT 19|23|SUBJ 20|23|AUX 21|20|NEG
+	22|23|AUX 23|17|CMOD 24|25|DET 25|23|OBJ 26|9|PUNCT
+%trn:	co|so beg|beg det:art|the qn|other n|feather prep|in det:poss|their
+	n|cap cop|be&3S det:art|the n|fact pro:rel|that conj|if pro:per|it
+	cop|be&PAST&13S qn|another n|state adv:tem|then pro:sub|we mod|might
+	neg|not aux|be part|have-PRESP det:dem|this n|argue&dv-MENT .
+%grt:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|QUANT 5|9|SUBJ 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|0|ROOT 10|11|DET 11|9|PRED 12|23|LINK 13|15|LINK
+	14|15|SUBJ 15|23|CJCT 16|17|QUANT 17|15|PRED 18|23|JCT 19|23|SUBJ
+	20|23|AUX 21|20|NEG 22|23|AUX 23|11|CMOD 24|25|DET 25|23|OBJ
+	26|9|PUNCT
+*PAR:	I guess another question would be has this happened in the past ?
+%mor:	pro:sub|I v|guess qn|another n|question mod|will&COND cop|be
+	aux|have&3S pro:dem|this part|happen-PASTP prep|in det:art|the
+	n|past ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|9|SUBJ 7|9|AUX 8|9|SUBJ
+	9|2|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+%trn:	pro:sub|I v|guess qn|another n|question mod|will&COND cop|be
+	aux|have&3S pro:dem|this part|happen-PASTP prep|in det:art|the
+	n|past ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|2|COMP 7|9|AUX
+	8|9|SUBJ 9|6|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*PAR:	and it [//] has there been an autopsy photo that news media have
+	obtained access to ?
+%mor:	coord|and aux|have&3S pro:exist|there cop|be&PASTP det:art|a
+	n|autopsy n|photo pro:rel|that n|news n|media aux|have
+	part|obtain-PASTP n|access prep|to ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|12|LINK
+	9|10|MOD 10|12|SUBJ 11|12|AUX 12|7|CMOD 13|12|OBJ 14|12|JCT 15|4|PUNCT
+%trn:	coord|and aux|have&3S pro:exist|there cop|be&PASTP det:art|a
+	n|autopsy n|photo pro:rel|that n|news n|media aux|have
+	part|obtain-PASTP n|access prep|to ?
+%grt:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED
+	8|12|LINK 9|10|MOD 10|12|SUBJ 11|12|AUX 12|7|CMOD 13|12|OBJ
+	14|13|NJCT 15|4|PUNCT
+*PAR:	well in the previous crashes well you_know you say they keep having
+	all these crashes so the issue must've come up .
+%mor:	co|well prep|in det:art|the adj|previous n|crash-PL co|well
+	co|you_know pro:per|you v|say pro:sub|they v|keep part|have-PRESP
+	qn|all det:dem|these n|crash-PL co|so det:art|the n|issue
+	mod|must~aux|have v|come adv|up .
+%gra:	1|9|COM 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|9|COM 7|9|COM 8|9|SUBJ
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|11|COMP 13|15|QUANT 14|15|DET 15|12|OBJ
+	16|21|COM 17|18|DET 18|21|SUBJ 19|21|AUX 20|21|AUX 21|15|CMOD 22|21|JCT
+	23|9|PUNCT
+%trn:	co|well prep|in det:art|the adj|previous n|crash-PL co|well
+	co|you_know pro:per|you v|say pro:sub|they v|keep
+	part|have-PRESP qn|all det:dem|these n|crash-PL co|so
+	det:art|the n|issue mod|must~aux|have v|come adv|up .
+%grt:	1|9|COM 2|9|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|9|COM 7|9|COM 8|9|SUBJ
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|11|COMP 13|15|QUANT 14|15|DET
+	15|12|OBJ 16|21|COM 17|18|DET 18|21|SUBJ 19|21|AUX 20|21|AUX
+	21|9|CJCT 22|21|JCT 23|9|PUNCT
+*PAR:	I just have a problem with them so just blatantly going against
+	what his family wants .
+%mor:	pro:sub|I adv|just v|have det:art|a n|problem prep|with
+	pro:obj|them adv|so adv|just adv|blatant&dadj-LY part|go-PRESP
+	prep|against pro:int|what det:poss|his n|family v|want-3S .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|10|JCT
+	9|10|JCT 10|11|JCT 11|3|XJCT 12|11|JCT 13|16|LINK 14|15|DET 15|16|SUBJ
+	16|12|CPOBJ 17|3|PUNCT
+%trn:	pro:sub|I adv|just v|have det:art|a n|problem prep|with
+	pro:obj|them adv|so adv|just adv|blatant&dadj-LY part|go-PRESP
+	prep|against pro:int|what det:poss|his n|family v|want-3S .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|10|JCT
+	9|10|JCT 10|11|JCT 11|7|XMOD 12|11|JCT 13|16|LINK 14|15|DET
+	15|16|SUBJ 16|12|CPOBJ 17|3|PUNCT
+*PAR:	I_mean I understand that I_mean there are a_lot_of things in this
+	world that obviously your family wouldn't want to get out , like if
+	you're a criminal you_know obviously your family is +...
+%mor:	co|I_mean pro:sub|I v|understand comp|that co|I_mean
+	pro:exist|there cop|be&PRES qn|a_lot_of n|thing-PL prep|in
+	det:dem|this n|world pro:rel|that adv|obvious&dadj-LY det:poss|your
+	n|family mod|will&COND~neg|not v|want inf|to v|get adv|out cm|cm
+	conj|like conj|if pro:per|you~cop|be&PRES det:art|a n|criminal
+	co|you_know adv|obvious&dadj-LY det:poss|your n|family cop|be&3S
+	+...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|COM 6|7|SUBJ 7|3|COMP 8|9|QUANT
+	9|7|PRED 10|7|JCT 11|12|DET 12|10|POBJ 13|19|LINK 14|19|JCT 15|16|DET
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|12|CMOD 20|21|INF 21|19|COMP 22|21|JCT
+	23|3|LP 24|3|JCT 25|27|LINK 26|27|SUBJ 27|24|CPOBJ 28|29|DET 29|27|PRED
+	30|34|COM 31|30|NJCT 32|33|DET 33|31|POBJ 34|29|CMOD 35|3|PUNCT
+%trn:	co|I_mean pro:sub|I v|understand comp|that co|I_mean pro:exist|there
+	cop|be&PRES qn|a_lot_of n|thing-PL prep|in det:dem|this n|world
+	pro:rel|that adv|obvious&dadj-LY det:poss|your n|family
+	mod|will&COND~neg|not v|want inf|to v|get adv|out cm|cm conj|like
+	conj|if pro:per|you~cop|be&PRES det:art|a n|criminal co|you_know
+	adv|obvious&dadj-LY det:poss|your n|family cop|be&3S +...
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|COM 6|7|SUBJ 7|3|COMP
+	8|9|QUANT 9|7|PRED 10|9|NJCT 11|12|DET 12|10|POBJ 13|19|LINK
+	14|19|JCT 15|16|DET 16|19|SUBJ 17|19|AUX 18|17|NEG 19|9|CMOD
+	20|21|INF 21|19|COMP 22|21|JCT 23|19|LP 24|34|LINK 25|27|LINK
+	26|27|SUBJ 27|34|CJCT 28|29|DET 29|27|PRED 30|34|COM 31|34|JCT
+	32|33|DET 33|34|SUBJ 34|19|CJCT 35|3|PUNCT
+*PAR:	but something like this that's truly painful +...
+%mor:	conj|but pro:indef|something prep|like pro:dem|this
+	pro:rel|that~cop|be&3S adv|true&dadj-LY adj|pain&dn-FULL +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|6|LINK 6|4|CMOD 7|8|JCT
+	8|6|PRED 9|2|PUNCT
+%trn:	conj|but pro:indef|something prep|like pro:dem|this
+	pro:rel|that~cop|be&3S adv|true&dadj-LY adj|pain&dn-FULL +...
+%grt:	1|2|LINK 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|6|LINK 6|2|CMOD 7|8|JCT
+	8|6|PRED 9|2|PUNCT
+*PAR:	I_mean the possibility , just the possibility that this could be
+	published +...
+%mor:	co|I_mean det:art|the n|possible&dadj-ITY cm|cm adv|just
+	det:art|the n|possible&dadj-ITY pro:rel|that pro:dem|this mod|could
+	aux|be part|publish-PASTP +...
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|LP 5|7|JCT 6|7|DET 7|3|ENUM 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|AUX 12|7|CMOD 13|3|PUNCT
+%trn:	co|I_mean det:art|the n|possible&dadj-ITY cm|cm adv|just
+	det:art|the n|possible&dadj-ITY pro:rel|that pro:dem|this mod|could
+	aux|be part|publish-PASTP +...
+%grt:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|LP 5|7|JCT 6|7|DET 7|3|ENUM
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|12|AUX 12|7|CMOD 13|3|PUNCT
+*PAR:	I_mean yeah like [/] like it says like &i they [/] they stated that
+	they have no intention of publishing the photos .
+%mor:	co|I_mean co|yeah conj|like pro:per|it v|say-3S prep|like
+	pro:sub|they v|state-PAST comp|that pro:sub|they v|have qn|no
+	n|intention prep|of n:gerund|publish-PRESP det:art|the n|photo-PL .
+%gra:	1|5|COM 2|5|COM 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|8|JCT 7|8|SUBJ 8|5|CJCT
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|13|QUANT 13|11|OBJ 14|13|NJCT 15|14|POBJ
+	16|17|DET 17|15|OBJ 18|5|PUNCT
+%trn:	co|I_mean co|yeah conj|like pro:per|it v|say-3S co|like pro:sub|they
+	v|state-PAST comp|that pro:sub|they v|have qn|no n|intention prep|of
+	n:gerund|publish-PRESP det:art|the n|photo-PL .
+%grt:	1|8|COM 2|8|COM 3|5|LINK 4|5|SUBJ 5|8|CJCT 6|8|COM 7|8|SUBJ 8|0|ROOT
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|13|QUANT 13|11|OBJ 14|13|NJCT
+	15|14|POBJ 16|17|DET 17|15|OBJ 18|8|PUNCT
+*PAR:	well ‡ if it's gonna make the story better <what's gonna stop> [//]
+	what's to stop them ?
+%mor:	co|well beg|beg conj|if pro:per|it~aux|be&3S part|go-PRESP~inf|to
+	v|make det:art|the n|story adj|good&CP pro:int|what~cop|be&3S inf|to
+	v|stop pro:obj|them ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|10|POSTMOD 12|13|SUBJ 13|11|CMOD 14|15|INF
+	15|13|CPRED 16|15|OBJ 17|6|PUNCT
+%trn:	co|well beg|beg conj|if pro:per|it~aux|be&3S part|go-PRESP~inf|to
+	v|make det:art|the n|story adj|good&CP pro:int|what~cop|be&3S inf|to
+	v|stop pro:obj|them ?
+%grt:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|13|CJCT 7|8|INF
+	8|6|COMP 9|10|DET 10|8|OBJ 11|10|POSTMOD 12|13|SUBJ 13|0|ROOT
+	14|15|INF 15|13|CPRED 16|15|OBJ 17|13|PUNCT
+*PAR:	yeah there's the danger it will get published , number one .
+%mor:	co|yeah pro:exist|there~cop|be&3S det:art|the n|danger pro:per|it
+	mod|will aux|get part|publish-PASTP cm|cm n|number det:num|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|5|CMOD 10|9|LP 11|12|MOD 12|9|OBJ 13|3|PUNCT
+%trn:	co|yeah pro:exist|there~cop|be&3S det:art|the n|danger pro:per|it
+	mod|will aux|get part|publish-PASTP cm|cm n|number det:num|one .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|5|CMOD 10|5|LP 11|12|MOD 12|5|ENUM 13|3|PUNCT
+*PAR:	number two , it's not clear to me +//.
+%mor:	n|number det:num|two cm|cm pro:per|it~cop|be&3S neg|not adj|clear
+	prep|to pro:obj|me +//.
+%gra:	1|2|MOD 2|5|LINK 3|2|LP 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|7|JCT
+	9|8|POBJ 10|5|PUNCT
+%trn:	v|number det:num|two cm|cm pro:per|it~cop|be&3S neg|not adj|clear
+	prep|to pro:obj|me +//.
+%grt:	1|2|MOD 2|5|TOP 3|2|LP 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|7|JCT
+	9|8|POBJ 10|5|PUNCT
+*PAR:	I don't know how you feel but it's not clear to me that having
+	someone look at this photo is gonna make any difference as you said
+	.
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|how pro:per|you v|feel
+	conj|but pro:per|it~cop|be&3S neg|not adj|clear prep|to pro:obj|me
+	comp|that n:gerund|have-PRESP pro:indef|someone v|look prep|at
+	det:dem|this n|photo aux|be&3S part|go-PRESP~inf|to v|make qn|any
+	n|difference conj|as pro:per|you v|say&PAST .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|10|NEG 12|10|PRED 13|12|JCT 14|13|POBJ 15|18|LINK
+	16|18|JCT 17|18|SUBJ 18|12|CMOD 19|18|JCT 20|21|DET 21|19|POBJ
+	22|23|AUX 23|18|XJCT 24|25|INF 25|23|COMP 26|27|QUANT 27|25|OBJ 28|30|LINK
+	29|30|SUBJ 30|18|CJCT 31|4|PUNCT
+%trn:	pro:sub|I mod|do~neg|not v|know pro:int|how pro:per|you v|feel
+	conj|but pro:per|it~cop|be&3S neg|not adj|clear prep|to pro:obj|me
+	comp|that n:gerund|have-PRESP pro:indef|someone v|look prep|at
+	det:dem|this n|photo aux|be&3S part|go-PRESP~inf|to v|make qn|any
+	n|difference conj|as pro:per|you v|say&PAST .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|10|LINK 9|10|SUBJ 10|4|CJCT 11|10|NEG 12|10|PRED 13|12|JCT
+	14|13|POBJ 15|23|LINK 16|23|CSUBJ 17|16|OBJ 18|16|COMP 19|18|JCT
+	20|21|DET 21|19|POBJ 22|23|AUX 23|12|CMOD 24|25|INF 25|23|COMP
+	26|27|QUANT 27|25|OBJ 28|30|LINK 29|30|SUBJ 30|23|CJCT 31|4|PUNCT
+*PAR:	whether it's gonna put more heat on NASCAR , it doesn't seem clear
+	.
+%mor:	conj|whether pro:per|it~aux|be&3S part|go-PRESP~inf|to
+	part|put&PASTP qn|more n|heat prep|on n:prop|NASCAR cm|cm pro:per|it
+	mod|do&3S~neg|not cop|seem adj|clear .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XJCT 7|8|QUANT 8|6|OBJ
+	9|4|JCT 10|9|POBJ 11|4|LP 12|15|SUBJ 13|15|AUX 14|13|NEG 15|4|CJCT
+	16|15|PRED 17|4|PUNCT
+%trn:	conj|whether pro:per|it~aux|be&3S part|go-PRESP~inf|to
+	part|put&PASTP qn|more n|heat prep|on n:prop|NASCAR cm|cm pro:per|it
+	mod|do&3S~neg|not cop|seem adj|clear .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|15|CJCT 5|6|INF 6|4|COMP 7|8|QUANT
+	8|6|OBJ 9|6|JCT 10|9|POBJ 11|4|LP 12|15|SUBJ 13|15|AUX 14|13|NEG
+	15|0|ROOT 16|15|PRED 17|15|PUNCT
+*PAR:	it's possible but <it's not> [/] it's not so sure that it would
+	clearly outweigh protecting the family from harm .
+%mor:	pro:per|it~cop|be&3S adj|possible conj|but pro:per|it~cop|be&3S
+	neg|not adv|so adj|sure comp|that pro:per|it mod|will&COND
+	adv|clear&dadj-LY out#v|weigh n:gerund|protect-PRESP det:art|the
+	n|family prep|from n|harm .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|NEG 8|9|JCT
+	9|6|PRED 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|JCT 14|9|CMOD 15|14|COORD
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|18|POBJ 20|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adj|possible conj|but pro:per|it~cop|be&3S
+	neg|not adv|so adj|sure comp|that pro:per|it mod|will&COND
+	adv|clear&dadj-LY out#v|weigh n:gerund|protect-PRESP det:art|the
+	n|family prep|from n|harm .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|NEG
+	8|9|JCT 9|6|PRED 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|JCT 14|9|CMOD
+	15|14|OBJ 16|17|DET 17|15|OBJ 18|15|JCT 19|18|POBJ 20|2|PUNCT
+*PAR:	&l let me give you a hypothetical$n .
+%mor:	v|let&ZERO pro:obj|me v|give pro:per|you det:art|a n|hypothetical .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ2 5|6|DET 6|3|OBJ 7|1|PUNCT
+%trn:	v|let&ZERO pro:obj|me v|give pro:per|you det:art|a n|hypothetical .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ2 5|6|DET 6|3|OBJ 7|1|PUNCT
+*PAR:	you know how I love hypotheticals .
+%mor:	pro:per|you v|know pro:int|how pro:sub|I v|love
+	n:adj|hypothetical-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+%trn:	pro:per|you v|know pro:int|how pro:sub|I v|love
+	n:adj|hypothetical-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*PAR:	&=laughs:multiple to make it more difficult .
+%mor:	inf|to v|make pro:per|it adv|more adj|difficult .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+%trn:	inf|to v|make pro:per|it adv|more adj|difficult .
+%grt:	1|2|INF 2|0|ROOT 3|2|OBJ 4|5|JCT 5|3|POSTMOD 6|2|PUNCT
+*PAR:	let's say that a photograph would make it possible for police to
+	catch a criminal .
+%mor:	v|let~pro:obj|us v|say comp|that det:art|a photo#n|graph
+	mod|will&COND v|make pro:per|it adj|possible prep|for n|police
+	inf|to v|catch det:art|a n|criminal .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|OBJ 10|8|JCT 11|10|JCT 12|11|POBJ 13|14|INF 14|10|XMOD 15|16|DET
+	16|14|OBJ 17|1|PUNCT
+%trn:	v|let~pro:obj|us v|say comp|that det:art|a photo#n|graph
+	mod|will&COND v|make pro:per|it adj|possible prep|for n|police
+	inf|to v|catch det:art|a n|criminal .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX
+	8|3|COMP 9|8|OBJ 10|9|POSTMOD 11|10|JCT 12|11|POBJ 13|14|INF
+	14|10|XMOD 15|16|DET 16|14|OBJ 17|1|PUNCT
+*PAR:	and they strongly urge news media to publish a photograph , not
+	this one but some other photograph , you_know photograph of a victim
+	, of a murder .
+%mor:	coord|and pro:sub|they adv|strong&dadj-LY v|urge n|news n|media
+	inf|to v|publish det:art|a photo#n|graph cm|cm neg|not det:dem|this
+	pro:indef|one conj|but qn|some qn|other photo#n|graph cm|cm
+	co|you_know photo#n|graph prep|of det:art|a n|victim cm|cm prep|of
+	det:art|a n|murder .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|8|INF 8|4|XJCT
+	9|10|DET 10|8|OBJ 11|10|LP 12|14|NEG 13|14|DET 14|10|ENUM 15|18|LINK
+	16|17|QUANT 17|18|QUANT 18|14|CJCT 19|18|LP 20|21|COM 21|18|ENUM 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|21|LP 26|21|JCT 27|28|DET 28|26|POBJ 29|4|PUNCT
+%trn:	coord|and pro:sub|they adv|strong&dadj-LY v|urge n|news n|media
+	inf|to v|publish det:art|a photo#n|graph cm|cm neg|not det:dem|this
+	pro:indef|one conj|but qn|some qn|other photo#n|graph cm|cm
+	co|you_know photo#n|graph prep|of det:art|a n|victim cm|cm prep|of
+	det:art|a n|murder .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|8|INF 8|4|COMP
+	9|10|DET 10|8|OBJ 11|10|LP 12|14|NEG 13|14|DET 14|10|ENUM 15|14|CONJ
+	16|18|QUANT 17|18|QUANT 18|15|COORD 19|18|LP 20|21|COM 21|18|ENUM
+	22|21|NJCT 23|24|DET 24|22|POBJ 25|22|LP 26|22|ENUM 27|28|DET
+	28|26|POBJ 29|4|PUNCT
+*PAR:	family is strongly against it , you_know says it'll cause a_lot_of
+	harm .
+%mor:	n|family cop|be&3S adv|strong&dadj-LY prep|against pro:per|it cm|cm
+	co|you_know v|say-3S pro:per|it~mod|will v|cause qn|a_lot_of n|harm
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|LP 7|8|COM 8|2|CPRED
+	9|8|OBJ 10|11|AUX 11|8|COMP 12|13|QUANT 13|11|OBJ 14|2|PUNCT
+%trn:	n|family cop|be&3S adv|strong&dadj-LY prep|against pro:per|it cm|cm
+	co|you_know v|say-3S pro:per|it~mod|will v|cause qn|a_lot_of n|harm
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|LP 7|8|COM 8|2|CJCT
+	9|11|SUBJ 10|11|AUX 11|8|COMP 12|13|QUANT 13|11|OBJ 14|2|PUNCT
+*PAR:	you_know you could <make it> [/] &=laughs:multiple make it as
+	difficult as you want .
+%mor:	co|you_know pro:per|you mod|could v|make pro:per|it adv|as
+	adj|difficult conj|as pro:per|you v|want .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|COORD 7|4|JCT 8|10|COORD
+	9|10|SUBJ 10|7|ENUM 11|4|PUNCT
+%trn:	co|you_know pro:per|you mod|could v|make pro:per|it adv|as
+	adj|difficult conj|as pro:per|you v|want .
+%grt:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|COORD 7|5|POSTMOD
+	8|10|COORD 9|10|SUBJ 10|7|ENUM 11|4|PUNCT
+*PAR:	but the argument on the other side is the police say there's a very
+	good chance we can catch the criminal because someone will [/] will
+	recognize the victim and they'll associate .
+%mor:	conj|but det:art|the n|argue&dv-MENT prep|on det:art|the qn|other
+	n|side cop|be&3S det:art|the n|police v|say
+	pro:exist|there~cop|be&3S det:art|a adv|very adj|good n|chance
+	pro:sub|we mod|can v|catch det:art|the n|criminal conj|because
+	pro:indef|someone mod|will v|recognize det:art|the n|victim
+	coord|and pro:sub|they~mod|will v|associate .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|NJCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|11|CJCT
+	9|10|DET 10|11|SUBJ 11|0|ROOT 12|13|SUBJ 13|11|COMP 14|17|DET 15|16|JCT
+	16|17|MOD 17|13|PRED 18|20|SUBJ 19|20|AUX 20|17|CMOD 21|22|DET
+	22|20|OBJ 23|26|LINK 24|26|SUBJ 25|26|AUX 26|11|CJCT 27|28|DET 28|26|OBJ
+	29|32|LINK 30|32|SUBJ 31|32|AUX 32|26|CJCT 33|11|PUNCT
+%trn:	conj|but det:art|the n|argue&dv-MENT prep|on det:art|the qn|other
+	n|side cop|be&3S det:art|the n|police v|say
+	pro:exist|there~cop|be&3S det:art|a adv|very adj|good n|chance
+	pro:sub|we mod|can v|catch det:art|the n|criminal conj|because
+	pro:indef|someone mod|will v|recognize det:art|the n|victim
+	coord|and pro:sub|they~mod|will v|associate .
+%grt:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|NJCT 5|7|DET 6|7|QUANT 7|4|POBJ
+	8|0|ROOT 9|10|DET 10|11|SUBJ 11|8|CPRED 12|13|SUBJ 13|11|COMP
+	14|17|DET 15|16|JCT 16|17|MOD 17|13|PRED 18|20|SUBJ 19|20|AUX
+	20|17|CMOD 21|22|DET 22|20|OBJ 23|26|LINK 24|26|SUBJ 25|26|AUX
+	26|13|CJCT 27|28|DET 28|26|OBJ 29|32|LINK 30|32|SUBJ 31|32|AUX
+	32|26|CJCT 33|8|PUNCT
+*PAR:	now it's a much tougher call „ isn't it ?
+%mor:	adv:tem|now pro:per|it~cop|be&3S det:art|a adv|much adj|tough-CP n|call
+	end|end cop|be&3S~neg|not pro:per|it ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|9|ENDP
+	9|3|END 10|3|NEG 11|3|SUBJ 12|3|PUNCT
+%trn:	adv:tem|now pro:per|it~cop|be&3S det:art|a adv|much adj|tough-CP n|call
+	end|end cop|be&3S~neg|not pro:per|it ?
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|9|ENDP
+	9|3|END 10|9|NEG 11|9|SUBJ 12|3|PUNCT
+*PAR:	because you've got a clear argument on the other side .
+%mor:	conj|because pro:per|you~aux|have part|get&PASTP det:art|a
+	adj|clear n|argue&dv-MENT prep|on det:art|the qn|other n|side .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|4|PUNCT
+%trn:	conj|because pro:per|you~aux|have part|get&PASTP det:art|a adj|clear
+	n|argue&dv-MENT prep|on det:art|the qn|other n|side .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|4|PUNCT
+*PAR:	what do you do ?
+%mor:	pro:int|what mod|do pro:per|you v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	pro:int|what mod|do pro:per|you v|do ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	the police want the public to see this picture .
+%mor:	det:art|the n|police v|want det:art|the n|public inf|to v|see
+	det:dem|this n|picture .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+%trn:	det:art|the n|police v|want det:art|the n|public inf|to v|see
+	det:dem|this n|picture .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|3|COMP 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	they want the newspapers to get this picture .
+%mor:	pro:sub|they v|want det:art|the n|newspaper-PL inf|to v|get
+	det:dem|this n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|4|XMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+%trn:	pro:sub|they v|want det:art|the n|newspaper-PL inf|to v|get
+	det:dem|this n|picture .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|2|COMP 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	it's a_little different because it's not newspapers asking for it
+	but the newspapers might agree .
+%mor:	pro:per|it~cop|be&3S adv|a_little adj|different conj|because
+	pro:per|it~aux|be&3S neg|not n|newspaper-PL part|ask-PRESP prep|for
+	pro:per|it conj|but det:art|the n|newspaper-PL mod|might v|agree .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|10|LINK 6|10|SUBJ 7|10|AUX 8|7|NEG
+	9|10|JCT 10|2|CJCT 11|10|JCT 12|11|POBJ 13|17|LINK 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|10|CJCT 18|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adv|a_little adj|different conj|because
+	pro:per|it~cop|be&3S neg|not n|newspaper-PL part|ask-PRESP
+	prep|for pro:per|it conj|but det:art|the n|newspaper-PL mod|might
+	v|agree .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|NEG
+	9|7|PRED 10|9|XMOD 11|10|JCT 12|11|POBJ 13|17|LINK 14|15|DET
+	15|17|SUBJ 16|17|AUX 17|2|CJCT 18|2|PUNCT
+*PAR:	they might say +"/.
+%mor:	pro:sub|they mod|might v|say +"/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%trn:	pro:sub|they mod|might v|say +"/.
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	+" well ‡ even if police didn't want us to do it we still would do
+	it .
+%mor:	co|well beg|beg adv|even conj|if n|police mod|do&PAST~neg|not
+	v|want pro:obj|us inf|to v|do pro:per|it pro:sub|we adv|still
+	mod|will&COND v|do pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|16|JCT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|16|CJCT
+	9|8|OBJ 10|11|INF 11|8|COMP 12|11|OBJ 13|16|SUBJ 14|16|JCT 15|16|AUX
+	16|0|ROOT 17|16|OBJ 18|16|PUNCT
+%trn:	co|well beg|beg adv|even conj|if n|police mod|do&PAST~neg|not
+	v|want pro:obj|us inf|to v|do pro:per|it pro:sub|we adv|still
+	mod|will&COND v|do pro:per|it .
+%grt:	1|0|BEG 2|1|BEGP 3|8|JCT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG
+	8|16|CJCT 9|8|OBJ 10|11|INF 11|8|COMP 12|11|OBJ 13|16|SUBJ 14|16|JCT
+	15|16|AUX 16|0|ROOT 17|16|OBJ 18|16|PUNCT
+*PAR:	then you've got a tough call „ don't you ?
+%mor:	adv:tem|then pro:per|you~aux|have part|get&PASTP det:art|a
+	adj|tough n|call end|end mod|do~neg|not pro:per|you ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|11|ENDP
+	9|11|AUX 10|9|NEG 11|4|END 12|4|PUNCT
+%trn:	adv:tem|then pro:per|you~aux|have part|get&PASTP det:art|a
+	adj|tough n|call end|end mod|do~neg|not pro:per|you ?
+%grt:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|ENDP
+	9|4|END 10|9|NEG 11|9|SUBJ 12|4|PUNCT
+*PAR:	yeah (be)cause then <like there's such> [//] there's like such a
+	strong argument for minimizing harm to like other people in the
+	community who could be like hurt <by the> [/] by the killer .
+%mor:	co|yeah conj|because adv:tem|then pro:exist|there~cop|be&3S co|like
+	qn|such det:art|a adj|strong n|argue&dv-MENT prep|for
+	n:gerund|minimize-PRESP n|harm prep|to co|like qn|other n|person&PL
+	prep|in det:art|the n|community pro:rel|who mod|could aux|be co|like
+	part|hurt&PASTP prep|by det:art|the n|kill&dv-AGT .
+%gra:	1|5|COM 2|5|LINK 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|COM 7|10|QUANT 8|10|DET
+	9|10|MOD 10|5|PRED 11|10|NJCT 12|11|POBJ 13|12|OBJ 14|13|NJCT 15|17|COM
+	16|17|QUANT 17|14|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|25|LINK
+	22|25|AUX 23|25|AUX 24|23|COM 25|20|CMOD 26|25|JCT 27|28|DET 28|26|POBJ
+	29|5|PUNCT
+%trn:	co|yeah conj|because adv:tem|then pro:exist|there~cop|be&3S
+	co|like qn|such det:art|a adj|strong n|argue&dv-MENT prep|for
+	n:gerund|minimize-PRESP n|harm prep|to co|like qn|other n|person&PL
+	prep|in det:art|the n|community pro:rel|who mod|could aux|be
+	co|like part|hurt&PASTP prep|by det:art|the n|kill&dv-AGT .
+%grt:	1|5|COM 2|5|LINK 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|COM 7|10|QUANT
+	8|10|DET 9|10|MOD 10|5|PRED 11|10|NJCT 12|11|POBJ 13|12|OBJ
+	14|13|NJCT 15|17|COM 16|17|QUANT 17|14|POBJ 18|17|NJCT 19|20|DET
+	20|18|POBJ 21|25|LINK 22|25|AUX 23|25|AUX 24|25|COM 25|17|CMOD
+	26|25|JCT 27|28|DET 28|26|POBJ 29|5|PUNCT
+*PAR:	as opposed to like minimizing the harm of the family isn't so
+	important then .
+%mor:	conj|as part|oppose-PASTP prep|to co|like part|minimize-PRESP
+	det:art|the n|harm prep|of det:art|the n|family cop|be&3S~neg|not
+	adv|so adj|important adv:tem|then .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|COM 5|2|XJCT 6|7|DET 7|11|SUBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|COMP 12|11|NEG 13|14|JCT 14|11|PRED 15|14|JCT
+	16|2|PUNCT
+%trn:	adv|as part|oppose-PASTP prep|to co|like n:gerund|minimize-PRESP
+	det:art|the n|harm prep|of det:art|the n|family cop|be&3S~neg|not
+	adv|so adj|important adv:tem|then .
+%grt:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|COM 5|11|SUBJ 6|7|DET 7|5|OBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|3|CPOBJ 12|11|NEG 13|14|JCT 14|11|PRED
+	15|11|JCT 16|2|PUNCT
+*PAR:	like the greater good$n of you_know the majority of the people .
+%mor:	co|like det:art|the adj|great-CP n|good prep|of co|you_know
+	det:art|the n|majority prep|of det:art|the n|person&PL .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|8|COM 7|8|DET 8|5|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+%trn:	co|like det:art|the adj|great-CP n|good prep|of co|you_know
+	det:art|the n|majority prep|of det:art|the n|person&PL .
+%grt:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|8|COM 7|8|DET
+	8|5|POBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	let's [/] let's jump to our role playing game before we get to the
+	reading .
+%mor:	v|let~pro:obj|us v|jump prep|to det:poss|our n|role part|play-PRESP
+	n|game conj|before pro:sub|we v|get prep|to det:art|the
+	n:gerund|read-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|3|XJCT 8|7|OBJ
+	9|11|LINK 10|11|SUBJ 11|1|CJCT 12|11|JCT 13|14|DET 14|12|POBJ 15|1|PUNCT
+%trn:	v|let~pro:obj|us v|jump prep|to det:poss|our n|role
+	n:gerund|play-PRESP n|game conj|before pro:sub|we v|get prep|to
+	det:art|the n:gerund|read-PRESP .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|8|DET 6|7|MOD 7|8|MOD 8|4|POBJ
+	9|11|LINK 10|11|SUBJ 11|1|CJCT 12|11|JCT 13|14|DET 14|12|POBJ
+	15|1|PUNCT
+*PAR:	don't spend a_lot_of time reading these things but you just wanna
+	get the sense as_to which one is more newsworthy .
+%mor:	mod|do~neg|not v|spend qn|a_lot_of n|time part|read-PRESP
+	det:dem|these n|thing-PL conj|but pro:per|you adv|just v|want~inf|to
+	v|get det:art|the n|sense prep|as_to det:int|which pro:indef|one
+	cop|be&3S adv|more adj|+n|news+adj|worthy .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|XMOD 7|8|DET 8|6|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|3|CJCT 13|14|INF 14|12|COMP 15|16|DET
+	16|14|OBJ 17|20|JCT 18|17|POBJ 19|20|SUBJ 20|14|CJCT 21|22|JCT 22|20|PRED
+	23|3|PUNCT
+%trn:	mod|do~neg|not v|spend qn|a_lot_of n|time part|read-PRESP
+	det:dem|these n|thing-PL conj|but pro:per|you adv|just v|want~inf|to
+	v|get det:art|the n|sense prep|as_to det:int|which pro:indef|one
+	cop|be&3S adv|more adj|+n|news+adj|worthy .
+%grt:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|XJCT 7|8|DET 8|6|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|3|CJCT 13|14|INF 14|12|COMP 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|19|DET 19|20|SUBJ 20|17|CPOBJ 21|22|JCT
+	22|20|PRED 23|3|PUNCT
+*PAR:	you've got two stories .
+%mor:	pro:per|you~aux|have part|get&PASTP det:num|two n|story-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+%trn:	pro:per|you~aux|have part|get&PASTP det:num|two n|story-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	both these stories broke yesterday „ right ?
+%mor:	qn|both det:dem|these n|story-PL v|break&PAST adv:tem|yesterday
+	end|end co|right ?
+%gra:	1|3|QUANT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|ENDP 7|4|END 8|4|PUNCT
+%trn:	qn|both det:dem|these n|story-PL v|break&PAST adv:tem|yesterday
+	end|end co|right ?
+%grt:	1|3|QUANT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|ENDP 7|4|END
+	8|4|PUNCT
+*PAR:	the New York Times and CBS got the results of their opinion polls
+	showing that Bush enjoys a solid sixty percent popularity .
+%mor:	det:art|the n:prop|New n:prop|York n:prop|Times coord|and
+	n:prop|CBS v|get&PAST det:art|the n|result-PL prep|of det:poss|their
+	n|opinion n|poll-PL part|show-PRESP comp|that n:prop|Bush v|enjoy-3S
+	det:art|a adj|solid det:num|sixty n|percent n|popularity .
+%gra:	1|2|DET 2|4|NAME 3|4|NAME 4|7|SUBJ 5|4|CONJ 6|5|COORD 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|7|XJCT 15|17|LINK
+	16|17|SUBJ 17|14|COMP 18|22|DET 19|22|MOD 20|21|QUANT 21|22|MOD 22|17|OBJ
+	23|7|PUNCT
+%trn:	det:art|the n:prop|New n:prop|York n:prop|Times coord|and
+	n:prop|CBS v|get&PAST det:art|the n|result-PL prep|of det:poss|their
+	n|opinion n|poll-PL part|show-PRESP comp|that n:prop|Bush v|enjoy-3S
+	det:art|a adj|solid det:num|sixty n|percent n|popularity .
+%grt:	1|4|DET 2|4|NAME 3|4|NAME 4|7|SUBJ 5|4|CONJ 6|5|COORD 7|0|ROOT
+	8|9|DET 9|7|OBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|XMOD
+	15|17|LINK 16|17|SUBJ 17|14|COMP 18|22|DET 19|22|MOD 20|21|QUANT
+	21|22|MOD 22|17|OBJ 23|7|PUNCT
+*PAR:	but about half the public's not so sure that he's really in charge
+	.
+%mor:	conj|but adv|about n|half det:art|the n|public~cop|be&3S neg|not
+	adv|so adj|sure comp|that pro:sub|he~cop|be&3S adv|real&dadj-LY
+	prep|in n|charge .
+%gra:	1|3|LINK 2|3|JCT 3|6|CJCT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|NEG 8|9|JCT
+	9|6|PRED 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT 14|13|JCT 15|14|POBJ
+	16|6|PUNCT
+%trn:	conj|but adv|about qn|half det:art|the n|public~cop|be&3S neg|not
+	adv|so adj|sure comp|that pro:sub|he~cop|be&3S adv|real&dadj-LY
+	prep|in n|charge .
+%grt:	1|6|LINK 2|3|JCT 3|5|QUANT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|NEG 8|9|JCT
+	9|6|PRED 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT 14|12|JCT
+	15|14|POBJ 16|6|PUNCT
+*PAR:	&s some very interesting statistics about his standing .
+%mor:	qn|some adv|very adj|interesting n|statistic-PL prep|about
+	det:poss|his n:gerund|stand-PRESP .
+%gra:	1|4|QUANT 2|3|JCT 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+%trn:	qn|some adv|very adj|interesting n|statistic-PL prep|about
+	det:poss|his n:gerund|stand-PRESP .
+%grt:	1|4|QUANT 2|3|JCT 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	it has great political significance , has great implications for
+	policy .
+%mor:	pro:per|it v|have&3S adj|great adj|politic-AL n|significance cm|cm
+	v|have&3S adj|great n|implicate&dv-TION-PL prep|for n|policy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|LP 7|2|ENUM 8|9|MOD
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|2|PUNCT
+%trn:	pro:per|it v|have&3S adj|great adj|politic-AL n|significance
+	cm|cm v|have&3S adj|great n|implicate&dv-TION-PL prep|for n|policy
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|5|LP 7|2|ENUM 8|9|MOD
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|2|PUNCT
+*PAR:	but the other story is that he apparently is breaking a [//] &p one
+	of his campaign pledges to restrict carbon dioxide emissions which
+	scientists say is a major cause of global warming .
+%mor:	conj|but det:art|the qn|other n|story cop|be&3S comp|that
+	pro:sub|he adv|apparent&dadj-LY aux|be&3S part|break-PRESP
+	det:num|one prep|of det:poss|his n|campaign v|pledge-3S inf|to
+	v|restrict n|carbon n|dioxide n|emission-PL pro:rel|which
+	n|scientist-PL v|say cop|be&3S det:art|a adj|major n|cause prep|of
+	adj|global n:gerund|warm-PRESP .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|10|LINK 7|10|SUBJ
+	8|10|JCT 9|10|AUX 10|5|CPRED 11|15|SUBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|10|COMP 16|17|INF 17|15|COMP 18|20|MOD 19|20|MOD 20|17|OBJ 21|23|LINK
+	22|23|SUBJ 23|20|CMOD 24|23|COMP 25|27|DET 26|27|MOD 27|24|PRED 28|27|NJCT
+	29|30|MOD 30|28|POBJ 31|5|PUNCT
+%trn:	conj|but det:art|the qn|other n|story cop|be&3S comp|that
+	pro:sub|he adv|apparent&dadj-LY aux|be&3S part|break-PRESP
+	pro:indef|one prep|of det:poss|his n|campaign n|pledge-PL inf|to
+	v|restrict n|carbon n|dioxide n|emission-PL pro:rel|which
+	n|scientist-PL v|say cop|be&3S det:art|a adj|major n|cause prep|of
+	adj|global n:gerund|warm-PRESP .
+%grt:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|10|LINK 7|10|SUBJ
+	8|10|JCT 9|10|AUX 10|5|CPRED 11|10|OBJ 12|11|JCT 13|15|DET
+	14|15|MOD 15|12|POBJ 16|17|INF 17|15|XMOD 18|19|MOD 19|20|MOD
+	20|17|OBJ 21|23|LINK 22|23|SUBJ 23|20|CMOD 24|23|COMP 25|27|DET
+	26|27|MOD 27|24|PRED 28|27|NJCT 29|30|MOD 30|28|POBJ 31|5|PUNCT
+*PAR:	the main thing you wanna do is say what's wrong with the other
+	team's position „ okay ?
+%mor:	det:art|the adj|main n|thing pro:per|you v|want~inf|to v|do
+	cop|be&3S v|say pro:int|what~cop|be&3S adj|wrong prep|with
+	det:art|the qn|other adj|team&dn-POSS n|position end|end co|okay ?
+%gra:	1|3|DET 2|3|MOD 3|8|SUBJ 4|5|SUBJ 5|3|CMOD 6|7|INF 7|5|COMP 8|9|SUBJ
+	9|0|ROOT 10|11|SUBJ 11|9|COBJ 12|11|PRED 13|12|JCT 14|17|DET 15|17|QUANT
+	16|17|MOD 17|13|POBJ 18|19|ENDP 19|9|END 20|9|PUNCT
+%trn:	det:art|the adj|main n|thing pro:per|you v|want~inf|to v|do
+	cop|be&3S v|say pro:int|what~cop|be&3S adj|wrong prep|with
+	det:art|the qn|other adj|team&dn-POSS n|position end|end co|okay ?
+%grt:	1|3|DET 2|3|MOD 3|8|SUBJ 4|5|SUBJ 5|3|CMOD 6|7|INF 7|5|COMP
+	8|0|ROOT 9|8|CPRED 10|11|SUBJ 11|9|COMP 12|11|PRED 13|12|JCT
+	14|16|DET 15|16|QUANT 16|17|MOD 17|13|POBJ 18|19|ENDP 19|8|END
+	20|8|PUNCT
+*PAR:	that's your main focus , why the other team is wrong .
+%mor:	pro:dem|that~cop|be&3S det:poss|your adj|main n|focus cm|cm
+	pro:int|why det:art|the qn|other n|team cop|be&3S n|wrong .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|LP 7|11|LINK 8|10|DET
+	9|10|QUANT 10|11|SUBJ 11|5|CMOD 12|11|PRED 13|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S det:poss|your adj|main n|focus cm|cm
+	pro:int|why det:art|the qn|other n|team cop|be&3S adj|wrong .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|LP 7|11|LINK
+	8|10|DET 9|10|QUANT 10|11|SUBJ 11|2|CJCT 12|11|PRED 13|2|PUNCT
+*PAR:	&=laughs:multiple you hafta have reasoned arguments , not just
+	dissing .
+%mor:	pro:per|you mod|have~inf|to aux|have part|reason-PASTP
+	n|argue&dv-MENT-PL cm|cm neg|not adv|just part|diss-PRESP .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|INF 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|LP 8|10|NEG
+	9|10|JCT 10|5|XJCT 11|5|PUNCT
+%trn:	pro:per|you mod|have~inf|to v|have part|reason-PASTP
+	n|argue&dv-MENT-PL cm|cm neg|not adv|just n:gerund|diss-PRESP .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|XMOD 6|4|OBJ 7|6|LP 8|9|NEG
+	9|10|NJCT 10|6|ENUM 11|4|PUNCT
+*PAR:	the New York Times CBS poll sixty percent rating for Bush .
+%mor:	det:art|the n:prop|New n:prop|York n:prop|Times n:prop|CBS n|poll
+	det:num|sixty n|percent part|rate-PRESP prep|for n:prop|Bush .
+%gra:	1|2|DET 2|0|INCROOT 3|4|NAME 4|6|MOD 5|6|MOD 6|2|APP 7|8|QUANT 8|6|OBJ
+	9|8|XMOD 10|9|JCT 11|10|POBJ 12|2|PUNCT
+%trn:	det:art|the n:prop|New n:prop|York n:prop|Times n:prop|CBS v|poll
+	det:num|sixty n|percent n:gerund|rate-PRESP prep|for n:prop|Bush .
+%grt:	1|4|DET 2|4|NAME 3|4|NAME 4|6|SUBJ 5|4|ENUM 6|0|ROOT 7|8|QUANT
+	8|9|MOD 9|6|OBJ 10|9|NJCT 11|10|POBJ 12|6|PUNCT
+*PAR:	Bush says he's gonna break his campaign promise to restrict carbon
+	dioxide .
+%mor:	n:prop|Bush v|say-3S pro:sub|he~aux|be&3S part|go-PRESP~inf|to
+	v|break det:poss|his n|campaign n|promise inf|to v|restrict n|carbon
+	n|dioxide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|12|INF 12|10|XMOD 13|14|MOD 14|12|OBJ 15|2|PUNCT
+%trn:	n:prop|Bush v|say-3S pro:sub|he~aux|be&3S part|go-PRESP~inf|to
+	v|break det:poss|his n|campaign n|promise inf|to v|restrict n|carbon
+	n|dioxide .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|COMP
+	8|10|DET 9|10|MOD 10|7|OBJ 11|12|INF 12|10|XMOD 13|14|MOD 14|12|OBJ
+	15|2|PUNCT
+*PAR:	one of these two is gonna lead the New York Times .
+%mor:	det:num|one prep|of det:dem|these det:num|two aux|be&3S
+	part|go-PRESP~inf|to v|lead det:art|the n:prop|New n:prop|York
+	n:prop|Times .
+%gra:	1|6|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|12|NAME 12|10|APP 13|6|PUNCT
+%trn:	pro:indef|one prep|of det:dem|these det:num|two aux|be&3S
+	part|go-PRESP~inf|to v|lead det:art|the n:prop|New n:prop|York
+	n:prop|Times .
+%grt:	1|6|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|AUX 6|0|ROOT 7|8|INF
+	8|6|COMP 9|12|DET 10|12|NAME 11|12|NAME 12|8|OBJ 13|6|PUNCT
+*PAR:	the print edition's gonna be in the upper right hand corner of this
+	morning's paper .
+%mor:	det:art|the n|print n|edition~aux|be&3S part|go-PRESP~inf|to cop|be
+	prep|in det:art|the adj|upper n|right n|hand n|corner prep|of
+	det:dem|this adj|morning&dn-POSS n|paper .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|13|DET 10|13|MOD 11|13|MOD 12|13|MOD 13|8|POBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|5|PUNCT
+%trn:	det:art|the n|print n|edition~aux|be&3S part|go-PRESP~inf|to cop|be
+	prep|in det:art|the adj|upper n|right n|hand n|corner prep|of
+	det:dem|this adj|morning&dn-POSS n|paper .
+%grt:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP
+	8|7|JCT 9|13|DET 10|12|MOD 11|12|MOD 12|13|MOD 13|8|POBJ 14|13|NJCT
+	15|16|DET 16|17|MOD 17|14|POBJ 18|5|PUNCT
+*PAR:	no fair if you already saw the print edition .
+%mor:	qn|no n|fair conj|if pro:per|you adv|already v|see&PAST det:art|the
+	n|print n|edition .
+%gra:	1|2|QUANT 2|0|INCROOT 3|6|LINK 4|6|SUBJ 5|6|JCT 6|2|CMOD 7|9|DET
+	8|9|MOD 9|6|OBJ 10|2|PUNCT
+%trn:	qn|no n|fair conj|if pro:per|you adv|already v|see&PAST det:art|the
+	n|print n|edition .
+%grt:	1|2|QUANT 2|0|INCROOT 3|6|LINK 4|6|SUBJ 5|6|JCT 6|2|CMOD 7|9|DET
+	8|9|MOD 9|6|OBJ 10|2|PUNCT
+*PAR:	and it'll also be the top story on the online edition when they
+	start the day .
+%mor:	coord|and pro:per|it~mod|will adv|also cop|be det:art|the n|top
+	n|story prep|on det:art|the adj|online n|edition conj|when
+	pro:sub|they v|start det:art|the n|day .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|5|CJCT
+	16|17|DET 17|15|OBJ 18|5|PUNCT
+%trn:	coord|and pro:per|it~mod|will adv|also cop|be det:art|the n|top
+	n|story prep|on det:art|the adj|online n|edition conj|when
+	pro:sub|they v|start det:art|the n|day .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ
+	15|5|CJCT 16|17|DET 17|15|OBJ 18|5|PUNCT
+*PAR:	but of_course it'll change depending on what other news breaks .
+%mor:	conj|but co|of_course pro:per|it~mod|will v|change
+	part|depend-PRESP prep|on pro:int|what qn|other n|news v|break-3S .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|COMP 7|6|JCT 8|11|LINK
+	9|10|QUANT 10|11|SUBJ 11|7|CPOBJ 12|5|PUNCT
+%trn:	conj|but co|of_course pro:per|it~mod|will v|change
+	part|depend-PRESP prep|on det:int|what qn|other n|news v|break-3S .
+%grt:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|XJCT 7|6|JCT 8|10|DET
+	9|10|QUANT 10|11|SUBJ 11|7|CPOBJ 12|5|PUNCT
+*PAR:	so ‡ <take a> [//] just very quickly read through some of the basic
+	facts in these two and then form your caucuses and prepare really
+	powerful arguments against the other side , why they're wrong in
+	terms of what the New York Times should be doing .
+%mor:	co|so beg|beg adv|just adv|very adv|quick&dadj-LY v|read&ZERO
+	prep|through pro:indef|some prep|of det:art|the adj|basic n|fact-PL
+	prep|in det:dem|these det:num|two coord|and adv:tem|then v|form
+	det:poss|your n|caucus-PL coord|and v|prepare adv|real&dadj-LY
+	adj|power&dn-FULL n|argue&dv-MENT-PL prep|against det:art|the
+	qn|other n|side cm|cm pro:int|why pro:sub|they~cop|be&PRES adj|wrong
+	prep|in n|term-PL prep|of pro:int|what det:art|the n:prop|New
+	n:prop|York n:prop|Times mod|should aux|be part|do-PRESP .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|6|CONJ 17|18|JCT 18|16|COORD 19|20|DET 20|18|OBJ 21|18|CONJ 22|21|COORD
+	23|24|JCT 24|25|MOD 25|22|OBJ 26|22|JCT 27|29|DET 28|29|QUANT 29|26|POBJ
+	30|22|LP 31|33|LINK 32|33|SUBJ 33|22|COMP 34|33|PRED 35|33|JCT 36|35|POBJ
+	37|36|NJCT 38|40|DET 39|40|DET 40|37|POBJ 41|42|MOD 42|45|SUBJ
+	43|45|AUX 44|45|AUX 45|40|CMOD 46|6|PUNCT
+%trn:	co|so beg|beg adv|just adv|very adv|quick&dadj-LY v|read&ZERO
+	prep|through pro:indef|some prep|of det:art|the adj|basic n|fact-PL
+	prep|in det:dem|these det:num|two coord|and adv:tem|then v|form
+	det:poss|your n|caucus-PL coord|and v|prepare adv|real&dadj-LY
+	adj|power&dn-FULL n|argue&dv-MENT-PL prep|against det:art|the
+	qn|other n|side cm|cm pro:int|why pro:sub|they~cop|be&PRES adj|wrong
+	prep|in n|term-PL prep|of pro:int|what det:art|the n:prop|New
+	n:prop|York n:prop|Times mod|should aux|be part|do-PRESP .
+%grt:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|18|LINK 17|18|JCT 18|8|CJCT 19|20|DET 20|18|OBJ
+	21|18|CONJ 22|21|COORD 23|24|JCT 24|25|MOD 25|22|OBJ 26|25|NJCT
+	27|29|DET 28|29|QUANT 29|26|POBJ 30|25|LP 31|33|LINK 32|33|SUBJ
+	33|25|CMOD 34|33|PRED 35|33|JCT 36|35|POBJ 37|36|NJCT 38|45|LINK
+	39|42|DET 40|42|NAME 41|42|NAME 42|45|SUBJ 43|45|AUX 44|45|AUX
+	45|37|CPOBJ 46|6|PUNCT
+*PAR:	<what is the> [/] &f what is the duty of the New York Times to its
+	readers to its profession of journalism and to the nation ?
+%mor:	pro:int|what cop|be&3S det:art|the n|duty prep|of det:art|the
+	n:prop|New n:prop|York n:prop|Times prep|to det:poss|its
+	n|read&dv-AGT-PL prep|to det:poss|its n|profession prep|of
+	n|journal-ISM coord|and prep|to det:art|the n|nation ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|NAME
+	9|4|APP 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|9|CONJ 19|18|COORD 20|21|DET 21|19|POBJ 22|2|PUNCT
+%trn:	pro:int|what cop|be&3S det:art|the n|duty prep|of det:art|the
+	n:prop|New n:prop|York n:prop|Times prep|to det:poss|its
+	n|read&dv-AGT-PL prep|to det:poss|its n|profession prep|of
+	n|journal-ISM coord|and prep|to det:art|the n|nation ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|9|DET 7|9|NAME
+	8|9|NAME 9|5|POBJ 10|4|NJCT 11|12|DET 12|10|POBJ 13|10|ENUM 14|15|DET
+	15|13|POBJ 16|15|NJCT 17|16|POBJ 18|13|CONJ 19|18|COORD 20|21|DET
+	21|19|POBJ 22|2|PUNCT
+*PAR:	and of_course what I gave you is stories by the New York Times .
+%mor:	coord|and co|of_course pro:int|what pro:sub|I v|give&PAST
+	pro:per|you cop|be&3S n|story-PL prep|by det:art|the n:prop|New
+	n:prop|York n:prop|Times .
+%gra:	1|5|LINK 2|5|COM 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|PRED
+	9|8|NJCT 10|11|DET 11|13|NAME 12|13|NAME 13|9|POBJ 14|5|PUNCT
+%trn:	coord|and co|of_course pro:int|what pro:sub|I v|give&PAST
+	pro:per|you cop|be&3S n|story-PL prep|by det:art|the n:prop|New
+	n:prop|York n:prop|Times .
+%grt:	1|7|LINK 2|7|COM 3|5|OBJ 4|5|SUBJ 5|7|CSUBJ 6|5|OBJ2 7|0|ROOT
+	8|7|PRED 9|8|NJCT 10|13|DET 11|13|NAME 12|13|NAME 13|9|POBJ
+	14|7|PUNCT
+*PAR:	but one of them leads the paper and one of them doesn't .
+%mor:	conj|but det:num|one prep|of pro:obj|them v|lead-3S det:art|the
+	n|paper coord|and det:num|one prep|of pro:obj|them mod|do&3S~neg|not
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|9|NJCT 11|10|POBJ 12|9|ENUM 13|12|NEG 14|5|PUNCT
+%trn:	conj|but pro:indef|one prep|of pro:obj|them v|lead-3S det:art|the
+	n|paper coord|and pro:indef|one prep|of pro:obj|them
+	mod|do&3S~neg|not .
+%grt:	1|5|LINK 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|12|LINK 9|12|SUBJ 10|9|NJCT 11|10|POBJ 12|5|CJCT 13|12|NEG
+	14|5|PUNCT
+*PAR:	these [/] these you_know percentages of [/] of favoring Bush are a
+	dime a dozen .
+%mor:	det:dem|these co|you_know n|percentage-PL prep|of
+	n:gerund|favor-PRESP n:prop|Bush cop|be&PRES det:art|a n|dime
+	det:art|a n|dozen .
+%gra:	1|3|DET 2|3|COM 3|0|INCROOT 4|3|NJCT 5|7|LINK 6|7|SUBJ 7|4|POBJ 8|9|DET
+	9|7|PRED 10|11|DET 11|9|OBJ 12|3|PUNCT
+%trn:	det:dem|these co|you_know n|percentage-PL prep|of
+	n:gerund|favor-PRESP n:prop|Bush cop|be&PRES det:art|a n|dime
+	det:art|a n|dozen .
+%grt:	1|3|DET 2|3|COM 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|5|OBJ 7|0|ROOT
+	8|9|DET 9|7|PRED 10|11|DET 11|9|ENUM 12|7|PUNCT
+*PAR:	they [x 4] occur so often that what's more important is [/] is a
+	key decision of a reversal that Bush made .
+%mor:	pro:sub|they v|occur adv|so adv|often comp|that
+	pro:int|what~cop|be&3S adv|more adj|important cop|be&3S det:art|a
+	n|key n|decision prep|of det:art|a n|reversal pro:rel|that
+	n:prop|Bush v|make&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|10|JCT
+	9|10|SUBJ 10|7|PRED 11|13|DET 12|13|MOD 13|10|PRED 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|2|PUNCT
+%trn:	pro:sub|they v|occur adv|so adv|often comp|that
+	pro:int|what~cop|be&3S adv|more adj|important cop|be&3S det:art|a
+	n|key n|decision prep|of det:art|a n|reversal pro:rel|that
+	n:prop|Bush v|make&PAST .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|10|LINK 6|7|SUBJ 7|10|CSUBJ
+	8|9|JCT 9|7|PRED 10|4|CMOD 11|13|DET 12|13|MOD 13|10|PRED
+	14|13|NJCT 15|16|DET 16|14|POBJ 17|19|LINK 18|19|SUBJ 19|13|CMOD
+	20|2|PUNCT
+*PAR:	and by him making this decision &u it's gonna affect his support
+	anyway so already this sixty percent is not correct .
+%mor:	coord|and prep|by pro:obj|him part|make-PRESP det:dem|this
+	n|decision pro:per|it~aux|be&3S part|go-PRESP~inf|to v|affect
+	det:poss|his n|support adv|anyway conj|so adv|already det:dem|this
+	det:num|sixty n|percent cop|be&3S neg|not adj|correct .
+%gra:	1|4|LINK 2|4|JCT 3|2|POBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|6|JCT 15|20|LINK
+	16|20|JCT 17|19|DET 18|19|QUANT 19|20|SUBJ 20|14|CPOBJ 21|20|NEG 22|20|PRED
+	23|4|PUNCT
+%trn:	coord|and prep|by pro:obj|him part|make-PRESP det:dem|this
+	n|decision pro:per|it~aux|be&3S part|go-PRESP~inf|to v|affect
+	det:poss|his n|support adv|anyway conj|so adv|already det:dem|this
+	det:num|sixty n|percent cop|be&3S neg|not adj|correct .
+%grt:	1|9|LINK 2|9|JCT 3|4|SUBJ 4|2|CPOBJ 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|9|JCT 15|20|LINK
+	16|20|JCT 17|19|DET 18|19|QUANT 19|20|SUBJ 20|9|CJCT 21|20|NEG
+	22|20|PRED 23|9|PUNCT
+*PAR:	<it's gonna be> [//] it's gonna change .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP~inf|to v|change .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+%trn:	pro:per|it~aux|be&3S part|go-PRESP~inf|to v|change .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*PAR:	now the beginning part of the story makes it kind_of biased because
+	+"/.
+%mor:	adv:tem|now det:art|the n|beginning n|part prep|of det:art|the n|story
+	v|make-3S pro:per|it adv|kind_of part|bias-PASTP conj|because +"/.
+%gra:	1|8|JCT 2|4|DET 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|8|XJCT 12|11|OM 13|8|PUNCT
+%trn:	adv:tem|now det:art|the n|beginning n|part prep|of det:art|the n|story
+	v|make-3S pro:per|it adv|kind_of part|bias-PASTP conj|because +"/.
+%grt:	1|8|JCT 2|4|DET 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|0|ROOT
+	9|8|OBJ 10|11|JCT 11|9|XMOD 12|8|OM 13|8|PUNCT
+*PAR:	+" Bush in reversal .
+%mor:	n:prop|Bush prep|in n|reversal .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%trn:	n:prop|Bush prep|in n|reversal .
+%grt:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	Bush promised this but now he's doing this and it doesn't explain
+	why until much later .
+%mor:	n:prop|Bush v|promise-PAST pro:dem|this conj|but adv:tem|now
+	pro:sub|he~aux|be&3S part|do-PRESP pro:dem|this coord|and pro:per|it
+	mod|do&3S~neg|not v|explain pro:int|why prep|until adv|much
+	adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|JCT 6|8|SUBJ 7|8|AUX 8|2|CJCT
+	9|8|OBJ 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|8|CJCT 15|14|OBJ
+	16|15|JCT 17|18|JCT 18|16|POBJ 19|2|PUNCT
+%trn:	n:prop|Bush v|promise-PAST pro:dem|this conj|but adv:tem|now
+	pro:sub|he~aux|be&3S part|do-PRESP pro:dem|this coord|and pro:per|it
+	mod|do&3S~neg|not v|explain pro:int|why prep|until adv|much
+	adv|later .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|JCT 6|8|SUBJ 7|8|AUX
+	8|2|CJCT 9|8|OBJ 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG
+	14|8|CJCT 15|14|OM 16|14|JCT 17|18|JCT 18|16|POBJ 19|2|PUNCT
+*PAR:	so ‡ people hafta flip to the inside to find out the real reason
+	why he did which I think is an important part .
+%mor:	co|so beg|beg n|person&PL mod|have~inf|to v|flip prep|to
+	det:art|the n|inside inf|to v|find prep|out det:art|the adj|real
+	n|reason pro:rel|why pro:sub|he v|do&PAST pro:rel|which pro:sub|I
+	v|think cop|be&3S det:art|a adj|important n|part .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|INF 11|6|XJCT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|21|LINK 20|21|SUBJ 21|6|CJCT 22|21|COMP
+	23|25|DET 24|25|MOD 25|22|PRED 26|6|PUNCT
+%trn:	co|so beg|beg n|person&PL mod|have~inf|to v|flip prep|to
+	det:art|the n|inside inf|to v|find prep|out det:art|the adj|real
+	n|reason pro:rel|why pro:sub|he v|do&PAST pro:rel|which pro:sub|I
+	v|think cop|be&3S det:art|a adj|important n|part .
+%grt:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|INF 11|6|XJCT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|22|LINK 20|21|SUBJ 21|22|CJCT
+	22|6|CJCT 23|25|DET 24|25|MOD 25|22|PRED 26|6|PUNCT
+*PAR:	so ‡ it's not really fair to put that on the front page (be)cause
+	it's making it seem like for a certain thing and then <later down
+	it> [//] &s much later down <it says like> [//] it talks about
+	California and why he decided to make this decision .
+%mor:	co|so beg|beg pro:per|it~cop|be&3S neg|not adv|real&dadj-LY
+	adj|fair inf|to v|put&ZERO pro:dem|that prep|on det:art|the
+	adj|front n|page conj|because pro:per|it~aux|be&3S part|make-PRESP
+	pro:per|it cop|seem prep|like prep|for det:art|a adj|certain n|thing
+	coord|and adv:tem|then adv|much adv|later adv|down pro:per|it
+	v|talk-3S prep|about n:prop|California coord|and pro:int|why
+	pro:sub|he v|decide-PAST inf|to v|make det:dem|this n|decision .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|JCT 7|4|PRED 8|9|INF
+	9|7|XMOD 10|9|OBJ 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|4|CJCT 19|20|SUBJ 20|18|COMP 21|20|JCT 22|20|JCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|25|CONJ 27|28|JCT 28|29|JCT 29|30|JCT
+	30|26|COORD 31|32|SUBJ 32|20|CPRED 33|32|JCT 34|33|POBJ 35|34|CONJ
+	36|35|COORD 37|38|SUBJ 38|32|CJCT 39|40|INF 40|38|COMP 41|42|DET 42|40|OBJ
+	43|4|PUNCT
+%trn:	co|so beg|beg pro:per|it~cop|be&3S neg|not adv|real&dadj-LY
+	adj|fair inf|to v|put&ZERO pro:dem|that prep|on det:art|the
+	adj|front n|page conj|because pro:per|it~aux|be&3S part|make-PRESP
+	pro:per|it cop|seem prep|like prep|for det:art|a adj|certain n|thing
+	coord|and adv:tem|then adv|much adv|later adv|down pro:per|it
+	v|talk-3S prep|about n:prop|California coord|and pro:int|why
+	pro:sub|he v|decide-PAST inf|to v|make det:dem|this n|decision .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|JCT 7|4|PRED 8|9|INF
+	9|7|XMOD 10|9|OBJ 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|4|CJCT 19|18|OBJ 20|18|COMP 21|20|JCT
+	22|21|JCT 23|25|DET 24|25|MOD 25|22|POBJ 26|32|LINK 27|32|JCT
+	28|29|JCT 29|30|JCT 30|32|JCT 31|32|SUBJ 32|18|CJCT 33|32|JCT
+	34|33|POBJ 35|34|CONJ 36|38|LINK 37|38|SUBJ 38|35|COORD 39|40|INF
+	40|38|COMP 41|42|DET 42|40|OBJ 43|4|PUNCT
+*PAR:	actually in [//] above the fold probably in the first three
+	paragraphs of the report you'll see that he sort_of explains why .
+%mor:	adv|actual&dadj-LY prep|above det:art|the n|fold
+	adv|probable&dadj-LY prep|in det:art|the adj|first det:num|three
+	n|paragraph-PL prep|of det:art|the n|report pro:per|you~mod|will
+	v|see comp|that pro:sub|he adv|sort_of v|explain-3S pro:int|why .
+%gra:	1|16|JCT 2|16|JCT 3|4|DET 4|2|POBJ 5|16|JCT 6|16|JCT 7|10|DET 8|10|MOD
+	9|10|QUANT 10|6|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|SUBJ
+	15|16|AUX 16|0|ROOT 17|20|LINK 18|20|SUBJ 19|20|JCT 20|16|COMP 21|20|OBJ
+	22|16|PUNCT
+%trn:	adv|actual&dadj-LY prep|above det:art|the n|fold
+	adv|probable&dadj-LY prep|in det:art|the adj|first det:num|three
+	n|paragraph-PL prep|of det:art|the n|report pro:per|you~mod|will
+	v|see comp|that pro:sub|he adv|sort_of v|explain-3S pro:int|why .
+%grt:	1|16|JCT 2|16|JCT 3|4|DET 4|2|POBJ 5|6|JCT 6|16|JCT 7|10|DET
+	8|10|MOD 9|10|QUANT 10|6|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ
+	14|16|SUBJ 15|16|AUX 16|0|ROOT 17|20|LINK 18|20|SUBJ 19|20|JCT
+	20|16|COMP 21|20|OM 22|16|PUNCT
+*PAR:	the other problem with your story is that the [//] Christy [/]
+	Christy Todd Whitman the EPA director &y &h has [/] has not gone on
+	record as actually &s supporting the president on this issue .
+%mor:	det:art|the qn|other n|problem prep|with det:poss|your n|story
+	cop|be&3S comp|that n:prop|Christy n:prop|Todd n:prop|Whitman
+	det:art|the n:prop|EPA n|director aux|have&3S neg|not part|go&PASTP
+	prep|on n|record prep|as adv|actual&dadj-LY part|support-PRESP
+	det:art|the n|president prep|on det:dem|this n|issue .
+%gra:	1|3|DET 2|3|QUANT 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|10|LINK
+	9|10|NAME 10|11|NAME 11|7|PRED 12|14|DET 13|14|MOD 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|11|XJCT 18|17|JCT 19|18|POBJ 20|17|JCT 21|22|JCT
+	22|20|CPOBJ 23|24|DET 24|22|OBJ 25|22|JCT 26|27|DET 27|25|POBJ 28|7|PUNCT
+%trn:	det:art|the qn|other n|problem prep|with det:poss|your n|story
+	cop|be&3S comp|that n:prop|Christy n:prop|Todd n:prop|Whitman
+	det:art|the n:prop|EPA n|director aux|have&3S neg|not part|go&PASTP
+	prep|on n|record prep|as adv|actual&dadj-LY part|support-PRESP
+	det:art|the n|president prep|on det:dem|this n|issue .
+%grt:	1|3|DET 2|3|QUANT 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT
+	8|17|LINK 9|10|NAME 10|11|NAME 11|17|SUBJ 12|14|DET 13|14|MOD
+	14|11|APP 15|17|AUX 16|15|NEG 17|7|CPRED 18|17|JCT 19|18|POBJ
+	20|17|JCT 21|22|JCT 22|20|CPOBJ 23|24|DET 24|22|OBJ 25|22|JCT
+	26|27|DET 27|25|POBJ 28|7|PUNCT
+*PAR:	well a spokesperson for Miss Whitman said that they would follow
+	the president's lead .
+%mor:	co|well det:art|a n|+n|spokes+n|person prep|for n:prop|Miss
+	n:prop|Whitman v|say&PAST comp|that pro:sub|they mod|will&COND
+	v|follow det:art|the adj|president&dn-POSS n|lead .
+%gra:	1|3|COM 2|3|DET 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|3|APP 7|0|ROOT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|14|DET 13|14|MOD 14|11|OBJ 15|7|PUNCT
+%trn:	co|well det:art|a n|+n|spokes+n|person prep|for n:prop|Miss
+	n:prop|Whitman v|say&PAST comp|that pro:sub|they mod|will&COND
+	v|follow det:art|the adj|president&dn-POSS n|lead .
+%grt:	1|3|COM 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|NAME 6|4|POBJ 7|0|ROOT
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|7|COMP 12|13|DET 13|14|MOD
+	14|11|OBJ 15|7|PUNCT
+*PAR:	that means nothing .
+%mor:	pro:dem|that v|mean-3S pro:indef|nothing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%trn:	pro:dem|that v|mean-3S pro:indef|nothing .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	<what does it> [/] &ma what does it matter if she supports it ?
+%mor:	pro:int|what mod|do&3S pro:per|it v|matter conj|if pro:sub|she
+	v|support-3S pro:per|it ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|OBJ
+	9|4|PUNCT
+%trn:	pro:int|what mod|do&3S pro:per|it v|matter conj|if pro:sub|she
+	v|support-3S pro:per|it ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT
+	8|7|OBJ 9|4|PUNCT
+*PAR:	<she's not> [x 3] [//] my point is that she's not quoted on record
+	as saying what her position is .
+%mor:	det:poss|my n|point cop|be&3S comp|that pro:sub|she~aux|be&3S
+	neg|not part|quote-PASTP prep|on n|record prep|as part|say-PRESP
+	pro:int|what det:poss|her n|position cop|be&3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|CPRED
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|11|POBJ 13|16|LINK 14|15|DET 15|16|SUBJ
+	16|12|COMP 17|3|PUNCT
+%trn:	det:poss|my n|point cop|be&3S comp|that pro:sub|she~aux|be&3S
+	neg|not part|quote-PASTP prep|on n|record prep|as part|say-PRESP
+	pro:int|what det:poss|her n|position cop|be&3S .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG
+	8|3|CPRED 9|8|JCT 10|9|POBJ 11|8|JCT 12|11|CPOBJ 13|16|LINK 14|15|DET
+	15|16|SUBJ 16|12|COMP 17|3|PUNCT
+*PAR:	well the [/] the point is [/] is if this is an EPA this is an
+	emissions policy on carbon dioxide .
+%mor:	co|well det:art|the n|point cop|be&3S conj|if pro:dem|this
+	cop|be&3S det:art|a n:prop|EPA pro:dem|this cop|be&3S det:art|a
+	n|emission-PL n|policy prep|on n|carbon n|dioxide .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|9|DET
+	9|7|PRED 10|11|SUBJ 11|9|CMOD 12|14|DET 13|14|MOD 14|11|PRED 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|4|PUNCT
+%trn:	co|well det:art|the n|point cop|be&3S conj|if pro:dem|this
+	cop|be&3S det:art|a n:prop|EPA pro:dem|this cop|be&3S det:art|a
+	n|emission-PL n|policy prep|on n|carbon n|dioxide .
+%grt:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|11|CJCT
+	8|9|DET 9|7|PRED 10|11|SUBJ 11|4|CPRED 12|14|DET 13|14|MOD 14|11|PRED
+	15|14|NJCT 16|17|MOD 17|15|POBJ 18|4|PUNCT
+*PAR:	it's a story but &i it's miscast because what they're actually
+	doing is they're actually repositioning the EPA and giving Bush the
+	lead whereas [//] where [: whereas] in fact they should be talking
+	more about the EPA chairman and [/] and what the policy is .
+%mor:	pro:per|it~cop|be&3S det:art|a n|story conj|but
+	pro:per|it~aux|be&3S mis#part|cast&PASTP conj|because pro:int|what
+	pro:sub|they~aux|be&PRES adv|actual&dadj-LY part|do-PRESP cop|be&3S
+	pro:sub|they~aux|be&PRES adv|actual&dadj-LY re#part|position-PRESP
+	det:art|the n:prop|EPA coord|and part|give-PRESP n:prop|Bush
+	det:art|the n|lead conj|whereas prep|in n|fact pro:sub|they
+	mod|should aux|be part|talk-PRESP adv|more prep|about det:art|the
+	n:prop|EPA n|chairman coord|and pro:int|what det:art|the n|policy
+	cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT
+	9|15|LINK 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|JCT 14|15|CSUBJ 15|8|CJCT
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|15|PRED 20|21|DET 21|19|OBJ
+	22|21|CONJ 23|22|COORD 24|23|OBJ 25|26|DET 26|24|OBJ 27|33|LINK 28|33|JCT
+	29|28|POBJ 30|33|SUBJ 31|33|AUX 32|33|AUX 33|26|CMOD 34|33|JCT 35|33|JCT
+	36|38|DET 37|38|MOD 38|35|POBJ 39|38|CONJ 40|43|LINK 41|42|DET 42|43|SUBJ
+	43|39|COORD 44|2|PUNCT
+%trn:	pro:per|it~cop|be&3S det:art|a n|story conj|but
+	pro:per|it~aux|be&3S mis#part|cast&PASTP conj|because pro:int|what
+	pro:sub|they~aux|be&PRES adv|actual&dadj-LY part|do-PRESP
+	cop|be&3S pro:sub|they~aux|be&PRES adv|actual&dadj-LY
+	re#part|position-PRESP det:art|the n:prop|EPA coord|and
+	part|give-PRESP n:prop|Bush det:art|the n|lead conj|whereas prep|in
+	n|fact pro:sub|they mod|should aux|be part|talk-PRESP adv|more
+	prep|about det:art|the n:prop|EPA n|chairman coord|and pro:int|what
+	det:art|the n|policy cop|be&3S .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|2|CJCT 9|15|LINK 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|JCT
+	14|15|CSUBJ 15|8|CJCT 16|19|SUBJ 17|19|AUX 18|19|JCT 19|15|CPRED
+	20|21|DET 21|19|OBJ 22|19|CONJ 23|22|COORD 24|23|OBJ2 25|26|DET
+	26|23|OBJ 27|33|LINK 28|33|JCT 29|28|POBJ 30|33|SUBJ 31|33|AUX
+	32|33|AUX 33|15|CJCT 34|33|JCT 35|33|JCT 36|38|DET 37|38|MOD
+	38|35|POBJ 39|38|CONJ 40|43|LINK 41|42|DET 42|43|SUBJ 43|39|COORD
+	44|2|PUNCT
+*PAR:	yeah but let's say that Whitman just decided for a week that she
+	wasn't gonna talk to the press .
+%mor:	co|yeah conj|but v|let~pro:obj|us v|say comp|that n:prop|Whitman
+	adv|just part|decide-PASTP prep|for det:art|a n|week pro:rel|that
+	pro:sub|she aux|be&PAST&13S~neg|not part|go-PRESP~inf|to v|talk
+	prep|to det:art|the n|press .
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|OBJ 5|3|COMP 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|5|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|12|CMOD 18|19|INF 19|17|COMP 20|19|JCT 21|22|DET 22|20|POBJ
+	23|3|PUNCT
+%trn:	co|yeah conj|but v|let~pro:obj|us v|say comp|that n:prop|Whitman
+	adv|just v|decide-PAST prep|for det:art|a n|week pro:rel|that
+	pro:sub|she aux|be&PAST&13S~neg|not part|go-PRESP~inf|to v|talk
+	prep|to det:art|the n|press .
+%grt:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|OBJ 5|3|COMP 6|9|LINK 7|9|SUBJ
+	8|9|JCT 9|5|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|17|LINK 14|17|SUBJ
+	15|17|AUX 16|15|NEG 17|9|COMP 18|19|INF 19|17|COMP 20|19|JCT
+	21|22|DET 22|20|POBJ 23|3|PUNCT
+*PAR:	does that mean that you should just hold off until she decides that
+	she wants to speak ?
+%mor:	mod|do&3S pro:dem|that v|mean comp|that pro:per|you mod|should
+	adv|just v|hold adv|off conj|until pro:sub|she v|decide-3S comp|that
+	pro:sub|she v|want-3S inf|to v|speak ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT 8|3|COMP
+	9|8|JCT 10|12|LINK 11|12|SUBJ 12|15|CJCT 13|12|OBJ 14|15|SUBJ 15|3|CJCT
+	16|17|INF 17|15|COMP 18|3|PUNCT
+%trn:	mod|do&3S pro:dem|that v|mean comp|that pro:per|you mod|should
+	adv|just v|hold adv|off conj|until pro:sub|she v|decide-3S comp|that
+	pro:sub|she v|want-3S inf|to v|speak ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT
+	8|3|COMP 9|8|JCT 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|15|LINK
+	14|15|SUBJ 15|12|COMP 16|17|INF 17|15|COMP 18|3|PUNCT
+*PAR:	I_mean if the story comes out you gotta run it .
+%mor:	co|I_mean conj|if det:art|the n|story v|come-3S adv|out pro:per|you
+	mod|got~inf|to v|run pro:per|it .
+%gra:	1|5|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|10|SUBJ 8|10|AUX
+	9|10|INF 10|5|XJCT 11|10|OBJ 12|5|PUNCT
+%trn:	co|I_mean conj|if det:art|the n|story v|come-3S adv|out pro:per|you
+	mod|got~inf|to v|run pro:per|it .
+%grt:	1|10|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|10|CJCT 6|5|JCT 7|10|SUBJ
+	8|10|AUX 9|10|INF 10|0|ROOT 11|10|OBJ 12|10|PUNCT
+*PAR:	well ‡ you have environmental groups , <you have> [/] &c &c you
+	have Congress debating this topic .
+%mor:	co|well beg|beg pro:per|you v|have adj|environment&dn-AL n|group-PL
+	cm|cm pro:per|you v|have n:prop|Congress part|debate-PRESP
+	det:dem|this n|topic .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|LP 8|9|SUBJ
+	9|4|CJCT 10|11|SUBJ 11|9|COMP 12|13|DET 13|11|OBJ 14|4|PUNCT
+%trn:	co|well beg|beg pro:per|you v|have adj|environment&dn-AL n|group-PL
+	cm|cm pro:per|you v|have n:prop|Congress part|debate-PRESP
+	det:dem|this n|topic .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|LP 8|9|SUBJ
+	9|4|CJCT 10|9|OBJ 11|10|XMOD 12|13|DET 13|11|OBJ 14|4|PUNCT
+*PAR:	really saying that she would follow the president's lead is kind_of
+	[/] kind_of predictory .
+%mor:	adv|real&dadj-LY part|say-PRESP comp|that pro:sub|she mod|will&COND
+	v|follow det:art|the adj|president&dn-POSS n|lead cop|be&3S
+	adv|kind_of adj|predictory .
+%gra:	1|2|JCT 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|6|COMP 11|12|JCT 12|10|PRED 13|2|PUNCT
+%trn:	adv|real&dadj-LY n:gerund|say-PRESP comp|that pro:sub|she
+	mod|will&COND v|follow det:art|the adj|president&dn-POSS n|lead
+	cop|be&3S adv|kind_of adj|predictory .
+%grt:	1|10|JCT 2|10|CSUBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|9|DET
+	8|9|MOD 9|6|OBJ 10|0|ROOT 11|12|JCT 12|10|PRED 13|10|PUNCT
+*PAR:	I_mean everyday you read about quotes from the White House
+	spokesman and press secretary and you believe that [/] that person
+	is representing Bush .
+%mor:	co|I_mean adv:tem|everyday pro:per|you v|read&ZERO prep|about
+	n|quote-PL prep|from det:art|the n:prop|White n:prop|House
+	n|spokesman coord|and n|press n|secretary coord|and pro:per|you
+	v|believe det:dem|that n|person aux|be&3S part|represent-PRESP
+	n:prop|Bush .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|11|CONJ 13|14|MOD 14|12|COORD 15|17|LINK
+	16|17|SUBJ 17|4|CJCT 18|19|DET 19|21|SUBJ 20|21|AUX 21|17|COMP 22|21|OBJ
+	23|4|PUNCT
+%trn:	co|I_mean adv:tem|everyday pro:per|you v|read&ZERO prep|about
+	n|quote-PL prep|from det:art|the n:prop|White n:prop|House
+	n|spokesman coord|and n|press n|secretary coord|and pro:per|you
+	v|believe det:dem|that n|person aux|be&3S part|represent-PRESP
+	n:prop|Bush .
+%grt:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT
+	8|11|DET 9|10|MOD 10|11|MOD 11|7|POBJ 12|11|CONJ 13|14|MOD
+	14|12|COORD 15|17|LINK 16|17|SUBJ 17|4|CJCT 18|19|DET 19|21|SUBJ
+	20|21|AUX 21|17|COMP 22|21|OBJ 23|4|PUNCT
+*PAR:	you don't hafta wait (un)til you hear a direct quote from Bush to
+	believe what the White House is doing .
+%mor:	pro:per|you mod|do~neg|not mod|have~inf|to v|wait conj|until
+	pro:per|you v|hear det:art|a adj|direct n|quote prep|from
+	n:prop|Bush inf|to v|believe pro:int|what det:art|the n:prop|White
+	n:prop|House aux|be&3S part|do-PRESP .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|12|DET 11|12|MOD 12|9|OBJ 13|9|JCT 14|13|POBJ 15|16|INF
+	16|9|XJCT 17|22|LINK 18|19|DET 19|22|SUBJ 20|19|APP 21|22|AUX 22|16|COMP
+	23|6|PUNCT
+%trn:	pro:per|you mod|do~neg|not mod|have~inf|to v|wait conj|until
+	pro:per|you v|hear det:art|a adj|direct n|quote prep|from
+	n:prop|Bush inf|to v|believe pro:int|what det:art|the n:prop|White
+	n:prop|House aux|be&3S part|do-PRESP .
+%grt:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|XJCT 10|12|DET 11|12|MOD 12|9|OBJ 13|12|NJCT 14|13|POBJ 15|16|INF
+	16|6|XJCT 17|22|LINK 18|20|DET 19|20|NAME 20|22|SUBJ 21|22|AUX
+	22|16|COBJ 23|6|PUNCT
+*PAR:	the problem is [/] is your energy thing is a little bit incomplete
+	right now because it's so new .
+%mor:	det:art|the n|problem cop|be&3S det:poss|your n|energy n|thing
+	cop|be&3S det:art|a adj|little n|bit in#adj|complete adv|right
+	adv:tem|now conj|because pro:per|it~cop|be&3S adv|so adj|new .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|PRED 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|POSTMOD 12|13|JCT 13|11|JCT 14|16|LINK 15|16|SUBJ
+	16|3|CJCT 17|18|JCT 18|16|PRED 19|3|PUNCT
+%trn:	det:art|the n|problem cop|be&3S det:poss|your n|energy n|thing
+	cop|be&3S det:art|a adj|little n|bit in#adj|complete adv|right
+	adv:tem|now conj|because pro:per|it~cop|be&3S adv|so adj|new .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|CPRED
+	8|10|DET 9|10|MOD 10|11|JCT 11|7|PRED 12|13|JCT 13|7|JCT 14|16|LINK
+	15|16|SUBJ 16|7|CJCT 17|18|JCT 18|16|PRED 19|3|PUNCT
+*PAR:	so ‡ I really don't think that it'd be front page because it's just
+	not quite ready for that .
+%mor:	co|so beg|beg pro:sub|I adv|real&dadj-LY mod|do~neg|not v|think
+	comp|that pro:per|it~mod|genmod cop|be adj|front n|page conj|because
+	pro:per|it~cop|be&3S adv|just neg|not adv|quite adj|ready prep|for
+	pro:dem|that .
+%gra:	1|0|BEG 2|1|BEGP 3|7|SUBJ 4|7|JCT 5|7|AUX 6|5|NEG 7|0|ROOT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|13|MOD 13|11|PRED 14|16|LINK 15|16|SUBJ
+	16|7|CJCT 17|18|JCT 18|19|NEG 19|20|JCT 20|16|PRED 21|16|JCT 22|21|POBJ
+	23|7|PUNCT
+%trn:	co|so beg|beg pro:sub|I adv|real&dadj-LY mod|do~neg|not v|think
+	comp|that pro:per|it~mod|genmod cop|be adj|front n|page conj|because
+	pro:per|it~cop|be&3S adv|just neg|not adv|quite adj|ready prep|for
+	pro:dem|that .
+%grt:	1|0|BEG 2|1|BEGP 3|7|SUBJ 4|7|JCT 5|7|AUX 6|5|NEG 7|0|ROOT
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|7|COMP 12|13|MOD 13|11|PRED
+	14|16|LINK 15|16|SUBJ 16|7|CJCT 17|20|JCT 18|19|NEG 19|20|JCT
+	20|16|PRED 21|20|JCT 22|21|POBJ 23|7|PUNCT
+*PAR:	global warming's a very serious worldwide issue .
+%mor:	adj|global n:gerund|warm-PRESP~cop|be&3S det:art|a adv|very
+	adj|serious adj|worldwide n|issue .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|8|DET 5|6|JCT 6|8|MOD 7|8|MOD 8|3|PRED
+	9|3|PUNCT
+%trn:	adj|global n:gerund|warm-PRESP~cop|be&3S det:art|a adv|very
+	adj|serious adj|worldwide n|issue .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|8|DET 5|6|JCT 6|8|MOD 7|8|MOD 8|3|PRED
+	9|3|PUNCT
+*PAR:	<as is> [/] <as is the power out> [//] as are the power outages in
+	California .
+%mor:	conj|as cop|be&PRES det:art|the n|power n|outage-PL prep|in
+	n:prop|California .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+%trn:	conj|as cop|be&PRES det:art|the n|power n|outage-PL prep|in
+	n:prop|California .
+%grt:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|SUBJ 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	&=laughs when it's ninety degrees out in the middle of winter it's
+	gonna be very serious .
+%mor:	conj|when pro:per|it~cop|be&3S det:num|ninety n|degree-PL adv|out
+	prep|in det:art|the n|middle prep|of n|winter pro:per|it~aux|be&3S
+	part|go-PRESP~inf|to cop|be adv|very adj|serious .
+%gra:	1|3|LINK 2|3|SUBJ 3|14|CJCT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|5|NJCT
+	8|9|DET 9|7|POBJ 10|9|NJCT 11|10|POBJ 12|14|SUBJ 13|14|AUX 14|0|ROOT 15|16|INF
+	16|14|COMP 17|18|JCT 18|16|PRED 19|14|PUNCT
+%trn:	conj|when pro:per|it~cop|be&3S det:num|ninety n|degree-PL adv|out
+	prep|in det:art|the n|middle prep|of n|winter pro:per|it~aux|be&3S
+	part|go-PRESP~inf|to cop|be adv|very adj|serious .
+%grt:	1|3|LINK 2|3|SUBJ 3|14|CJCT 4|5|QUANT 5|3|PRED 6|3|JCT 7|3|JCT
+	8|9|DET 9|7|POBJ 10|9|NJCT 11|10|POBJ 12|14|SUBJ 13|14|AUX 14|0|ROOT
+	15|16|INF 16|14|COMP 17|18|JCT 18|16|PRED 19|14|PUNCT
+*PAR:	&=laughs:multiple okay <this story is about> [//] your story is
+	about carbon dioxide and I'm sorry if this makes me a bad American
+	but I really don't care .
+%mor:	co|okay det:poss|your n|story cop|be&3S prep|about n|carbon
+	n|dioxide coord|and pro:sub|I~cop|be&1S adj|sorry conj|if
+	pro:dem|this v|make-3S pro:obj|me det:art|a adj|bad n:prop|American
+	conj|but pro:sub|I adv|real&dadj-LY mod|do~neg|not v|care .
+%gra:	1|3|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|10|PRED 12|14|LINK 13|14|SUBJ 14|10|CJCT 15|14|OBJ
+	16|18|DET 17|18|MOD 18|14|OBJ 19|24|LINK 20|24|SUBJ 21|24|JCT 22|24|AUX
+	23|22|NEG 24|18|CJCT 25|4|PUNCT
+%trn:	co|okay det:poss|your n|story cop|be&3S prep|about n|carbon
+	n|dioxide coord|and pro:sub|I~cop|be&1S adj|sorry conj|if
+	pro:dem|this v|make-3S pro:obj|me det:art|a adj|bad n:prop|American
+	conj|but pro:sub|I adv|real&dadj-LY mod|do~neg|not v|care .
+%grt:	1|3|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ
+	8|10|LINK 9|10|SUBJ 10|4|CJCT 11|10|PRED 12|14|LINK 13|14|SUBJ
+	14|10|CJCT 15|14|OBJ 16|18|DET 17|18|MOD 18|15|POSTMOD 19|24|LINK
+	20|24|SUBJ 21|24|JCT 22|24|AUX 23|22|NEG 24|10|CJCT 25|4|PUNCT
+*PAR:	but our article is about the repercussions of that and it's [x 4]
+	about the change in policy and what [//] how that has affected the
+	opinion of the American people .
+%mor:	conj|but det:poss|our n|article cop|be&3S prep|about det:art|the
+	n|repercussion-PL prep|of pro:dem|that coord|and
+	pro:per|it~cop|be&3S prep|about det:art|the n|change prep|in
+	n|policy coord|and pro:int|how pro:dem|that aux|have&3S
+	part|affect-PASTP det:art|the n|opinion prep|of det:art|the
+	n:prop|American n|person&PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|12|LINK 11|12|SUBJ 12|4|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|15|CONJ 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|18|COORD 23|24|DET 24|22|OBJ 25|24|NJCT 26|28|DET 27|28|MOD 28|25|POBJ
+	29|4|PUNCT
+%trn:	conj|but det:poss|our n|article cop|be&3S prep|about det:art|the
+	n|repercussion-PL prep|of pro:dem|that coord|and
+	pro:per|it~cop|be&3S prep|about det:art|the n|change prep|in
+	n|policy coord|and pro:int|how pro:dem|that aux|have&3S
+	part|affect-PASTP det:art|the n|opinion prep|of det:art|the
+	n:prop|American n|person&PL .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|8|POBJ 10|12|LINK 11|12|SUBJ 12|4|CJCT 13|12|JCT
+	14|15|DET 15|13|POBJ 16|15|NJCT 17|16|POBJ 18|15|CONJ 19|22|LINK
+	20|22|SUBJ 21|22|AUX 22|18|COORD 23|24|DET 24|22|OBJ 25|24|NJCT
+	26|28|DET 27|28|MOD 28|25|POBJ 29|4|PUNCT
+*PAR:	yeah and we just came out_of one of the closest elections ever and
+	don't you think it's interesting that sixty percent approve of him ?
+%mor:	co|yeah coord|and pro:sub|we adv|just v|come&PAST prep|out_of
+	det:num|one prep|of det:art|the adj|close-SP n|election-PL adv|ever
+	coord|and mod|do~neg|not pro:per|you v|think pro:per|it~cop|be&3S
+	adj|interesting comp|that det:num|sixty n|percent v|approve prep|of
+	pro:obj|him ?
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|5|JCT 13|5|CONJ 14|17|AUX 15|14|NEG
+	16|17|SUBJ 17|13|COORD 18|19|SUBJ 19|17|COMP 20|23|MOD 21|23|MOD 22|23|QUANT
+	23|19|PRED 24|23|POSTMOD 25|24|JCT 26|25|POBJ 27|5|PUNCT
+%trn:	co|yeah coord|and pro:sub|we adv|just v|come&PAST prep|out_of
+	pro:indef|one prep|of det:art|the adj|close-SP n|election-PL adv|ever
+	coord|and mod|do~neg|not pro:per|you v|think pro:per|it~cop|be&3S
+	adj|interesting comp|that det:num|sixty n|percent v|approve prep|of
+	pro:obj|him ?
+%grt:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|7|NJCT 9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|17|LINK 14|17|AUX
+	15|14|NEG 16|17|SUBJ 17|5|CJCT 18|19|SUBJ 19|17|COMP 20|19|PRED
+	21|24|LINK 22|23|QUANT 23|24|SUBJ 24|20|CMOD 25|24|JCT 26|25|POBJ
+	27|5|PUNCT
+*PAR:	(be)cause people didn't know about the [/] the reversal until this
+	morning when they opened up the New York Times and saw the poll in
+	there and the story about the reversal .
+%mor:	conj|because n|person&PL mod|do&PAST~neg|not v|know prep|about
+	det:art|the n|reversal prep|until det:dem|this n|morning conj|when
+	pro:sub|they v|open-PAST prep|up det:art|the n:prop|New n:prop|York
+	n:prop|Times coord|and v|see&PAST det:art|the n|poll prep|in n|there
+	coord|and det:art|the n|story prep|about det:art|the n|reversal .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|5|CJCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|19|NAME 19|14|CJCT 20|19|CONJ 21|20|COORD 22|23|DET
+	23|19|APP 24|23|NJCT 25|24|POBJ 26|23|CONJ 27|28|DET 28|26|COORD
+	29|28|NJCT 30|31|DET 31|29|POBJ 32|5|PUNCT
+%trn:	conj|because n|person&PL mod|do&PAST~neg|not v|know prep|about
+	det:art|the n|reversal prep|until det:dem|this n|morning conj|when
+	pro:sub|they v|open-PAST prep|up det:art|the n:prop|New n:prop|York
+	n:prop|Times coord|and v|see&PAST det:art|the n|poll prep|in pro:indef|there
+	coord|and det:art|the n|story prep|about det:art|the n|reversal .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD
+	15|14|JCT 16|19|DET 17|19|NAME 18|19|NAME 19|15|POBJ 20|14|CONJ
+	21|20|COORD 22|23|DET 23|21|OBJ 24|23|NJCT 25|24|POBJ 26|23|CONJ
+	27|28|DET 28|26|COORD 29|28|NJCT 30|31|DET 31|29|POBJ 32|5|PUNCT
+*PAR:	it's probably gonna be around fifty nine percent now .
+%mor:	pro:per|it~aux|be&3S adv|probable&dadj-LY part|go-PRESP~inf|to
+	cop|be prep|around det:num|fifty det:num|nine n|percent adv:tem|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|QUANT
+	9|10|QUANT 10|7|POBJ 11|10|NJCT 12|4|PUNCT
+%trn:	pro:per|it~aux|be&3S adv|probable&dadj-LY part|go-PRESP~inf|to
+	cop|be prep|around det:num|fifty det:num|nine n|percent adv:tem|now .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT
+	8|10|QUANT 9|10|QUANT 10|7|POBJ 11|4|JCT 12|4|PUNCT
+*PAR:	the environment is an important thing and everything but I think ,
+	the majority of Americans , probably it's not like their top right
+	now .
+%mor:	det:art|the n|environment cop|be&3S det:art|a adj|important n|thing
+	coord|and pro:indef|everything conj|but pro:sub|I v|think cm|cm
+	det:art|the n|majority prep|of n:prop|Americans cm|cm
+	adv|probable&dadj-LY pro:per|it~cop|be&3S neg|not co|like
+	det:poss|their n|top adv|right adv:tem|now .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|CONJ 8|7|COORD
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|11|LP 13|14|DET 14|11|OBJ 15|14|NJCT
+	16|15|POBJ 17|14|LP 18|20|JCT 19|20|SUBJ 20|14|CMOD 21|20|NEG 22|20|COM
+	23|24|DET 24|20|PRED 25|26|JCT 26|24|NJCT 27|3|PUNCT
+%trn:	det:art|the n|environment cop|be&3S det:art|a adj|important n|thing
+	coord|and pro:indef|everything conj|but pro:sub|I v|think cm|cm
+	det:art|the n|majority prep|of n:prop|Americans cm|cm
+	adv|probable&dadj-LY pro:per|it~cop|be&3S neg|not co|like
+	det:poss|their n|top adv|right adv:tem|now .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|CONJ
+	8|7|COORD 9|20|LINK 10|11|SUBJ 11|20|CJCT 12|11|LP 13|14|DET
+	14|20|TOP 15|14|NJCT 16|15|POBJ 17|14|LP 18|20|JCT 19|20|SUBJ
+	20|3|CJCT 21|20|NEG 22|20|COM 23|24|DET 24|20|PRED 25|26|JCT
+	26|20|JCT 27|3|PUNCT
+*PAR:	people are more worried about their jobs .
+%mor:	n|person&PL aux|be&PRES adv|more part|worry-PASTP prep|about
+	det:poss|their n|job-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%trn:	n|person&PL aux|be&PRES adv|more part|worry-PASTP prep|about
+	det:poss|their n|job-PL .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	but <it doesn't tell> [//] it doesn't say anything about the jobs .
+%mor:	conj|but pro:per|it mod|do&3S~neg|not v|say pro:indef|anything
+	prep|about det:art|the n|job-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+%trn:	conj|but pro:per|it mod|do&3S~neg|not v|say pro:indef|anything
+	prep|about det:art|the n|job-PL .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	it just says how they feel about their jobs .
+%mor:	pro:per|it adv|just v|say-3S pro:int|how pro:sub|they v|feel
+	prep|about det:poss|their n|job-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+%trn:	pro:per|it adv|just v|say-3S pro:int|how pro:sub|they v|feel
+	prep|about det:poss|their n|job-PL .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT
+	8|9|DET 9|7|POBJ 10|3|PUNCT
+*PAR:	naturally you assume everyone likes their job .
+%mor:	adv|natural&dadj-LY pro:per|you v|assume pro:indef|everyone
+	v|like-3S det:poss|their n|job .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%trn:	adv|natural&dadj-LY pro:per|you v|assume pro:indef|everyone
+	v|like-3S det:poss|their n|job .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ
+	8|3|PUNCT
+*PAR:	when it's too hot to go to work then you'll be &=laughs:S1
+	complaining „ alright ?
+%mor:	conj|when pro:per|it~cop|be&3S adv|too adj|hot inf|to v|go inf|to
+	v|work adv:tem|then pro:per|you~mod|will aux|be part|complain-PRESP
+	end|end co|alright ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|INF 7|5|XMOD 8|9|INF
+	9|7|COMP 10|14|JCT 11|14|SUBJ 12|14|AUX 13|14|AUX 14|9|COMP 15|16|ENDP
+	16|3|END 17|3|PUNCT
+%trn:	conj|when pro:per|it~cop|be&3S adv|too adj|hot inf|to v|go prep|to
+	n|work adv:tem|then pro:per|you~mod|will aux|be part|complain-PRESP
+	end|end co|alright ?
+%grt:	1|3|LINK 2|3|SUBJ 3|14|CJCT 4|5|JCT 5|3|PRED 6|7|INF 7|5|XMOD
+	8|7|JCT 9|8|POBJ 10|14|JCT 11|14|SUBJ 12|14|AUX 13|14|AUX 14|0|ROOT
+	15|16|ENDP 16|14|END 17|14|PUNCT
+*PAR:	and you can't have air conditioning (be)cause the ozone is totally
+	screwed , so +...
+%mor:	coord|and pro:per|you mod|can~neg|not v|have n|air
+	part|condition-PRESP conj|because det:art|the n|ozone aux|be&3S
+	adv|total&dadj-LY part|screw-PASTP cm|cm adv|so +...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|MOD 7|5|COMP 8|13|LINK
+	9|10|DET 10|13|SUBJ 11|13|AUX 12|13|JCT 13|5|CJCT 14|13|LP 15|13|JCT
+	16|5|PUNCT
+%trn:	coord|and pro:per|you mod|can~neg|not v|have n|air
+	n:gerund|condition-PRESP conj|because det:art|the n|ozone aux|be&3S
+	adv|total&dadj-LY part|screw-PASTP cm|cm adv|so +...
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|MOD 7|5|OBJ
+	8|13|LINK 9|10|DET 10|13|SUBJ 11|13|AUX 12|13|JCT 13|5|CJCT 14|5|LP
+	15|5|JCT 16|5|PUNCT
+*PAR:	yeah but think about all these people in California .
+%mor:	co|yeah conj|but v|think prep|about qn|all det:dem|these
+	n|person&PL prep|in n:prop|California .
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|DET 7|4|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+%trn:	co|yeah conj|but v|think prep|about qn|all det:dem|these
+	n|person&PL prep|in n:prop|California .
+%grt:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|DET 7|4|POBJ
+	8|7|NJCT 9|8|POBJ 10|3|PUNCT
+*PAR:	like if he did do this then they would have like no electricity .
+%mor:	co|like conj|if pro:sub|he mod|do&PAST v|do pro:dem|this
+	adv:tem|then pro:sub|they mod|will&COND v|have co|like qn|no
+	n|electric&dadj-ITY .
+%gra:	1|10|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|10|CJCT 6|5|OBJ 7|5|JCT 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|10|COM 12|13|QUANT 13|10|OBJ 14|10|PUNCT
+%trn:	co|like conj|if pro:sub|he mod|do&PAST v|do pro:dem|this adv:tem|then
+	pro:sub|they mod|will&COND v|have co|like qn|no n|electric&dadj-ITY
+	.
+%grt:	1|10|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|10|CJCT 6|5|OBJ 7|10|JCT
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|13|COM 12|13|QUANT 13|10|OBJ
+	14|10|PUNCT
+*PAR:	hey we're [//] no ‡ we're talking about like this whole article and
+	it [/] it affects people who support like +/.
+%mor:	co|hey co|no beg|beg pro:sub|we~aux|be&PRES part|talk-PRESP
+	prep|about co|like det:dem|this adj|whole n|article coord|and
+	pro:per|it v|affect-3S n|person&PL pro:rel|who v|support prep|like
+	+/.
+%gra:	1|2|COM 2|0|BEG 3|2|BEGP 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|11|COM
+	9|11|DET 10|11|MOD 11|7|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|OBJ
+	16|17|LINK 17|15|CMOD 18|17|JCT 19|6|PUNCT
+%trn:	co|hey co|no beg|beg pro:sub|we~aux|be&PRES part|talk-PRESP
+	prep|about co|like det:dem|this adj|whole n|article coord|and
+	pro:per|it v|affect-3S n|person&PL pro:rel|who v|support co|like
+	+/.
+%grt:	1|2|COM 2|0|BEG 3|2|BEGP 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|11|COM
+	9|11|DET 10|11|MOD 11|7|POBJ 12|14|LINK 13|14|SUBJ 14|6|CJCT
+	15|14|OBJ 16|17|LINK 17|15|CMOD 18|17|COM 19|6|PUNCT
+*PAR:	well I'm just saying that not everyone's gonna be against his
+	decision right here and this makes it seem like everyone's pissed
+	off at him .
+%mor:	co|well pro:sub|I~aux|be&1S adv|just part|say-PRESP comp|that
+	neg|not pro:indef|everyone~aux|be&3S part|go-PRESP~inf|to cop|be
+	prep|against det:poss|his n|decision adv|right adv|here coord|and
+	pro:dem|this v|make-3S pro:per|it cop|seem prep|like
+	pro:indef|everyone~aux|be&3S part|piss-PASTP adv|off prep|at
+	pro:obj|him .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|10|LINK 7|6|NEG 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|12|INF 12|10|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|17|JCT 17|12|JCT 18|20|LINK 19|20|SUBJ 20|10|CJCT 21|20|OBJ 22|26|AUX
+	23|22|JCT 24|23|POBJ 25|26|AUX 26|20|COMP 27|26|JCT 28|26|JCT 29|28|POBJ
+	30|5|PUNCT
+%trn:	co|well pro:sub|I~aux|be&1S adv|just part|say-PRESP comp|that
+	neg|not pro:indef|everyone~aux|be&3S part|go-PRESP~inf|to cop|be
+	prep|against det:poss|his n|decision adv|right adv|here coord|and
+	pro:dem|this v|make-3S pro:per|it cop|seem conj|like
+	pro:indef|everyone~aux|be&3S part|piss-PASTP adv|off prep|at
+	pro:obj|him .
+%grt:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|10|LINK 7|8|NEG 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|12|INF 12|10|COMP 13|12|JCT 14|15|DET
+	15|13|POBJ 16|17|JCT 17|12|JCT 18|20|LINK 19|20|SUBJ 20|5|CJCT
+	21|20|OBJ 22|20|COMP 23|26|LINK 24|26|SUBJ 25|26|AUX 26|22|CPRED
+	27|26|JCT 28|26|JCT 29|28|POBJ 30|5|PUNCT
+*PAR:	it really doesn't .
+%mor:	pro:per|it adv|real&dadj-LY mod|do&3S~neg|not .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|INCROOT 4|3|NEG 5|3|PUNCT
+%trn:	pro:per|it adv|real&dadj-LY mod|do&3S~neg|not .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|NEG 5|3|PUNCT
+*PAR:	it just says this is what he did .
+%mor:	pro:per|it adv|just v|say-3S pro:dem|this cop|be&3S pro:int|what
+	pro:sub|he v|do&PAST .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|8|LINK 7|8|SUBJ 8|5|CPRED
+	9|3|PUNCT
+%trn:	pro:per|it adv|just v|say-3S pro:dem|this cop|be&3S pro:int|what
+	pro:sub|he v|do&PAST .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|8|LINK 7|8|SUBJ
+	8|5|CPRED 9|3|PUNCT
+*PAR:	and then it says why he did it .
+%mor:	coord|and adv:tem|then pro:per|it v|say-3S pro:int|why pro:sub|he
+	mod|do&PAST pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|OBJ
+	9|4|PUNCT
+%trn:	coord|and adv:tem|then pro:per|it v|say-3S pro:int|why pro:sub|he
+	v|do&PAST pro:per|it .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|7|OBJ 9|4|PUNCT
+*PAR:	and it lets you draw your own conclusion .
+%mor:	coord|and pro:per|it v|let-3S pro:per|you v|draw det:poss|your
+	adj|own n|conclusion .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+%trn:	coord|and pro:per|it v|let-3S pro:per|you v|draw det:poss|your
+	adj|own n|conclusion .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|8|DET 7|8|MOD
+	8|5|OBJ 9|3|PUNCT
+*PAR:	I think it's important to know how the country feels about him
+	right now .
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S adj|important inf|to v|know
+	pro:int|how det:art|the n|country n|feel-PL prep|about pro:obj|him
+	adv|right adv:tem|now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|7|INF 7|5|XMOD 8|11|LINK
+	9|11|DET 10|11|MOD 11|15|CSUBJ 12|11|NJCT 13|12|POBJ 14|15|JCT 15|7|JCT
+	16|2|PUNCT
+%trn:	pro:sub|I v|think pro:per|it~cop|be&3S adj|important inf|to v|know
+	pro:int|how det:art|the n|country v|feel-3S prep|about pro:obj|him
+	adv|right adv:tem|now .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|7|INF 7|5|XMOD
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|7|COMP 12|11|JCT 13|12|POBJ
+	14|15|JCT 15|11|JCT 16|2|PUNCT
+*PAR:	more important than talking about carbon dioxide .
+%mor:	adv|more adj|important prep|than n:gerund|talk-PRESP prep|about
+	n|carbon n|dioxide .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|4|JCT 6|7|MOD 7|5|POBJ 8|2|PUNCT
+%trn:	adv|more adj|important prep|than n:gerund|talk-PRESP prep|about
+	n|carbon n|dioxide .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|3|CPOBJ 5|4|JCT 6|7|MOD 7|5|POBJ
+	8|2|PUNCT
+*PAR:	but how they feel is gonna change because &th he's going back on
+	what his whole political campaign like represented and stuff .
+%mor:	conj|but pro:int|how pro:sub|they v|feel aux|be&3S
+	part|go-PRESP~inf|to v|change conj|because pro:sub|he~aux|be&3S
+	part|go-PRESP adv|back prep|on pro:int|what det:poss|his adj|whole
+	adj|politic-AL n|campaign co|like v|represent-PAST coord|and n|stuff
+	.
+%gra:	1|6|LINK 2|4|JCT 3|4|SUBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|6|CJCT 13|12|JCT 14|12|JCT 15|21|LINK
+	16|19|DET 17|19|MOD 18|19|MOD 19|21|SUBJ 20|19|COM 21|14|CPOBJ 22|21|CONJ
+	23|22|COORD 24|6|PUNCT
+%trn:	conj|but pro:int|how pro:sub|they v|feel aux|be&3S
+	part|go-PRESP~inf|to v|change conj|because pro:sub|he~aux|be&3S
+	part|go-PRESP adv|back prep|on pro:int|what det:poss|his adj|whole
+	adj|politic-AL n|campaign co|like v|represent-PAST coord|and n|stuff
+	.
+%grt:	1|6|LINK 2|4|JCT 3|4|SUBJ 4|6|CSUBJ 5|6|AUX 6|0|ROOT 7|8|INF
+	8|6|COMP 9|12|LINK 10|12|SUBJ 11|12|AUX 12|6|CJCT 13|12|JCT
+	14|12|JCT 15|21|LINK 16|19|DET 17|19|MOD 18|19|MOD 19|21|SUBJ
+	20|19|COM 21|14|CPOBJ 22|21|CONJ 23|22|COORD 24|6|PUNCT
+*PAR:	I don't think this was one of the key issues though .
+%mor:	pro:sub|I mod|do~neg|not v|think pro:dem|this cop|be&PAST&13S
+	det:num|one prep|of det:art|the n|key n|issue-PL adv|though .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|11|QUANT 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|6|PRED 12|11|NJCT 13|4|PUNCT
+%trn:	pro:sub|I mod|do~neg|not v|think pro:dem|this cop|be&PAST&13S
+	pro:indef|one prep|of det:art|the n|key n|issue-PL adv|though .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|PRED
+	8|7|NJCT 9|11|DET 10|11|MOD 11|8|POBJ 12|4|JCT 13|4|PUNCT
+*PAR:	but it was one of his issues .
+%mor:	conj|but pro:per|it cop|be&PAST&13S det:num|one prep|of
+	det:poss|his n|issue-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%trn:	conj|but pro:per|it cop|be&PAST&13S pro:indef|one prep|of
+	det:poss|his n|issue-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	it says right now that he won't seek cut in emissions but I_mean
+	we're talking in the first couple of weeks of his presidency .
+%mor:	pro:per|it v|say-3S adv|right adv:tem|now comp|that pro:sub|he
+	mod|will~neg|not v|seek n|cut prep|in n|emission-PL conj|but
+	co|I_mean pro:sub|we~aux|be&PRES part|talk-PRESP prep|in det:art|the
+	adj|first n|couple prep|of n|week-PL prep|of det:poss|his
+	n|presidency .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|CMOD 10|9|OBJ 11|9|JCT 12|11|POBJ 13|17|LINK 14|17|COM 15|17|SUBJ
+	16|17|AUX 17|9|CJCT 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|21|NJCT
+	23|22|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|2|PUNCT
+%trn:	pro:per|it v|say-3S adv|right adv:tem|now comp|that pro:sub|he
+	mod|will~neg|not v|seek n|cut prep|in n|emission-PL conj|but
+	co|I_mean pro:sub|we~aux|be&PRES part|talk-PRESP prep|in det:art|the
+	adj|first n|couple prep|of n|week-PL prep|of det:poss|his
+	n|presidency .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|2|COMP 10|9|OBJ 11|10|NJCT 12|11|POBJ 13|17|LINK 14|17|COM
+	15|17|SUBJ 16|17|AUX 17|2|CJCT 18|17|JCT 19|21|DET 20|21|MOD
+	21|18|POBJ 22|21|NJCT 23|22|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ
+	27|2|PUNCT
+*PAR:	three years from now who knows what he might be doing ?
+%mor:	det:num|three n|year-PL prep|from adv:tem|now pro:int|who v|know-3S
+	pro:int|what pro:sub|he mod|might aux|be part|do-PRESP ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|6|LINK 6|2|CJCT 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|11|AUX 11|6|COMP 12|2|PUNCT
+%trn:	det:num|three n|year-PL prep|from adv:tem|now pro:int|who v|know-3S
+	pro:int|what pro:sub|he mod|might aux|be part|do-PRESP ?
+%grt:	1|2|QUANT 2|6|JCT 3|2|NJCT 4|3|POBJ 5|6|LINK 6|0|ROOT 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|11|AUX 11|6|COMP 12|6|PUNCT
+*PAR:	two years from now maybe he'll [//] it'll be the right time to look
+	for cut in emissions and then hey he'll keep his promise so you
+	really can't say that .
+%mor:	det:num|two n|year-PL prep|from adv:tem|now adv|maybe
+	pro:per|it~mod|will cop|be det:art|the adj|right n|time inf|to
+	v|look prep|for n|cut prep|in n|emission-PL coord|and adv:tem|then
+	co|hey pro:sub|he~mod|will v|keep det:poss|his n|promise conj|so
+	pro:per|you adv|real&dadj-LY mod|can~neg|not v|say pro:dem|that .
+%gra:	1|2|QUANT 2|8|SUBJ 3|2|NJCT 4|3|POBJ 5|8|JCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|PRED 12|13|INF 13|11|XMOD 14|13|JCT 15|14|POBJ
+	16|15|NJCT 17|16|POBJ 18|23|LINK 19|23|JCT 20|23|COM 21|23|SUBJ 22|23|AUX
+	23|13|CJCT 24|25|DET 25|23|OBJ 26|31|LINK 27|31|SUBJ 28|31|JCT
+	29|31|AUX 30|29|NEG 31|23|CJCT 32|31|OBJ 33|8|PUNCT
+%trn:	det:num|two n|year-PL prep|from adv:tem|now adv|maybe
+	pro:per|it~mod|will cop|be det:art|the adj|right n|time inf|to
+	v|look prep|for n|cut prep|in n|emission-PL coord|and adv:tem|then
+	co|hey pro:sub|he~mod|will v|keep det:poss|his n|promise conj|so
+	pro:per|you adv|real&dadj-LY mod|can~neg|not v|say pro:dem|that .
+%grt:	1|2|QUANT 2|8|JCT 3|2|NJCT 4|3|POBJ 5|8|JCT 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|11|DET 10|11|MOD 11|8|PRED 12|13|INF 13|11|XMOD 14|13|JCT
+	15|14|POBJ 16|15|NJCT 17|16|POBJ 18|23|LINK 19|23|JCT 20|23|COM
+	21|23|SUBJ 22|23|AUX 23|11|CJCT 24|25|DET 25|23|OBJ 26|31|LINK
+	27|31|SUBJ 28|31|JCT 29|31|AUX 30|29|NEG 31|8|CJCT 32|31|OBJ
+	33|8|PUNCT
+*PAR:	this is an issue that's been around for a while .
+%mor:	pro:dem|this cop|be&3S det:art|a n|issue pro:rel|that~cop|be&3S
+	cop|be&PASTP adv|around prep|for det:art|a n|while .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|6|PRED 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+%trn:	pro:dem|this cop|be&3S det:art|a n|issue pro:rel|that~aux|be&3S
+	cop|be&PASTP adv|around prep|for det:art|a n|while .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|AUX 7|4|CMOD
+	8|7|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	it was not a brand new thing that just came up today that we're
+	having environmental problems .
+%mor:	pro:per|it cop|be&PAST&13S neg|not det:art|a n|brand adj|new
+	n|thing pro:rel|that adv|just v|come&PAST adv|up adv:tem|today
+	comp|that pro:sub|we~aux|be&PRES part|have-PRESP
+	adj|environment&dn-AL n|problem-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|7|MOD 6|7|MOD 7|2|PRED 8|10|LINK
+	9|10|JCT 10|7|CMOD 11|10|JCT 12|10|JCT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|COMP 17|18|MOD 18|16|OBJ 19|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S neg|not det:art|a adj|brand adj|new
+	n|thing pro:rel|that adv|just v|come&PAST adv|up adv:tem|today
+	comp|that pro:sub|we~aux|be&PRES part|have-PRESP
+	adj|environment&dn-AL n|problem-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|7|DET 5|6|MOD 6|7|MOD 7|2|PRED
+	8|10|LINK 9|10|JCT 10|7|CMOD 11|10|JCT 12|10|JCT 13|16|LINK
+	14|16|SUBJ 15|16|AUX 16|2|CJCT 17|18|MOD 18|16|OBJ 19|2|PUNCT
+*PAR:	right ‡ we know that but the whole point is he went back on his
+	word „ right ?
+%mor:	co|right beg|beg pro:sub|we v|know pro:dem|that conj|but
+	det:art|the adj|whole n|point cop|be&3S pro:sub|he v|go&PAST
+	adv|back prep|on det:poss|his n|word end|end co|right ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|10|LINK 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|12|CJCT 11|12|SUBJ 12|4|COMP 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|18|ENDP 18|4|END 19|4|PUNCT
+%trn:	co|right beg|beg pro:sub|we v|know pro:dem|that conj|but det:art|the
+	adj|whole n|point cop|be&3S pro:sub|he v|go&PAST adv|back prep|on
+	det:poss|his n|word end|end co|right ?
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|10|LINK 7|9|DET
+	8|9|MOD 9|10|SUBJ 10|4|CJCT 11|12|SUBJ 12|10|CPRED 13|12|JCT
+	14|12|JCT 15|16|DET 16|14|POBJ 17|18|ENDP 18|4|END 19|4|PUNCT
+*PAR:	which president hasn't gone back on their word ?
+%mor:	pro:rel|which n|president aux|have&3S~neg|not part|go&PASTP
+	adv|back prep|on det:poss|their n|word ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+%trn:	det:int|which n|president aux|have&3S~neg|not part|go&PASTP
+	adv|back prep|on det:poss|their n|word ?
+%grt:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	you_know does that stop the papers from publishing it every time ?
+%mor:	co|you_know mod|do&3S pro:dem|that v|stop det:art|the n|paper-PL
+	prep|from n:gerund|publish-PRESP pro:per|it qn|every n|time ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|8|OBJ 10|11|QUANT 11|8|JCT 12|4|PUNCT
+%trn:	co|you_know mod|do&3S pro:dem|that v|stop det:art|the n|paper-PL
+	prep|from n:gerund|publish-PRESP pro:per|it qn|every n|time ?
+%grt:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|8|OBJ 10|11|QUANT 11|8|NJCT 12|4|PUNCT
+*PAR:	so ‡ which changes like should be published then ?
+%mor:	co|so beg|beg det:int|which n|change-PL co|like mod|should aux|be
+	part|publish-PASTP adv:tem|then ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|8|SUBJ 5|4|COM 6|8|AUX 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+%trn:	co|so beg|beg det:int|which n|change-PL co|like mod|should aux|be
+	part|publish-PASTP adv:tem|then ?
+%grt:	1|0|BEG 2|1|BEGP 3|4|DET 4|8|SUBJ 5|8|COM 6|8|AUX 7|8|AUX
+	8|0|ROOT 9|8|JCT 10|8|PUNCT
+*PAR:	are we just gonna select like +"/.
+%mor:	aux|be&PRES pro:sub|we adv|just part|go-PRESP~inf|to v|select
+	co|like +"/.
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|COM 8|4|PUNCT
+%trn:	aux|be&PRES pro:sub|we adv|just part|go-PRESP~inf|to v|select
+	co|like +"/.
+%grt:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|COM
+	8|4|PUNCT
+*PAR:	+" oh only people who care about this one , they might not care
+	about this as much so let's not publish it „ you_know ?
+%mor:	co|oh qn|only n|person&PL pro:rel|who v|care prep|about
+	det:dem|this pro:indef|one cm|cm pro:sub|they mod|might neg|not
+	v|care prep|about pro:dem|this adv|as adv|much conj|so
+	v|let~pro:obj|us neg|not v|publish pro:per|it end|end co|you_know ?
+%gra:	1|3|COM 2|3|QUANT 3|13|JCT 4|5|LINK 5|3|CMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|LP 10|13|SUBJ 11|13|AUX 12|11|NEG 13|0|ROOT 14|13|JCT 15|14|POBJ
+	16|17|COORD 17|13|JCT 18|19|LINK 19|13|CJCT 20|19|OBJ 21|22|NEG 22|19|COMP
+	23|22|OBJ 24|25|ENDP 25|13|END 26|13|PUNCT
+%trn:	co|oh qn|only n|person&PL pro:rel|who v|care prep|about
+	det:dem|this pro:indef|one cm|cm pro:sub|they mod|might neg|not
+	v|care prep|about pro:dem|this adv|as adv|much conj|so
+	v|let~pro:obj|us neg|not v|publish pro:per|it end|end co|you_know ?
+%grt:	1|13|COM 2|3|QUANT 3|13|TOP 4|5|LINK 5|3|CMOD 6|5|JCT 7|8|DET
+	8|6|POBJ 9|3|LP 10|13|SUBJ 11|13|AUX 12|11|NEG 13|0|ROOT 14|13|JCT
+	15|14|POBJ 16|17|JCT 17|13|JCT 18|19|JCT 19|13|CJCT 20|19|OBJ
+	21|22|NEG 22|19|COMP 23|22|OBJ 24|25|ENDP 25|13|END 26|13|PUNCT
+*PAR:	it's important to inform everybody about every [//] like the
+	decisions that he's making .
+%mor:	pro:per|it~cop|be&3S adj|important inf|to v|inform
+	pro:indef|everybody prep|about co|like det:art|the n|decision-PL
+	pro:rel|that pro:sub|he~aux|be&3S part|make-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ 7|5|JCT 8|10|COM
+	9|10|DET 10|7|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adj|important inf|to v|inform
+	pro:indef|everybody prep|about co|like det:art|the n|decision-PL
+	pro:rel|that pro:sub|he~aux|be&3S part|make-PRESP .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ 7|5|JCT 8|10|COM
+	9|10|DET 10|7|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD
+	15|2|PUNCT
+*PAR:	I was just gonna say it's not a matter of being published or not .
+%mor:	pro:sub|I aux|be&PAST&13S adv|just part|go-PRESP~inf|to v|say
+	pro:per|it~cop|be&3S neg|not det:art|a n|matter prep|of aux|be-PRESP
+	part|publish-PASTP coord|or neg|not .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|6|COMP
+	9|8|NEG 10|11|DET 11|8|PRED 12|11|NJCT 13|14|AUX 14|12|POBJ 15|14|CONJ
+	16|15|COORD 17|4|PUNCT
+%trn:	pro:sub|I aux|be&PAST&13S adv|just part|go-PRESP~inf|to v|say
+	pro:per|it~cop|be&3S neg|not det:art|a n|matter prep|of aux|be-PRESP
+	part|publish-PASTP coord|or neg|not .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ
+	8|6|COMP 9|8|NEG 10|11|DET 11|8|PRED 12|11|NJCT 13|14|AUX
+	14|12|CPOBJ 15|14|CONJ 16|15|COORD 17|4|PUNCT
+*PAR:	it's just a matter of which one's more important .
+%mor:	pro:per|it~cop|be&3S adv|just det:art|a n|matter prep|of
+	det:int|which pro:indef|one~cop|be&3S adv|more adj|important .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|PRED 6|5|NJCT 7|9|LINK 8|9|SUBJ
+	9|6|POBJ 10|11|JCT 11|9|PRED 12|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adv|just det:art|a n|matter prep|of
+	det:int|which pro:indef|one~cop|be&3S adv|more adj|important .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|2|PRED 6|5|NJCT 7|8|DET
+	8|9|SUBJ 9|6|CPOBJ 10|11|JCT 11|9|PRED 12|2|PUNCT
+*PAR:	and I think the extra one's more important .
+%mor:	coord|and pro:sub|I v|think det:art|the adj|extra
+	pro:indef|one~cop|be&3S adv|more adj|important .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|COMP 8|9|JCT
+	9|7|PRED 10|3|PUNCT
+%trn:	coord|and pro:sub|I v|think det:art|the adj|extra
+	pro:indef|one~cop|be&3S adv|more adj|important .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|COMP
+	8|9|JCT 9|7|PRED 10|3|PUNCT
+*PAR:	this is the print edition and then the online edition <begins with
+	the> [//] you_know &th starts the day with the sixty percent poll
+	and then it's overtaken by the stock market .
+%mor:	pro:dem|this cop|be&3S det:art|the n|print n|edition coord|and
+	adv:tem|then det:art|the adj|online n|edition co|you_know v|start-3S
+	det:art|the n|day prep|with det:art|the det:num|sixty n|percent
+	n|poll coord|and adv:tem|then pro:per|it~aux|be&3S
+	over#part|take&PASTP prep|by det:art|the n|stock n|market .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|12|LINK 7|12|JCT 8|10|DET
+	9|10|MOD 10|12|SUBJ 11|12|COM 12|5|CMOD 13|14|DET 14|12|OBJ 15|12|JCT
+	16|19|DET 17|18|QUANT 18|19|MOD 19|15|POBJ 20|24|LINK 21|24|JCT 22|24|SUBJ
+	23|24|AUX 24|19|CMOD 25|24|JCT 26|28|DET 27|28|MOD 28|25|POBJ
+	29|2|PUNCT
+%trn:	pro:dem|this cop|be&3S det:art|the n|print n|edition coord|and
+	adv:tem|then det:art|the adj|online n|edition co|you_know v|start-3S
+	det:art|the n|day prep|with det:art|the det:num|sixty n|percent
+	n|poll coord|and adv:tem|then pro:per|it~aux|be&3S
+	over#part|take&PASTP prep|by det:art|the n|stock n|market .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|12|LINK 7|12|JCT
+	8|10|DET 9|10|MOD 10|12|SUBJ 11|12|COM 12|2|CJCT 13|14|DET 14|12|OBJ
+	15|12|JCT 16|19|DET 17|18|QUANT 18|19|MOD 19|15|POBJ 20|24|LINK
+	21|24|JCT 22|24|SUBJ 23|24|AUX 24|12|CJCT 25|24|JCT 26|28|DET
+	27|28|MOD 28|25|POBJ 29|2|PUNCT
+*PAR:	and &th that was good because you got into the public policy issues
+	.
+%mor:	coord|and pro:dem|that cop|be&PAST&13S adj|good conj|because
+	pro:per|you v|get&PAST prep|into det:art|the n|public n|policy
+	n|issue-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|3|PUNCT
+%trn:	coord|and pro:dem|that cop|be&PAST&13S adj|good conj|because
+	pro:per|you v|get&PAST prep|into det:art|the n|public n|policy
+	n|issue-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|LINK 6|7|SUBJ 7|3|CJCT
+	8|7|JCT 9|12|DET 10|11|MOD 11|12|MOD 12|8|POBJ 13|3|PUNCT
+*PAR:	and &w you_know what is the duty of the newspaper ?
+%mor:	coord|and co|you_know pro:int|what cop|be&3S det:art|the n|duty
+	prep|of det:art|the n|newspaper ?
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+%trn:	coord|and co|you_know pro:int|what cop|be&3S det:art|the n|duty
+	prep|of det:art|the n|newspaper ?
+%grt:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|4|PUNCT
+*PAR:	is it always just to do what people are interested in or does it
+	have an obligation to do [/] do some spinach journalism ?
+%mor:	cop|be&3S pro:per|it adv|always adj|just inf|to v|do pro:int|what
+	n|person&PL aux|be&PRES part|interest-PASTP prep|in coord|or
+	mod|do&3S pro:per|it v|have det:art|a n|obligate&dv-TION inf|to v|do
+	qn|some n|spinach n|journal-ISM ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|JCT 4|2|PRED 5|6|INF 6|4|XMOD 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|10|JCT 12|11|POBJ 13|15|AUX 14|15|SUBJ
+	15|12|COORD 16|17|DET 17|15|OBJ 18|19|INF 19|17|XMOD 20|21|QUANT 21|22|MOD
+	22|19|OBJ 23|1|PUNCT
+%trn:	cop|be&3S pro:per|it adv|always adv|just inf|to v|do pro:int|what
+	n|person&PL aux|be&PRES part|interest-PASTP adv|in coord|or
+	mod|do&3S pro:per|it v|have det:art|a n|obligate&dv-TION inf|to v|do
+	qn|some n|spinach n|journal-ISM ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|1|JCT 4|6|JCT 5|6|INF 6|1|CPRED 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COBJ 11|10|JCT 12|15|LINK 13|15|AUX
+	14|15|SUBJ 15|1|CJCT 16|17|DET 17|15|OBJ 18|19|INF 19|17|XMOD
+	20|22|QUANT 21|22|MOD 22|19|OBJ 23|1|PUNCT
+*PAR:	what do you think about that ?
+%mor:	pro:int|what mod|do pro:per|you v|think prep|about pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%trn:	pro:int|what mod|do pro:per|you v|think prep|about pro:dem|that ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	I think the New York Times is wrong and the Washington Post agrees
+	with me .
+%mor:	pro:sub|I v|think det:art|the n:prop|New n:prop|York n:prop|Times
+	cop|be&3S n|wrong coord|and det:art|the n:prop|Washington
+	n:prop|Post v|agree-3S prep|with pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|SUBJ 5|4|APP 6|7|SUBJ 7|2|COMP 8|7|PRED
+	9|8|CONJ 10|11|DET 11|9|COORD 12|13|SUBJ 13|7|CPRED 14|13|JCT 15|14|POBJ
+	16|2|PUNCT
+%trn:	pro:sub|I v|think det:art|the n:prop|New n:prop|York n:prop|Times
+	cop|be&3S adj|wrong coord|and det:art|the n:prop|Washington
+	n:prop|Post v|agree-3S prep|with pro:obj|me .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|NAME 5|6|NAME 6|7|SUBJ 7|2|CMOD
+	8|7|PRED 9|13|LINK 10|12|DET 11|12|NAME 12|13|SUBJ 13|2|CJCT
+	14|13|JCT 15|14|POBJ 16|2|PUNCT
+*PAR:	Washington Post has a big headline .
+%mor:	n:prop|Washington n:prop|Post v|have&3S det:art|a adj|big
+	n|headline .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%trn:	n:prop|Washington n:prop|Post v|have&3S det:art|a adj|big
+	n|headline .
+%grt:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	+" Bush breaks promise on carbon dioxide .
+%mor:	n:prop|Bush n|break-PL v|promise prep|on n|carbon n|dioxide .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+%trn:	n:prop|Bush v|break-3S n|promise prep|on n|carbon n|dioxide .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+*PAR:	yeah I kinda agree with that .
+%mor:	co|yeah pro:sub|I adv|kinda v|agree prep|with pro:dem|that .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%trn:	co|yeah pro:sub|I adv|kinda v|agree prep|with pro:dem|that .
+%grt:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	I agree with that too .
+%mor:	pro:sub|I v|agree prep|with pro:dem|that adv|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|2|PUNCT
+%trn:	pro:sub|I v|agree prep|with pro:dem|that adv|too .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|2|PUNCT
+*PAR:	well we hadta fight .
+%mor:	co|well pro:sub|we mod|have&PAST~inf|to v|fight .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PUNCT
+%trn:	co|well pro:sub|we mod|have&PAST~inf|to v|fight .
+%grt:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PUNCT
+*PAR:	course [: of_course] your heart wasn't in it „ right ?
+%mor:	co|of_course det:poss|your n|heart cop|be&PAST&13S~neg|not prep|in
+	pro:per|it end|end co|right ?
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|JCT 7|6|POBJ 8|9|ENDP
+	9|4|END 10|4|PUNCT
+%trn:	co|of_course det:poss|your n|heart cop|be&PAST&13S~neg|not prep|in
+	pro:per|it end|end co|right ?
+%grt:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|JCT 7|6|POBJ 8|9|ENDP
+	9|4|END 10|4|PUNCT
+*PAR:	oh [/] oh I was clearly on the other side .
+%mor:	co|oh pro:sub|I cop|be&PAST&13S adv|clear&dadj-LY prep|on
+	det:art|the qn|other n|side .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|3|PUNCT
+%trn:	co|oh pro:sub|I cop|be&PAST&13S adv|clear&dadj-LY prep|on
+	det:art|the qn|other n|side .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|QUANT
+	8|5|POBJ 9|3|PUNCT
+*PAR:	we have a traitor in our midst .
+%mor:	pro:sub|we v|have det:art|a n|traitor prep|in det:poss|our n|midst
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%trn:	pro:sub|we v|have det:art|a n|traitor prep|in det:poss|our n|midst
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+@End

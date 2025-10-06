@@ -1,0 +1,20 @@
+@UTF8
+@Window:	667_664_614_639_-1_-1_794_0_794_0
+#*************************************
+# Instructions:
+# '~'	in the rule means clitic in the utterance is not treated as space, otherwise it is
+# !	used before element refers to the whole element
+# ,!	used within element after "," refers only to that choice
+# $-	means copy whatever search pattern matched in full and unchanged to the output
+# (...)	means match choices within zero or any number of times; the "to" part must be ()
+# [...]	means match choices within zero or only one time; the "to" part must be []
+# pro:*|*,n|*,!pro:dem|*	means match "pro:*|" or "n|" once, but fail at "pro:dem|";
+# 				the "to" part must be $-
+# !part|*P*P	means match only if part|*P*P not found; the "to" part must be !-
+# \	means the rule continues on the next line
+#*************************************
+
+n|nx* => n|*
+v|vx* => v|*
+$b n|start => $b v|start
+

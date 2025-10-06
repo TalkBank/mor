@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	sigo .
+%mor:	v|segui-1S&PRES=follow .
+*T:	sigues .
+%mor:	v|segui-2S&PRES=follow .
+*T:	sigue .
+%mor:	v|segui-3S&PRES=follow .
+*T:	seguimos .
+%mor:	v|segui-1P&PRES&PRET=follow .
+*T:	seguís .
+%mor:	v|segui-2P&PRES=follow .
+*T:	siguen .
+%mor:	v|segui-3P&PRES=follow .
+@Blank
+*T:	seguía .
+%mor:	v|segui-13S&PAS=follow .
+*T:	seguías .
+%mor:	v|segui-2S&PAS=follow .
+*T:	seguía .
+%mor:	v|segui-13S&PAS=follow .
+*T:	seguíamos .
+%mor:	v|segui-1P&PAS=follow .
+*T:	seguíais .
+%mor:	v|segui-2P&PAS=follow .
+*T:	seguían .
+%mor:	v|segui-3P&PAS=follow .
+@Blank
+*T:	seguí .
+%mor:	imp|segui-2S&IMP=follow .
+*T:	seguiste .
+%mor:	v|segui-2S&PRET=follow .
+*T:	siguió .
+%mor:	v|segui-3S&PRET=follow .
+*T:	seguimos .
+%mor:	v|segui-1P&PRES&PRET=follow .
+*T:	seguisteis .
+%mor:	v|segui-2P&PRET=follow .
+*T:	siguieron .
+%mor:	v|segui-3P&PRET=follow .
+@Blank
+*T:	seguiré .
+%mor:	v|segui-1S&FUT=follow .
+*T:	seguirás .
+%mor:	v|segui-2S&FUT=follow .
+*T:	seguirá .
+%mor:	v|segui-3S&FUT=follow .
+*T:	seguiremos .
+%mor:	v|segui-1P&FUT=follow .
+*T:	seguiréis .
+%mor:	v|segui-2P&FUT=follow .
+*T:	seguirán .
+%mor:	v|segui-3P&FUT=follow .
+@Blank
+*T:	siga .
+%mor:	v|segui-13S&SUB&PRES=follow .
+*T:	sigas .
+%mor:	v|segui-2S&SUB&PRES=follow .
+*T:	siga .
+%mor:	v|segui-13S&SUB&PRES=follow .
+*T:	sigamos .
+%mor:	v|segui-1P&SUB&PRES=follow .
+*T:	sigáis .
+%mor:	v|segui-2P&SUB&PRES=follow .
+*T:	sigan .
+%mor:	v|segui-3P&SUB&PRES=follow .
+@Blank
+*T:	siguiera .
+%mor:	v|segui-13S&SUB&PAS=follow .
+*T:	siguieras .
+%mor:	v|segui-2S&SUB&PAS=follow .
+*T:	siguiera .
+%mor:	v|segui-13S&SUB&PAS=follow .
+*T:	siguiéramos .
+%mor:	v|segui-1P&SUB&PAS=follow .
+*T:	siguierais .
+%mor:	v|segui-2P&SUB&PAS=follow .
+*T:	siguieran .
+%mor:	v|segui-3P&SUB&PAS=follow .
+@Blank
+*T:	siguiendo .
+%mor:	ger|segui-PROG=follow .
+*T:	seguido .
+%mor:	part|segui-PPART-MASC=follow .
+*T:	sigue .
+%mor:	v|segui-3S&PRES=follow .
+*T:	siga .
+%mor:	v|segui-13S&SUB&PRES=follow .
+*T:	siguid .
+%mor:	imp|segui-2P&IMP=follow .
+*T:	sigan .
+%mor:	v|segui-3P&SUB&PRES=follow .
+@End

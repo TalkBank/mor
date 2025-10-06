@@ -1,0 +1,129 @@
+@UTF8
+% ***************
+%
+%   PRONOUNS, DETERMINERS
+%
+% ***************
+RULENAME:   pro-o
+LEX-ENTRY:
+LEXSURF =  $Xo			% nuestro, aquello, ello, cúanto
+LEXCAT = [scat OR det:poss det:dem qn pro:indef pro:dem \
+	pro:sub pro:poss pro:int], [inflect yes]
+ALLO:
+ALLOSURF = $X			% nuestros
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X			% nuestras
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+
+RULENAME:   pro-a
+LEX-ENTRY:
+LEXSURF =  $Xa			% la
+LEXCAT = [scat OR pro:obj], [inflect yes]
+ALLO:
+ALLOSURF = $X			% las
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+
+RULENAME:   pro-e
+LEX-ENTRY:
+LEXSURF =  $Xe			% éste, ese, le/les/la/las
+LEXCAT = [scat OR pro:dem det:dem pro:sub pro:obj pro:ind], [inflect yes]
+ALLO:
+ALLOSURF = $X			% éstas
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X			% éstos
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF	% les
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF	% éste
+ALLOCAT = LEXCAT
+
+RULENAME:   pro-mi
+LEX-ENTRY:
+LEXSURF =  $X$S			% mi
+LEXCAT = [scat OR det:poss pro:dem pro:indef pro:poss pro:sub pro:int]
+ALLO:
+ALLOSURF = LEXSURF			% mis
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% mi
+ALLOCAT = LEXCAT
+
+RULENAME:   pro-ún
+LEX-ENTRY:
+LEXSURF =  $Xún			% ningún
+LEXCAT = [scat qn]
+ALLO:
+ALLOSURF = LEXSURF		% ningún
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xun			% ningunos
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xun			% ningunas
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+RULENAME:   pro-n
+LEX-ENTRY:
+LEXSURF =  $Xn			% un
+LEXCAT = [scat OR pro:dem det:art]
+ALLO:
+ALLOSURF = $Xn			% unos
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xn			% unas
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+RULENAME:   pro-consonant
+LEX-ENTRY:
+LEXSURF =  $X$C			% quien, un
+LEXCAT = [scat OR det:art rel pro:dem pro:poss pro:int]
+ALLO:
+ALLOSURF = $X$Ce		% quienes
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% quien
+ALLOCAT = LEXCAT
+
+RULENAME:   qn
+LEX-ENTRY:
+LEXSURF =  $Xo			% mucho, cuanto
+LEXCAT = [scat qn], ![allo vfc]
+ALLO:
+ALLOSURF = $X			% muchísimo
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $X			% muchísimo
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0], ADD [allo pl-s]
+
+RULENAME:   num-iento
+LEX-ENTRY:
+LEXSURF =  $Xiento			% ciento, trescientas, quinientos
+LEXCAT = [scat OR det:num pro:num]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xienta
+ALLOCAT = LEXCAT, ADD [gen f], ADD [allo pl-s]
+
+RULENAME:   num-enta
+LEX-ENTRY:
+LEXSURF =  $Xenta			% cuarenta, to make cuarentas also
+LEXCAT = [scat OR det:num pro:num]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-s]
+
+RULENAME:   num-ón
+LEX-ENTRY:
+LEXSURF =  $Xón				% millón, millones
+LEXCAT = [scat OR det:num pro:num]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xon
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-es]
+

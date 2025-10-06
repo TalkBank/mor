@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	quepo .
+%mor:	v|cabe-1S&PRES=fit .
+*T:	cabes .
+%mor:	v|cabe-2S&PRES=fit .
+*T:	cabe .
+%mor:	imp|cabe-2S&IMP=fit .
+*T:	cabemos .
+%mor:	v|cabe-1P&PRES=fit .
+*T:	cabéis .
+%mor:	v|cabe-2P&PRES=fit .
+*T:	caben .
+%mor:	v|cabe-3P&PRES=fit .
+@Blank
+*T:	cabía .
+%mor:	v|cabe-13S&PAS=fit .
+*T:	cabías .
+%mor:	v|cabe-2S&PAS=fit .
+*T:	cabía .
+%mor:	v|cabe-13S&PAS=fit .
+*T:	cabíamos .
+%mor:	v|cabe-1P&PAS=fit .
+*T:	cabíais .
+%mor:	v|cabe-2P&PAS=fit .
+*T:	cabían .
+%mor:	v|cabe-3P&PAS=fit .
+@Blank
+*T:	cupe .
+%mor:	v|cabe-1S&PRET=fit .
+*T:	cupiste .
+%mor:	v|cabe-2S&PRET=fit .
+*T:	cupo .
+%mor:	v|cabe-3S&PRET=fit .
+*T:	cupimos .
+%mor:	v|cabe-1P&PRES&PRET=fit .
+*T:	cupisteis .
+%mor:	v|cabe-2P&PRET=fit .
+*T:	cupieron .
+%mor:	v|cabe-3P&PRET=fit .
+@Blank
+*T:	cabré .
+%mor:	v|cabe-1S&FUT=fit .
+*T:	cabrás .
+%mor:	v|cabe-2S&FUT=fit .
+*T:	cabrá .
+%mor:	v|cabe-3S&FUT=fit .
+*T:	cabremos .
+%mor:	v|cabe-1P&FUT=fit .
+*T:	cabréis .
+%mor:	v|cabe-2P&FUT=fit .
+*T:	cabrán .
+%mor:	v|cabe-3P&FUT=fit .
+@Blank
+*T:	quepa .
+%mor:	v|cabe-13S&SUB&PRES=fit .
+*T:	quepas .
+%mor:	v|cabe-2S&SUB&PRES=fit .
+*T:	quepa .
+%mor:	v|cabe-13S&SUB&PRES=fit .
+*T:	quepamos .
+%mor:	imp|cabe-1P&IMP=fit .
+*T:	quepáis .
+%mor:	v|cabe-2P&SUB&PRES=fit .
+*T:	quepan .
+%mor:	v|cabe-3P&SUB&PRES=fit .
+@Blank
+*T:	cupiera .
+%mor:	v|cabe-13S&SUB&PAS=fit .
+*T:	cupieras .
+%mor:	v|cabe-2S&SUB&PAS=fit .
+*T:	cupiera .
+%mor:	v|cabe-13S&SUB&PAS=fit .
+*T:	cupiéramos .
+%mor:	v|cabe-1P&SUB&PAS=fit .
+*T:	cupierais .
+%mor:	v|cabe-2P&SUB&PAS=fit .
+*T:	cupieran .
+%mor:	v|cabe-3P&SUB&PAS=fit .
+@Blank
+*T:	cabiendo .
+%mor:	ger|cabe-PROG=fit .
+*T:	cabido .
+%mor:	part|cabe-PPART-MASC=fit .
+*T:	cabe .
+%mor:	imp|cabe-2S&IMP=fit .
+*T:	quepa .
+%mor:	v|cabe-13S&SUB&PRES=fit .
+*T:	cabed .
+%mor:	imp|cabe-2P&IMP=fit .
+*T:	quepan .
+%mor:	v|cabe-3P&SUB&PRES=fit .
+@Blank
+@End

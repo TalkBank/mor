@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	conduzco .
+%mor:	v|conduci-1S&PRES=drive .
+*T:	conduces .
+%mor:	v|conduci-2S&PRES=drive .
+*T:	conduce .
+%mor:	imp|conduci-2S&IMP=drive .
+*T:	conducimos .
+%mor:	v|conduci-1P&PRES&PRET=drive .
+*T:	conducís .
+%mor:	v|conduci-2P&PRES=drive .
+*T:	conducen .
+%mor:	v|conduci-3P&PRES=drive .
+@Blank
+*T:	conducía .
+%mor:	v|conduci-13S&PAS=drive .
+*T:	conducías .
+%mor:	v|conduci-2S&PAS=drive .
+*T:	conducía .
+%mor:	v|conduci-13S&PAS=drive .
+*T:	conducíamos .
+%mor:	v|conduci-1P&PAS=drive .
+*T:	conducíais .
+%mor:	v|conduci-2P&PAS=drive .
+*T:	conducían .
+%mor:	v|conduci-3P&PAS=drive .
+@Blank
+*T:	conduje .
+%mor:	imp|conduci-2S&IMP=drive .
+*T:	condujiste .
+%mor:	v|conduci-2S&PRET=drive .
+*T:	condujo .
+%mor:	v|conduci-3S&PRET=drive .
+*T:	condujimos .
+%mor:	v|conduci-1P&PRES&PRET=drive .
+*T:	condujisteis .
+%mor:	v|conduci-2P&PRET=drive .
+*T:	condujeron .
+%mor:	v|conduci-3P&PRET=drive .
+@Blank
+*T:	conduciré .
+%mor:	v|conduci-1S&FUT=drive .
+*T:	conducirás .
+%mor:	v|conduci-2S&FUT=drive .
+*T:	conducirá .
+%mor:	v|conduci-3S&FUT=drive .
+*T:	conduciremos .
+%mor:	v|conduci-1P&FUT=drive .
+*T:	conduciréis .
+%mor:	v|conduci-2P&FUT=drive .
+*T:	conducirán .
+%mor:	v|conduci-3P&FUT=drive .
+@Blank
+*T:	conduzca .
+%mor:	v|conduci-13S&SUB&PRES=drive .
+*T:	conduzcas .
+%mor:	v|conduci-2S&SUB&PRES=drive .
+*T:	conduzca .
+%mor:	v|conduci-13S&SUB&PRES=drive .
+*T:	conduzcamos .
+%mor:	v|conduci-1P&SUB&PRES=drive .
+*T:	conduzcáis .
+%mor:	v|conduci-2P&SUB&PRES=drive .
+*T:	conduzcan .
+%mor:	v|conduci-3P&SUB&PRES=drive .
+@Blank
+*T:	condujera .
+%mor:	v|conduci-13S&SUB&PAS=drive .
+*T:	condujeras .
+%mor:	v|conduci-2S&SUB&PAS=drive .
+*T:	condujera .
+%mor:	v|conduci-13S&SUB&PAS=drive .
+*T:	condujéramos .
+%mor:	v|conduci-1P&SUB&PAS=drive .
+*T:	condujerais .
+%mor:	v|conduci-2P&SUB&PAS=drive .
+*T:	condujeran .
+%mor:	v|conduci-3P&SUB&PAS=drive .
+@Blank
+*T:	conduciendo .
+%mor:	ger|conduci-PROG=drive .
+*T:	conducido .
+%mor:	part|conduci-PPART-MASC=drive .
+*T:	conduce .
+%mor:	imp|conduci-2S&IMP=drive .
+*T:	conduzca .
+%mor:	v|conduci-13S&SUB&PRES=drive .
+*T:	conducid .
+%mor:	imp|conduci-2P&IMP=drive .
+*T:	conduzcan .
+%mor:	v|conduci-3P&SUB&PRES=drive .
+@Blank
+@End

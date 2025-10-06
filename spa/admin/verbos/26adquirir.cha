@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	adquiero .
+%mor:	v|adquiri-1S&PRES=acquire .
+*T:	adquieres .
+%mor:	v|adquiri-2S&PRES=acquire .
+*T:	adquiere .
+%mor:	v|adquiri-3S&PRES=acquire .
+*T:	adquirimos .
+%mor:	v|adquiri-1P&PRES&PRET=acquire .
+*T:	adquirís .
+%mor:	v|adquiri-2P&PRES=acquire .
+*T:	adquieren .
+%mor:	v|adquiri-3P&PRES=acquire .
+@Blank
+*T:	adquiría .
+%mor:	v|adquiri-13S&PAS=acquire .
+*T:	adquirías .
+%mor:	v|adquiri-2S&PAS=acquire .
+*T:	adquiría .
+%mor:	v|adquiri-13S&PAS=acquire .
+*T:	adquiríamos .
+%mor:	v|adquiri-1P&PAS=acquire .
+*T:	adquiríais .
+%mor:	v|adquiri-2P&PAS=acquire .
+*T:	adquirían .
+%mor:	v|adquiri-3P&PAS=acquire .
+@Blank
+*T:	adquirí .
+%mor:	imp|adquiri-2S&IMP=acquire .
+*T:	adquiriste .
+%mor:	v|adquiri-2S&PRET=acquire .
+*T:	adquirió .
+%mor:	v|adquiri-3S&PRET=acquire .
+*T:	adquirimos .
+%mor:	v|adquiri-1P&PRES&PRET=acquire .
+*T:	adquiristeis .
+%mor:	v|adquiri-2P&PRET=acquire .
+*T:	adquirieron .
+%mor:	v|adquiri-3P&PRET=acquire .
+@Blank
+*T:	adquiriré .
+%mor:	v|adquiri-1S&FUT=acquire .
+*T:	adquirirás .
+%mor:	v|adquiri-2S&FUT=acquire .
+*T:	adquirirá .
+%mor:	v|adquiri-3S&FUT=acquire .
+*T:	adquiriremos .
+%mor:	v|adquiri-1P&FUT=acquire .
+*T:	adquiriréis .
+%mor:	v|adquiri-2P&FUT=acquire .
+*T:	adquirirán .
+%mor:	v|adquiri-3P&FUT=acquire .
+@Blank
+*T:	adquiera .
+%mor:	imp|adquiri-3S&IMP=acquire .
+*T:	adquieras .
+%mor:	v|adquiri-2S&SUB&PRES=acquire .
+*T:	adquiera .
+%mor:	imp|adquiri-3S&IMP=acquire .
+*T:	adquiramos .
+%mor:	v|adquiri-1P&SUB&PRES=acquire .
+*T:	adquiráis .
+%mor:	v|adquiri-2P&SUB&PRES=acquire .
+*T:	adquieran .
+%mor:	imp|adquiri-3P&IMP=acquire .
+@Blank
+*T:	adquiriera .
+%mor:	v|adquiri-13S&SUB&PAS=acquire .
+*T:	adquirieras .
+%mor:	v|adquiri-2S&SUB&PAS=acquire .
+*T:	adquiriera .
+%mor:	v|adquiri-13S&SUB&PAS=acquire .
+*T:	adquiriéramos .
+%mor:	v|adquiri-1P&SUB&PAS=acquire .
+*T:	adquirierais .
+%mor:	v|adquiri-2P&SUB&PAS=acquire .
+*T:	adquirieran .
+%mor:	v|adquiri-3P&SUB&PAS=acquire .
+@Blank
+*T:	adquiriendo .
+%mor:	ger|adquiri-PROG=acquire .
+*T:	adquirido .
+%mor:	part|adquiri-PPART-MASC=acquire .
+*T:	adquiere .
+%mor:	v|adquiri-3S&PRES=acquire .
+*T:	adquiera .
+%mor:	imp|adquiri-3S&IMP=acquire .
+*T:	adquirid .
+%mor:	imp|adquiri-2P&IMP=acquire .
+*T:	adquieran .
+%mor:	imp|adquiri-3P&IMP=acquire .
+@Blank
+@End

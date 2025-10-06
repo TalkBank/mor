@@ -1,0 +1,162 @@
+@UTF8
+@Window:	419_410_677_700_-1_-1_1584_0_1584_0
+rien {[scat pro:indef]} =nothing=
+n'importe_quoi {[scat pro:indef]} ==
+nulle_part {[scat pro:indef]} =none=
+
+% demonstrative pronouns
+ca {[scat pro:dem]}
+ce {[scat pro:dem]}
+ceci {[scat pro:dem]}
+cela {[scat pro:dem]}
+celle {[scat pro:dem]} "celle&f&sg"
+celle-ci {[scat pro:dem]}
+celle-là {[scat pro:dem]}
+çuilà {[scat pro:dem]}
+celles {[scat pro:dem]} "celles&f&pl"
+celle-ci {[scat pro:dem]}
+celles-ci {[scat pro:dem]}
+celles-là {[scat pro:dem]}
+celui {[scat pro:dem]} "celui&m&sg"
+celui-ci {[scat pro:dem]}
+celui-là {[scat pro:dem]}
+ceux {[scat pro:dem]} "celui&pl"
+ceux-ci {[scat pro:dem]}
+ceux-là {[scat pro:dem]}
+ça {[scat pro:dem]}
+tout-ça {[scat pro:dem]}
+y {[scat pro:y]} ==
+
+% interrogative pronouns
+laquelle {[scat pro:int]} "laquelle&f&sg"
+lequel {[scat pro:int]} "lequel&m&sg"
+lesquelles {[scat pro:int]} "lesquelles&f&pl"
+lesquels {[scat pro:int]} "lesquels&m&pl"
+où {[scat pro:int]}
+que {[scat pro:int]}
+qui {[scat pro:int]}
+quoi {[scat pro:int]}
+
+% object pronouns
+les {[scat pro:obj][gn pl]}
+la {[scat pro:obj]}
+le {[scat pro:obj]}
+me {[scat pro:obj]}
+nous {[scat pro:obj]}
+te {[scat pro:obj]}
+vous {[scat pro:obj]}
+leur {[scat pro:ind]}
+lui {[scat pro:ind]}
+
+% subject pronouns
+elle {[scat pro:sub]}
+elles {[scat pro:sub]}
+il {[scat pro:sub]}
+ils {[scat pro:sub]}
+je {[scat pro:sub]}
+nous {[scat pro:sub]}
+on {[scat pro:sub]}
+tu {[scat pro:sub]}
+vous {[scat pro:sub]}
+en {[scat pro:y]}
+
+% reflexive pronouns
+elle-même {[scat pro:refl]}
+eux-même {[scat pro:refl]}
+lui-même {[scat pro:refl]}
+moi-même {[scat pro:refl]}
+nous-même {[scat pro:refl]}
+se {[scat pro:refl]}
+soi-même {[scat pro:refl]}
+toi-même {[scat pro:refl]}
+vous-même {[scat pro:refl]}
+
+% relative pronouns
+auquel {[scat pro:rel]} "auquel&m&sg"
+auxquelles {[scat pro:rel]} "auxquelles&f&pl"
+auxquels {[scat pro:rel]} "auxquels&m&pl"
+desquelles {[scat pro:rel]} "desquelles&f&pl"
+desquels {[scat pro:rel]} "desquels&m&pl"
+dont {[scat pro:rel]}
+duquel {[scat pro:rel]} "duquel&m&sg"
+en_tant_que {[scat pro:rel]}
+laquelle {[scat pro:rel]} "laquelle&f&sg"
+lequel {[scat pro:rel]} "lequel&m&sg"
+lesquelles {[scat pro:rel]} "lesquelles&f&pl"
+lesquels {[scat pro:rel]} "lesquels&m&pl"
+où {[scat pro:rel]}
+pour_que {[scat pro:rel]}
+que {[scat pro:rel]}
+quee {[scat pro:rel]}  % for the dialect in the York corpus
+qui {[scat pro:rel]}
+quoi {[scat pro:rel]}
+ce-que {[scat pro:rel]}
+ce-qui {[scat pro:rel]}
+
+% strong pronouns
+aucun {[scat pro]} "aucun&m&sg"
+aucune {[scat pro]} "aucune&f&sg"
+aucunes {[scat pro]} "aucunes&f&pl"
+aucuns {[scat pro]} "aucuns&m&pl"
+auquel {[scat pro]} "auquel&m&sg"
+auquels {[scat pro]} "auquels&m&pl"
+autant {[scat pro]}
+autre {[scat pro]} "autre&sg"
+autres {[scat pro]} "autres&pl"
+autrui {[scat pro]}
+auxquelles {[scat pro]} "auxquelles&f&pl"
+auxquels {[scat pro]} "auxquels&m&pl"
+bibi {[scat pro]}
+certain {[scat pro]} "certain&m&sg"
+certaine {[scat pro]} "certaine&f&sg"
+certaines {[scat pro]} "certaines&f&pl"
+certains {[scat pro]} "certains&m&pl"
+chacun {[scat pro]} "chacun&m&sg"
+chacune {[scat pro]} "chacune&f&sg"
+chacunes {[scat pro]} "chacunes&f&pl"
+chacuns {[scat pro]} "chacuns&m&pl"
+ci {[scat pro]}
+elle-même {[scat pro]} "elle-même&f&sg"
+elles-mêmes {[scat pro]} "elles-mêmes&f&pl"
+eux {[scat pro]} "eux&m&pl"
+eux-aussi {[scat pro]} "eux-aussi"
+eux-mêmes {[scat pro]} "eux-mêmes"
+mien {[scat pro]} "mien&m&sg"
+mienne {[scat pro]} "mienne&f&sg"
+miennes {[scat pro]} "miennes&f&pl"
+miens {[scat pro]} "miens&m&pl"
+moi {[scat pro]} "moi&sg"
+moi-même {[scat pro]} "moi-même"
+même {[scat pro]}
+mêmes {[scat pro]}
+nul {[scat pro]} "nul&m&sg"
+nulle {[scat pro]} "nulle&f&sg"
+nulles {[scat pro]} "nulles&f&pl"
+nuls {[scat pro]} "nuls&m&pl"
+nôtre {[scat pro]} "nôtre&sg"
+nôtres {[scat pro]} "nôtres&pl"
+personne {[scat pro]}
+plupart {[scat pro]}
+plusieurs {[scat pro]}
+tout_le_monde {[scat pro]}
+quiconque {[scat pro]}
+sien {[scat pro]} "sien&m&sg"
+sienne {[scat pro]} "sienne&f&sg"
+siennes {[scat pro]} "siennes&f&pl"
+siens {[scat pro]} "siens&m&pl"
+soi {[scat pro]}
+tant {[scat pro]}
+telle {[scat pro]} "telle&f&sg"
+telles {[scat pro]} "telles&f&pl"
+tels {[scat pro]} "tels&m&pl"
+toi {[scat pro]} "toi&sg"
+tous {[scat pro]} "tous&m&pl"
+tout {[scat pro]} "tout&m&sg"
+toute {[scat pro]} "toute&f&sg"
+toutes {[scat pro]} "toutes&f&pl"
+un {[scat pro]} "un&m&sg"
+une {[scat pro]} "une&f&sg"
+unes {[scat pro]} "unes&f&pl"
+uns {[scat pro]} "uns&m&pl"
+vôtre {[scat pro]} "vôtre&sg"
+vôtres {[scat pro]} "vôtres&pl"

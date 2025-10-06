@@ -1,0 +1,20 @@
+@UTF8
+@Window:	4_1372_770_1024_-1_-1_424_0_424_0
+v|saler-IMP&2s "sale"
+v|nicher-IMP&2s "niche"
+v|cuisiner-IMP&2s "cuisine"
+v|paître-PP&m "pu"
+v|placer-IMP&2s "place"
+v|chambrer-IMP&2s "chambre"
+v:mdllex|aller&IMP&2s "va"
+v|croître-PRES&2p "croyez"
+n|foi&f-PL "fois"
+n|fil&m-PL=thread "fils"
+n|cour&f-PL "cours"
+n|frai&m-PL=spawning "frais"
+pro:obj|te$v:aux|avoir&PRES&2s "t'as"
+part|plaire-PP&m "plu"
+part|paître-PP&m "pu"
+part|taire-PP&m "tu"
+v|convier-PRES&3p "convient"
+

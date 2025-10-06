@@ -1,0 +1,17 @@
+@UTF8
+% allo rules are ordered!
+
+% variables
+X = .*    % anything
+Y = .*	  % second anything
+Z = .*    % third anything
+K = [bcdfghjklmnpqrstvxz]
+L = [bcdfghjklmnpqrstvxz]
+M = [mnvsv]
+V = [aeiouyàâéèêëiîïoùû] % vowels
+
+% default rule-  copy input to output
+
+RULENAME: default
+LEX-ENTRY:
+ALLO:

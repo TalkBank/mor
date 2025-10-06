@@ -1,0 +1,80 @@
+@UTF8
+ % articles
+la {[scat det:art]} "la&f&sg"
+le {[scat det:art]} "le&m&sg"
+les {[scat det:art]}  "les&pl"
+li {[scat det:art][dia belg]}
+un {[scat det:art]} "un&m&sg"
+une {[scat det:art]} "une&f&sg"
+
+% determiners used for deictic
+ce {[scat det:dem]} "ce&m&sg"
+ces {[scat det:dem]} "ces&m&pl"
+cet {[scat det:dem]} "cet&m&sg"
+cette {[scat det:dem]} "cette&f&sg"
+
+% determiners not standard (generalized)
+aucun {[scat det:gen]} "aucun&m&sg"
+aucune {[scat det:gen]} "aucune&f&sg"
+aucunes {[scat det:gen]} "aucunes&f&pl"
+aucuns {[scat det:gen]} "aucun&m&pl"
+autre {[scat det:gen]} "autre&sg"
+autres {[scat det:gen]} "autres&pl"
+certain {[scat det:gen]} "certain&m&sg"
+certaine {[scat det:gen]} "certaine&f&sg"
+certaines {[scat det:gen]} "certaines&f&pl"
+certains {[scat det:gen]} "certains&m&pl"
+chaque {[scat det:gen]}
+dernier {[scat det:gen]} "dernier&m&sg"
+derniers {[scat det:gen]} "dernier&m&pl"
+dernière {[scat det:gen]} "dernière&f&sg"
+dernières {[scat det:gen]} "dernière&f&pl"
+différents {[scat det:gen]} "différents&m&pl"
+divers {[scat det:gen]} "divers&m&pl"
+diverses {[scat det:gen]} "diverses&f&pl"
+ladite {[scat det:gen]}
+ledit {[scat det:gen]}
+lesdites {[scat det:gen]}
+lesdits {[scat det:gen]}
+maintes {[scat det:gen]} "maintes&f&pl"
+maints {[scat det:gen]} "maints&m&pl"
+pareilles {[scat det:gen]}
+plusieurs {[scat det:gen]}
+quel {[scat det:gen]} "quel&m&sg"
+quelle {[scat det:gen]} "quelle&f&sg"
+quelles {[scat det:gen]} "quelle&f&sg"
+quelque {[scat det:gen]}
+quelques {[scat det:gen]}
+quelques_uns {[scat det:gen]} =some=
+quelques_unes {[scat det:gen]} =some=
+quels {[scat det:gen]} "quel&m&pl"
+seul {[scat det:gen]} "seul&m&sg"
+seule {[scat det:gen]} "seule&f&sg"
+seules {[scat det:gen]} "seules&f&pl"
+seuls {[scat det:gen]} "seuls&m&pl"
+tard {[scat det:gen]}
+tel {[scat det:gen]} "tel&m&sg"
+telle {[scat det:gen]} "telle&f&sg"
+telles {[scat det:gen]} "telles&f&pl"
+tels {[scat det:gen]} "tels&m&pl"
+tous {[scat det:gen]} "tous&m&pl"
+tout {[scat det:gen]} "tout&m&sg"
+toute {[scat det:gen]} "toute&f&sg"
+toutes {[scat det:gen]} "toutes&f&pl"
+
+% determiners of possession
+leur {[scat det:poss]} "leur&sg"
+leurs {[scat det:poss]} "leurs&pl"
+ma {[scat det:poss]} "ma&sg"
+mes {[scat det:poss]} "mes&pl"
+mon {[scat det:poss]} "mon&m&sg"
+nos {[scat det:poss]} "nos&pl"
+notre {[scat det:poss]} "notre&sg"
+sa {[scat det:poss]} "sa&f&sg"
+ses {[scat det:poss]} "ses&pl"
+son {[scat det:poss]} "son&m&sg"
+ta {[scat det:poss]} "ta&f&sg"
+tes {[scat det:poss]} "tes&pl"
+ton {[scat det:poss]} "ton&m&sg"
+vos {[scat det:poss]} "vos&pl"
+votre {[scat det:poss]} "votre&sg"

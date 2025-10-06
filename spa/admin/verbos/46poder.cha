@@ -1,0 +1,88 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	puedo .
+%mor:	v|pode-1S&PRES=can .
+*T:	puedes .
+%mor:	v|pode-2S&PRES=can .
+*T:	puede .
+%mor:	v|pode-3S&PRES=can .
+*T:	podemos .
+%mor:	v|pode-1P&PRES=can .
+*T:	podéis .
+%mor:	v|pode-2P&PRES=can .
+*T:	pueden .
+%mor:	v|pode-3P&PRES=can .
+@Blank
+*T:	podía .
+%mor:	v|pode-13S&PAS=can .
+*T:	podías .
+%mor:	v|pode-2S&PAS=can .
+*T:	podía .
+%mor:	v|pode-13S&PAS=can .
+*T:	podíamos .
+%mor:	v|pode-1P&PAS=can .
+*T:	podíais .
+%mor:	v|pode-2P&PAS=can .
+*T:	podían .
+%mor:	v|pode-3P&PAS=can .
+@Blank
+*T:	pude .
+%mor:	v|pode-1S&PRET=can .
+*T:	pudiste .
+%mor:	v|pode-2S&PRET=can .
+*T:	pudo .
+%mor:	v|pode-3S&PRET=can .
+*T:	pudimos .
+%mor:	v|pode-1P&PRES&PRET=can .
+*T:	pudisteis .
+%mor:	v|pode-2P&PRET=can .
+*T:	pudieron .
+%mor:	v|pode-3P&PRET=can .
+@Blank
+*T:	podré .
+%mor:	v|pode-1S&FUT=can .
+*T:	podrás .
+%mor:	v|pode-2S&FUT=can .
+*T:	podrá .
+%mor:	v|pode-3S&FUT=can .
+*T:	podremos .
+%mor:	v|pode-1P&FUT=can .
+*T:	podréis .
+%mor:	v|pode-2P&FUT=can .
+*T:	podrán .
+%mor:	v|pode-3P&FUT=can .
+@Blank
+*T:	pueda .
+%mor:	imp|pode-3S&IMP=can .
+*T:	puedas .
+%mor:	v|pode-2S&SUB&PRES=can .
+*T:	pueda .
+%mor:	imp|pode-3S&IMP=can .
+*T:	podamos .
+%mor:	imp|pode-1P&IMP=can .
+*T:	podáis .
+%mor:	v|pode-2P&SUB&PRES=can .
+*T:	puedan .
+%mor:	imp|pode-3P&IMP=can .
+@Blank
+*T:	pudiera .
+%mor:	v|pode-13S&SUB&PAS=can .
+*T:	pudieras .
+%mor:	v|pode-2S&SUB&PAS=can .
+*T:	pudiera .
+%mor:	v|pode-13S&SUB&PAS=can .
+*T:	pudiéramos .
+%mor:	v|pode-1P&SUB&PAS=can .
+*T:	pudierais .
+%mor:	v|pode-2P&SUB&PAS=can .
+*T:	pudieran .
+%mor:	v|pode-3P&SUB&PAS=can .
+@Blank
+*T:	pudiendo .
+%mor:	ger|pode-PROG=can .
+*T:	podido .
+%mor:	part|pode-PPART-MASC=can .
+@End

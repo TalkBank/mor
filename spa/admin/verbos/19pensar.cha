@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	pienso .
+%mor:	v|pensa-1S&PRES=think .
+*T:	piensas .
+%mor:	v|pensa-2S&PRES=think .
+*T:	piensa .
+%mor:	v|pensa-3S&PRES=think .
+*T:	pensamos .
+%mor:	v|pensa-1P&PRES&PRET=think .
+*T:	pensáis .
+%mor:	v|pensa-2P&PRES=think .
+*T:	piensan .
+%mor:	v|pensa-3P&PRES=think .
+@Blank
+*T:	pensaba .
+%mor:	v|pensa-13S&PAS=think .
+*T:	pensabas .
+%mor:	v|pensa-2S&PAS=think .
+*T:	pensaba .
+%mor:	v|pensa-13S&PAS=think .
+*T:	pensábamos .
+%mor:	v|pensa-1P&PAS=think .
+*T:	pensabais .
+%mor:	v|pensa-2P&PAS=think .
+*T:	pensaban .
+%mor:	v|pensa-3P&PAS=think .
+@Blank
+*T:	pensé .
+%mor:	v|pensa-1S&PRET=think .
+*T:	pensaste .
+%mor:	v|pensa-2S&PRET=think .
+*T:	pensó .
+%mor:	v|pensa-3S&PRET=think .
+*T:	pensamos .
+%mor:	v|pensa-1P&PRES&PRET=think .
+*T:	pensasteis .
+%mor:	v|pensa-2P&PRET=think .
+*T:	pensaron .
+%mor:	v|pensa-3P&PRET=think .
+@Blank
+*T:	pensaré .
+%mor:	v|pensa-1S&FUT=think .
+*T:	pensarás .
+%mor:	v|pensa-2S&FUT=think .
+*T:	pensará .
+%mor:	v|pensa-3S&FUT=think .
+*T:	pensaremos .
+%mor:	v|pensa-1P&FUT=think .
+*T:	pensaréis .
+%mor:	v|pensa-2P&FUT=think .
+*T:	pensarán .
+%mor:	v|pensa-3P&FUT=think .
+@Blank
+*T:	piense .
+%mor:	v|pensa-13S&SUB&PRES=think .
+*T:	pienses .
+%mor:	v|pensa-2S&SUB&PRES=think .
+*T:	piense .
+%mor:	v|pensa-13S&SUB&PRES=think .
+*T:	pensemos .
+%mor:	imp|pensa-1P&IMP=think .
+*T:	penséis .
+%mor:	v|pensa-2P&SUB&PRES=think .
+*T:	piensen .
+%mor:	v|pensa-3P&SUB&PRES=think .
+@Blank
+*T:	pensara .
+%mor:	v|pensa-13S&SUB&PAS=think .
+*T:	pensaras .
+%mor:	v|pensa-2S&SUB&PAS=think .
+*T:	pensara .
+%mor:	v|pensa-13S&SUB&PAS=think .
+*T:	pensáramos .
+%mor:	v|pensa-1P&SUB&PAS=think .
+*T:	pensarais .
+%mor:	v|pensa-2P&SUB&PAS=think .
+*T:	pensaran .
+%mor:	v|pensa-3P&SUB&PAS=think .
+@Blank
+*T:	pensando .
+%mor:	ger|pensa-PROG=think .
+*T:	pensado .
+%mor:	part|pensa-PPART-MASC=think .
+*T:	piensa .
+%mor:	v|pensa-3S&PRES=think .
+*T:	piense .
+%mor:	v|pensa-13S&SUB&PRES=think .
+*T:	pensad .
+%mor:	imp|pensa-2P&IMP=think .
+*T:	piensen .
+%mor:	v|pensa-3P&SUB&PRES=think .
+@End

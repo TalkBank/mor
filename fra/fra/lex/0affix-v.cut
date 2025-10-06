@@ -1,0 +1,145 @@
+@UTF8
+@Window:	4_1372_770_1024_-1_-1_553_0_553_0
+% first group verbs:
+% there are three types of suffixes for theses verbs
+% 1) regular = v1
+% 2) allo before e mute = v1mute
+% 3) allo before e mute and other vowels = v1mute+
+% 4) allo before a,o = v1ao
+% 5) allo before a,o and other vowels = v1ao+
+
+-t-elle {[scat vclit]} "pro|elle"
+-t-il {[scat vclit]} "pro|il"
+-t-on {[scat vclit]} "pro|on"
+-toi {[scat vclit]} "pro|toi"
+-moi {[scat vclit]} "pro|moi"
+-vous {[scat vclit]} "pro|vous"
+-nous {[scat vclit]} "pro|nous"
+-tu {[scat vclit]} "pro|tu"
+-il {[scat vclit]} "pro|il"
+-ils {[scat vclit]} "pro|ils"
+-le {[scat vclit]} "pro|le"
+-lui {[scat vclit]} "pro|lui"
+-la {[scat vclit]} "pro|la"
+-les {[scat vclit]} "pro|les"
+-là {[scat vclit]} "prep|là"
+
+dé {[scat vpfx][pcat v][block dé]} "dé"
+pré {[scat vpfx][pcat v][block pré]} "pré"
+re {[scat vpfx][pcat v][block re]} "re"
+ré {[scat vpfx][pcat v][block re]} "re"
+redé {[scat vpfx][pcat v][block redé]} "re#dé"
+sur {[scat vpfx][pcat v][block sur]} "sur"
+entre {[scat vpfx][pcat v][block entre]} "entre"
+
+er {[scat vsfx][allo OR v1 v1mute+ v1ao+][bare no]} "INF"
+ant {[scat part][allo OR v1 v1mute+ v1ao][gen m][bare no]} "PPRE"
+ante {[scat part][allo OR v1 v1mute+ v1ao][gen f][bare no]} "PPRE"
+
+é {[scat part][allo OR v1 v1mute+ v1ao+][bare no]} "PP&m"
+ée {[scat part][allo OR v1 v1mute+ v1ao+][bare no]} "PP&f"
+és {[scat part][allo OR v1 v1mute+ v1ao+][bare no]} "PP&m&pl"
+ées {[scat part][allo OR v1 v1mute+ v1ao+][bare no]} "PP&f&pl"
+
+e {[scat vsfx][allo OR v1 v1mute v1ao+]} "PRES&SUB&13s"
+es {[scat vsfx][allo OR v1 v1mute v1ao+]} "PRES&SUB&2s"
+ons {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PRES&1p"
+ez {[scat vsfx][allo OR v1 v1mute+ v1ao+]} "PRES&2p"
+ent {[scat vsfx][allo OR v1 v1mute v1ao+]} "PRES&3p"
+
+ions {[scat vsfx][allo OR v1 v1mute+ v1ao+]} "PRES&SUB&1p"
+iez {[scat vsfx][allo OR v1 v1mute+ v1ao+]} "PRES&SUB&2p"
+
+e {[scat vsfx][allo OR v1 v1mute v1ao+]} "IMP&2s"
+ons {[scat vsfx][allo OR v1 v1mute+ v1ao]} "IMP&1p"
+ez {[scat vsfx][allo OR v1 v1mute+ v1ao+]} "IMP&2p"
+
+ais {[scat vsfx][allo OR v1 v1mute+ v1ao]} "IMPF&12s"
+ait {[scat vsfx][allo OR v1 v1mute+ v1ao]} "IMPF&3s"
+ions {[scat vsfx][allo OR v1 v1mute+ v1ao+]} "IMPF&1p"
+iez {[scat vsfx][allo OR v1 v1mute+ v1ao+]} "IMPF&2p"
+aient {[scat vsfx][allo OR v1 v1mute+ v1ao]} "IMPF&3p"
+
+ai {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&1s"
+as {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&2s"
+a {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&3s"
+âmes {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&1p"
+âtes {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&2p"
+èrent {[scat vsfx][allo OR v1 v1mute+ v1ao+]} "PASS&3p"
+
+erai {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "FUT&1s"
+eras {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "FUT&2s"
+era {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "FUT&3s"
+erons {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "FUT&1p"
+erez {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "FUT&2p"
+eront {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "FUT&3p"
+
+erais {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "COND&12s"
+erait {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "COND&3s"
+erions {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "COND&1p"
+eriez {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "COND&2p"
+eraient {[scat vsfx][allo OR v1 v1mute v1mute+ v1ao+]} "COND&3p"
+
+asses {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&SUB&12s"
+ât {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&SUB&3s"
+assions {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&SUB&1p"
+assiez {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&SUB&2p"
+assent {[scat vsfx][allo OR v1 v1mute+ v1ao]} "PASS&SUB&3p"
+
+% verbs of second group: only one type with two exceptions haïr, fleurir and bénir has one supplémentary form
+
+ir {[scat vsfx][allo v2][bare no]} "INF"
+issant {[scat part][allo v2][bare no]} "PPRE"
+
+i {[scat part][allo v2][bare no]} "PP&m"
+ie {[scat part][allo v2][bare no]} "PP&f"
+is {[scat part][allo v2][bare no]} "PP&m&pl"
+ies {[scat part][allo v2][bare no]} "PP&f&pl"
+
+is {[scat vsfx][allo v2]} "PRES&12s"
+i {[scat vsfx][allo v2]} "PRES&3s"
+issons {[scat vsfx][allo v2]} "PRES&1p"
+issez {[scat vsfx][allo v2]} "PRES&2p"
+issent {[scat vsfx][allo v2]} "PRES&3p"
+
+is {[scat vsfx][allo v2]} "IMP&2s"
+issons {[scat vsfx][allo v2]} "IMP&1p"
+issez {[scat vsfx][allo v2]} "IMP&2p"
+
+issais {[scat vsfx][allo v2]} "IMPF&12s"
+issait {[scat vsfx][allo v2]} "IMPF&3s"
+issions {[scat vsfx][allo v2]} "IMPF&1p"
+issiez {[scat vsfx][allo v2]} "IMPF&2p"
+issaient {[scat vsfx][allo v2]} "IMPF&3p"
+
+is {[scat vsfx][allo v2]} "PASS&12s"
+it {[scat vsfx][allo v2]} "PASS&3s"
+îmes {[scat vsfx][allo v2]} "PASS&1p"
+îtes {[scat vsfx][allo v2]} "PASS&2p"
+irent {[scat vsfx][allo v2]} "PASS&3p"
+
+irai {[scat vsfx][allo v2]} "FUT&1s"
+iras {[scat vsfx][allo v2]} "FUT&2s"
+ira {[scat vsfx][allo v2]} "FUT&3s"
+irons {[scat vsfx][allo v2]} "FUT&1p"
+irez {[scat vsfx][allo v2]} "FUT&2p"
+iront {[scat vsfx][allo v2]} "FUT&3p"
+
+irais {[scat vsfx][allo v2]} "COND&12s"
+irait {[scat vsfx][allo v2]} "COND&3s"
+irions {[scat vsfx][allo v2]} "COND&1p"
+iriez {[scat vsfx][allo v2]} "COND&2p"
+iraient {[scat vsfx][allo v2]} "COND&3p"
+
+isse {[scat vsfx][allo v2]} "PRES&SUB&13s"
+isses {[scat vsfx][allo v2]} "PRES&SUB&2s"
+issions {[scat vsfx][allo v2]} "PRES&SUB&1p"
+issiez {[scat vsfx][allo v2]} "PRES&SUB&2p"
+issent {[scat vsfx][allo v2]} "PRES&SUB&3p"
+
+isse {[scat vsfx][allo v2]} "PASS&SUB&1s"
+isses {[scat vsfx][allo v2]} "PASS&SUB&2s"
+ît {[scat vsfx][allo v2]} "PASS&SUB&3s"
+issions {[scat vsfx][allo v2]} "PASS&SUB&1p"
+issiez {[scat vsfx][allo v2]} "PASS&SUB&2p"
+issent {[scat vsfx][allo v2]} "PASS&SUB&3p"

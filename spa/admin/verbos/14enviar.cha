@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	envío .
+%mor:	v|envia-1S&PRES=send .
+*T:	envías .
+%mor:	v|envia-2S&PRES=send .
+*T:	envía .
+%mor:	v|envia-3S&PRES=send .
+*T:	enviamos .
+%mor:	v|envia-1P&PRES&PRET=send .
+*T:	enviáis .
+%mor:	v|envia-2P&PRES=send .
+*T:	envían .
+%mor:	v|envia-3P&PRES=send .
+@Blank
+*T:	enviaba .
+%mor:	v|envia-13S&PAS=send .
+*T:	enviabas .
+%mor:	v|envia-2S&PAS=send .
+*T:	enviaba .
+%mor:	v|envia-13S&PAS=send .
+*T:	enviábamos .
+%mor:	v|envia-1P&PAS=send .
+*T:	enviabais .
+%mor:	v|envia-2P&PAS=send .
+*T:	enviaban .
+%mor:	v|envia-3P&PAS=send .
+@Blank
+*T:	envié .
+%mor:	v|envia-1S&PRET=send .
+*T:	enviaste .
+%mor:	v|envia-2S&PRET=send .
+*T:	envió .
+%mor:	v|envia-3S&PRET=send .
+*T:	enviamos .
+%mor:	v|envia-1P&PRES&PRET=send .
+*T:	enviasteis .
+%mor:	v|envia-2P&PRET=send .
+*T:	enviaron .
+%mor:	v|envia-3P&PRET=send .
+@Blank
+*T:	enviaré .
+%mor:	v|envia-1S&FUT=send .
+*T:	enviarás .
+%mor:	v|envia-2S&FUT=send .
+*T:	enviará .
+%mor:	v|envia-3S&FUT=send .
+*T:	enviaremos .
+%mor:	v|envia-1P&FUT=send .
+*T:	enviaréis .
+%mor:	v|envia-2P&FUT=send .
+*T:	enviarán .
+%mor:	v|envia-3P&FUT=send .
+@Blank
+*T:	envíe .
+%mor:	v|envia-13S&SUB&PRES=send .
+*T:	envíes .
+%mor:	v|envia-2S&SUB&PRES=send .
+*T:	envie .
+%mor:	imp|envia-3S&IMP=send .
+*T:	enviemos .
+%mor:	imp|envia-1P&IMP=send .
+*T:	enviéis .
+%mor:	v|envia-2P&SUB&PRES=send .
+*T:	envíen .
+%mor:	v|envia-3P&SUB&PRES=send .
+@Blank
+*T:	enviara .
+%mor:	v|envia-13S&SUB&PAS=send .
+*T:	enviaras .
+%mor:	v|envia-2S&SUB&PAS=send .
+*T:	enviara .
+%mor:	v|envia-13S&SUB&PAS=send .
+*T:	enviáramos .
+%mor:	v|envia-1P&SUB&PAS=send .
+*T:	enviarais .
+%mor:	v|envia-2P&SUB&PAS=send .
+*T:	enviaran .
+%mor:	v|envia-3P&SUB&PAS=send .
+@Blank
+*T:	enviando .
+%mor:	ger|envia-PROG=send .
+*T:	enviado .
+%mor:	part|envia-PPART-MASC=send .
+*T:	envía .
+%mor:	v|envia-3S&PRES=send .
+*T:	envíe .
+%mor:	v|envia-13S&SUB&PRES=send .
+*T:	enviad .
+%mor:	imp|envia-2P&IMP=send .
+*T:	envíen .
+%mor:	v|envia-3P&SUB&PRES=send .
+@Blank
+@End

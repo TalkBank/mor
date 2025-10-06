@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	tengo .
+%mor:	v|tene-1S&PRES=have .
+*T:	tienes .
+%mor:	v|tene-2S&PRES=have .
+*T:	tiene .
+%mor:	v|tene-3S&PRES=have .
+*T:	tenemos .
+%mor:	v|tene-1P&PRES=have .
+*T:	tenéis .
+%mor:	v|tene-2P&PRES=have .
+*T:	tienen .
+%mor:	v|tene-3P&PRES=have .
+@Blank
+*T:	tenía .
+%mor:	v|tene-13S&PAS=have .
+*T:	tenías .
+%mor:	v|tene-2S&PAS=have .
+*T:	tenía .
+%mor:	v|tene-13S&PAS=have .
+*T:	teníamos .
+%mor:	v|tene-1P&PAS=have .
+*T:	teníais .
+%mor:	v|tene-2P&PAS=have .
+*T:	tenían .
+%mor:	v|tene-3P&PAS=have .
+@Blank
+*T:	tuve .
+%mor:	v|tene-1S&PRET=have .
+*T:	tuviste .
+%mor:	v|tene-2S&PRET=have .
+*T:	tuvo .
+%mor:	v|tene-3S&PRET=have .
+*T:	tuvimos .
+%mor:	v|tene-1P&PRES&PRET=have .
+*T:	tuvisteis .
+%mor:	v|tene-2P&PRET=have .
+*T:	tuvieron .
+%mor:	v|tene-3P&PRET=have .
+@Blank
+*T:	tendré .
+%mor:	v|tene-1S&FUT=have .
+*T:	tendrás .
+%mor:	v|tene-2S&FUT=have .
+*T:	tendrá .
+%mor:	v|tene-3S&FUT=have .
+*T:	tendremos .
+%mor:	v|tene-1P&FUT=have .
+*T:	tendréis .
+%mor:	v|tene-2P&FUT=have .
+*T:	tendrán .
+%mor:	v|tene-3P&FUT=have .
+@Blank
+*T:	tenga .
+%mor:	v|tene-13S&SUB&PRES=have .
+*T:	tengas .
+%mor:	v|tene-2S&SUB&PRES=have .
+*T:	tenga .
+%mor:	v|tene-13S&SUB&PRES=have .
+*T:	tengamos .
+%mor:	imp|tene-1P&IMP=have .
+*T:	tengáis .
+%mor:	v|tene-2P&SUB&PRES=have .
+*T:	tengan .
+%mor:	v|tene-3P&SUB&PRES=have .
+@Blank
+*T:	tuviera .
+%mor:	v|tene-13S&SUB&PAS=have .
+*T:	tuvieras .
+%mor:	v|tene-2S&SUB&PAS=have .
+*T:	tuviera .
+%mor:	v|tene-13S&SUB&PAS=have .
+*T:	tuviéramos .
+%mor:	v|tene-1P&SUB&PAS=have .
+*T:	tuvierais .
+%mor:	v|tene-2P&SUB&PAS=have .
+*T:	tuvieran .
+%mor:	v|tene-3P&SUB&PAS=have .
+@Blank
+*T:	teniendo .
+%mor:	ger|tene-PROG=have .
+*T:	tenido .
+%mor:	part|tene-PPART-MASC=have .
+*T:	ten .
+%mor:	imp|tene-2S&IMP=have .
+*T:	tenga .
+%mor:	v|tene-13S&SUB&PRES=have .
+*T:	tened .
+%mor:	imp|tene-2P&IMP=have .
+*T:	tengan .
+%mor:	v|tene-3P&SUB&PRES=have .
+@Blank
+@End

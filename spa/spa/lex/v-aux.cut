@@ -1,0 +1,15 @@
+@UTF8
+esta {[scat aux]} =be=
+esté {[scat aux][allo irr]} "esta-3S&IMP" =be=
+esté {[scat aux][allo irr]} "esta-13S&SUB&PRES" =be=
+estén {[scat aux][allo irr]} "esta-3P&IMP" =be=
+estén {[scat aux][allo irr]} "esta-3P&SUB&PRES" =be=
+estés {[scat aux][allo irr]} "esta-2S&SUB&PRES" =be=
+está {[scat aux][allo irr]} "esta-3S&PRES" =be=
+están {[scat aux][allo irr]} "esta-3P&PRES" =be=
+estás {[scat aux][allo irr]} "esta-2S&PRES" =be=
+estoy {[scat aux][allo irr]} "esta-1S&PRES" =be=
+
+habe {[scat aux]} =have=
+hemos {[scat aux][allo irr]} "habe-1P&PRES" =have=
+he {[scat aux][allo irr]} "habe-1S&PRES" =have=

@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	río .
+%mor:	v|reí-1S&PRES=laugh .
+*T:	ríes .
+%mor:	v|reí-2S&PRES=laugh .
+*T:	ríe .
+%mor:	imp|reí-2S&IMP=laugh .
+*T:	reímos .
+%mor:	v|reí-1P&PRES=laugh .
+*T:	reís .
+%mor:	v|reí-2P&PRES=laugh .
+*T:	ríen .
+%mor:	v|reí-3P&PRES=laugh .
+@Blank
+*T:	reía .
+%mor:	v|reí-13S&PAS=laugh .
+*T:	reías .
+%mor:	v|reí-2S&PAS=laugh .
+*T:	reía .
+%mor:	v|reí-13S&PAS=laugh .
+*T:	reíamos .
+%mor:	v|reí-1P&PAS=laugh .
+*T:	reíais .
+%mor:	v|reí-2P&PAS=laugh .
+*T:	reían .
+%mor:	v|reí-3P&PAS=laugh .
+@Blank
+*T:	reí .
+%mor:	imp|reí-2S&IMP=laugh .
+*T:	reíste .
+%mor:	v|reí-2S&PRET=laugh .
+*T:	rió .
+%mor:	v|reí-3S&PRET=laugh .
+*T:	reímos .
+%mor:	v|reí-1P&PRES=laugh .
+*T:	reísteis .
+%mor:	v|reí-2P&PRET=laugh .
+*T:	rieron .
+%mor:	v|reí-3P&PRET=laugh .
+@Blank
+*T:	reiré .
+%mor:	v|reí-1S&FUT=laugh .
+*T:	reirás .
+%mor:	v|reí-2S&FUT=laugh .
+*T:	reirá .
+%mor:	v|reí-3S&FUT=laugh .
+*T:	reiremos .
+%mor:	v|reí-1P&FUT=laugh .
+*T:	reiréis .
+%mor:	v|reí-2P&FUT=laugh .
+*T:	reirán .
+%mor:	v|reí-3P&FUT=laugh .
+@Blank
+*T:	ría .
+%mor:	v|reí-13S&SUB&PRES=laugh .
+*T:	rías .
+%mor:	v|reí-2S&SUB&PRES=laugh .
+*T:	ría .
+%mor:	v|reí-13S&SUB&PRES=laugh .
+*T:	riamos .
+%mor:	v|reí-1P&SUB&PRES=laugh .
+*T:	riáis .
+%mor:	v|reí-2P&SUB&PRES=laugh .
+*T:	rían .
+%mor:	imp|reí-3P&IMP=laugh .
+@Blank
+*T:	riera .
+%mor:	v|reí-13S&SUB&PAS=laugh .
+*T:	rieras .
+%mor:	v|reí-2S&SUB&PAS=laugh .
+*T:	riera .
+%mor:	v|reí-13S&SUB&PAS=laugh .
+*T:	riéramos .
+%mor:	v|reí-1P&SUB&PAS=laugh .
+*T:	rierais .
+%mor:	v|reí-2P&SUB&PAS=laugh .
+*T:	rieran .
+%mor:	v|reí-3P&SUB&PAS=laugh .
+@Blank
+*T:	riendo .
+%mor:	ger|reí-PROG=laugh .
+*T:	reído .
+%mor:	part|reí-PPART-MASC=laugh .
+*T:	ríe .
+%mor:	imp|reí-2S&IMP=laugh .
+*T:	ría .
+%mor:	v|reí-13S&SUB&PRES=laugh .
+*T:	reíd .
+%mor:	imp|reí-2P&IMP=laugh .
+*T:	rían .
+%mor:	imp|reí-3P&IMP=laugh .
+@Blank
+@End

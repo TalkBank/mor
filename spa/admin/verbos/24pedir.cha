@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	pido .
+%mor:	v|pedi-1S&PRES=request .
+*T:	pides .
+%mor:	v|pedi-2S&PRES=request .
+*T:	pide .
+%mor:	v|pedi-3S&PRES=request .
+*T:	pedimos .
+%mor:	v|pedi-1P&PRES&PRET=request .
+*T:	pedís .
+%mor:	v|pedi-2P&PRES=request .
+*T:	piden .
+%mor:	v|pedi-3P&PRES=request .
+@Blank
+*T:	pedía .
+%mor:	v|pedi-13S&PAS=request .
+*T:	pedías .
+%mor:	v|pedi-2S&PAS=request .
+*T:	pedía .
+%mor:	v|pedi-13S&PAS=request .
+*T:	pedíamos .
+%mor:	v|pedi-1P&PAS=request .
+*T:	pedíais .
+%mor:	v|pedi-2P&PAS=request .
+*T:	pedían .
+%mor:	v|pedi-3P&PAS=request .
+@Blank
+*T:	pedí .
+%mor:	imp|pedi-2S&IMP=request .
+*T:	pediste .
+%mor:	v|pedi-2S&PRET=request .
+*T:	pidió .
+%mor:	v|pedi-3S&PRET=request .
+*T:	pedimos .
+%mor:	v|pedi-1P&PRES&PRET=request .
+*T:	pedisteis .
+%mor:	v|pedi-2P&PRET=request .
+*T:	pidieron .
+%mor:	v|pedi-3P&PRET=request .
+@Blank
+*T:	pediré .
+%mor:	v|pedi-1S&FUT=request .
+*T:	pedirás .
+%mor:	v|pedi-2S&FUT=request .
+*T:	pedirá .
+%mor:	v|pedi-3S&FUT=request .
+*T:	pediremos .
+%mor:	v|pedi-1P&FUT=request .
+*T:	pediréis .
+%mor:	v|pedi-2P&FUT=request .
+*T:	pedirán .
+%mor:	v|pedi-3P&FUT=request .
+@Blank
+*T:	pida .
+%mor:	imp|pedi-3S&IMP=request .
+*T:	pidas .
+%mor:	v|pedi-2S&SUB&PRES=request .
+*T:	pida .
+%mor:	imp|pedi-3S&IMP=request .
+*T:	pidamos .
+%mor:	v|pedi-1P&SUB&PRES=request .
+*T:	pidáis .
+%mor:	v|pedi-2P&SUB&PRES=request .
+*T:	pidan .
+%mor:	imp|pedi-3P&IMP=request .
+@Blank
+*T:	pidiera .
+%mor:	v|pedi-13S&SUB&PAS=request .
+*T:	pidieras .
+%mor:	v|pedi-2S&SUB&PAS=request .
+*T:	pidiera .
+%mor:	v|pedi-13S&SUB&PAS=request .
+*T:	pidiéramos .
+%mor:	v|pedi-1P&SUB&PAS=request .
+*T:	pidierais .
+%mor:	v|pedi-2P&SUB&PAS=request .
+*T:	pidieran .
+%mor:	v|pedi-3P&SUB&PAS=request .
+@Blank
+*T:	pidiendo .
+%mor:	ger|pedi-PROG=request .
+*T:	pedido .
+%mor:	part|pedi-PPART-MASC=request .
+*T:	pide .
+%mor:	v|pedi-3S&PRES=request .
+*T:	pida .
+%mor:	imp|pedi-3S&IMP=request .
+*T:	pedid .
+%mor:	imp|pedi-2P&IMP=request .
+*T:	pidan .
+%mor:	imp|pedi-3P&IMP=request .
+@Blank
+@End

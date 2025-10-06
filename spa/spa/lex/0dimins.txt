@@ -1,0 +1,26 @@
+Words not recognized by Spanish MOR that occurred with sufixes
+
+pinchacito %comes from “pinchazo” -ito is a diminutive
+flequilluda %comes from “flequillo” -uda is an augmentative suffix
+avionazo %comes from “avión” -azo is an augmentative suffix
+pedazote  %comes from “pedazo” -ote is an augmentative suffix
+toquecito %comes from “toque” -ito is a diminutive suffix. words ending in e / i / u without accentuating have an c added before -ito or -ita
+gigantota %comes from “gigante” -ota is an augmentative suffix
+gigantona %comes from “gigante” -ona is an augmentative suffix
+divirtámosnos %imperative form with final clitic “nos”
+sombrerero %comes from “sombrero” -ero is an agentive suffix
+fantasmita %comes from “fantasma” -ita is a diminutive suffix
+obrita %comes from “obra” -ita is a diminutive suffix
+vaguita %comes from “vaga” -ita is a diminutive suffix
+puestito %comes from “puesto” -ito is a diminutive suffix
+puentecito %comes from “puente” -ito is a diminutive suffix. words ending in e / i / u without accentuating have an c added before -ito or -ita
+navecita % mor recognizes "nave", in ‘navecita’ comes from “nave” -ito is a diminutive suffix. words ending in e / i / u without accentuating have an c added before -ito or -ita
+pastorcito %comes from “pastor” -ito is a diminutive suffix. Words ending in n or  r are added an c before -ito or -ita
+robotito  %comes from “robot” -ito is a diminutive suffix
+versito %comes from “verso” -ito is a diminutive suffix
+torrejita %comes from “torreja” -ita is a diminutive suffix
+pollita %comes from “pollo” -ita is a diminutive suffix
+almohadoncito %comes from “almohadón” -ito is a diminutive suffix. Words that end in n or r are added -cito / -cita
+mellicito %comes from “mellizo” -ito is a diminutive suffix. If the word has a z in the final syllable is replaced by -ecito / -ecita
+lejitos %comes from “lejos” -ito is a diminutive suffix
+complicadísima %comes from “complicada” -ísima  is an augmentative suffix

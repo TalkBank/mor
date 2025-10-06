@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	oigo .
+%mor:	v|oí-1S&PRES=hear .
+*T:	oyes .
+%mor:	v|oí-2S&PRES=hear .
+*T:	oye .
+%mor:	co|oye=listen .
+*T:	oímos .
+%mor:	v|oí-1P&PRES=hear .
+*T:	oís .
+%mor:	v|oí-2P&PRES=hear .
+*T:	oyen .
+%mor:	v|oí-3P&PRES=hear .
+@Blank
+*T:	oía .
+%mor:	v|oí-13S&PAS=hear .
+*T:	oías .
+%mor:	v|oí-2S&PAS=hear .
+*T:	oía .
+%mor:	v|oí-13S&PAS=hear .
+*T:	oíamos .
+%mor:	v|oí-1P&PAS=hear .
+*T:	oíais .
+%mor:	v|oí-2P&PAS=hear .
+*T:	oían .
+%mor:	v|oí-3P&PAS=hear .
+@Blank
+*T:	oí .
+%mor:	imp|oí-2S&IMP=hear .
+*T:	oíste .
+%mor:	v|oí-2S&PRET=hear .
+*T:	oyó .
+%mor:	v|oí-3S&PRET=hear .
+*T:	oímos .
+%mor:	v|oí-1P&PRES=hear .
+*T:	oísteis .
+%mor:	v|oí-2P&PRET=hear .
+*T:	oyeron .
+%mor:	v|oí-3P&PRET=hear .
+@Blank
+*T:	oiré .
+%mor:	v|oí-1S&FUT=hear .
+*T:	oirás .
+%mor:	v|oí-2S&FUT=hear .
+*T:	oirá .
+%mor:	v|oí-3S&FUT=hear .
+*T:	oiremos .
+%mor:	v|oí-1P&FUT=hear .
+*T:	oiréis .
+%mor:	v|oí-2P&FUT=hear .
+*T:	oirán .
+%mor:	v|oí-3P&FUT=hear .
+@Blank
+*T:	oiga .
+%mor:	v|oí-13S&SUB&PRES=hear .
+*T:	oigas .
+%mor:	v|oí-2S&SUB&PRES=hear .
+*T:	oiga .
+%mor:	v|oí-13S&SUB&PRES=hear .
+*T:	oigamos .
+%mor:	v|oí-1P&SUB&PRES=hear .
+*T:	oigáis .
+%mor:	v|oí-2P&SUB&PRES=hear .
+*T:	oigan .
+%mor:	v|oí-3P&SUB&PRES=hear .
+@Blank
+*T:	oyera .
+%mor:	v|oí-13S&SUB&PAS=hear .
+*T:	oyeras .
+%mor:	v|oí-2S&SUB&PAS=hear .
+*T:	oyera .
+%mor:	v|oí-13S&SUB&PAS=hear .
+*T:	oyéramos .
+%mor:	v|oí-1P&SUB&PAS=hear .
+*T:	oyerais .
+%mor:	v|oí-2P&SUB&PAS=hear .
+*T:	oyeran .
+%mor:	v|oí-3P&SUB&PAS=hear .
+@Blank
+*T:	oyendo .
+%mor:	ger|oí-PROG=hear .
+*T:	oído .
+%mor:	part|oí-PPART-MASC=hear .
+*T:	oye .
+%mor:	co|oye=listen .
+*T:	oiga .
+%mor:	v|oí-13S&SUB&PRES=hear .
+*T:	oíd .
+%mor:	imp|oí-2P&IMP=hear .
+*T:	oigan .
+%mor:	v|oí-3P&SUB&PRES=hear .
+@Blank
+@End

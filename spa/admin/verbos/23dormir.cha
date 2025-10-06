@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	duermo .
+%mor:	v|dormi-1S&PRES=sleep .
+*T:	duermes .
+%mor:	v|dormi-2S&PRES=sleep .
+*T:	duerme .
+%mor:	v|dormi-3S&PRES=sleep .
+*T:	dormimos .
+%mor:	v|dormi-1P&PRES&PRET=sleep .
+*T:	dormís .
+%mor:	v|dormi-2P&PRES=sleep .
+*T:	duermen .
+%mor:	v|dormi-3P&PRES=sleep .
+@Blank
+*T:	dormía .
+%mor:	v|dormi-13S&PAS=sleep .
+*T:	dormías .
+%mor:	v|dormi-2S&PAS=sleep .
+*T:	dormía .
+%mor:	v|dormi-13S&PAS=sleep .
+*T:	dormíamos .
+%mor:	v|dormi-1P&PAS=sleep .
+*T:	dormíais .
+%mor:	v|dormi-2P&PAS=sleep .
+*T:	dormían .
+%mor:	v|dormi-3P&PAS=sleep .
+@Blank
+*T:	dormí .
+%mor:	imp|dormi-2S&IMP=sleep .
+*T:	dormiste .
+%mor:	v|dormi-2S&PRET=sleep .
+*T:	durmió .
+%mor:	v|dormi-3S&PRET=sleep .
+*T:	dormimos .
+%mor:	v|dormi-1P&PRES&PRET=sleep .
+*T:	dormisteis .
+%mor:	v|dormi-2P&PRET=sleep .
+*T:	durmieron .
+%mor:	v|dormi-3P&PRET=sleep .
+@Blank
+*T:	dormiré .
+%mor:	v|dormi-1S&FUT=sleep .
+*T:	dormirás .
+%mor:	v|dormi-2S&FUT=sleep .
+*T:	dormirá .
+%mor:	v|dormi-3S&FUT=sleep .
+*T:	dormiremos .
+%mor:	v|dormi-1P&FUT=sleep .
+*T:	dormiréis .
+%mor:	v|dormi-2P&FUT=sleep .
+*T:	dormirán .
+%mor:	v|dormi-3P&FUT=sleep .
+@Blank
+*T:	duerma .
+%mor:	imp|dormi-3S&IMP=sleep .
+*T:	duermas .
+%mor:	v|dormi-2S&SUB&PRES=sleep .
+*T:	duerma .
+%mor:	imp|dormi-3S&IMP=sleep .
+*T:	durmamos .
+%mor:	v|dormi-1P&SUB&PRES=sleep .
+*T:	durmáis .
+%mor:	v|dormi-2P&SUB&PRES=sleep .
+*T:	duerman .
+%mor:	imp|dormi-3P&IMP=sleep .
+@Blank
+*T:	durmiera .
+%mor:	v|dormi-13S&SUB&PAS=sleep .
+*T:	durmieras .
+%mor:	v|dormi-2S&SUB&PAS=sleep .
+*T:	durmiera .
+%mor:	v|dormi-13S&SUB&PAS=sleep .
+*T:	durmiéramos .
+%mor:	v|dormi-1P&SUB&PAS=sleep .
+*T:	durmierais .
+%mor:	v|dormi-2P&SUB&PAS=sleep .
+*T:	durmieran .
+%mor:	v|dormi-3P&SUB&PAS=sleep .
+@Blank
+*T:	durmiendo .
+%mor:	ger|dormi-PROG=sleep .
+*T:	dormido .
+%mor:	part|dormi-PPART-MASC=sleep .
+*T:	duerme .
+%mor:	v|dormi-3S&PRES=sleep .
+*T:	duerma .
+%mor:	imp|dormi-3S&IMP=sleep .
+*T:	dormid .
+%mor:	imp|dormi-2P&IMP=sleep .
+*T:	duerman .
+%mor:	imp|dormi-3P&IMP=sleep .
+@Blank
+@End

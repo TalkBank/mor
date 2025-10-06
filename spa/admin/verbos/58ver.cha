@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	veo .
+%mor:	v|ve-1S&PRES=see .
+*T:	ves .
+%mor:	co|ves=see .
+*T:	ve .
+%mor:	co|ve=see .
+*T:	vemos .
+%mor:	v|ve-1P&PRES=see .
+*T:	veis .
+%mor:	v|ve-2P&PRES=see .
+*T:	ven .
+%mor:	co|ven=come .
+@Blank
+*T:	veía .
+%mor:	v|ve-13S&PAS=see .
+*T:	veías .
+%mor:	v|ve-2S&PAS=see .
+*T:	veía .
+%mor:	v|ve-13S&PAS=see .
+*T:	veíamos .
+%mor:	v|ve-1P&PAS=see .
+*T:	veíais .
+%mor:	v|ve-2P&PAS=see .
+*T:	veían .
+%mor:	v|ve-3P&PAS=see .
+@Blank
+*T:	vi .
+%mor:	v|ve-1S&PRET=see .
+*T:	viste .
+%mor:	v|ve-2S&PRET=see .
+*T:	vio .
+%mor:	v|ve-3S&PRET=see .
+*T:	vimos .
+%mor:	v|ve-1P&PRES&PRET=see .
+*T:	visteis .
+%mor:	v|ve-2P&PRET=see .
+*T:	vieron .
+%mor:	v|ve-3P&PRET=see .
+@Blank
+*T:	veré .
+%mor:	v|ve-1S&FUT=see .
+*T:	verás .
+%mor:	v|ve-2S&FUT=see .
+*T:	verá .
+%mor:	v|ve-3S&FUT=see .
+*T:	veremos .
+%mor:	v|ve-1P&FUT=see .
+*T:	veréis .
+%mor:	v|ve-2P&FUT=see .
+*T:	verán .
+%mor:	v|ve-3P&FUT=see .
+@Blank
+*T:	vea .
+%mor:	imp|ve-3S&IMP=see .
+*T:	veas .
+%mor:	v|ve-2S&SUB&PRES=see .
+*T:	vea .
+%mor:	imp|ve-3S&IMP=see .
+*T:	veamos .
+%mor:	imp|ve-1P&IMP=see .
+*T:	veáis .
+%mor:	v|ve-2P&SUB&PRES=see .
+*T:	vean .
+%mor:	imp|ve-3P&IMP=see .
+@Blank
+*T:	viera .
+%mor:	v|ve-13S&SUB&PAS=see .
+*T:	vieras .
+%mor:	v|ve-2S&SUB&PAS=see .
+*T:	viera .
+%mor:	v|ve-13S&SUB&PAS=see .
+*T:	viéramos .
+%mor:	v|ve-1P&SUB&PAS=see .
+*T:	vierais .
+%mor:	v|ve-2P&SUB&PAS=see .
+*T:	vieran .
+%mor:	v|ve-3P&SUB&PAS=see .
+@Blank
+*T:	viendo .
+%mor:	ger|ve-PROG=see .
+*T:	visto .
+%mor:	part|ve-PPART-MASC=see .
+*T:	ve .
+%mor:	co|ve=see .
+*T:	vea .
+%mor:	imp|ve-3S&IMP=see .
+*T:	ved .
+%mor:	imp|ve-2S&IMP=see .
+*T:	vean .
+%mor:	imp|ve-3P&IMP=see .
+@Blank
+@End

@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	gruño .
+%mor:	v|gruñi-1S&PRES=groan .
+*T:	gruñes .
+%mor:	v|gruñi-2S&PRES=groan .
+*T:	gruñe .
+%mor:	imp|gruñi-2S&IMP=groan .
+*T:	gruñimos .
+%mor:	v|gruñi-1P&PRES&PRET=groan .
+*T:	gruñís .
+%mor:	v|gruñi-2P&PRES=groan .
+*T:	gruñen .
+%mor:	v|gruñi-3P&PRES=groan .
+@Blank
+*T:	gruñía .
+%mor:	v|gruñi-13S&PAS=groan .
+*T:	gruñías .
+%mor:	v|gruñi-2S&PAS=groan .
+*T:	gruñía .
+%mor:	v|gruñi-13S&PAS=groan .
+*T:	gruñíamos .
+%mor:	v|gruñi-1P&PAS=groan .
+*T:	gruñíais .
+%mor:	v|gruñi-2P&PAS=groan .
+*T:	gruñían .
+%mor:	v|gruñi-3P&PAS=groan .
+@Blank
+*T:	gruñí .
+%mor:	imp|gruñi-2S&IMP=groan .
+*T:	gruñiste .
+%mor:	v|gruñi-2S&PRET=groan .
+*T:	gruñó .
+%mor:	v|gruñi-3S&PRET=groan .
+*T:	gruñimos .
+%mor:	v|gruñi-1P&PRES&PRET=groan .
+*T:	gruñisteis .
+%mor:	v|gruñi-2P&PRET=groan .
+*T:	gruñeron .
+%mor:	v|gruñi-3P&PRET=groan .
+@Blank
+*T:	gruñiré .
+%mor:	v|gruñi-1S&FUT=groan .
+*T:	gruñirás .
+%mor:	v|gruñi-2S&FUT=groan .
+*T:	gruñirá .
+%mor:	v|gruñi-3S&FUT=groan .
+*T:	gruñiremos .
+%mor:	v|gruñi-1P&FUT=groan .
+*T:	gruñiréis .
+%mor:	v|gruñi-2P&FUT=groan .
+*T:	gruñirán .
+%mor:	v|gruñi-3P&FUT=groan .
+@Blank
+*T:	gruña .
+%mor:	imp|gruñi-3S&IMP=groan .
+*T:	gruñas .
+%mor:	v|gruñi-2S&SUB&PRES=groan .
+*T:	gruña .
+%mor:	imp|gruñi-3S&IMP=groan .
+*T:	gruñamos .
+%mor:	v|gruñi-1P&SUB&PRES=groan .
+*T:	gruñáis .
+%mor:	v|gruñi-2P&SUB&PRES=groan .
+*T:	gruñan .
+%mor:	imp|gruñi-3P&IMP=groan .
+@Blank
+*T:	gruñera .
+%mor:	v|gruñi-13S&SUB&PAS=groan .
+*T:	gruñeras .
+%mor:	v|gruñi-2S&SUB&PAS=groan .
+*T:	gruñera .
+%mor:	v|gruñi-13S&SUB&PAS=groan .
+*T:	gruñéramos .
+%mor:	v|gruñi-1P&SUB&PAS=groan .
+*T:	gruñerais .
+%mor:	v|gruñi-2P&SUB&PAS=groan .
+*T:	gruñeran .
+%mor:	v|gruñi-3P&SUB&PAS=groan .
+@Blank
+*T:	gruñendo .
+%mor:	ger|gruñi-PROG=groan .
+*T:	gruñido .
+%mor:	part|gruñi-PPART-MASC=groan .
+*T:	gruñe .
+%mor:	imp|gruñi-2S&IMP=groan .
+*T:	gruña .
+%mor:	imp|gruñi-3S&IMP=groan .
+*T:	gruñid .
+%mor:	imp|gruñi-2P&IMP=groan .
+*T:	gruñan .
+%mor:	imp|gruñi-3P&IMP=groan .
+@Blank
+@End

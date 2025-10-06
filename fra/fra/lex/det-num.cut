@@ -1,0 +1,30 @@
+@UTF8
+%cardinal numbers - cannot be used in the plural
+zéro {[scat num][gn invar]}
+% un {[scat num][gn invar]}
+deux {[scat num][gn invar]}
+trois {[scat num][gn invar]}
+quatre {[scat num][gn invar]}
+cinq {[scat num][gn invar]}
+six {[scat num][gn invar]}
+sept {[scat num][gn invar]}
+huit {[scat num][gn invar]}
+neuf {[scat num][gn invar]}
+dix {[scat num][gn invar]}
+onze {[scat num][gn invar]}
+douze {[scat num][gn invar]}
+treize {[scat num][gn invar]}
+quatorze {[scat num][gn invar]}
+quinze {[scat num][gn invar]}
+seize {[scat num][gn invar]}
+vingt {[scat num][gn invar]}
+trente {[scat num][gn invar]}
+quarante {[scat num][gn invar]}
+cinquante {[scat num][gn invar]}
+soixante {[scat num][gn invar]}
+septante {[scat num][gn invar]}
+huitante {[scat num][gn invar]}
+nonante {[scat num][gn invar]}
+quatre_vingt {[scat num][gn invar]}
+cent {[scat num][gn invar]}
+mille {[scat num][gn invar]}

@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	caigo .
+%mor:	v|cae-1S&PRES=fall .
+*T:	caes .
+%mor:	v|cae-2S&PRES=fall .
+*T:	cae .
+%mor:	imp|cae-2S&IMP=fall .
+*T:	caemos .
+%mor:	v|cae-1P&PRES=fall .
+*T:	caéis .
+%mor:	v|cae-2P&PRES=fall .
+*T:	caen .
+%mor:	v|cae-3P&PRES=fall .
+@Blank
+*T:	caía .
+%mor:	v|cae-13S&PAS=fall .
+*T:	caías .
+%mor:	v|cae-2S&PAS=fall .
+*T:	caía .
+%mor:	v|cae-13S&PAS=fall .
+*T:	caíamos .
+%mor:	v|cae-1P&PAS=fall .
+*T:	caíais .
+%mor:	v|cae-2P&PAS=fall .
+*T:	caían .
+%mor:	v|cae-3P&PAS=fall .
+@Blank
+*T:	caí .
+%mor:	v|cae-1S&PRET=fall .
+*T:	caíste .
+%mor:	v|cae-2S&PRET=fall .
+*T:	cayó .
+%mor:	v|cae-3S&PRET=fall .
+*T:	caímos .
+%mor:	v|cae-1P&PRES=fall .
+*T:	caísteis .
+%mor:	v|cae-2P&PRET=fall .
+*T:	cayeron .
+%mor:	v|cae-3P&PRET=fall .
+@Blank
+*T:	caeré .
+%mor:	v|cae-1S&FUT=fall .
+*T:	caerás .
+%mor:	v|cae-2S&FUT=fall .
+*T:	caerá .
+%mor:	v|cae-3S&FUT=fall .
+*T:	caeremos .
+%mor:	v|cae-1P&FUT=fall .
+*T:	caeréis .
+%mor:	v|cae-2P&FUT=fall .
+*T:	caerán .
+%mor:	v|cae-3P&FUT=fall .
+@Blank
+*T:	caiga .
+%mor:	v|cae-13S&SUB&PRES=fall .
+*T:	caigas .
+%mor:	v|cae-2S&SUB&PRES=fall .
+*T:	caiga .
+%mor:	v|cae-13S&SUB&PRES=fall .
+*T:	caigamos .
+%mor:	imp|cae-1P&IMP=fall .
+*T:	caigáis .
+%mor:	v|cae-2P&SUB&PRES=fall .
+*T:	caigan .
+%mor:	v|cae-3P&SUB&PRES=fall .
+@Blank
+*T:	cayera .
+%mor:	v|cae-13S&SUB&PAS=fall .
+*T:	cayeras .
+%mor:	v|cae-2S&SUB&PAS=fall .
+*T:	cayera .
+%mor:	v|cae-13S&SUB&PAS=fall .
+*T:	cayéramos .
+%mor:	v|cae-1P&SUB&PAS=fall .
+*T:	cayerais .
+%mor:	v|cae-2P&SUB&PAS=fall .
+*T:	cayeran .
+%mor:	v|cae-3P&SUB&PAS=fall .
+@Blank
+*T:	cayendo .
+%mor:	ger|cae-PROG=fall .
+*T:	caído .
+%mor:	part|cae-PPART-MASC=fall .
+*T:	cae .
+%mor:	imp|cae-2S&IMP=fall .
+*T:	caiga .
+%mor:	v|cae-13S&SUB&PRES=fall .
+*T:	caed .
+%mor:	imp|cae-2P&IMP=fall .
+*T:	caigan .
+%mor:	v|cae-3P&SUB&PRES=fall .
+@Blank
+@End

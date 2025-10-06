@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	voy .
+%mor:	v|i-1S&PRES=go .
+*T:	vas .
+%mor:	v|i-2S&PRES=go .
+*T:	va .
+%mor:	co|va=go .
+*T:	vamos .
+%mor:	co|vamos=go .
+*T:	vais .
+%mor:	v|i-2P&PRES=go .
+*T:	van .
+%mor:	v|i-3P&PRES=go .
+@Blank
+*T:	iba .
+%mor:	v|i-13S&PAS=go .
+*T:	ibas .
+%mor:	v|i-2S&PAS=go .
+*T:	iba .
+%mor:	v|i-13S&PAS=go .
+*T:	íbamos .
+%mor:	v|i-1P&PAS=go .
+*T:	ibais .
+%mor:	v|i-2P&PAS=go .
+*T:	iban .
+%mor:	v|i-3P&PAS=go .
+@Blank
+*T:	fuí .
+%mor:	v|i-1S&PRET=go .
+*T:	fuiste .
+%mor:	v|i-2S&PRET=go .
+*T:	fue .
+%mor:	v|i-3S&PRET=go .
+*T:	fuimos .
+%mor:	v|i-1P&PRET=go .
+*T:	fuisteis .
+%mor:	v|i-2P&PRET=go .
+*T:	fueron .
+%mor:	cop|se-3P&PRET=be .
+@Blank
+*T:	iré .
+%mor:	v|i-1S&FUT=go .
+*T:	irás .
+%mor:	v|i-2S&FUT=go .
+*T:	irá .
+%mor:	v|i-3S&FUT=go .
+*T:	iremos .
+%mor:	v|i-1P&FUT=go .
+*T:	iréis .
+%mor:	v|i-2P&FUT=go .
+*T:	irán .
+%mor:	v|i-3P&FUT=go .
+@Blank
+*T:	vaya .
+%mor:	co|vaya=come_on .
+*T:	vayas .
+%mor:	v|i-2S&SUB&PRES=go .
+*T:	vaya .
+%mor:	co|vaya=come_on .
+*T:	vayamos .
+%mor:	v|i-1P&SUB&PRES=go .
+*T:	vayáis .
+%mor:	v|i-2P&SUB&PRES=go .
+*T:	vayan .
+%mor:	v|i-3P&SUB&PRES=go .
+@Blank
+*T:	fuera .
+%mor:	adv|fuera=outside .
+*T:	fueras .
+%mor:	v|i-2S&SUB&PAS=go .
+*T:	fuera .
+%mor:	adv|fuera=outside .
+*T:	fuéramos .
+%mor:	v|i-1P&SUB&PAS=go .
+*T:	fuerais .
+%mor:	v|i-2P&SUB&PAS=go .
+*T:	fueran .
+%mor:	v|i-3P&SUB&PAS=go .
+@Blank
+*T:	yendo .
+%mor:	ger|i-PROG=go .
+*T:	ido .
+%mor:	part|i-PPART-MASC=go .
+*T:	ve .
+%mor:	co|ve=see .
+*T:	vaya .
+%mor:	co|vaya=come_on .
+*T:	id .
+%mor:	imp|i-2P&IMP=go .
+*T:	vayan .
+%mor:	v|i-3P&SUB&PRES=go .
+@Blank
+@End

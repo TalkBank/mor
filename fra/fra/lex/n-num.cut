@@ -1,0 +1,25 @@
+@UTF8
+huitaine {[scat n]}
+centaine {[scat n]}
+dizaine {[scat n]}
+douzaine {[scat n]}
+quinzaine {[scat n]}
+vingtaine {[scat n]}
+neuvaine {[scat n]}
+trentaine {[scat n]}
+quarantaine {[scat n]}
+cinquantaine {[scat n]}
+soixantaine {[scat n]}
+billion {[scat n]}
+
+%multipliers
+double {[scat n]}
+triple {[scat n]}
+quadruple {[scat n]}
+quintuple {[scat n]}
+sextuple {[scat n]}
+septuple {[scat n]}
+octuple {[scat n]}
+décuple {[scat n]}
+centuple {[scat n]}
+

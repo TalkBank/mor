@@ -1,0 +1,15 @@
+@UTF8
+algún {[scat qn]} =some=
+bastante {[scat qn]} =enough=
+ambos {[scat qn]} =both=
+cada {[scat qn]} =each=
+cualquier {[scat qn][gen m]} =whichever=
+cuánto {[scat qn]} =how_much=
+mucho {[scat qn]} =many=
+ningún {[scat qn]} =none=
+otro {[scat qn]} =other=
+poco {[scat qn]} =little=
+poquico {[scat qn]} =little=
+poquito {[scat qn]} =little=
+tanto {[scat qn][inflect yes]} =so_much=
+todo {[scat qn][inflect yes]} =all=

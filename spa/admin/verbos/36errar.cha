@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	yerro .
+%mor:	v|erra-1S&PRES=err .
+*T:	yerras .
+%mor:	v|erra-2S&PRES=err .
+*T:	yerra .
+%mor:	v|erra-3S&PRES=err .
+*T:	erramos .
+%mor:	v|erra-1P&PRES&PRET=err .
+*T:	erráis .
+%mor:	v|erra-2P&PRES=err .
+*T:	yerran .
+%mor:	v|erra-3P&PRES=err .
+@Blank
+*T:	erraba .
+%mor:	v|erra-13S&PAS=err .
+*T:	errabas .
+%mor:	v|erra-2S&PAS=err .
+*T:	erraba .
+%mor:	v|erra-13S&PAS=err .
+*T:	errábamos .
+%mor:	v|erra-1P&PAS=err .
+*T:	errabais .
+%mor:	v|erra-2P&PAS=err .
+*T:	erraban .
+%mor:	v|erra-3P&PAS=err .
+@Blank
+*T:	erré .
+%mor:	v|erra-1S&PRET=err .
+*T:	erraste .
+%mor:	v|erra-2S&PRET=err .
+*T:	erró .
+%mor:	v|erra-3S&PRET=err .
+*T:	erramos .
+%mor:	v|erra-1P&PRES&PRET=err .
+*T:	errasteis .
+%mor:	v|erra-2P&PRET=err .
+*T:	erraron .
+%mor:	v|erra-3P&PRET=err .
+@Blank
+*T:	erraré .
+%mor:	v|erra-1S&FUT=err .
+*T:	errarás .
+%mor:	v|erra-2S&FUT=err .
+*T:	errará .
+%mor:	v|erra-3S&FUT=err .
+*T:	erraremos .
+%mor:	v|erra-1P&FUT=err .
+*T:	erraréis .
+%mor:	v|erra-2P&FUT=err .
+*T:	errarán .
+%mor:	v|erra-3P&FUT=err .
+@Blank
+*T:	yerre .
+%mor:	v|erra-13S&SUB&PRES=err .
+*T:	yerres .
+%mor:	v|erra-2S&SUB&PRES=err .
+*T:	yerre .
+%mor:	v|erra-13S&SUB&PRES=err .
+*T:	erremos .
+%mor:	imp|erra-1P&IMP=err .
+*T:	erréis .
+%mor:	v|erra-2P&SUB&PRES=err .
+*T:	yerren .
+%mor:	v|erra-3P&SUB&PRES=err .
+@Blank
+*T:	errara .
+%mor:	v|erra-13S&SUB&PAS=err .
+*T:	erraras .
+%mor:	v|erra-2S&SUB&PAS=err .
+*T:	errara .
+%mor:	v|erra-13S&SUB&PAS=err .
+*T:	erráramos .
+%mor:	v|erra-1P&SUB&PAS=err .
+*T:	errarais .
+%mor:	v|erra-2P&SUB&PAS=err .
+*T:	erraran .
+%mor:	v|erra-3P&SUB&PAS=err .
+@Blank
+*T:	errando .
+%mor:	ger|erra-PROG=err .
+*T:	errado .
+%mor:	part|erra-PPART-MASC=err .
+*T:	yerra .
+%mor:	v|erra-3S&PRES=err .
+*T:	yerre .
+%mor:	v|erra-13S&SUB&PRES=err .
+*T:	errad .
+%mor:	imp|erra-2P&IMP=err .
+*T:	yerren .
+%mor:	v|erra-3P&SUB&PRES=err .
+@Blank
+@End

@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+*CHI:	他 有点儿 害怕 了 .
+%mor:	pro:per|ta1=he adv|you3dian3-DIA=a_little_bit v|hai4pa4=dread
+	asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	这 个 人 有点儿 坏 .
+%mor:	pro:dem|zhe4=this cl|ge4 n|ren2=person
+	adv|you3dian3-DIA=a_little_bit v:resc|huai4=spoil .
+%gra:	1|3|DET 2|3|CLASS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	嗯 ‡ bob@s$n 常常 喜欢 看 他 心爱的 小 狗 和 青蛙 一起 游戏 .
+%mor:	co|en1=okay beg|beg n|bob&L2 adv|chang2chang2=frequently
+	v|xi3huan1=like v|kan4=look pro:per|ta1=he adj|xin1ai4-ISH=treasured
+	adj|xiao3=small n|gou3=dog conj|he2=and n|qing1wa1=frog
+	adv|yi1qi3=together v|you2xi4=play .
+%gra:	1|5|BEG 2|1|BEGP 3|5|SUBJ 4|5|JCT 5|14|CJCT 6|5|SRL 7|10|MOD 8|10|MOD
+	9|10|MOD 10|6|COMP 11|10|CONJ 12|11|COORD 13|14|JCT 14|0|ROOT 15|14|PUNCT
+*CHI:	他 常常 喜欢 喝 酒 .
+%mor:	pro:per|ta1=he adv|chang2chang2=frequently v|xi3huan1=like
+	v|he1=drink n|jiu3=liquor .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|SRL 5|4|OBJ 6|3|PUNCT
+@End

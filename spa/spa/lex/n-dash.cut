@@ -1,0 +1,9 @@
+@UTF8
+@Window:	0_1206_770_1024_-1_-1_241_0_241_0
+mini-pimer {[scat n][gen f]} =food_processor=
+pan-lactal {[scat n][gen m]} =sandwich_sliced_bread=
+cuatro-ge {[scat n][gen m]} =four_ge=
+liquid-paper {[scat n][gen m]} =correcting_fluid=
+barra-espaciadora {[scat n][gen f]} =space_bar=
+pasta-dentífrica {[scat n][gen f]} =toothpaste=
+can-cán {[scat n][gen f]} =pantyhose=

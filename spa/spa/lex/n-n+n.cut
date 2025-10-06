@@ -1,0 +1,21 @@
+@UTF8
+auto+aprendizaje {[scat n][comp adj+n] [gen m]} =self-apprenticeship=
+auto+curso {[scat n][comp adj+n] [gen m]} =self_taught_course=
+casa+coche {[scat n][comp n+n][gen m]} =car_house=
+culo+patín {[scat n][gen m]} =sleigh_riding=
+dragón+elefante {[scat n][comp n+n][gen m]} =dragon_elephant=
+dragón+mosca {[scat n][comp n+n][gen f]} =dragon_mouse=
+hada+madrina {[scat n][comp n+n][gen f]} =fairy_godmother=
+hombre+rana {[scat n][comp n+n][gen f]} =frogman=
+montaña+rusa {[scat n][comp n+n][gen m]} =roller_coaster=
+osito+panda {[scat n][comp n+n][gen m]} =panda_bear=
+oso+panda {[scat n][comp n+n][gen m]} =panda_bear=
+pan+dulce {[scat n][comp n+adj][gen m]} =christmas_bread=
+pata+palo {[scat n][comp n+n][gen m]} =game=
+perro+lobo {[scat n][comp n+n][gen m]} =dog_wolf=
+puerco+espín {[scat n][comp n+n][gen m]} =porcupine=
+transformación+construcción {[scat n][comp n+n][gen f]} =transformative_construction=
+video+juego {[scat n][comp n+n][gen m]} =videogame=
+papi+chulo {[scat n][comp n+adj][gen m]} =handsome=
+lava+ropa {[scat n][comp v+n][gen m]} ==
+radio+casette {[scat n][comp n+n][gen m]} ==

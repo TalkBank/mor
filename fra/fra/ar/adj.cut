@@ -1,0 +1,209 @@
+@UTF8
+@Window:	221_105_677_700_-1_-1_2348_0_2348_0
+% ****************
+% ADJECTIVE
+% ****************
+% rules of masculine and feminines
+
+RULENAME:   adj-trice-stems
+LEX-ENTRY:
+LEXSURF =  $Xteur		% créateur
+LEXCAT = [scat adj], [gn trice]
+ALLO:
+ALLOSURF = LEXSURF			% créateur
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xtrice			% créatrice
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-euse-stems
+LEX-ENTRY:
+LEXSURF =  $X$Keur		% boudeur
+LEXCAT = [scat adj], ![gen m]
+ALLO:
+ALLOSURF = LEXSURF			% créateur
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $X$Keuse			% boudeuse
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-eux-stems
+LEX-ENTRY:
+LEXSURF =  $Xeux		        % curieux
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF		   % curieux
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xeuse			% curieuse
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-er-stems
+LEX-ENTRY:
+LEXSURF =  $Xer		% palier
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF			% palier, grossier
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xère			% palière
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-et-ète
+LEX-ENTRY:
+LEXSURF =  $Xet		% concret
+LEXCAT = [scat adj], ![gn invar], [fem ète]
+ALLO:
+ALLOSURF = LEXSURF			% fluet
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xète			% fluette
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-et-ette
+LEX-ENTRY:
+LEXSURF =  $Xet		% fluet
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF			% fluet
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xette			% fluette
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-ic-stems
+LEX-ENTRY:
+LEXSURF =  $Xic			% public
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF	 % public
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xique			% publique
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-if-stems
+LEX-ENTRY:
+LEXSURF =  $Xif		% vif
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF		  % vif
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xive			% vive
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-ois-stems
+LEX-ENTRY:
+LEXSURF =  $Xois		% biterrois
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF			% biterrois
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xoise			% biterroise
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-vs-stems
+LEX-ENTRY:
+LEXSURF =  $X$Vs		% métis  épais
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF			% métis
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $X$Vsse			% métisse
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-ien-stems
+LEX-ENTRY:
+LEXSURF =  $Xien		% béotien
+LEXCAT = [scat adj], ![gn invar], ![block ien]
+ALLO:
+ALLOSURF = LEXSURF			% béotien
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xienne			% béotienne
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-on-stems
+LEX-ENTRY:
+LEXSURF =  $Xon		% bon
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF			% bon
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xonne			% bonne
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+RULENAME:   adj-el-stems
+LEX-ENTRY:
+LEXSURF =  $Xel		% actuel
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = LEXSURF			% actuel
+ALLOCAT = LEXCAT, ADD [gen m], ADD [g pl_s]
+ALLO:
+ALLOSURF = $Xelle				% actuelle
+ALLOCAT = LEXCAT, ADD [gen f], ADD [g pl_s]
+
+
+% rules of plurals
+
+RULENAME:   adj-eau-stems
+LEX-ENTRY:
+LEXSURF =  $Xeau		% nouveau
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = LEXSURF		% nouveau
+ALLOCAT = LEXCAT, ADD [gen m], ADD [num sg]
+ALLO:
+ALLOSURF = $Xel				% nouvel
+ALLOCAT = LEXCAT, ADD [gen m], ADD [num sg]
+ALLO:
+ALLOSURF = $Xelle			% nouv - elle
+ALLOCAT = LEXCAT, ADD [gen f], ADD [num sg]
+ALLO:
+ALLOSURF = $Xeaux			% nouveaux
+ALLOCAT = LEXCAT, ADD [gen m], ADD [num pl]
+ALLO:
+ALLOSURF = $Xelles			% nouvelles
+ALLOCAT = LEXCAT, ADD [gen f], ADD [num pl]
+
+RULENAME:   adj-al-stems
+LEX-ENTRY:
+LEXSURF =  $Xal		% verbal
+LEXCAT = [scat adj], ![block aux]
+ALLO:
+ALLOSURF = LEXSURF		  % verbal
+ALLOCAT = LEXCAT, ADD [gen m], ADD [num sg]
+ALLO:
+ALLOSURF = $Xale			% verbale
+ALLOCAT = LEXCAT, ADD [gen f], ADD [num sg]
+ALLO:
+ALLOSURF = $Xaux			% verbaux
+ALLOCAT = LEXCAT, ADD [gen m], ADD [num pl]
+ALLO:
+ALLOSURF = $Xales			% verbales
+ALLOCAT = LEXCAT, ADD [gen f], ADD [num pl]
+
+RULENAME:   adj-invar
+LEX-ENTRY:
+LEXSURF =  $X		% affable
+LEXCAT = [scat adj], [gn invar]
+ALLO:
+ALLOSURF = $X		% affable
+ALLOCAT = LEXCAT, ADD [g pl_s]
+
+RULENAME:   adj-default
+LEX-ENTRY:
+LEXSURF =  $X		% bizarre
+LEXCAT = [scat adj], ![gn invar]
+ALLO:
+ALLOSURF = $X		% bizarres
+ALLOCAT = LEXCAT, ADD [g pl_s], ADD [gen m]
+ALLO:
+ALLOSURF = $Xe		% bizarres
+ALLOCAT = LEXCAT, ADD [g pl_s], ADD [gen f]
+

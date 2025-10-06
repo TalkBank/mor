@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	averiguo .
+%mor:	v|averigua-1S&PRES=verify .
+*T:	averigües .
+%mor:	v|averigua-2S&SUB&PRES=verify .
+*T:	averigua .
+%mor:	imp|averigua-2S&IMP=verify .
+*T:	averiguamos .
+%mor:	v|averigua-1P&PRES&PRET=verify .
+*T:	averiguáis .
+%mor:	v|averigua-2P&PRES=verify .
+*T:	averiguan .
+%mor:	v|averigua-3P&PRES=verify .
+@Blank
+*T:	averiguaba .
+%mor:	v|averigua-13S&PAS=verify .
+*T:	averiguabas .
+%mor:	v|averigua-2S&PAS=verify .
+*T:	averiguaba .
+%mor:	v|averigua-13S&PAS=verify .
+*T:	averiguábamos .
+%mor:	v|averigua-1P&PAS=verify .
+*T:	averiguabais .
+%mor:	v|averigua-2P&PAS=verify .
+*T:	averiguaban .
+%mor:	v|averigua-3P&PAS=verify .
+@Blank
+*T:	averigüé .
+%mor:	v|averigua-1S&PRET=verify .
+*T:	averiguaste .
+%mor:	v|averigua-2S&PRET=verify .
+*T:	averiguó .
+%mor:	v|averigua-3S&PRET=verify .
+*T:	averiguamos .
+%mor:	v|averigua-1P&PRES&PRET=verify .
+*T:	averiguasteis .
+%mor:	v|averigua-2P&PRET=verify .
+*T:	averiguaron .
+%mor:	v|averigua-3P&PRET=verify .
+@Blank
+*T:	averiguaré .
+%mor:	v|averigua-1S&FUT=verify .
+*T:	averiguarás .
+%mor:	v|averigua-2S&FUT=verify .
+*T:	averiguará .
+%mor:	v|averigua-3S&FUT=verify .
+*T:	averiguaremos .
+%mor:	v|averigua-1P&FUT=verify .
+*T:	averiguaréis .
+%mor:	v|averigua-2P&FUT=verify .
+*T:	averiguarán .
+%mor:	v|averigua-3P&FUT=verify .
+@Blank
+*T:	averigüe .
+%mor:	v|averigua-13S&SUB&PRES=verify .
+*T:	averigües .
+%mor:	v|averigua-2S&SUB&PRES=verify .
+*T:	averigüe .
+%mor:	v|averigua-13S&SUB&PRES=verify .
+*T:	averigüemos .
+%mor:	imp|averigua-1P&IMP=verify .
+*T:	averigüéis .
+%mor:	v|averigua-2P&SUB&PRES=verify .
+*T:	averigüen .
+%mor:	v|averigua-3P&SUB&PRES=verify .
+@Blank
+*T:	averiguara .
+%mor:	v|averigua-13S&SUB&PAS=verify .
+*T:	averiguaras .
+%mor:	v|averigua-2S&SUB&PAS=verify .
+*T:	averiguara .
+%mor:	v|averigua-13S&SUB&PAS=verify .
+*T:	averiguáramos .
+%mor:	v|averigua-1P&SUB&PAS=verify .
+*T:	averiguarais .
+%mor:	v|averigua-2P&SUB&PAS=verify .
+*T:	averiguaran .
+%mor:	v|averigua-3P&SUB&PAS=verify .
+@Blank
+*T:	averiguando .
+%mor:	ger|averigua-PROG=verify .
+*T:	averiguado .
+%mor:	part|averigua-PPART-MASC=verify .
+*T:	averigua .
+%mor:	imp|averigua-2S&IMP=verify .
+*T:	averigüe .
+%mor:	v|averigua-13S&SUB&PRES=verify .
+*T:	averiguad .
+%mor:	imp|averigua-2P&IMP=verify .
+*T:	averigüen .
+%mor:	v|averigua-3P&SUB&PRES=verify .
+@Blank
+@End

@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	escribo .
+%mor:	v|escribi-1S&PRES=write .
+*T:	escribes .
+%mor:	v|escribi-2S&PRES=write .
+*T:	escribe .
+%mor:	imp|escribi-2S&IMP=write .
+*T:	escribimos .
+%mor:	v|escribi-1P&PRES&PRET=write .
+*T:	escribís .
+%mor:	v|escribi-2P&PRES=write .
+*T:	escriben .
+%mor:	v|escribi-3P&PRES=write .
+@Blank
+*T:	escribía .
+%mor:	v|escribi-13S&PAS=write .
+*T:	escribías .
+%mor:	v|escribi-2S&PAS=write .
+*T:	escribía .
+%mor:	v|escribi-13S&PAS=write .
+*T:	escribíamos .
+%mor:	v|escribi-1P&PAS=write .
+*T:	escribíais .
+%mor:	v|escribi-2P&PAS=write .
+*T:	escribían .
+%mor:	v|escribi-3P&PAS=write .
+@Blank
+*T:	escribí .
+%mor:	imp|escribi-2S&IMP=write .
+*T:	escribiste .
+%mor:	v|escribi-2S&PRET=write .
+*T:	escribió .
+%mor:	v|escribi-3S&PRET=write .
+*T:	escribimos .
+%mor:	v|escribi-1P&PRES&PRET=write .
+*T:	escribisteis .
+%mor:	v|escribi-2P&PRET=write .
+*T:	escribieron .
+%mor:	v|escribi-3P&PRET=write .
+@Blank
+*T:	escribiré .
+%mor:	v|escribi-1S&FUT=write .
+*T:	escribirás .
+%mor:	v|escribi-2S&FUT=write .
+*T:	escribirá .
+%mor:	v|escribi-3S&FUT=write .
+*T:	escribiremos .
+%mor:	v|escribi-1P&FUT=write .
+*T:	escribiréis .
+%mor:	v|escribi-2P&FUT=write .
+*T:	escribirán .
+%mor:	v|escribi-3P&FUT=write .
+@Blank
+*T:	escriba .
+%mor:	imp|escribi-3S&IMP=write .
+*T:	escribas .
+%mor:	v|escribi-2S&SUB&PRES=write .
+*T:	escriba .
+%mor:	imp|escribi-3S&IMP=write .
+*T:	escribamos .
+%mor:	v|escribi-1P&SUB&PRES=write .
+*T:	escribáis .
+%mor:	v|escribi-2P&SUB&PRES=write .
+*T:	escriban .
+%mor:	imp|escribi-3P&IMP=write .
+@Blank
+*T:	escribiera .
+%mor:	v|escribi-13S&SUB&PAS=write .
+*T:	escribieras .
+%mor:	v|escribi-2S&SUB&PAS=write .
+*T:	escribiera .
+%mor:	v|escribi-13S&SUB&PAS=write .
+*T:	escribiéramos .
+%mor:	v|escribi-1P&SUB&PAS=write .
+*T:	escribierais .
+%mor:	v|escribi-2P&SUB&PAS=write .
+*T:	escribieran .
+%mor:	v|escribi-3P&SUB&PAS=write .
+@Blank
+*T:	escribiendo .
+%mor:	ger|escribi-PROG=write .
+*T:	escrito .
+%mor:	part|hace-PPART-MASC=write .
+*T:	escribe .
+%mor:	imp|escribi-2S&IMP=write .
+*T:	escriba .
+%mor:	imp|escribi-3S&IMP=write .
+*T:	escribid .
+%mor:	imp|escribi-2P&IMP=write .
+*T:	escriban .
+%mor:	imp|escribi-3P&IMP=write .
+@Blank
+@End

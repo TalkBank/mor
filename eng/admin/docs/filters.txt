@@ -1,0 +1,22 @@
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|adj *.c
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|aux *.cha
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|adv *.cha
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|co *.cha
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|conj *.cha
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|det *.cha
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|mod *.cha
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|prep *.cha
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|quan *.cha
+kwal +t%trn +t%grt +d7 +sSUBJ +s@|v *.cha
+
+For the noun heads, check that they only have nouns or pronouns:  SUBJ, OBJ, OBJ2, PRED, IOBJ, POBJ
+
+For the verb heads, check that they only have verbs: ROOT, CSUBJ, COMP, XCOMP, CPRED, SRL, CJCT, XCJT, CMOD, XMOD, TAG
+
+Other checks: DET, AUX, MOD,
+
+still needs work:
+
+kwal +t%trn +t%grt +d7 +sOBJ *.cha +s@|v
+kwal +t%trn +t%grt +d7 +sPRED *.cha +s@|v
+kwal +t%trn +t%grt +d7 +sPOBJ *.cha +s@|adj

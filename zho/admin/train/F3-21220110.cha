@@ -1,0 +1,331 @@
+@UTF8
+@PID:	11312/c-00007594-1
+@Begin
+@Languages:	zho
+@Participants:	INV Teacher , CHI Target_Child
+@ID:	zho|Beijing2|INV|||||Teacher|||
+@ID:	zho|Beijing2|CHI|||||Target_Child|||
+@Birth of CHI:	11-AUG-1998
+@Media:	F3-21220110, audio
+@Date:	09-AUG-2003
+@Comment:	Filename is F3-21220110
+@Transcriber:	YCH , WZ
+*INV:	讲 吧 . 2577_3564
+%mor:	v|jiang3=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|jiang3=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*CHI:	青蛙 在 瓶子 里 . 3509_6319
+%mor:	n|qing1wa1=frog prep|zai4=at n|ping2zi=bottle post|li3=inside .
+%gra:	1|2|SUBJ 2|0|PROOT 3|4|POSTO 4|2|PREPO 5|2|PUNCT
+%trn:	n|qing1wa1=frog prep|zai4=at n|ping2zi=bottle post|li3=inside .
+%grt:	1|2|SUBJ 2|0|PROOT 3|4|POSTO 4|2|PREPO 5|2|PUNCT
+*CHI:	青蛙 从 瓶子 里 出来 了 . 15947_25927
+%mor:	n|qing1wa1=frog prep|cong2=from n|ping2zi=bottle post|li3=inside
+	v:dirc|chu1lai2=go_out asp|le .
+%gra:	1|5|SUBJ 2|5|JCT 3|4|POSTO 4|2|PREPO 5|0|ROOT 6|5|ASP 7|5|PUNCT
+%trn:	n|qing1wa1=frog prep|cong2=from n|ping2zi=bottle post|li3=inside
+	v:dirc|chu1lai2=go_out asp|le .
+%grt:	1|5|SUBJ 2|5|JCT 3|4|POSTO 4|2|PREPO 5|0|ROOT 6|5|ASP 7|5|PUNCT
+*CHI:	小 男 孩儿 和 狗 看 那 瓶子 里 空空的 . 25899_33368
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child conj|he2=and
+	n|gou3=dog v|kan4=look det|na4=that n|ping2zi=bottle cl|li3
+	adj|kong1&DIM-ISH=empty .
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|8|DET 8|9|POSTO
+	9|10|JCT 10|6|COBJ 11|6|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child conj|he2=and
+	n|gou3=dog v|kan4=look det|na4=that n|ping2zi=bottle
+	cl|li3 adj|kong1&DIM-ISH=empty .
+%grt:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|8|DET
+	8|9|POSTO 9|10|JCT 10|6|COBJ 11|6|PUNCT
+*INV:	&嗯 . 33314_40013
+%com:	#5_9
+*CHI:	他们 <找 呀> [/] 找 呀 .
+%mor:	pro:per|ta1-PL=he v|zhao3=search sfp|ya .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%trn:	pro:per|ta1-PL=he v|zhao3=search sfp|ya .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	那 帽子 也 没 有 (1.0) . 39974_45140
+%mor:	pro:dem|na4=that n|mao4zi=hat adv|ye3=also adv|mei2=not v|you3=have
+	.
+%gra:	1|2|DET 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	det|na4=that n|mao4zi=hat adv|ye3=also adv|mei2=not v|you3=have .
+%grt:	1|2|DET 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	瓶子 里 装 着 一 个 <狗 [x 3] 的 脑袋> [/] 狗 的 xxx 脑袋 . 66686_75807
+%mor:	n|ping2zi=bottle post|li3=inside v|zhuang1=install asp|zhe
+	num|yi1=one cl|ge4 n|gou3=dog poss|de n|nao3dai4=head .
+%gra:	1|2|POSTO 2|3|JCT 3|0|ROOT 4|3|ASP 5|6|QUANT 6|9|CLASS 7|9|MOD 8|7|POSS
+	9|3|OBJ 10|3|PUNCT
+%trn:	n|ping2zi=bottle post|li3=inside v|zhuang1=install asp|zhe
+	num|yi1=one cl|ge4 n|gou3=dog poss|de n|nao3dai4=head .
+%grt:	1|2|POSTO 2|3|JCT 3|0|ROOT 4|3|ASP 5|6|QUANT 6|9|CLASS 7|9|MOD
+	8|7|POSS 9|3|OBJ 10|3|PUNCT
+*CHI:	小 男 孩儿 在 说话 (4.6) . 75743_85248
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child adv|zai4=currently
+	v|shuo1hua4=speak .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child adv|zai4=currently
+	v|shuo1hua4=speak .
+%grt:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	狗 [/] 狗 掉 下去 了 (4.8) . 85184_92614
+%mor:	n|gou3=dog v:resc|diao4=done v:dirc|xia4qu4=down asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|ASP 5|2|PUNCT
+%trn:	n|gou3=dog v:resc|diao4=done v:dirc|xia4qu4=down asp|le .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|ASP 5|2|PUNCT
+*CHI:	小 男 孩儿 生气 了 . 92530_102231
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	v|sheng1qi4=get_angry asp|le .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|ASP 6|4|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|sheng1qi4=get_angry
+	asp|le .
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|ASP 6|4|PUNCT
+*CHI:	抱 着 那 只 狗 (4.5) .
+%mor:	v|bao4=hug asp|zhe det|na4=that cl|zhi1 n|gou3=dog .
+%gra:	1|0|ROOT 2|1|ASP 3|5|DET 4|5|CLASS 5|1|OBJ 6|1|PUNCT
+%trn:	v|bao4=hug asp|zhe det|na4=that cl|zhi1 n|gou3=dog .
+%grt:	1|0|ROOT 2|1|ASP 3|5|DET 4|5|CLASS 5|1|OBJ 6|1|PUNCT
+*CHI:	狗 伸 着 腿 看 着 天 (1.1) . 102191_107972
+%mor:	n|gou3=dog v|shen1=extend asp|zhe n|tui3=leg v|kan4=look asp|zhe
+	n|tian1=day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|2|OBJ 5|2|SRL 6|5|ASP 7|5|OBJ 8|2|PUNCT
+%trn:	n|gou3=dog v|shen1=extend asp|zhe n|tui3=leg v|kan4=look asp|zhe
+	n|tian1=day .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|2|OBJ 5|2|SRL 6|5|ASP 7|5|OBJ 8|2|PUNCT
+*CHI:	小 男 孩儿 在 冲 谁 说话 呢 (3.1) . 107920_115176
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child adv|zai4=currently
+	prep|chong4=towards pro:wh|shei2=who v|shuo1hua4=speak sfp|ne .
+%gra:	1|3|MOD 2|3|MOD 3|7|SUBJ 4|7|JCT 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child adv|zai4=currently
+	prep|chong4=towards pro:wh|shei2=who v|shuo1hua4=speak sfp|ne .
+%grt:	1|3|MOD 2|3|MOD 3|7|SUBJ 4|7|JCT 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+*CHI:	小 狗 看见 树 上 有 一 个 蜜蜂 窝 (2.9) . 123021_131595
+%mor:	adj|xiao3=small n|gou3=dog v|kan4jian4=see n|shu4=tree
+	post|shang4=above v|you3=have num|yi1=one cl|ge4 n|mi4feng1=honeybee
+	n|wo1=nest .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|POSTO 5|6|JCT 6|3|COBJ 7|8|QUANT
+	8|10|CLASS 9|10|MOD 10|6|OBJ 11|3|PUNCT
+%trn:	adj|xiao3=small n|gou3=dog v|kan4jian4=see n|shu4=tree
+	post|shang4=above v|you3=have num|yi1=one cl|ge4 n|mi4feng1=honeybee
+	n|wo1=nest .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|POSTO 5|6|JCT 6|3|COBJ 7|8|QUANT
+	8|10|CLASS 9|10|MOD 10|6|OBJ 11|3|PUNCT
+*CHI:	小 男 孩儿 有点 生气 . 131566_134886
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	adv|you3dian3=a_little_bit v|sheng1qi4=get_angry .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	adv|you3dian3=a_little_bit v|sheng1qi4=get_angry .
+%grt:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	狗 爬 在 树 上 (5.0) . 134820_142413
+%mor:	n|gou3=dog v|pa2=crawl prep|zai4=at n|shu4=tree post|shang4=above .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|POSTO 5|3|PREPO 6|2|PUNCT
+%trn:	n|gou3=dog v|pa2=crawl prep|zai4=at n|shu4=tree post|shang4=above .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|POSTO 5|3|PREPO 6|2|PUNCT
+*CHI:	蜜蜂 [/] 蜜蜂 [//] 蜜蜂 窝 掉 下来 了 . 142364_148076
+%mor:	n|mi4feng1=honeybee n|wo1=nest v:resc|diao4=done
+	v:dirc|xia4lai2=down asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|ASP 6|3|PUNCT
+%trn:	n|mi4feng1=honeybee n|wo1=nest v:resc|diao4=done
+	v:dirc|xia4lai2=down asp|le .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|ASP 6|3|PUNCT
+*CHI:	一 群 蜜蜂 出 来 了 (1.4) . 148003_151253
+%mor:	num|yi1=one cl|qun2 n|mi4feng1=honeybee v:dirc|chu1=go_out
+	v:dirc|lai2=come asp|le .
+%gra:	1|2|QUANT 2|3|CLASS 3|4|SUBJ 4|0|ROOT 5|4|VD 6|4|ASP 7|4|PUNCT
+%trn:	num|yi1=one cl|qun2 n|mi4feng1=honeybee v:dirc|chu1=go_out
+	v:dirc|lai2=come asp|le .
+%grt:	1|2|QUANT 2|3|CLASS 3|4|SUBJ 4|0|ROOT 5|4|VD 6|4|ASP 7|4|PUNCT
+*CHI:	一 只 青蛙 从 洞 里 出 来 了 . 151167_153814
+%mor:	num|yi1=one cl|zhi1 n|qing1wa1=frog prep|cong2=from n|dong4=hole
+	post|li3=inside v:dirc|chu1=go_out v:dirc|lai2=come asp|le .
+%gra:	1|2|QUANT 2|3|CLASS 3|7|SUBJ 4|7|JCT 5|6|POSTO 6|4|PREPO 7|0|ROOT
+	8|7|VD 9|7|ASP 10|7|PUNCT
+%trn:	num|yi1=one cl|zhi1 n|qing1wa1=frog prep|cong2=from
+	n|dong4=hole post|li3=inside v:dirc|chu1=go_out v:dirc|lai2=come asp|le .
+%grt:	1|2|QUANT 2|3|CLASS 3|7|SUBJ 4|7|JCT 5|6|POSTO 6|4|PREPO 7|0|ROOT
+	8|7|VD 9|7|ASP 10|7|PUNCT
+*CHI:	这儿 还 没 说 . 153837_156810
+%mor:	post|zhe4&DIA=here adv|hai2=still adv|mei2=not v|shuo1=say .
+%gra:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%trn:	post|zhe4&DIA=here adv|hai2=still adv|mei2=not v|shuo1=say .
+%grt:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	小 男 孩儿 爬 在 树 上 . 156779_163234
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|pa2=crawl
+	prep|zai4=at n|shu4=tree post|shang4=above .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|POSTO 7|5|PREPO 8|4|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|pa2=crawl
+	prep|zai4=at n|shu4=tree post|shang4=above .
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|POSTO 7|5|PREPO
+	8|4|PUNCT
+*CHI:	小 男 孩儿 摔 下去 了 . 163184_166121
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|shuai1=fall
+	v:dirc|xia4qu4=down asp|le .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|VD 6|4|ASP 7|4|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|shuai1=fall
+	v:dirc|xia4qu4=down asp|le .
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|VD 6|4|ASP 7|4|PUNCT
+*CHI:	从 那 洞 里 飞 出 一 个 老鹰 . 166055_178393
+%mor:	prep|cong2=from det|na4=that n|dong4=hole post|li3=inside
+	v:resc|fei1=fly_away v:dirc|chu1=go_out num|yi1=one cl|ge4
+	n|lao3ying1=hawk .
+%gra:	1|5|JCT 2|3|DET 3|4|POSTO 4|1|JCT 5|0|ROOT 6|5|VD 7|8|QUANT 8|9|CLASS
+	9|5|OBJ 10|5|PUNCT
+%trn:	prep|cong2=from det|na4=that n|dong4=hole post|li3=inside
+	v:resc|fei1=fly_away v:dirc|chu1=go_out num|yi1=one cl|ge4
+	n|lao3ying1=hawk .
+%grt:	1|5|JCT 2|3|DET 3|4|POSTO 4|1|JCT 5|0|ROOT 6|5|VD 7|8|QUANT
+	8|9|CLASS 9|5|OBJ 10|5|PUNCT
+%com:	#9_3
+*CHI:	小 男 孩儿 拿 手 挡 着 脑袋 不 让 老鹰 过来 (2.1) . 178342_185575
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child prep|na2=with
+	n|shou3=hand v|dang3=ward_off asp|zhe n|nao3dai4=head adv|bu4=not
+	v|rang4=allow n|lao3ying1=hawk v:dirc|guo4lai2=over .
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|ASP 8|6|OBJ
+	9|10|JCT 10|6|SRL 11|12|SUBJ 12|10|COMP 13|6|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child prep|na2=with
+	n|shou3=hand v|dang3=ward_off asp|zhe n|nao3dai4=head adv|bu4=not
+	v|rang4=allow n|lao3ying1=hawk v:dirc|guo4lai2=over .
+%grt:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|ASP 8|6|OBJ
+	9|10|JCT 10|6|SRL 11|12|SUBJ 12|10|COMP 13|6|PUNCT
+*CHI:	小 男 孩儿 爬 在 一 个 大 石头 周 [: 上] [* p:w] 在 跟 谁 说话 (2.5) ? 185561_194216
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|pa2=crawl
+	prep|zai4=at num|yi1=one cl|ge4 adj|da4=great n|shi2tou=stone
+	post|shang4=above adv|zai4=currently prep|gen1=with pro:wh|shei2=who
+	v|shuo1hua4=speak ?
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|14|CJCT 5|4|JCT 6|7|QUANT 7|9|CLASS 8|9|MOD
+	9|10|POSTO 10|5|PREPO 11|14|JCT 12|14|JCT 13|12|PREPO 14|0|ROOT
+	15|14|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|pa2=crawl
+	prep|zai4=at num|yi1=one cl|ge4 adj|da4=great n|shi2tou=stone
+	post|shang4=above adv|zai4=currently prep|gen1=with pro:wh|shei2=who
+	v|shuo1hua4=speak ?
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|14|CJCT 5|4|JCT 6|7|QUANT 7|9|CLASS
+	8|9|MOD 9|10|POSTO 10|5|PREPO 11|14|JCT 12|14|JCT 13|12|PREPO
+	14|0|ROOT 15|14|PUNCT
+*CHI:	<这 是> [//] 这 什么 呀 (1.0) ? 196421_199421
+%mor:	pro:dem|zhe4=this pro:wh|shen2me=what sfp|ya ?
+%gra:	1|2|SUBJ 2|0|PROOT 3|2|SFP 4|2|PUNCT
+%trn:	pro:dem|zhe4=this pro:wh|shen2me=what sfp|ya ?
+%grt:	1|2|SUBJ 2|0|PROOT 3|2|SFP 4|2|PUNCT
+*CHI:	小 男 孩儿 被 挎 [: 挂] [* p:w] 在 树 上 了 (2.8) . 199382_205744
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child prep|bei4=by
+	v|gua4=hang prep|zai4=at n|shu4=tree post|shang4=above asp|le .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|POSTO 8|6|JCT
+	9|5|JCT 10|5|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child prep|bei4=by
+	v|gua4=hang prep|zai4=at n|shu4=tree post|shang4=above asp|le .
+%grt:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|POSTO
+	8|6|JCT 9|5|JCT 10|5|PUNCT
+*CHI:	小 [x 5] 鹿 追 到 +//. 205707_217057
+%mor:	adj|xiao3=small n|lu4=deer v|zhui1=pursue v:resc|dao4=arrive +//.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VR 5|3|PUNCT
+%trn:	adj|xiao3=small n|lu4=deer v|zhui1=pursue v:resc|dao4=arrive +//.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VR 5|3|PUNCT
+*CHI:	小 男 孩儿 追 着 一 只 狗 . 216959_227949
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|zhui1=pursue
+	asp|zhe num|yi1=one cl|zhi1 n|gou3=dog .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|ASP 6|7|QUANT 7|8|CLASS 8|4|OBJ
+	9|4|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|zhui1=pursue
+	asp|zhe num|yi1=one cl|zhi1 n|gou3=dog .
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|ASP 6|7|QUANT 7|8|CLASS 8|4|OBJ
+	9|4|PUNCT
+%com:	#7_0
+*CHI:	小 鹿 给 [//] 让 小 男 孩儿 掉 下去 了 (3.2) . 227910_234910
+%mor:	adj|xiao3=small n|lu4=deer v|rang4=allow adj|xiao3=small
+	adj|nan2=male n|hai2-DIA=child v:resc|diao4=done v:dirc|xia4qu4=down
+	asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|7|SUBJ 7|3|COMP 8|7|VD
+	9|3|ASP 10|3|PUNCT
+%trn:	adj|xiao3=small n|lu4=deer v|rang4=allow adj|xiao3=small
+	adj|nan2=male n|hai2-DIA=child v:resc|diao4=done v:dirc|xia4qu4=down
+	asp|le .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|7|SUBJ 7|3|COMP 8|7|VD
+	9|3|ASP 10|3|PUNCT
+*CHI:	<这 是> [//] 这 什么 呀 (4.9) ? 234861_242918
+%mor:	pro:dem|zhe4=this pro:wh|shen2me=what sfp|ya ?
+%gra:	1|2|SUBJ 2|0|PROOT 3|2|SFP 4|2|PUNCT
+%trn:	pro:dem|zhe4=this pro:wh|shen2me=what sfp|ya ?
+%grt:	1|2|SUBJ 2|0|PROOT 3|2|SFP 4|2|PUNCT
+*CHI:	小 男 孩儿 摔 在 泥 汤 里 . 242847_246597
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|shuai1=fall
+	prep|zai4=at n|ni2=dirt n|tang1=broth post|li3=inside .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|8|POSTO 8|5|PREPO
+	9|4|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|shuai1=fall
+	prep|zai4=at n|ni2=dirt n|tang1=broth post|li3=inside .
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|8|POSTO 8|5|PREPO
+	9|4|PUNCT
+*CHI:	小 男 孩儿 <脑袋 xxx> [//] 一 只 手 坐 泥 汤 里 了 (3.1) . 246566_254872
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child num|yi1=one cl|zhi1
+	n|shou3=hand v|zuo4=sit n|ni2=dirt n|tang1=broth post|li3=inside
+	asp|le .
+%gra:	1|3|MOD 2|3|MOD 3|6|MOD 4|5|QUANT 5|6|CLASS 6|7|SUBJ 7|0|ROOT 8|9|MOD
+	9|10|POSTO 10|7|JCT 11|7|ASP 12|7|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child num|yi1=one
+	cl|zhi1 n|shou3=hand v|zuo4=sit n|ni2=dirt n|tang1=broth
+	post|li3=inside asp|le .
+%grt:	1|3|MOD 2|3|MOD 3|6|MOD 4|5|QUANT 5|6|CLASS 6|7|SUBJ 7|0|ROOT
+	8|9|MOD 9|10|POSTO 10|7|JCT 11|7|ASP 12|7|PUNCT
+*CHI:	xxx 小 男 孩儿 在 地 里 (4.9) . 261643_269085
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child prep|zai4=at
+	n|di4=earth post|li3=inside .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|PROOT 5|6|POSTO 6|4|PREPO 7|4|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child prep|zai4=at
+	n|di4=earth post|li3=inside .
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|PROOT 5|6|POSTO 6|4|PREPO 7|4|PUNCT
+*CHI:	狗 [//] <狗 和> [/] 狗 和 小 男 孩儿 摔 (下) 了 这 只 树 (4.0) . 269047_279689
+%mor:	n|gou3=dog conj|he2=and adj|xiao3=small adj|nan2=male
+	n|hai2-DIA=child v|shuai1=fall v:dirc|xia4=go_down asp|le
+	det|zhe4=this cl|zhi1 n|shu4=tree .
+%gra:	1|6|SUBJ 2|1|CONJ 3|5|MOD 4|5|MOD 5|2|COORD 6|0|ROOT 7|6|VD 8|6|ASP
+	9|11|DET 10|11|CLASS 11|6|OBJ 12|6|PUNCT
+%trn:	n|gou3=dog conj|he2=and adj|xiao3=small adj|nan2=male
+	n|hai2-DIA=child v|shuai1=fall v:dirc|xia4=go_down asp|le
+	det|zhe4=this cl|zhi1 n|shu4=tree .
+%grt:	1|6|SUBJ 2|1|CONJ 3|5|MOD 4|5|MOD 5|2|COORD 6|0|ROOT 7|6|VD 8|6|ASP
+	9|11|DET 10|11|CLASS 11|6|OBJ 12|6|PUNCT
+*CHI:	小 男 孩儿 xxx 看见 一 只 小 青蛙 (4.2) . 279626_288177
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|kan4jian4=see
+	num|yi1=one cl|zhi1 adj|xiao3=small n|qing1wa1=frog .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|8|CLASS 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|kan4jian4=see
+	num|yi1=one cl|zhi1 adj|xiao3=small n|qing1wa1=frog .
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|8|CLASS 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*CHI:	小 男 孩儿 和 狗 <看见 了 好 多> [//] 看见 大 青蛙 . 288089_296280
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child conj|he2=and
+	n|gou3=dog v|kan4jian4=see adj|da4=great n|qing1wa1=frog .
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child conj|he2=and
+	n|gou3=dog v|kan4jian4=see adj|da4=great n|qing1wa1=frog .
+%grt:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|8|MOD
+	8|6|OBJ 9|6|PUNCT
+*CHI:	看见 好 多 小 青蛙 (2.7) . 296257_300634
+%mor:	v|kan4jian4=see adv|hao3=very quant|duo1=many adj|xiao3=small
+	n|qing1wa1=frog .
+%gra:	1|0|ROOT 2|3|JCT 3|5|QUANT 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%trn:	v|kan4jian4=see adv|hao3=very quant|duo1=many adj|xiao3=small
+	n|qing1wa1=frog .
+%grt:	1|0|ROOT 2|3|JCT 3|5|QUANT 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*CHI:	一 只 小 男 孩儿 手 里 <有 一 只> [/] 有 一 只 小 青蛙 . 300528_307470
+%mor:	num|yi1=one cl|zhi1 adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	n|shou3=hand post|li3=inside v|you3=have num|yi1=one cl|zhi1
+	adj|xiao3=small n|qing1wa1=frog .
+%gra:	1|2|QUANT 2|5|CLASS 3|5|MOD 4|5|MOD 5|6|MOD 6|7|POSTO 7|8|JCT 8|0|ROOT
+	9|10|QUANT 10|12|CLASS 11|12|MOD 12|8|OBJ 13|8|PUNCT
+%trn:	num|yi1=one cl|zhi1 adj|xiao3=small adj|nan2=male
+	n|hai2-DIA=child n|shou3=hand post|li3=inside v|you3=have
+	num|yi1=one cl|zhi1 adj|xiao3=small n|qing1wa1=frog .
+%grt:	1|2|QUANT 2|5|CLASS 3|5|MOD 4|5|MOD 5|6|MOD 6|7|POSTO 7|8|JCT
+	8|0|ROOT 9|10|QUANT 10|12|CLASS 11|12|MOD 12|8|OBJ 13|8|PUNCT
+*CHI:	狗 在 这儿 . 307376_309141
+%mor:	n|gou3=dog prep|zai4=at post|zhe4&DIA=here .
+%gra:	1|2|SUBJ 2|0|PROOT 3|2|PREPO 4|2|PUNCT
+%trn:	n|gou3=dog prep|zai4=at post|zhe4&DIA=here .
+%grt:	1|2|SUBJ 2|0|PROOT 3|2|PREPO 4|2|PUNCT
+@End

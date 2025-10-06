@@ -1,0 +1,233 @@
+@UTF8
+@Window:	199_904_662_685_-1_-1_1328_0_1328_0
+aire+de+jeux {[scat n][gen m][comp n+prep+n]} =playground=
+aires+de+jeux {[scat n][gen m][comp n+prep+n]} =playgrounds=
+appareil+de+photo {[scat n][gen masc][comp n+prep+n]}
+arc+en+ciel {[scat n][gen m][comp n+prep+n]} =rainbow=
+arcs+en+ciel {[scat n][gen m][comp n+prep+n][num pl]} =rainbows=
+bac+à+jouets {[scat n][gen m][comp n+prep+n]} =toy_box=
+bac+à+linge {[scat n][gen m][comp n+prep+n]} =laundry_bin=
+bac+à+sable {[scat n][gen m][comp n+prep+n]} =sand_box=
+bacs+à+sable {[scat n][gen m][num pl][comp n+prep+n]} =sand_boxes=
+barbe+à+papa {[scat n][gen f][comp n+prep+n]} =cotton_candy=
+barbes+à+papa {[scat n][gen f][comp n+prep+n]} =cottoncandies=
+bas+de+caisse {[scat n][gen m][comp n+prep+n]} =rocker_panel=
+bateau+à+vapeur {[scat n][gen m][comp n+prep+n]} =steamboat=
+bateaux+à+vapeur {[scat n][gen m][comp n+prep+n]} =steamboats=
+bâton+de+pluie {[scat n][gen m][comp n+prep+n]} =rainstick=
+bec+de+cane {[scat n][gen m][comp n+prep+n]} ==
+bec+de+corbeau {[scat n][gen m][comp n+prep+n]} ==
+bec+de+corbeaux {[scat n][gen m][num pl][comp n+prep+n]} ==
+bec+de+corbin {[scat n][gen m][comp n+prep+n]} ==
+bec+de+lièvre {[scat n][gen m][comp n+prep+n]} ==
+belle+de+jour {[scat n][gen f][comp n+prep+n]} ==
+belle+de+nuit {[scat n][gen f][comp n+prep+n]} ==
+beurre+à+le+ail {[scat n][gen m][comp n+prep+det+n]} =garlic_butter=
+boîte+aux+lettres {[scat n][gen f][comp n+prep+n]}  =letterbox=
+boîtes+aux+lettres {[scat n][gen f][comp n+prep+n]}  =letterboxes=
+bonheur+du+jour {[scat n][gen m][comp n+prep+n]} ==
+bonhomme+de+neige {[scat n][gen m][comp n+prep+n]} =snowman=
+bonhommes+de+neige {[scat n][gen m][comp n+prep+n][num pl]} =snowman=
+boucle+d+oreille {[scat n][gen f][comp n+prep+n]} =earring=
+boucles+d+oreille {[scat n][gen f][comp n+prep+n]} =earrings=
+boule+de+gomme {[scat n][gen f][comp n+prep+n]} =gumdrop=
+boules+de+gomme {[scat n][gen f][comp n+prep+n]} =gumdrops=
+boules+de+neige {[scat n][gen f][comp n+prep+n][num pl]} ==
+bout+de+sucre {[scat n][gen m][comp n+prep+n]} ==
+boute+en+train {[scat n][gen m][comp n+prep+n]} ==
+bouton+d+or {[scat n][gen m][comp n+prep+n]} ==
+boutons+d+or {[scat n][gen m][num pl][comp n+prep+n]} ==
+bric+à+brac {[scat n][gen m][comp n+prep+n]} ==
+brosse+à+dent {[scat n][gen f][comp n+prep+n]} =toothbrush=
+brosses+à+dent {[scat n][gen f][comp n+prep+n][num pl]} =toothbrush=
+caisse+à+outils {[scat n][gen f][comp n+prep+n]} =toolchest=
+caisses+à+outils {[scat n][gen f][comp n+prep+n]} =toolchests=
+camion+de+pompier {[scat n][gen m][comp n+prep+n]}
+canne+à+pêche {[scat n][gen f][comp n+prep+n]} =fishing_rod=
+canne+à+pecher {[scat n][gen f][comp n+prep+n]}
+centre+de+loisirs {[scat n][gen m][comp n+prep+n]} =recreation_center_or_daycare=
+chair+de+poule {[scat n][gen f][comp n+prep+n]} =goosebumps=
+chaise+à+bascule {[scat n][comp n+prep+n]} ==
+chasse+d+eau {[scat n][gen f][comp n+prep+n]} =chain=
+chaussons+aux+pommes {[scat n][gen f][comp n+prep+n]}
+chef+d+oeuvre {[scat n][gen f][comp n+prep+n]} ==
+chemin+de+fer {[scat n][gen m][comp n+prep+n]} ==
+chemins+de+fer {[scat n][gen m][num pl][comp n+prep+n]} ==
+chemise+de+nuit {[scat n][comp n+prep+n]} ==
+chemises+de+nuit {[scat n][comp n+prep+n]} ==
+cheval+à+bascule {[scat n][comp n+prep+n]} ==
+clé+à+molette {[scat n][gen m][comp n+prep+n]} =monkeywrench=
+clés+à+molette {[scat n][gen m][comp n+prep+n]} =monkeywrenches=
+clin+de+oeil {[scat n][gen m][comp n+prep+n]} ==
+clins+de+oeil {[scat n][gen m][num pl][comp n+prep+n]} ==
+cochon+de+Inde {[scat n][gen m][comp n+prep+n]} =guinea_pig=
+cochons+de+Inde {[scat n][gen m][comp n+prep+n][num pl]} =guinea_pigs=
+col+de+cygne {[scat n][gen m][comp n+prep+n]} ==
+compte+à+rebours {[scat n][gen m][comp n+prep+n]} =countdown=
+comptes+à+rebours {[scat n][gen m][comp n+prep+n]} =countdowns=
+conseil+d+état {[scat n][comp n+prep+n]} ==
+coq+à+l'âne {[scat n][gen f][comp n+prep+n]} ==
+coq+à+l'ânes {[scat n][gen f][num pl][comp n+prep+n]} ==
+corde+à+sauter {[scat n][gen f][comp n+prep+n]} =jump_rope=
+coup+d+oeil {[scat n][gen m][comp n+prep+n]} =eyeflash=
+coup+de+fil {[scat n][gen masc][comp n+prep+n]} ==
+coup+de+foudre {[scat n][gen masc][comp n+prep+n]}
+coup+de+main {[scat n][gen m][comp n+prep+n]} =helping_hand=
+coup+de+pied {[scat n][gen m][comp n+prep+n]} ==
+coup+de+poing {[scat n][gen m][comp n+prep+n]} ==
+coup+de+soleil {[scat n][gen m][comp n+prep+n]} ==
+coups+de+fil {[scat n][gen m][comp n+prep+n]} =phonecalls=
+coups+de+soleil {[scat n][gen m][comp n+prep+n]} =sunburns=
+crayon+de+couleurs {[scat n][gen f][comp n+prep+n]} =crayon=
+crayons+de+couleurs {[scat n][gen f][comp n+prep+n][num pl]} =crayon=
+croc+en+jambe {[scat n][gen m][comp n+prep+n]} ==
+croissant+de+lune {[scat n][comp n+prep+n]} ==
+crotte+de+nez {[scat n][gen f][comp n+prep+n]}  =booger=
+crottes+de+nez {[scat n][gen f][comp n+prep+n]}  =boogers=
+cul+de+basse+fosse {[scat n][gen m][comp n+prep+adj+n]} ==
+cul+de+four {[scat n][gen m][comp n+prep+n]} ==
+cul+de+jatte {[scat n][comp n+prep+n]} ==
+cul+de+lampe {[scat n][gen m][comp n+prep+n]} ==
+cul+de+sac {[scat n][gen m][comp n+prep+n]} ==
+dent+de+lait {[scat n][gen m][comp n+prep+n]} =baby_tooth=
+dents+de+lait {[scat n][gen m][comp n+prep+n]} =baby_teeth=
+dessous+de+plat {[scat n][gen m][comp n+prep+n]} =trivet=
+dessous+de+verre {[scat n][gen m][comp n+prep+n]} =coaster=
+deus+ex+machina {[scat n][gen m][comp n+prep+n]} ==
+deus+ex+machinas {[scat n][gen m][num pl][comp n+prep+n]} ==
+eau+de+cologne {[scat n][gen m][comp n+prep+n]} =cologne=
+eau+de+vie {[scat n][gen f][comp n+prep+n]} =liquor=
+étoile+de+mer {[scat n][gen f][comp n+prep+n]} =starfish=
+femme+à+tout+faire {[scat n][gen f][comp n+prep+adv+v]}
+fer+à+repasser {[scat n][gen m][comp n+prep+n]} =iron=
+feu+d+artifice {[scat n][gen m][comp n+prep+n]} =fireworks=
+feux+d+artifice {[scat n][gen m][comp n+prep+n]} =fireworks=
+filet+de+saxe {[scat n][gen m][comp n+prep+n]} =type_of_smoked_ham=
+flûte+à+bec {[scat n][gen f][comp n+prep+n]}  =recorder=
+fondé+de+pouvoir {[scat n][gen m][comp n+prep+n]} ==
+fondé+de+pouvoirs {[scat n][gen m][num pl][comp n+prep+n]} ==
+fruits+de+mer {[scat n][gen f][comp n+prep+n]}  =seafood=
+gant+de+toilette {[scat n][gen m][comp n+prep+n]} =washcloth=
+gants+de+toilette {[scat n][gen m][comp n+prep+n]} =washcloths=
+garde+à+vous {[scat n][gen m][comp n+prep+n]} ==
+grain+de+beauté {[scat n][gen m][comp n+prep+n]}  =beauty_mark=
+grains+de+beauté {[scat n][gen m][comp n+prep+n]}  =beauty_marks=
+gueule+de+loup {[scat n][gen f][comp n+prep+n]} ==
+haut+de+chausse {[scat n][gen m][comp n+prep+n]} ==
+haut+de+forme {[scat n][gen m][comp n+prep+n]} ==
+homme+de+neige {[scat n][gen m][comp n+prep+n]} =snowman=
+hors+d+oeuvre {[scat n][gen m][comp n+prep+n]} ==
+hors+la+loi {[scat n][gen m][comp n+prep+n]} ==
+je+m'en+fichisme {[scat n][gen m][comp n+prep+n]} ==
+je+m'en+fichiste {[scat n][gen f][comp n+prep+n]} ==
+je+m'en+foutisme {[scat n][gen m][comp n+prep+n]} ==
+je+m'en+foutiste {[scat n][gen f][comp n+prep+n]} ==
+jeu+de+grille {[scat n][comp n+prep+n]} ==
+jeu+de+billes {[scat n][comp n+prep+n]} =marbles= 
+jusqu+au+boutisme {[scat n][gen m][comp n+prep+n]} ==
+jusqu+au+boutiste {[scat n][gen f][comp n+prep+n]} ==
+laissé+pour+compte {[scat n][gen m][comp n+prep+n]} ==
+laissée+pour+compte {[scat n][gen f][comp n+prep+n]} ==
+lampe+de+chevet {[scat n][gen fem][comp n+prep+n]}
+langue+de+chat {[scat n][gen f][comp n+prep+n]} =a_type_of_cookie=
+langues+de+chat {[scat n][gen f][comp n+prep+n]} =type_of_cookie=
+légion+d+honneur {[scat n][comp n+prep+n]} ==
+machine+à+laver {[scat n][gen f][comp n+prep+n]} =washing_machine=
+maillot+de+bain {[scat n][comp n+prep+n]} ==
+maillots+de+bain {[scat n][gen m][comp n+prep+n]}  =bathingsuits=
+main+d+oeuvre {[scat n][gen f][comp n+prep+n]} ==
+maison+de+pupées {[scat n][gen f][comp n+prep+n]} =dollhouse=
+mal+aux+fesses {[scat n][comp n+prep+n]} ==
+marchand+de+glace {[scat n][comp n+prep+n]} ==
+mont+de+piété {[scat n][gen m][comp n+prep+n]} ==
+mort+aux+rats {[scat n][gen f][comp n+prep+n]} ==
+mousse+au+chocolat {[scat n][comp n+prep+n]} ==
+noix+de+coco {[scat n][gen f][comp n+prep+n]}  =coconut=
+nom+de+famille {[scat n][gen f][comp n+prep+n]}  =surname=
+noms+de+famille {[scat n][gen f][comp n+prep+n]}  =surnames=
+nouilles+au+gratin {[scat n][comp n+prep+n]} ==
+oeuf+de+pâques {[scat n][gen m][comp n+prep+n]} =Easter_egg=
+pain+au+chocolat {[scat n][gen m][comp n+prep+n]} =chocolate_pastry=
+pain+au+lait {[scat n][gen m][comp n+prep+n]}  =type_of_bun=
+pain+au+raisin {[scat n][comp n+prep+n]} ==
+pain+d+épice {[scat n][gen m][comp n+prep+n]}  =spicebread=
+pain+de+mie {[scat n][gen m][comp n+prep+n]}
+pâte+à+modeler {[scat n][gen f][comp n+prep+n]} =modeling_clay=
+patin+à+glace {[scat n][gen m][comp n+prep+n]} =iceskate=
+patin+à+roulettes {[scat n][gen m][comp n+prep+n]} =rollerskate=
+patins+à+glace {[scat n][gen m][comp n+prep+n]} =iceskates=
+patins+à+roulettes {[scat n][gen m][comp n+prep+n]} =rollerskates=
+patte+d+oie {[scat n][gen f][comp n+prep+n]} ==
+patte+d+oies {[scat n][gen f][num pl][comp n+prep+n]} ==
+pet+de+nonne {[scat n][gen m][comp n+prep+n]} ==
+pied+à+terre {[scat n][gen m][comp n+prep+n]} ==
+pied+de+biche {[scat n][gen m][comp n+prep+n]} ==
+pied+de+nez {[scat n][gen m][comp n+prep+n]} ==
+pied+de+poule {[scat n][gen m][comp n+prep+n]} ==
+pince+à+linge {[scat n][gen m][comp n+prep+n]} =clotherspin=
+pinces+à+linge {[scat n][gen m][comp n+prep+n]} =clothespins=
+planche+à+langer {[scat n][gen f][comp n+prep+n]} =changing_tray=
+planche+à+voile {[scat n][gen fem][comp n+prep+n]} ==
+point+de+vue {[scat n][gen f][comp n+prep+n]} ==
+pomme+de+pin {[scat n][gen f][comp n+prep+n]} =pinecone=
+pomme+de+terre {[scat n][gen f][comp n+prep+n]} ==
+pommes+de+pin {[scat n][gen f][comp n+prep+n]} =pinecones=
+pommes+de+terre {[scat n][gen f][comp n+prep+n]} ==
+pompe+à+essence {[scat n][comp n+prep+n]} ==
+pompe+à+l'essence {[scat n][comp n+prep+n]} ==
+ponts+et+chaussées {[scat n][comp n+prep+n]} ==
+porte+à+faux {[scat n][gen m][comp n+prep+n]} ==
+porte+à+porte {[scat n][gen f][comp n+prep+n]} ==
+pot+à+eau {[scat n][gen m][comp n+prep+n]} ==
+pot+à+lait {[scat n][gen m][comp n+prep+n]} ==
+pot+au+feu {[scat n][gen m][comp n+prep+n]} ==
+pot+de+beurre {[scat n][comp n+prep+n]} ==
+pot+de+fleurs {[scat n][comp n+prep+n]} ==
+pot+de+vin {[scat n][gen m][comp n+prep+n]} ==
+pots+de+fleurs {[scat n][comp n+prep+n]} ==
+professions+de+foi {[scat n][comp n+prep+n]} ==
+quant+à+soi {[scat n][gen m][comp n+prep+n]} ==
+queue+de+cheval {[scat n][comp n+prep+n]} ==
+raz+de+marée {[scat n][gen m][comp n+prep+n]} ==
+rez+de+chaussée {[scat n][gen m][comp n+prep+n]} ==
+robe+de+chambre {[scat n][gen f][comp n+prep+n]} =bathrobe=
+rond+de+cuir {[scat n][gen m][comp n+prep+n]} ==
+rouge+à+lèvres {[scat n][gen m][comp n+prep+n]} =lipstick=
+sac+à+dos {[scat n][gen m][comp n+prep+n]} =backpack=
+sacs+à+dos {[scat n][gen m][comp n+prep+n]} =backpacks=
+salle+à+manger {[scat n][comp n+prep+n]} ==
+salle+de+bain {[scat n][comp n+prep+n]} ==
+salle+de+jeux {[scat n][comp n+prep+n]} ==
+sapin+de+noël {[scat n][gen m][comp n+prep+n]} =Christmas_tree=
+sapins+de+noël {[scat n][gen m][comp n+prep+n]} =Christmas_trees=
+sauve+qui+peut {[scat n][gen m][comp n+prep+n]} ==
+seau+à+laver {[scat n][gen m][comp n+prep+n]} ==
+sucre+d+orge {[scat n][gen m][comp n+prep+n]}  =candycane=
+sucres+d+orge {[scat n][gen m][comp n+prep+n]}  =candycanes=
+table+à+langer {[scat n][gen f][comp n+prep+n]} =changing_table=
+tapes+à+l'oeil {[scat n][gen m][num pl][comp n+prep+n]} ==
+tête+à+queue {[scat n][gen m][comp n+prep+n]} ==
+tête+à+tête {[scat n][gen m][comp n+prep+n]} ==
+tête+de+cochon {[scat n][gen f][comp n+prep+n]} =pig_headed_person=
+tête+de+loup {[scat n][gen f][comp n+prep+n]} ==
+tête+de+morts {[scat n][gen f][comp n+prep+n]} =skull=
+têtes+de+loup {[scat n][gen f][comp n+prep+n]} =ceiling_brushes=
+têtes+de+morts {[scat n][gen f][comp n+prep+n]} =skulls=
+tire+au+cul {[scat n][gen m][comp n+prep+n]} ==
+tire+au+flanc {[scat n][gen m][comp n+prep+n]} ==
+toiles+d+araignées {[scat n][gen f][comp n+prep+n]}  =spiderwebs=
+touche+à+tout {[scat n][gen m][comp n+prep+n]} ==
+tour+de+lit {[scat n][gen f][comp n+prep+n]} =valance=
+tout+à+l'égout {[scat n][gen m][comp n+prep+n]} ==
+trait+d+union {[scat n][gen m][comp n+prep+n]} ==
+tremblement+de+terre {[scat n][gen m][comp n+prep+n]} =earthquake=
+tremblements+de+terre {[scat n][gen m][comp n+prep+n]} =earthquakes=
+trompe+l'oeil {[scat n][gen m][comp n+prep+n]} ==
+trompes+l'oeil {[scat n][gen m][num pl][comp n+prep+n]} ==
+va+et+vient {[scat n][gen m][comp n+prep+n]} ==
+va+nu+pieds {[scat n][comp n+prep+n]} ==
+ver+de+terre {[scat n][gen m][comp n+prep+n]} =nightcrawler=
+vers+de+terre {[scat n][gen f][comp n+prep+n]} =nightcrawlers=
+vert+de+gris {[scat n][gen m][comp n+prep+n]} ==
+voiture+de+course {[scat n][gen f][comp n+prep+n]} ==
+vol+au+vent {[scat n][gen m][comp n+prep+n]} ==

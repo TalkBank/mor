@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	vuelvo .
+%mor:	v|volve-1S&PRES=turn .
+*T:	vuelves .
+%mor:	v|volve-2S&PRES=turn .
+*T:	vuelve .
+%mor:	v|volve-3S&PRES=turn .
+*T:	volvemos .
+%mor:	v|volve-1P&PRES=turn .
+*T:	volvéis .
+%mor:	v|volve-2P&PRES=turn .
+*T:	vuelven .
+%mor:	v|volve-3P&PRES=turn .
+@Blank
+*T:	volvía .
+%mor:	v|volve-13S&PAS=turn .
+*T:	volvías .
+%mor:	v|volve-2S&PAS=turn .
+*T:	volvía .
+%mor:	v|volve-13S&PAS=turn .
+*T:	volvíamos .
+%mor:	v|volve-1P&PAS=turn .
+*T:	volvíais .
+%mor:	v|volve-2P&PAS=turn .
+*T:	volvían .
+%mor:	v|volve-3P&PAS=turn .
+@Blank
+*T:	volví .
+%mor:	v|volve-1S&PRET=turn .
+*T:	volviste .
+%mor:	v|volve-2S&PRET=turn .
+*T:	volvió .
+%mor:	v|volve-3S&PRET=turn .
+*T:	volvimos .
+%mor:	v|volve-1P&PRES&PRET=turn .
+*T:	volvisteis .
+%mor:	v|volve-2P&PRET=turn .
+*T:	volvieron .
+%mor:	v|volve-3P&PRET=turn .
+@Blank
+*T:	volveré .
+%mor:	v|volve-1S&FUT=turn .
+*T:	volverás .
+%mor:	v|volve-2S&FUT=turn .
+*T:	volverá .
+%mor:	v|volve-3S&FUT=turn .
+*T:	volveremos .
+%mor:	v|volve-1P&FUT=turn .
+*T:	volveréis .
+%mor:	v|volve-2P&FUT=turn .
+*T:	volverán .
+%mor:	v|volve-3P&FUT=turn .
+@Blank
+*T:	vuelva .
+%mor:	imp|volve-3S&IMP=turn .
+*T:	vuelvas .
+%mor:	v|volve-2S&SUB&PRES=turn .
+*T:	vuelva .
+%mor:	imp|volve-3S&IMP=turn .
+*T:	volvamos .
+%mor:	imp|volve-1P&IMP=turn .
+*T:	volváis .
+%mor:	v|volve-2P&SUB&PRES=turn .
+*T:	vuelvan .
+%mor:	imp|volve-3P&IMP=turn .
+@Blank
+*T:	volviera .
+%mor:	v|volve-13S&SUB&PAS=turn .
+*T:	volvieras .
+%mor:	v|volve-2S&SUB&PAS=turn .
+*T:	volviera .
+%mor:	v|volve-13S&SUB&PAS=turn .
+*T:	volviéramos .
+%mor:	v|volve-1P&SUB&PAS=turn .
+*T:	volvierais .
+%mor:	v|volve-2P&SUB&PAS=turn .
+*T:	volvieran .
+%mor:	v|volve-3P&SUB&PAS=turn .
+@Blank
+*T:	volviendo .
+%mor:	ger|volve-PROG=turn .
+*T:	vuelto .
+%mor:	part|volve-PPART-MASC=turn .
+*T:	vuelve .
+%mor:	v|volve-3S&PRES=turn .
+*T:	vuelva .
+%mor:	imp|volve-3S&IMP=turn .
+*T:	volved .
+%mor:	imp|volve-2P&IMP=turn .
+*T:	vuelvan .
+%mor:	imp|volve-3P&IMP=turn .
+@Blank
+@End

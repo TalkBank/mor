@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	vivo .
+%mor:	v|vivi-1S&PRES=live .
+*T:	vives .
+%mor:	v|vivi-2S&PRES=live .
+*T:	vive .
+%mor:	imp|vivi-2S&IMP=live .
+*T:	vivimos .
+%mor:	v|vivi-1P&PRES&PRET=live .
+*T:	vivís .
+%mor:	v|vivi-2P&PRES=live .
+*T:	viven .
+%mor:	v|vivi-3P&PRES=live .
+@Blank
+*T:	vivía .
+%mor:	v|vivi-13S&PAS=live .
+*T:	vivías .
+%mor:	v|vivi-2S&PAS=live .
+*T:	vivía .
+%mor:	v|vivi-13S&PAS=live .
+*T:	vivíamos .
+%mor:	v|vivi-1P&PAS=live .
+*T:	vivíais .
+%mor:	v|vivi-2P&PAS=live .
+*T:	vivían .
+%mor:	v|vivi-3P&PAS=live .
+@Blank
+*T:	viví .
+%mor:	imp|vivi-2S&IMP=live .
+*T:	viviste .
+%mor:	v|vivi-2S&PRET=live .
+*T:	vivió .
+%mor:	v|vivi-3S&PRET=live .
+*T:	vivimos .
+%mor:	v|vivi-1P&PRES&PRET=live .
+*T:	vivisteis .
+%mor:	v|vivi-2P&PRET=live .
+*T:	vivieron .
+%mor:	v|vivi-3P&PRET=live .
+@Blank
+*T:	viviré .
+%mor:	v|vivi-1S&FUT=live .
+*T:	vivirás .
+%mor:	v|vivi-2S&FUT=live .
+*T:	vivirá .
+%mor:	v|vivi-3S&FUT=live .
+*T:	viviremos .
+%mor:	v|vivi-1P&FUT=live .
+*T:	viviréis .
+%mor:	v|vivi-2P&FUT=live .
+*T:	vivirán .
+%mor:	v|vivi-3P&FUT=live .
+@Blank
+*T:	viva .
+%mor:	co|viva .
+*T:	vivas .
+%mor:	v|vivi-2S&SUB&PRES=live .
+*T:	viva .
+%mor:	co|viva .
+*T:	vivamos .
+%mor:	v|vivi-1P&SUB&PRES=live .
+*T:	viváis .
+%mor:	v|vivi-2P&SUB&PRES=live .
+*T:	vivan .
+%mor:	imp|vivi-3P&IMP=live .
+@Blank
+*T:	viviera .
+%mor:	v|vivi-13S&SUB&PAS=live .
+*T:	vivieras .
+%mor:	v|vivi-2S&SUB&PAS=live .
+*T:	viviera .
+%mor:	v|vivi-13S&SUB&PAS=live .
+*T:	viviéramos .
+%mor:	v|vivi-1P&SUB&PAS=live .
+*T:	vivierais .
+%mor:	v|vivi-2P&SUB&PAS=live .
+*T:	vivieran .
+%mor:	v|vivi-3P&SUB&PAS=live .
+@Blank
+*T:	viviendo .
+%mor:	ger|vivi-PROG=live .
+*T:	vivido .
+%mor:	part|vivi-PPART-MASC=live .
+*T:	vive .
+%mor:	imp|vivi-2S&IMP=live .
+*T:	viva .
+%mor:	co|viva .
+*T:	vivid .
+%mor:	imp|vivi-2P&IMP=live .
+*T:	vivan .
+%mor:	imp|vivi-3P&IMP=live .
+@End

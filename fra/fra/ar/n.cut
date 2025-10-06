@@ -1,0 +1,138 @@
+@UTF8
+% ****************
+% NOUN
+% ****************
+% rules of masculine and feminines
+
+RULENAME:   anim-eur-stems
+LEX-ENTRY:
+LEXSURF =  $Xeur		% joueur
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF			% joueur
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xeuse			% joueuse
+ALLOCAT = LEXCAT, ADD [gen f]
+
+RULENAME:   anim-er-stems
+LEX-ENTRY:
+LEXSURF =  $Xer		% cuisinier
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF			% cuisinier
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xère			% cuisinière
+ALLOCAT = LEXCAT, ADD [gen f]
+
+RULENAME:   anim-ien-stems
+LEX-ENTRY:
+LEXSURF =  $Xien		% musicien
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF			% music ien
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xienne			% music ienne
+ALLOCAT = LEXCAT, ADD [gen f]
+
+RULENAME:   anim-in-stems
+LEX-ENTRY:
+LEXSURF =  $Xin			% cousin
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF			% cousin
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xine			% cousine
+ALLOCAT = LEXCAT, ADD [gen f]
+
+RULENAME:   anim-ard-stems
+LEX-ENTRY:
+LEXSURF =  $Xard			% renard
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF			% renard
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xarde			% renarde
+ALLOCAT = LEXCAT, ADD [gen f]
+
+RULENAME:   anim-i-stems
+LEX-ENTRY:
+LEXSURF =  $Xi				% chéri
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF			% chéri
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xie				% chérie
+ALLOCAT = LEXCAT, ADD [gen f]
+
+RULENAME:   anim-default
+LEX-ENTRY:
+LEXSURF =  $X				% client
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF		% client
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xe				% cliente
+ALLOCAT = LEXCAT, ADD [gen f]
+
+% rules of plurals
+
+RULENAME:   noun-al-stems
+LEX-ENTRY:
+LEXSURF =  $Xal		% amiral
+LEXCAT = [scat n]
+ALLO:
+ALLOSURF = LEXSURF			% amiral
+ALLOCAT = LEXCAT, ADD [num sg]
+ALLO:
+ALLOSURF = $Xaux			% amiraux
+ALLOCAT = LEXCAT, ADD [num pl],
+
+RULENAME:   noun-ail-stems
+LEX-ENTRY:
+LEXSURF =  $Xail		% travail
+LEXCAT = [scat n]
+ALLO:
+ALLOSURF = LEXSURF			% travail
+ALLOCAT = LEXCAT, ADD [num sg]
+ALLO:
+ALLOSURF = $Xaux			% travaux
+ALLOCAT = LEXCAT, ADD [num pl]
+
+RULENAME:   noun-au-stems
+LEX-ENTRY:
+LEXSURF =  $Xau		% cadeau, noyau
+LEXCAT = [scat n]
+ALLO:
+ALLOSURF = LEXSURF		% just adding the g
+ALLOCAT = LEXCAT, ADD [g pl_x]
+
+RULENAME:   noun-eu-stems
+LEX-ENTRY:
+LEXSURF =  $Xeu			% cheveu
+LEXCAT = [scat n], ![g pl_s]
+ALLO:
+ALLOSURF = LEXSURF		% just adding the g
+ALLOCAT = LEXCAT, ADD [g pl_x]
+
+RULENAME:   noun-ou-stems
+LEX-ENTRY:
+LEXSURF =  $Xou			% bijou
+LEXCAT = [scat n], ![g pl_s]
+ALLO:
+ALLOSURF = LEXSURF			% just adding the g
+ALLOCAT = LEXCAT, ADD [g pl_x]
+
+RULENAME:   noun-plural-s
+LEX-ENTRY:
+LEXSURF =  $X, ![tn singpl]		% arbre
+LEXCAT = [scat n]
+ALLO:
+ALLOSURF = LEXSURF			% arbres
+ALLOCAT = LEXCAT, ADD [g pl_s]

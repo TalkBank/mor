@@ -1,0 +1,21 @@
+@UTF8
+@Window:	-738_1620_1323_1024_-1_-1_438_0_438_0
+There are five groups of ie stems
+1.  First conjugation ending in "a" only change the stem, not the part
+19pensar  encierro, encerrando, sentar, sientate
+codes as [stem ie]
+also reñir does this - weird
+2.  Second conjugation change "e" to "ie" in stem, and in participle add "i"
+19encender enciendo, encendiendo
+coded as [stem ie]
+3.  Some third conjugation change "e" to "ie" and also add "i" in participle
+22convertir divertir, sugerir etc.
+coded as [stem iei]
+4.  Some third conjugation change "e" to "i" and add to part
+22pedir pido, pidiendo
+coded as [stem ii]
+5.  A few thirds only change participle
+coincido, coincidiendo
+coded as [stem ip]
+
+

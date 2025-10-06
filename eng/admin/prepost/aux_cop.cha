@@ -1,0 +1,47 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_me_later|PAR|||||Participant|||
+*PAR:	there was a ball coming up .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|ball part|come-PRESP
+	adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|5|JCT 7|2|PUNCT
+*PAR:	there is something to think about .
+%mor:	pro:exist|there cop|be&3S pro:indef|something inf|to v|think
+	adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|JCT 7|2|PUNCT
+*PAR:	the shoe was left on the stairs .
+%mor:	det:art|the n|shoe aux|be&PAST&13S part|leave&PASTP prep|on
+	det:art|the n|stair-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	Cinderella is very very sad .
+%mor:	n:prop|Cinderella cop|be&3S adv|very adv|very adj|sad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|JCT 5|2|PRED 6|2|PUNCT
+*PAR:	I am exceptionally happy that he is coming to the party .
+%mor:	pro:sub|I cop|be&1S adv|exceptional&dadj-LY adj|happy pro:rel|that
+	pro:sub|he aux|be&3S part|come-PRESP prep|to det:art|the n|party .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	we are only trying to get answers .
+%mor:	pro:sub|we aux|be&PRES adv|only part|try-PRESP inf|to v|get
+	n|answer-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*PAR:	she is five years old .
+%mor:	pro:sub|she cop|be&3S det:num|five n|year-PL adj|old .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|POSTMOD 6|2|PUNCT
+*PAR:	the people are hard at work .
+%mor:	det:art|the n|person&PL cop|be&PRES adv|hard prep|at n|work .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	the prom was not fun .
+%mor:	det:art|the n|prom cop|be&PAST&13S neg|not adj|fun .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*PAR:	her stepmother's going to the store .
+%mor:	det:poss|her step#n|mother~aux|be&3S part|go-PRESP prep|to
+	det:art|the n|store .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	her stepmother's gone to the store .
+%mor:	det:poss|her step#n|mother~aux|be&3S part|go&PASTP prep|to
+	det:art|the n|store .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+@End

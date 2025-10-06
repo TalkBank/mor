@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	distingo .
+%mor:	v|distingui-1S&PRES=distinguish .
+*T:	distingues .
+%mor:	v|distingui-2S&PRES=distinguish .
+*T:	distingue .
+%mor:	imp|distingui-2S&IMP=distinguish .
+*T:	distinguimos .
+%mor:	v|distingui-1P&PRES&PRET=distinguish .
+*T:	distinguís .
+%mor:	v|distingui-2P&PRES=distinguish .
+*T:	distinguen .
+%mor:	v|distingui-3P&PRES=distinguish .
+@Blank
+*T:	distinguía .
+%mor:	v|distingui-13S&PAS=distinguish .
+*T:	distinguías .
+%mor:	v|distingui-2S&PAS=distinguish .
+*T:	distinguía .
+%mor:	v|distingui-13S&PAS=distinguish .
+*T:	distinguíamos .
+%mor:	v|distingui-1P&PAS=distinguish .
+*T:	distinguíais .
+%mor:	v|distingui-2P&PAS=distinguish .
+*T:	distinguían .
+%mor:	v|distingui-3P&PAS=distinguish .
+@Blank
+*T:	distinguí .
+%mor:	imp|distingui-2S&IMP=distinguish .
+*T:	distinguiste .
+%mor:	v|distingui-2S&PRET=distinguish .
+*T:	distinguió .
+%mor:	v|distingui-3S&PRET=distinguish .
+*T:	distinguimos .
+%mor:	v|distingui-1P&PRES&PRET=distinguish .
+*T:	distinguisteis .
+%mor:	v|distingui-2P&PRET=distinguish .
+*T:	distinguieron .
+%mor:	v|distingui-3P&PRET=distinguish .
+@Blank
+*T:	distinguiré .
+%mor:	v|distingui-1S&FUT=distinguish .
+*T:	distinguirás .
+%mor:	v|distingui-2S&FUT=distinguish .
+*T:	distinguirá .
+%mor:	v|distingui-3S&FUT=distinguish .
+*T:	distinguiremos .
+%mor:	v|distingui-1P&FUT=distinguish .
+*T:	distinguiréis .
+%mor:	v|distingui-2P&FUT=distinguish .
+*T:	distinguirán .
+%mor:	v|distingui-3P&FUT=distinguish .
+@Blank
+*T:	distinga .
+%mor:	v|distingui-13S&SUB&PRES=distinguish .
+*T:	distingas .
+%mor:	v|distingui-2S&SUB&PRES=distinguish .
+*T:	distinga .
+%mor:	v|distingui-13S&SUB&PRES=distinguish .
+*T:	distingamos .
+%mor:	v|distingui-1P&SUB&PRES=distinguish .
+*T:	distingáis .
+%mor:	v|distingui-2P&SUB&PRES=distinguish .
+*T:	distingan .
+%mor:	v|distingui-3P&SUB&PRES=distinguish .
+@Blank
+*T:	distinguiera .
+%mor:	v|distingui-13S&SUB&PAS=distinguish .
+*T:	distinguieras .
+%mor:	v|distingui-2S&SUB&PAS=distinguish .
+*T:	distinguiera .
+%mor:	v|distingui-13S&SUB&PAS=distinguish .
+*T:	distinguiéramos .
+%mor:	v|distingui-1P&SUB&PAS=distinguish .
+*T:	distinguierais .
+%mor:	v|distingui-2P&SUB&PAS=distinguish .
+*T:	distinguieran .
+%mor:	v|distingui-3P&SUB&PAS=distinguish .
+@Blank
+*T:	distinguiendo .
+%mor:	ger|distingui-PROG=distinguish .
+*T:	distinguido .
+%mor:	part|distingui-PPART-MASC=distinguish .
+*T:	distingue .
+%mor:	imp|distingui-2S&IMP=distinguish .
+*T:	distinga .
+%mor:	v|distingui-13S&SUB&PRES=distinguish .
+*T:	distinguid .
+%mor:	imp|distingui-2P&IMP=distinguish .
+*T:	distingan .
+%mor:	v|distingui-3P&SUB&PRES=distinguish .
+@End

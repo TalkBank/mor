@@ -1,0 +1,34 @@
+@UTF8
+@Window:	221_105_677_700_-1_-1_65_0_65_0
+anti {[scat apfx][pcat adj][block anti]}
+anti {[scat npfx][pcat n][block anti]}
+ambi {[scat apfx][pcat adj][block ambi]}
+après- {[scat npfx][pcat adj][block après-]}
+belle- {[scat npfx][pcat n][block belle-]}
+demi- {[scat npfx][pcat n][block demi-]}
+grand- {[scat npfx][pcat n][block grand-]}
+grande- {[scat npfx][pcat n][block grande-]}
+grands- {[scat npfx][pcat n][num pl][block grands-]}
+mi- {[scat npfx][pcat n][block mi-]}
+mini- {[scat npfx][pcat n][block mini-]}
+multi {[scat apfx][pcat adj][block multi]}
+multi {[scat npfx][pcat n][block multi]}
+mono {[scat apfx][pcat adj][block mono]}
+micro {[scat npfx][pcat n][block micro]}
+non- {[scat apfx][pcat adj][block non-]}
+semi- {[scat npfx][pcat n][block semi-]}
+sous- {[scat npfx][pcat n][block sous-]}
+sous- {[scat apfx][pcat adj][block sous-]}
+sous- {[scat vpfx][pcat v][block sous-]}
+% plurals only, and the base
+aux {[scat nsfx][num pl][g pl_al]} "PL"
+s {[scat nsfx][num pl][g pl_s]} "PL"
+x {[scat nsfx][num pl][g pl_x]} "PL"
+
+% adverbs
+ment {[scat adv:adj]} "ADV"
+
+% deictic suffixes
+-là {[scat nsfx][allo deic]} "DEIC"
+-ci {[scat nsfx][allo deic]} "DEIC"
+

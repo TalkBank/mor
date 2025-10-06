@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	hago .
+%mor:	v|hace-1S&PRES=do .
+*T:	haces .
+%mor:	v|hace-2S&PRES=do .
+*T:	hace .
+%mor:	imp|hace-2S&IMP=do .
+*T:	hacemos .
+%mor:	v|hace-1P&PRES=do .
+*T:	hacéis .
+%mor:	v|hace-2P&PRES=do .
+*T:	hacen .
+%mor:	v|hace-3P&PRES=do .
+@Blank
+*T:	hacía .
+%mor:	v|hace-13S&PAS=do .
+*T:	hacías .
+%mor:	v|hace-2S&PAS=do .
+*T:	hacía .
+%mor:	v|hace-13S&PAS=do .
+*T:	hacíamos .
+%mor:	v|hace-1P&PAS=do .
+*T:	hacíais .
+%mor:	v|hace-2P&PAS=do .
+*T:	hacían .
+%mor:	v|hace-3P&PAS=do .
+@Blank
+*T:	hice .
+%mor:	v|hace-1S&PRET=do .
+*T:	hiciste .
+%mor:	v|hace-2S&PRET=do .
+*T:	hizo .
+%mor:	v|hace-3S&PRET=do .
+*T:	hicimos .
+%mor:	v|hace-1P&PRES&PRET=do .
+*T:	hicisteis .
+%mor:	v|hace-2P&PRET=do .
+*T:	hicieron .
+%mor:	v|hace-3P&PRET=do .
+@Blank
+*T:	haré .
+%mor:	v|hace-1S&FUT=do .
+*T:	harás .
+%mor:	v|hace-2S&FUT=do .
+*T:	hará .
+%mor:	v|hace-3S&FUT=do .
+*T:	haremos .
+%mor:	v|hace-1P&FUT=do .
+*T:	haréis .
+%mor:	v|hace-2P&FUT=do .
+*T:	harán .
+%mor:	v|hace-3P&FUT=do .
+@Blank
+*T:	haga .
+%mor:	v|hace-13S&SUB&PRES=do .
+*T:	hagas .
+%mor:	v|hace-2S&SUB&PRES=do .
+*T:	haga .
+%mor:	v|hace-13S&SUB&PRES=do .
+*T:	hagamos .
+%mor:	imp|hace-1P&IMP=do .
+*T:	hagáis .
+%mor:	v|hace-2P&SUB&PRES=do .
+*T:	hagan .
+%mor:	v|hace-3P&SUB&PRES=do .
+@Blank
+*T:	hiciera .
+%mor:	v|hace-13S&SUB&PAS=do .
+*T:	hicieras .
+%mor:	v|hace-2S&SUB&PAS=do .
+*T:	hiciera .
+%mor:	v|hace-13S&SUB&PAS=do .
+*T:	hiciéramos .
+%mor:	v|hace-1P&SUB&PAS=do .
+*T:	hicierais .
+%mor:	v|hace-2P&SUB&PAS=do .
+*T:	hicieran .
+%mor:	v|hace-3P&SUB&PAS=do .
+@Blank
+*T:	haciendo .
+%mor:	ger|hace-PROG=do .
+*T:	hecho .
+%mor:	v|hecha-1S&PRES=give .
+*T:	haz .
+%mor:	imp|hace-2S&IMP=do .
+*T:	haga .
+%mor:	v|hace-13S&SUB&PRES=do .
+*T:	haced .
+%mor:	imp|hace-2P&IMP=do .
+*T:	hagan .
+%mor:	v|hace-3P&SUB&PRES=do .
+@Blank
+@End

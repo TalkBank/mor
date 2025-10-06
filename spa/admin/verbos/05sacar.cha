@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	saco .
+%mor:	v|saca-1S&PRES=bring_out .
+*T:	sacas .
+%mor:	v|saca-2S&PRES=bring_out .
+*T:	saca .
+%mor:	imp|saca-2S&IMP=bring_out .
+*T:	sacamos .
+%mor:	v|saca-1P&PRES&PRET=bring_out .
+*T:	sacáis .
+%mor:	v|saca-2P&PRES=bring_out .
+*T:	sacan .
+%mor:	v|saca-3P&PRES=bring_out .
+@Blank
+*T:	sacaba .
+%mor:	v|saca-13S&PAS=bring_out .
+*T:	sacabas .
+%mor:	v|saca-2S&PAS=bring_out .
+*T:	sacaba .
+%mor:	v|saca-13S&PAS=bring_out .
+*T:	sacábamos .
+%mor:	v|saca-1P&PAS=bring_out .
+*T:	sacabais .
+%mor:	v|saca-2P&PAS=bring_out .
+*T:	sacaban .
+%mor:	v|saca-3P&PAS=bring_out .
+@Blank
+*T:	saqué .
+%mor:	v|saca-1S&PRET=bring_out .
+*T:	sacaste .
+%mor:	v|saca-2S&PRET=bring_out .
+*T:	sacó .
+%mor:	v|saca-3S&PRET=bring_out .
+*T:	sacamos .
+%mor:	v|saca-1P&PRES&PRET=bring_out .
+*T:	sacasteis .
+%mor:	v|saca-2P&PRET=bring_out .
+*T:	sacaron .
+%mor:	v|saca-3P&PRET=bring_out .
+@Blank
+*T:	sacaré .
+%mor:	v|saca-1S&FUT=bring_out .
+*T:	sacarás .
+%mor:	v|saca-2S&FUT=bring_out .
+*T:	sacará .
+%mor:	v|saca-3S&FUT=bring_out .
+*T:	sacaremos .
+%mor:	v|saca-1P&FUT=bring_out .
+*T:	sacaréis .
+%mor:	v|saca-2P&FUT=bring_out .
+*T:	sacarán .
+%mor:	v|saca-3P&FUT=bring_out .
+@Blank
+*T:	saque .
+%mor:	v|saca-13S&SUB&PRES=bring_out .
+*T:	saques .
+%mor:	v|saca-2S&SUB&PRES=bring_out .
+*T:	saque .
+%mor:	v|saca-13S&SUB&PRES=bring_out .
+*T:	saquemos .
+%mor:	imp|saca-1P&IMP=bring_out .
+*T:	saquéis .
+%mor:	v|saca-2P&SUB&PRES=bring_out .
+*T:	saquen .
+%mor:	v|saca-3P&SUB&PRES=bring_out .
+@Blank
+*T:	sacara .
+%mor:	v|saca-13S&SUB&PAS=bring_out .
+*T:	sacaras .
+%mor:	v|saca-2S&SUB&PAS=bring_out .
+*T:	sacara .
+%mor:	v|saca-13S&SUB&PAS=bring_out .
+*T:	sacáramos .
+%mor:	v|saca-1P&SUB&PAS=bring_out .
+*T:	sacarais .
+%mor:	v|saca-2P&SUB&PAS=bring_out .
+*T:	sacaran .
+%mor:	v|saca-3P&SUB&PAS=bring_out .
+@Blank
+*T:	sacando .
+%mor:	ger|saca-PROG=bring_out .
+*T:	sacado .
+%mor:	part|saca-PPART-MASC=bring_out .
+*T:	saca .
+%mor:	imp|saca-2S&IMP=bring_out .
+*T:	saque .
+%mor:	v|saca-13S&SUB&PRES=bring_out .
+*T:	sacad .
+%mor:	imp|saca-2P&IMP=bring_out .
+*T:	saquen .
+%mor:	v|saca-3P&SUB&PRES=bring_out .
+@End

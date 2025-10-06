@@ -1,0 +1,89 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	he .
+%mor:	v|habe-1S&PRES=have .
+*T:	has .
+%mor:	v|habe-2S&PRES=have .
+*T:	ha .
+%mor:	v|habe-3S&PRES=have .
+*T:	hemos .
+%mor:	v|habe-1P&PRES=have .
+*T:	habéis .
+%mor:	v|habe-2P&PRES=have .
+*T:	han .
+%mor:	v|habe-3P&PRES=have .
+@Blank
+*T:	había .
+%mor:	v|habe-13S&PAS=have .
+*T:	habías .
+%mor:	v|habe-2S&PAS=have .
+*T:	había .
+%mor:	v|habe-13S&PAS=have .
+*T:	habíamos .
+%mor:	v|habe-1P&PAS=have .
+*T:	habíais .
+%mor:	v|habe-2P&PAS=have .
+*T:	habían .
+%mor:	v|habe-3P&PAS=have .
+@Blank
+*T:	hube .
+%mor:	v|habe-1S&PRET=have .
+*T:	hubiste .
+%mor:	v|habe-2S&PRET=have .
+*T:	hubo .
+%mor:	v|habe-3S&PRET=have .
+*T:	hubimos .
+%mor:	v|habe-1P&PRES&PRET=have .
+*T:	hubisteis .
+%mor:	v|habe-2P&PRET=have .
+*T:	hubieron .
+%mor:	v|habe-3P&PRET=have .
+@Blank
+*T:	habré .
+%mor:	v|habe-1S&FUT=have .
+*T:	habrás .
+%mor:	v|habe-2S&FUT=have .
+*T:	habrá .
+%mor:	v|habe-3S&FUT=have .
+*T:	habremos .
+%mor:	v|habe-1P&FUT=have .
+*T:	habréis .
+%mor:	v|habe-2P&FUT=have .
+*T:	habrán .
+%mor:	v|habe-3P&FUT=have .
+@Blank
+*T:	haya .
+%mor:	v|habe-13S&SUB&PRES=have .
+*T:	hayas .
+%mor:	v|habe-2S&SUB&PRES=have .
+*T:	haya .
+%mor:	v|habe-13S&SUB&PRES=have .
+*T:	hayamos .
+%mor:	imp|habe-1P&IMP=have .
+*T:	hayáis .
+%mor:	v|habe-2P&SUB&PRES=have .
+*T:	hayan .
+%mor:	v|habe-3P&SUB&PRES=have .
+@Blank
+*T:	hubiera .
+%mor:	v|habe-13S&SUB&PAS=have .
+*T:	hubieras .
+%mor:	v|habe-2S&SUB&PAS=have .
+*T:	hubiera .
+%mor:	v|habe-13S&SUB&PAS=have .
+*T:	hubiéramos .
+%mor:	v|habe-1P&SUB&PAS=have .
+*T:	hubierais .
+%mor:	v|habe-2P&SUB&PAS=have .
+*T:	hubieran .
+%mor:	v|habe-3P&SUB&PAS=have .
+@Blank
+*T:	habiendo .
+%mor:	ger|habe-PROG=have .
+*T:	habido .
+%mor:	part|habe-PPART-MASC=have .
+@Blank
+@End

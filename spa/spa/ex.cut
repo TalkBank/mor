@@ -1,0 +1,42 @@
+@UTF8
+@Window:	0_1206_770_1024_-1_-1_805_0_805_0
+v|uni-1S&PRES=unite "uno"
+v|uni-13S&SUB&PRES=unite "una"
+imp|uni-3S&IMP=unite "una"
+v|sole-13S&SUB&PRES=accustom "sola"
+v|pari-3S&IMP~pro:clit|2S=give_birth "párate"
+v|i-2S&IMP=go "ve"
+v|pia-3P&IMP=chirp~pro:clit|3S "piense"
+v|agua-3S&PRES=water_down "agua"
+v|casa-3S&PRES=marry "casa"
+v|para-3S&PRES=stop "para"
+v|pari-1S&PRES=give_birth "paro"
+v|rega-2S&IMP=water "regala"
+v|come-1S&PRES=eat "como"
+v|vela-2S&PRES=mourn "velas"
+v|crea-1S&PRES=create "creo"
+v|venga-1S&PRES=avenge "vengo"
+v|venga-3S&PRES=avenge "venga"
+imp|venga-2S&IMP=avenge= "venga"
+imp|sole-3S&IMP=accustom "sola"
+imp|anima-2S&IMP~pro:clit|3P=encourage "animales"
+imp|da-3S&IMP=give "de"
+imp|mama-2S&IMP=suck "mamá"
+v|tarda-2S&SUB&PRES=delay "tardes"
+v|cose-2S&SUB&PRES=sew "cosas"
+
+n|col&m-PL=cabbage "coles"
+n|porro&m-AUG "porrazo"
+v|poda-1P&PRES&PRET=trim "podamos"
+
+
+
+
+
+
+
+
+
+
+
+

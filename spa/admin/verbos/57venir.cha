@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	vengo .
+%mor:	v|veni-1S&PRES=come .
+*T:	vienes .
+%mor:	v|veni-2S&PRES=come .
+*T:	viene .
+%mor:	v|veni-3S&PRES=come .
+*T:	venimos .
+%mor:	v|veni-1P&PRES&PRET=come .
+*T:	venís .
+%mor:	v|veni-2P&PRES=come .
+*T:	vienen .
+%mor:	v|veni-3P&PRES=come .
+@Blank
+*T:	venía .
+%mor:	v|veni-13S&PAS=come .
+*T:	venías .
+%mor:	v|veni-2S&PAS=come .
+*T:	venía .
+%mor:	v|veni-13S&PAS=come .
+*T:	veníamos .
+%mor:	v|veni-1P&PAS=come .
+*T:	veníais .
+%mor:	v|veni-2P&PAS=come .
+*T:	venían .
+%mor:	v|veni-3P&PAS=come .
+@Blank
+*T:	vine .
+%mor:	v|veni-1S&PRET=come .
+*T:	viniste .
+%mor:	v|veni-2S&PRET=come .
+*T:	vino .
+%mor:	v|veni-3S&PRET=come .
+*T:	vinimos .
+%mor:	v|veni-1P&PRES&PRET=come .
+*T:	vinisteis .
+%mor:	v|veni-2P&PRET=come .
+*T:	vinieron .
+%mor:	v|veni-3P&PRET=come .
+@Blank
+*T:	vendré .
+%mor:	v|veni-1S&FUT=come .
+*T:	vendrás .
+%mor:	v|veni-2S&FUT=come .
+*T:	vendrá .
+%mor:	v|veni-3S&FUT=come .
+*T:	vendremos .
+%mor:	v|veni-1P&FUT=come .
+*T:	vendréis .
+%mor:	v|veni-2P&FUT=come .
+*T:	vendrán .
+%mor:	v|veni-3P&FUT=come .
+@Blank
+*T:	venga .
+%mor:	co|venga=come_on .
+*T:	vengas .
+%mor:	v|venga-2S&PRES=avenge .
+*T:	venga .
+%mor:	co|venga=come_on .
+*T:	vengamos .
+%mor:	v|venga-1P&PRES&PRET=avenge .
+*T:	vengáis .
+%mor:	v|venga-2P&PRES=avenge .
+*T:	vengan .
+%mor:	v|venga-3P&PRES=avenge .
+@Blank
+*T:	viniera .
+%mor:	v|veni-13S&SUB&PAS=come .
+*T:	vinieras .
+%mor:	v|veni-2S&SUB&PAS=come .
+*T:	viniera .
+%mor:	v|veni-13S&SUB&PAS=come .
+*T:	viniéramos .
+%mor:	v|veni-1P&SUB&PAS=come .
+*T:	vinierais .
+%mor:	v|veni-2P&SUB&PAS=come .
+*T:	vinieran .
+%mor:	v|veni-3P&SUB&PAS=come .
+@Blank
+*T:	viniendo .
+%mor:	ger|veni-PROG=come .
+*T:	venido .
+%mor:	part|veni-PPART-MASC=come .
+*T:	vene .
+%mor:	imp|veni-2S&IMP=come .
+*T:	venga .
+%mor:	co|venga=come_on .
+*T:	venid .
+%mor:	imp|veni-2P&IMP=come .
+*T:	vengan .
+%mor:	v|venga-3P&PRES=avenge .
+@Blank
+@End

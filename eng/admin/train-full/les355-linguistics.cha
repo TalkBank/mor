@@ -1,0 +1,2990 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Instructor Participant
+@ID:	eng|MICASE-train|PAR|||||Participant|||
+*PAR:	alrightie ‡ what I want to do is continue with this discussion that
+	we've been trying to show between the interaction of history and
+	language change .
+%mor:	co|alrightie beg|beg pro:int|what pro:sub|I v|want inf|to v|do
+	cop|be&3S v|continue prep|with det:dem|this n|discussion
+	pro:rel|that pro:sub|we~aux|have aux|be&PASTP part|try-PRESP inf|to
+	v|show prep|between det:art|the inter#n|action prep|of n|history
+	coord|and n|language n|change .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|CPRED 10|9|JCT 11|12|DET 12|10|POBJ 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|17|AUX 17|12|CMOD 18|19|INF 19|17|COMP 20|19|JCT 21|22|DET 22|20|POBJ
+	23|22|NJCT 24|23|POBJ 25|24|CONJ 26|27|MOD 27|25|COORD 28|5|PUNCT
+%trn:	co|alrightie beg|beg pro:int|what pro:sub|I v|want inf|to v|do
+	cop|be&3S v|continue prep|with det:dem|this n|discussion
+	pro:rel|that pro:sub|we~aux|have aux|be&PASTP part|try-PRESP inf|to
+	v|show prep|between det:art|the inter#n|action prep|of n|history
+	coord|and n|language n|change .
+%grt:	1|0|BEG 2|1|BEGP 3|5|OBJ 4|5|SUBJ 5|8|CSUBJ 6|7|INF 7|5|COMP
+	8|0|ROOT 9|8|CPRED 10|9|JCT 11|12|DET 12|10|POBJ 13|17|LINK
+	14|17|SUBJ 15|17|AUX 16|17|AUX 17|12|CMOD 18|19|INF 19|17|COMP
+	20|19|JCT 21|22|DET 22|20|POBJ 23|22|NJCT 24|23|POBJ 25|24|CONJ
+	26|27|MOD 27|25|COORD 28|8|PUNCT
+*PAR:	and again as I state we're using the Romance languages as sort_of
+	our test case because we have an abundant documentation of the
+	situation both of the historical development of the Romance
+	languages , the historical background of real world events which
+	occurred from the start of the Roman Empire right up through the
+	fall of the Roman Empire , and the ultimate fate of the various
+	provinces of the Roman Empire .
+%mor:	coord|and adv:tem|again conj|as pro:sub|I v|state
+	pro:sub|we~aux|be&PRES part|use-PRESP det:art|the n:prop|Romance
+	n|language-PL prep|as adv|sort_of det:poss|our n|test n|case
+	conj|because pro:sub|we v|have det:art|a adj|abundant
+	n|document&dv-TION prep|of det:art|the n|situate&dv-TION post|both
+	prep|of det:art|the adj|historic-AL n|develop&dv-MENT prep|of
+	det:art|the n:prop|Romance n|language-PL cm|cm det:art|the
+	adj|historic-AL n|background prep|of adj|real n|world n|event-PL
+	pro:int|which v|occur-PAST prep|from det:art|the n|start prep|of
+	det:art|the n:prop|Roman n:prop|Empire adv|right adv|up prep|through
+	det:art|the n|fall prep|of det:art|the n:prop|Roman n:prop|Empire
+	cm|cm coord|and det:art|the adj|ultimate n|fate prep|of det:art|the
+	adj|various n|province-PL prep|of det:art|the n:prop|Roman
+	n:prop|Empire .
+%gra:	1|8|LINK 2|3|JCT 3|5|LINK 4|5|SUBJ 5|8|CJCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|8|JCT 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|19|LINK 18|19|SUBJ 19|12|CPOBJ 20|22|DET 21|22|MOD 22|19|OBJ
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|25|POSTMOD 27|26|NJCT 28|30|DET
+	29|30|MOD 30|27|POBJ 31|30|NJCT 32|34|DET 33|34|MOD 34|31|POBJ 35|30|LP
+	36|38|DET 37|38|MOD 38|30|APP 39|38|NJCT 40|42|MOD 41|42|MOD 42|39|POBJ
+	43|44|LINK 44|60|CSUBJ 45|44|JCT 46|47|DET 47|45|POBJ 48|47|NJCT 49|50|DET
+	50|48|POBJ 51|60|NAME 52|53|JCT 53|51|JCT 54|51|JCT 55|56|DET 56|54|POBJ
+	57|56|NJCT 58|59|DET 59|57|POBJ 60|38|APP 61|60|LP 62|38|CONJ 63|65|DET
+	64|65|MOD 65|62|COORD 66|65|NJCT 67|69|DET 68|69|MOD 69|66|POBJ 70|69|NJCT
+	71|72|DET 72|70|POBJ 73|65|APP 74|8|PUNCT
+%trn:	coord|and adv:tem|again conj|as pro:sub|I v|state
+	pro:sub|we~aux|be&PRES part|use-PRESP det:art|the n:prop|Romance
+	n|language-PL prep|as adv|sort_of det:poss|our n|test n|case
+	conj|because pro:sub|we v|have det:art|a adj|abundant
+	n|document&dv-TION prep|of det:art|the n|situate&dv-TION post|both
+	prep|of det:art|the adj|historic-AL n|develop&dv-MENT prep|of
+	det:art|the n:prop|Romance n|language-PL cm|cm det:art|the
+	adj|historic-AL n|background prep|of adj|real n|world n|event-PL
+	pro:int|which v|occur-PAST prep|from det:art|the n|start prep|of
+	det:art|the n:prop|Roman n:prop|Empire adv|right adv|up prep|through
+	det:art|the n|fall prep|of det:art|the n:prop|Roman n:prop|Empire
+	cm|cm coord|and det:art|the adj|ultimate n|fate prep|of det:art|the
+	adj|various n|province-PL prep|of det:art|the n:prop|Roman
+	n:prop|Empire .
+%grt:	1|8|LINK 2|8|JCT 3|5|LINK 4|5|SUBJ 5|8|CJCT 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|11|DET 10|11|MOD 11|8|OBJ 12|8|JCT 13|16|NJCT 14|16|DET
+	15|16|MOD 16|12|POBJ 17|19|LINK 18|19|SUBJ 19|8|CJCT 20|22|DET
+	21|22|MOD 22|19|OBJ 23|22|NJCT 24|25|DET 25|23|POBJ 26|25|PQ
+	27|25|NJCT 28|30|DET 29|30|MOD 30|27|POBJ 31|30|NJCT 32|34|DET
+	33|34|MOD 34|31|POBJ 35|30|LP 36|38|DET 37|38|MOD 38|30|ENUM
+	39|38|NJCT 40|41|MOD 41|42|MOD 42|39|POBJ 43|44|LINK 44|42|CMOD
+	45|44|JCT 46|47|DET 47|45|POBJ 48|47|JCT 49|51|DET 50|51|NAME
+	51|48|POBJ 52|53|JCT 53|44|JCT 54|44|JCT 55|56|DET 56|54|POBJ
+	57|56|JCT 58|60|DET 59|60|NAME 60|57|POBJ 61|38|LP 62|38|CONJ
+	63|65|DET 64|65|MOD 65|62|COORD 66|65|NJCT 67|69|DET 68|69|MOD
+	69|66|POBJ 70|69|NJCT 71|73|DET 72|73|NAME 73|70|POBJ 74|8|PUNCT
+*PAR:	and we also have an abundant corpus of linguistic documentation .
+%mor:	coord|and pro:sub|we adv|also v|have det:art|a adj|abundant
+	n|corpus prep|of adj|linguistic n|document&dv-TION .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|4|PUNCT
+%trn:	coord|and pro:sub|we adv|also v|have det:art|a adj|abundant
+	n|corpus prep|of adj|linguistic n|document&dv-TION .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|4|PUNCT
+*PAR:	so ‡ to a large extent the Romance languages present an ideal case
+	for studying the development of language against the background of
+	history , or conversely how history affects language .
+%mor:	co|so beg|beg prep|to det:art|a adj|large n|extent det:art|the
+	n:prop|Romance n|language-PL adv|present det:art|a adj|ideal n|case
+	prep|for n:gerund|study-PRESP det:art|the n|develop&dv-MENT prep|of
+	n|language prep|against det:art|the n|background prep|of n|history
+	cm|cm coord|or adv|converse&dadj-LY pro:int|how n|history
+	n|affect-PL n|language .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|DET 8|9|MOD
+	9|3|POBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|9|NJCT 15|14|POBJ
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|18|POBJ 20|15|JCT 21|22|DET 22|20|POBJ
+	23|22|NJCT 24|23|POBJ 25|15|LP 26|9|CONJ 27|31|JCT 28|31|MOD 29|31|MOD
+	30|31|MOD 31|26|COORD 32|3|PUNCT
+%trn:	co|so beg|beg prep|to det:art|a adj|large n|extent det:art|the
+	n:prop|Romance n|language-PL v|present det:art|a adj|ideal n|case
+	prep|for n:gerund|study-PRESP det:art|the n|develop&dv-MENT prep|of
+	n|language prep|against det:art|the n|background prep|of n|history
+	cm|cm coord|or adv|converse&dadj-LY pro:int|how n|history
+	v|affect-3S n|language .
+%grt:	1|0|BEG 2|1|BEGP 3|10|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|DET
+	8|9|MOD 9|10|SUBJ 10|0|ROOT 11|13|DET 12|13|MOD 13|10|POBJ
+	14|13|NJCT 15|14|POBJ 16|17|DET 17|15|OBJ 18|17|NJCT 19|18|POBJ
+	20|17|NJCT 21|22|DET 22|20|POBJ 23|22|NJCT 24|23|POBJ 25|17|LP
+	26|17|CONJ 27|30|JCT 28|30|LINK 29|30|SUBJ 30|26|COORD 31|30|OBJ
+	32|10|PUNCT
+*PAR:	one of the issues that I want to particularly concentrate on today
+	is the issue of the linguistic impact of language contact .
+%mor:	det:num|one prep|of det:art|the n|issue-PL pro:rel|that pro:sub|I
+	v|want inf|to adv|particular&dadj-LY v|concentrate prep|on
+	adv:tem|today cop|be&3S det:art|the n|issue prep|of det:art|the
+	adj|linguistic n|impact prep|of n|language n|contact .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|10|INF 9|10|JCT 10|7|COMP 11|10|JCT 12|13|SUBJ 13|11|POBJ 14|15|DET 15|10|OBJ
+	16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|NJCT 21|22|MOD
+	22|20|POBJ 23|1|PUNCT
+%trn:	det:num|one prep|of det:art|the n|issue-PL pro:rel|that pro:sub|I
+	v|want inf|to adv|particular&dadj-LY v|concentrate prep|on
+	adv:tem|today cop|be&3S det:art|the n|issue prep|of det:art|the
+	adj|linguistic n|impact prep|of n|language n|contact .
+%grt:	1|13|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|10|INF 9|10|JCT 10|7|COMP 11|10|JCT 12|10|JCT 13|0|ROOT 14|15|DET
+	15|13|PRED 16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|NJCT 21|22|MOD
+	22|20|POBJ 23|13|PUNCT
+*PAR:	one of the main historical themes that I've been stressing
+	throughout the last couple of classes has been that <in the history
+	of> [//] &th in the linguistic history of the Roman Empire we've had
+	movements of peoples .
+%mor:	det:num|one prep|of det:art|the adj|main adj|historic-AL n|theme-PL
+	pro:rel|that pro:sub|I~aux|have aux|be&PASTP part|stress-PRESP
+	prep|throughout det:art|the adj|last n|couple prep|of n|class-PL
+	aux|have&3S cop|be&PASTP pro:rel|that prep|in det:art|the
+	adj|linguistic n|history prep|of det:art|the n:prop|Roman
+	n:prop|Empire pro:sub|we~aux|have part|have&PASTP n|movement-PL
+	prep|of n|person&PL-PL .
+%gra:	1|19|SUBJ 2|1|NJCT 3|6|DET 4|6|MOD 5|6|MOD 6|2|POBJ 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|11|AUX 11|6|CMOD 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|15|NJCT 17|16|POBJ 18|19|AUX 19|0|ROOT 20|19|PRED 21|20|NJCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|21|POBJ
+	29|31|SUBJ 30|31|AUX 31|28|CMOD 32|31|OBJ 33|32|NJCT 34|33|POBJ 35|19|PUNCT
+%trn:	det:num|one prep|of det:art|the adj|main adj|historic-AL n|theme-PL
+	pro:rel|that pro:sub|I~aux|have aux|be&PASTP part|stress-PRESP
+	prep|throughout det:art|the adj|last n|couple prep|of n|class-PL
+	aux|have&3S cop|be&PASTP pro:rel|that prep|in det:art|the
+	adj|linguistic n|history prep|of det:art|the n:prop|Roman
+	n:prop|Empire pro:sub|we~aux|have part|have&PASTP n|movement-PL
+	prep|of n|person&PL-PL .
+%grt:	1|19|SUBJ 2|1|NJCT 3|6|DET 4|6|MOD 5|6|MOD 6|2|POBJ 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|11|AUX 11|6|CMOD 12|11|JCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|15|NJCT 17|16|POBJ 18|19|AUX 19|0|ROOT 20|31|LINK
+	21|31|JCT 22|24|DET 23|24|MOD 24|21|POBJ 25|24|NJCT 26|28|DET
+	27|28|NAME 28|25|POBJ 29|31|SUBJ 30|31|AUX 31|19|CPRED 32|31|OBJ
+	33|32|NJCT 34|33|POBJ 35|19|PUNCT
+*PAR:	we first of all have the expansion of the Romans .
+%mor:	pro:sub|we adv|first prep|of pro:indef|all v|have det:art|the
+	n|expansion prep|of det:art|the n:prop|Romans .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|JCT 4|5|SUBJ 5|3|POBJ 6|7|DET 7|3|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+%trn:	pro:sub|we adv|first prep|of pro:indef|all v|have det:art|the
+	n|expansion prep|of det:art|the n:prop|Romans .
+%grt:	1|5|SUBJ 2|5|JCT 3|2|JCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	as the Romans left Rome and over the course of several centuries
+	expanded their territorial domain to what was to become the Roman
+	Empire which at its height stretched from Ireland all the way in
+	through west [//] &bo well [//] most of central western and eastern
+	Europe and through the Mediterranean basin and beyond into Asia
+	Minor +...
+%mor:	conj|as det:art|the n:prop|Romans v|leave&PAST n:prop|Rome
+	coord|and prep|over det:art|the n|course prep|of qn|several
+	n|century-PL v|expand-PAST det:poss|their adj|territorial n|domain
+	prep|to pro:int|what cop|be&PAST&13S inf|to cop|become det:art|the
+	n:prop|Roman n:prop|Empire pro:rel|which prep|at det:poss|its
+	n|height v|stretch-PAST prep|from n:prop|Ireland qn|all det:art|the
+	n|way adv|in prep|through pro:indef|most prep|of adj|central
+	adj|western coord|and adj|eastern n:prop|Europe coord|and
+	prep|through det:art|the n:prop|Mediterranean n|basin coord|and
+	adv|beyond prep|into n:prop|Asia n:prop|Minor +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|13|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|6|COORD 14|16|DET 15|16|MOD
+	16|13|OBJ 17|13|JCT 18|19|SUBJ 19|17|CPOBJ 20|21|INF 21|19|COMP 22|23|DET
+	23|21|PRED 24|23|APP 25|29|LINK 26|29|JCT 27|28|DET 28|26|POBJ
+	29|24|CMOD 30|29|JCT 31|30|POBJ 32|34|QUANT 33|34|DET 34|29|JCT 35|34|NJCT
+	36|35|JCT 37|36|POBJ 38|37|NJCT 39|53|MOD 40|53|MOD 41|40|CONJ 42|43|MOD
+	43|41|COORD 44|40|CONJ 45|44|COORD 46|48|DET 47|48|MOD 48|45|POBJ 49|40|CONJ
+	50|49|COORD 51|40|JCT 52|51|POBJ 53|38|POBJ 54|4|PUNCT
+%trn:	conj|as det:art|the n:prop|Romans v|leave&PAST n:prop|Rome
+	coord|and prep|over det:art|the n|course prep|of qn|several
+	n|century-PL v|expand-PAST det:poss|their adj|territorial n|domain
+	prep|to pro:int|what aux|be&PAST&13S inf|to cop|become det:art|the
+	n:prop|Roman n:prop|Empire pro:rel|which prep|at det:poss|its
+	n|height v|stretch-PAST prep|from n:prop|Ireland qn|all det:art|the
+	n|way adv|in prep|through pro:indef|most prep|of adj|central
+	adj|western coord|and adj|eastern n:prop|Europe coord|and
+	prep|through det:art|the n:prop|Mediterranean n|basin coord|and
+	adv|beyond prep|into n:prop|Asia n:prop|Minor +...
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|13|JCT
+	8|9|DET 9|7|POBJ 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|6|COORD
+	14|16|DET 15|16|MOD 16|13|OBJ 17|13|JCT 18|21|SUBJ 19|21|AUX
+	20|21|INF 21|17|CPOBJ 22|24|DET 23|24|NAME 24|21|PRED 25|29|LINK
+	26|29|JCT 27|28|DET 28|26|POBJ 29|24|CMOD 30|29|JCT 31|30|POBJ
+	32|34|QUANT 33|34|DET 34|35|JCT 35|29|JCT 36|29|JCT 37|36|POBJ
+	38|37|NJCT 39|43|MOD 40|39|ENUM 41|40|CONJ 42|41|COORD 43|38|POBJ
+	44|36|CONJ 45|44|COORD 46|48|DET 47|48|MOD 48|45|POBJ 49|45|CONJ
+	50|49|COORD 51|50|JCT 52|53|NAME 53|51|POBJ 54|4|PUNCT
+*PAR:	other &pe movements of peoples that are also relevant <will be>
+	[//] we'll see a_little later when the Roman Empire falls apart .
+%mor:	qn|other n|movement-PL prep|of n|person&PL-PL pro:rel|that
+	cop|be&PRES adv|also adj|relevant pro:sub|we~mod|will v|see
+	adv|a_little adv|later conj|when det:art|the n:prop|Roman
+	n:prop|Empire n|fall-PL adv|apart .
+%gra:	1|2|QUANT 2|11|JCT 3|2|NJCT 4|3|POBJ 5|6|LINK 6|11|CJCT 7|8|JCT
+	8|6|PRED 9|11|SUBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|11|JCT 14|11|JCT 15|16|DET
+	16|14|POBJ 17|18|MOD 18|16|OBJ 19|18|JCT 20|11|PUNCT
+%trn:	qn|other n|movement-PL prep|of n|person&PL-PL pro:rel|that
+	cop|be&PRES adv|also adj|relevant pro:sub|we~mod|will v|see
+	adv|a_little adv|later conj|when det:art|the n:prop|Roman
+	n:prop|Empire v|fall-3S adv|apart .
+%grt:	1|2|QUANT 2|11|OBJ 3|2|NJCT 4|3|POBJ 5|6|LINK 6|4|CMOD 7|8|JCT
+	8|6|PRED 9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|JCT 13|11|JCT 14|18|LINK
+	15|17|DET 16|17|NAME 17|18|SUBJ 18|11|CJCT 19|18|JCT 20|11|PUNCT
+*PAR:	and when various outside groups , outside ethnic groups , invade or
+	enter +//.
+%mor:	coord|and conj|when adj|various adj|outside n|group-PL cm|cm
+	adj|outside n|ethnic n|group-PL cm|cm v|invade coord|or v|enter +//.
+%gra:	1|9|LINK 2|5|LINK 3|5|MOD 4|5|MOD 5|9|MOD 6|5|LP 7|9|MOD 8|9|MOD
+	9|0|ROOT 10|9|LP 11|9|ENUM 12|9|CONJ 13|12|COORD 14|9|PUNCT
+%trn:	coord|and conj|when adj|various adj|outside n|group-PL cm|cm
+	adj|outside n|ethnic n|group-PL cm|cm v|invade coord|or v|enter +//.
+%grt:	1|11|LINK 2|11|LINK 3|5|MOD 4|5|MOD 5|11|SUBJ 6|5|LP 7|9|MOD 8|9|MOD
+	9|5|APP 10|9|LP 11|0|ROOT 12|11|CONJ 13|12|COORD 14|11|PUNCT
+*PAR:	perhaps that would be the better word there .
+%mor:	adv|perhaps pro:dem|that mod|will&COND cop|be det:art|the
+	adj|good&CP n|word adv|there .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|4|PUNCT
+%trn:	adv|perhaps pro:dem|that mod|will&COND cop|be det:art|the
+	adj|good&CP n|word adv|there .
+%grt:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|4|PUNCT
+*PAR:	really wasn't an invasion in the strict organized military sense .
+%mor:	adv|real&dadj-LY cop|be&PAST&13S~neg|not det:art|a n|invasion
+	prep|in det:art|the adj|strict part|organize-PASTP adj|military
+	n|sense .
+%gra:	1|2|JCT 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|5|NJCT 7|11|DET 8|11|MOD
+	9|11|MOD 10|11|MOD 11|6|POBJ 12|2|PUNCT
+%trn:	adv|real&dadj-LY cop|be&PAST&13S~neg|not det:art|a n|invasion
+	prep|in det:art|the adj|strict part|organize-PASTP adj|military
+	n|sense .
+%grt:	1|2|JCT 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|5|NJCT 7|11|DET 8|11|MOD
+	9|10|XMOD 10|11|MOD 11|6|POBJ 12|2|PUNCT
+*PAR:	but when outside groups entered the Roman Empire this also led to
+	the movements of peoples who came into contact with the Romans .
+%mor:	conj|but conj|when adj|outside n|group-PL v|enter-PAST det:art|the
+	n:prop|Roman n:prop|Empire pro:dem|this adv|also v|lead&PAST prep|to
+	det:art|the n|movement-PL prep|of n|person&PL-PL pro:rel|who
+	v|come&PAST prep|into n|contact prep|with det:art|the n:prop|Romans
+	.
+%gra:	1|11|LINK 2|5|LINK 3|4|MOD 4|5|SUBJ 5|11|CJCT 6|7|DET 7|5|OBJ 8|7|APP
+	9|11|SUBJ 10|11|JCT 11|0|ROOT 12|11|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|18|LINK 18|16|CMOD 19|18|JCT 20|19|POBJ 21|18|JCT 22|23|DET
+	23|21|POBJ 24|11|PUNCT
+%trn:	conj|but conj|when adj|outside n|group-PL v|enter-PAST det:art|the
+	n:prop|Roman n:prop|Empire pro:dem|this adv|also v|lead&PAST prep|to
+	det:art|the n|movement-PL prep|of n|person&PL-PL pro:rel|who
+	v|come&PAST prep|into n|contact prep|with det:art|the n:prop|Romans
+	.
+%grt:	1|11|LINK 2|5|LINK 3|4|MOD 4|5|SUBJ 5|11|CJCT 6|8|DET 7|8|NAME
+	8|5|OBJ 9|11|SUBJ 10|11|JCT 11|0|ROOT 12|11|JCT 13|14|DET 14|12|POBJ
+	15|14|NJCT 16|15|POBJ 17|18|LINK 18|16|CMOD 19|18|JCT 20|19|POBJ
+	21|20|NJCT 22|23|DET 23|21|POBJ 24|11|PUNCT
+*PAR:	so ‡ in both cases <with these> [//] with the &j territorial
+	expansion of the Romans as they moved &i and expanded their empire
+	and then with the entry into the Roman Empire of other peoples , the
+	result of this is language contact .
+%mor:	co|so beg|beg prep|in qn|both n|case-PL prep|with det:art|the
+	adj|territorial n|expansion prep|of det:art|the n:prop|Romans
+	conj|as pro:sub|they v|move-PAST coord|and v|expand-PAST
+	det:poss|their n|empire coord|and adv:tem|then prep|with det:art|the
+	n|entry prep|into det:art|the n:prop|Roman n:prop|Empire prep|of
+	qn|other n|person&PL-PL cm|cm det:art|the n|result prep|of
+	pro:dem|this cop|be&3S n|language n|contact .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|QUANT 5|3|POBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|15|CONJ 17|16|COORD 18|19|DET 19|17|OBJ 20|17|CONJ 21|20|COORD
+	22|21|JCT 23|24|DET 24|22|POBJ 25|21|JCT 26|27|DET 27|25|POBJ 28|27|APP
+	29|28|NJCT 30|31|QUANT 31|29|POBJ 32|28|LP 33|34|DET 34|25|POBJ 35|34|NJCT
+	36|37|SUBJ 37|35|POBJ 38|39|MOD 39|37|PRED 40|3|PUNCT
+%trn:	co|so beg|beg prep|in qn|both n|case-PL prep|with det:art|the
+	adj|territorial n|expansion prep|of det:art|the n:prop|Romans
+	conj|as pro:sub|they v|move-PAST coord|and v|expand-PAST
+	det:poss|their n|empire coord|and adv:tem|then prep|with det:art|the
+	n|entry prep|into det:art|the n:prop|Roman n:prop|Empire prep|of
+	qn|other n|person&PL-PL cm|cm det:art|the n|result prep|of
+	pro:dem|this cop|be&3S n|language n|contact .
+%grt:	1|0|BEG 2|1|BEGP 3|37|JCT 4|5|QUANT 5|3|POBJ 6|5|NJCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|LINK
+	14|15|SUBJ 15|9|CMOD 16|15|CONJ 17|16|COORD 18|19|DET 19|17|OBJ
+	20|6|CONJ 21|22|JCT 22|20|COORD 23|24|DET 24|22|POBJ 25|24|NJCT
+	26|28|DET 27|28|NAME 28|25|POBJ 29|24|NJCT 30|31|QUANT 31|29|POBJ
+	32|22|LP 33|34|DET 34|37|SUBJ 35|34|NJCT 36|35|POBJ 37|0|ROOT
+	38|39|MOD 39|37|PRED 40|37|PUNCT
+*PAR:	in other words Latin comes into contact &=writes:board first with
+	what we conveniently call the pre Roman languages , in other words
+	<the Romance> [//] &th the [/] &R the various languages which were
+	spoken in the territories which became part of the Roman Empire .
+%mor:	prep|in qn|other n|word-PL n:prop|Latin v|come-3S prep|into
+	n|contact adv|first prep|with pro:int|what pro:sub|we
+	adv|convenient&dadj-LY v|call det:art|the adj|pre n:prop|Roman
+	n|language-PL cm|cm prep|in qn|other n|word-PL det:art|the
+	adj|various n|language-PL pro:rel|which aux|be&PAST part|speak&PASTP
+	prep|in det:art|the n|territory-PL pro:rel|which cop|become&PAST
+	n|part prep|of det:art|the n:prop|Roman n:prop|Empire .
+%gra:	1|5|JCT 2|3|QUANT 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|8|JCT 10|13|LINK 11|13|SUBJ 12|13|JCT 13|9|CPOBJ 14|17|DET 15|17|MOD
+	16|17|MOD 17|13|OBJ 18|17|LP 19|17|NJCT 20|21|QUANT 21|19|POBJ 22|24|DET
+	23|24|MOD 24|19|POBJ 25|27|LINK 26|27|AUX 27|24|CMOD 28|27|JCT 29|30|DET
+	30|28|POBJ 31|32|LINK 32|30|CMOD 33|32|PRED 34|33|NJCT 35|36|DET
+	36|34|POBJ 37|32|PRED 38|5|PUNCT
+%trn:	prep|in qn|other n|word-PL n:prop|Latin v|come-3S prep|into
+	n|contact adv|first prep|with pro:int|what pro:sub|we
+	adv|convenient&dadj-LY v|call det:art|the adj|pre n:prop|Roman
+	n|language-PL cm|cm prep|in qn|other n|word-PL det:art|the
+	adj|various n|language-PL pro:rel|which aux|be&PAST part|speak&PASTP
+	prep|in det:art|the n|territory-PL pro:rel|which cop|become&PAST
+	n|part prep|of det:art|the n:prop|Roman n:prop|Empire .
+%grt:	1|5|JCT 2|3|QUANT 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|JCT 9|5|JCT 10|13|LINK 11|13|SUBJ 12|13|JCT 13|9|CPOBJ
+	14|17|DET 15|16|MOD 16|17|MOD 17|13|OBJ 18|17|LP 19|24|NJCT
+	20|21|QUANT 21|19|POBJ 22|24|DET 23|24|MOD 24|17|APP 25|27|LINK
+	26|27|AUX 27|24|CMOD 28|27|JCT 29|30|DET 30|28|POBJ 31|32|LINK
+	32|30|CMOD 33|32|PRED 34|33|NJCT 35|37|DET 36|37|NAME 37|34|POBJ
+	38|5|PUNCT
+*PAR:	as I've mentioned to you in most cases most of these pre Roman
+	languages actually ended up falling into disuse .
+%mor:	conj|as pro:sub|I~aux|have part|mention-PASTP prep|to pro:per|you
+	prep|in qn|most n|case-PL pro:indef|most prep|of det:dem|these
+	adj|pre n:prop|Roman n|language-PL adv|actual&dadj-LY v|end-PAST
+	adv|up part|fall-PRESP prep|into dis#n|use .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|QUANT
+	9|7|POBJ 10|9|OBJ 11|10|NJCT 12|15|DET 13|15|MOD 14|15|MOD 15|11|POBJ
+	16|17|JCT 17|4|CJCT 18|17|JCT 19|17|XJCT 20|19|JCT 21|20|POBJ 22|4|PUNCT
+%trn:	prep|as pro:sub|I~aux|have part|mention-PASTP prep|to pro:per|you
+	prep|in qn|most n|case-PL pro:indef|most prep|of det:dem|these
+	adj|pre n:prop|Roman n|language-PL adv|actual&dadj-LY v|end-PAST
+	adv|up part|fall-PRESP prep|into dis#n|use .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|17|CJCT 5|4|JCT 6|5|POBJ 7|17|JCT
+	8|9|QUANT 9|7|POBJ 10|17|SUBJ 11|10|NJCT 12|15|DET 13|14|MOD
+	14|15|MOD 15|11|POBJ 16|17|JCT 17|0|ROOT 18|17|JCT 19|17|XJCT
+	20|19|JCT 21|20|POBJ 22|17|PUNCT
+*PAR:	speakers gave them up in favor of Latin as they saw that Latin <was
+	a language of great> [//] &ev was a vehicle of a more prestigious
+	culture .
+%mor:	n|speak&dv-AGT-PL v|give&PAST pro:obj|them adv|up prep|in n|favor
+	prep|of n:prop|Latin conj|as pro:sub|they v|see&PAST comp|that
+	n:prop|Latin cop|be&PAST&13S det:art|a n|vehicle prep|of det:art|a
+	adv|more adj|prestigious n|culture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|11|LINK 10|11|SUBJ 11|2|CJCT 12|14|LINK 13|14|SUBJ 14|11|COMP 15|16|DET
+	16|14|PRED 17|16|NJCT 18|21|DET 19|20|JCT 20|21|MOD 21|17|POBJ
+	22|2|PUNCT
+%trn:	n|speak&dv-AGT-PL v|give&PAST pro:obj|them adv|up prep|in n|favor
+	prep|of n:prop|Latin conj|as pro:sub|they v|see&PAST comp|that
+	n:prop|Latin cop|be&PAST&13S det:art|a n|vehicle prep|of det:art|a
+	adv|more adj|prestigious n|culture .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|11|LINK 10|11|SUBJ 11|2|CJCT 12|14|LINK 13|14|SUBJ 14|11|COMP 15|16|DET
+	16|14|PRED 17|16|NJCT 18|21|DET 19|20|JCT 20|21|MOD 21|17|POBJ
+	22|2|PUNCT
+*PAR:	and also it was the linguistic vehicle which you had no choice but
+	to use if you wanted to advance in society .
+%mor:	coord|and adv|also pro:per|it cop|be&PAST&13S det:art|the
+	adj|linguistic n|vehicle pro:rel|which pro:per|you v|have&PAST qn|no
+	n|choice conj|but inf|to v|use conj|if pro:per|you v|want-PAST
+	inf|to v|advance prep|in n|society .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|QUANT 12|10|OBJ 13|4|CONJ 14|15|INF 15|13|COORD
+	16|18|LINK 17|18|SUBJ 18|15|COMP 19|20|INF 20|18|COMP 21|20|JCT
+	22|21|POBJ 23|4|PUNCT
+%trn:	coord|and adv|also pro:per|it cop|be&PAST&13S det:art|the
+	adj|linguistic n|vehicle pro:rel|which pro:per|you v|have&PAST qn|no
+	n|choice conj|but inf|to v|use conj|if pro:per|you v|want-PAST
+	inf|to v|advance prep|in n|society .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|QUANT 12|10|OBJ 13|15|LINK 14|15|INF
+	15|12|XMOD 16|18|LINK 17|18|SUBJ 18|10|CJCT 19|20|INF 20|18|COMP
+	21|20|JCT 22|21|POBJ 23|4|PUNCT
+*PAR:	now there's very little doubt from the linguistic point of view
+	+//.
+%mor:	adv:tem|now pro:exist|there~cop|be&3S adv|very adj|little n|doubt
+	prep|from det:art|the adj|linguistic n|point prep|of n|view +//.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|MOD 6|3|PRED 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|NJCT 12|11|POBJ 13|3|PUNCT
+%trn:	adv:tem|now pro:exist|there~cop|be&3S adv|very adj|little n|doubt
+	prep|from det:art|the adj|linguistic n|point prep|of n|view +//.
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|MOD 6|3|PRED 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|NJCT 12|11|POBJ 13|3|PUNCT
+*PAR:	there's very little doubt in the minds of most specialists that
+	when languages come into contact there is a transfer of material
+	between the languages .
+%mor:	pro:exist|there~cop|be&3S adv|very adj|little n|doubt prep|in
+	det:art|the n|mind-PL prep|of qn|most n|special-IST-PL pro:rel|that
+	conj|when n|language-PL v|come prep|into n|contact adv|there
+	cop|be&3S det:art|a n|transfer prep|of n|material prep|between
+	det:art|the n|language-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|MOD 5|2|PRED 6|2|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|QUANT 11|9|POBJ 12|15|LINK 13|15|LINK 14|15|SUBJ 15|11|CMOD
+	16|15|JCT 17|16|POBJ 18|2|JCT 19|2|CJCT 20|21|DET 21|19|PRED 22|21|NJCT
+	23|22|POBJ 24|21|NJCT 25|26|DET 26|24|POBJ 27|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S adv|very adj|little n|doubt prep|in
+	det:art|the n|mind-PL prep|of qn|most n|special-IST-PL pro:rel|that
+	conj|when n|language-PL v|come prep|into n|contact pro:exist|there
+	cop|be&3S det:art|a n|transfer prep|of n|material prep|between
+	det:art|the n|language-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|QUANT 11|9|POBJ 12|19|LINK 13|15|LINK 14|15|SUBJ
+	15|19|CJCT 16|15|JCT 17|16|POBJ 18|19|SUBJ 19|5|CMOD 20|21|DET
+	21|19|PRED 22|21|NJCT 23|22|POBJ 24|21|NJCT 25|26|DET 26|24|POBJ
+	27|2|PUNCT
+*PAR:	the degree and intensity of this will often depend on the
+	relationships between the languages , whether they're languages that
+	enjoy an equal degree of prestige or whether one language enjoys
+	more prestige over the other .
+%mor:	det:art|the n|degree coord|and n|intensity prep|of pro:dem|this
+	mod|will adv|often v|depend prep|on det:art|the
+	n|relate&dv-TION-SHIP-PL prep|between det:art|the n|language-PL
+	cm|cm conj|whether pro:sub|they~cop|be&PRES n|language-PL
+	pro:rel|that v|enjoy det:art|a n|equal n|degree prep|of n|prestige
+	coord|or conj|whether det:num|one n|language v|enjoy-3S qn|more
+	n|prestige prep|over det:art|the qn|other .
+%gra:	1|2|DET 2|9|SUBJ 3|2|CONJ 4|3|COORD 5|4|NJCT 6|5|POBJ 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|15|DET 15|13|POBJ
+	16|9|LP 17|19|LINK 18|19|SUBJ 19|9|CJCT 20|19|PRED 21|22|LINK 22|20|CMOD
+	23|25|DET 24|25|MOD 25|22|OBJ 26|25|NJCT 27|26|POBJ 28|25|CONJ 29|32|LINK
+	30|31|QUANT 31|32|SUBJ 32|28|COORD 33|34|QUANT 34|32|OBJ 35|32|JCT
+	36|37|DET 37|35|POBJ 38|9|PUNCT
+%trn:	det:art|the n|degree coord|and n|intensity prep|of pro:dem|this
+	mod|will adv|often v|depend prep|on det:art|the
+	n|relate&dv-TION-SHIP-PL prep|between det:art|the n|language-PL
+	cm|cm conj|whether pro:sub|they~cop|be&PRES n|language-PL
+	pro:rel|that v|enjoy det:art|a n|equal n|degree prep|of n|prestige
+	coord|or conj|whether det:num|one n|language v|enjoy-3S qn|more
+	n|prestige prep|over det:art|the qn|other .
+%grt:	1|2|DET 2|9|SUBJ 3|2|CONJ 4|3|COORD 5|2|NJCT 6|5|POBJ 7|9|AUX
+	8|9|JCT 9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|9|LP 17|19|LINK 18|19|SUBJ 19|9|CJCT 20|19|PRED
+	21|22|LINK 22|20|CMOD 23|25|DET 24|25|MOD 25|22|OBJ 26|25|NJCT
+	27|26|POBJ 28|19|CONJ 29|32|LINK 30|31|QUANT 31|32|SUBJ 32|28|COORD
+	33|34|QUANT 34|32|OBJ 35|34|NJCT 36|37|DET 37|35|POBJ 38|9|PUNCT
+*PAR:	the least controversial aspects of this as I've already mentioned
+	to you +//.
+%mor:	det:art|the adj|least adj|controversial n|aspect-PL prep|of
+	pro:dem|this conj|as pro:sub|I~aux|have adv|already
+	part|mention-PASTP prep|to pro:per|you +//.
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|11|JCT 11|4|XMOD 12|11|JCT 13|12|POBJ 14|4|PUNCT
+%trn:	det:art|the adj|least adj|controversial n|aspect-PL prep|of
+	pro:dem|this conj|as pro:sub|I~aux|have adv|already
+	part|mention-PASTP prep|to pro:per|you +//.
+%grt:	1|4|DET 2|3|MOD 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|11|JCT
+	8|11|SUBJ 9|11|AUX 10|11|JCT 11|4|CMOD 12|11|JCT 13|12|POBJ
+	14|4|PUNCT
+*PAR:	and I'm not going to load you up with examples .
+%mor:	coord|and pro:sub|I~aux|be&1S neg|not part|go-PRESP inf|to v|load
+	pro:per|you adv|up prep|with n|example-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|7|JCT 11|10|POBJ 12|5|PUNCT
+%trn:	coord|and pro:sub|I~aux|be&1S neg|not part|go-PRESP inf|to v|load
+	pro:per|you adv|up prep|with n|example-PL .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP
+	8|7|OBJ 9|7|JCT 10|7|JCT 11|10|POBJ 12|5|PUNCT
+*PAR:	one thing to keep in mind as we go along even when we get into some
+	of the technical things we're gonna talk about today .
+%mor:	det:num|one n|thing inf|to v|keep prep|in n|mind conj|as pro:sub|we
+	v|go adv|along adv|even conj|when pro:sub|we v|get prep|into qn|some
+	prep|of det:art|the adj|technic-AL n|thing-PL pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|talk prep|about adv:tem|today .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|INF 4|0|ROOT 5|4|JCT 6|5|POBJ 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|9|JCT 11|9|JCT 12|14|LINK 13|14|SUBJ 14|9|CJCT 15|14|JCT
+	16|15|POBJ 17|16|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|23|SUBJ 22|23|AUX
+	23|20|CMOD 24|25|INF 25|23|COMP 26|25|JCT 27|26|POBJ 28|4|PUNCT
+%trn:	det:num|one n|thing inf|to v|keep prep|in n|mind conj|as pro:sub|we
+	v|go adv|along adv|even conj|when pro:sub|we v|get prep|into
+	pro:indef|some prep|of det:art|the adj|technic-AL n|thing-PL
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|talk prep|about
+	adv:tem|today .
+%grt:	1|2|QUANT 2|0|INCROOT 3|4|INF 4|2|XMOD 5|4|JCT 6|5|POBJ 7|9|LINK
+	8|9|SUBJ 9|4|CJCT 10|9|JCT 11|12|JCT 12|14|LINK 13|14|SUBJ
+	14|4|CJCT 15|14|JCT 16|15|POBJ 17|16|NJCT 18|20|DET 19|20|MOD
+	20|17|POBJ 21|23|SUBJ 22|23|AUX 23|20|CMOD 24|25|INF 25|23|COMP
+	26|25|JCT 27|23|JCT 28|2|PUNCT
+*PAR:	I really want to get across to you the big picture , the more
+	general issues .
+%mor:	pro:sub|I adv|real&dadj-LY v|want inf|to v|get adv|across prep|to
+	pro:per|you det:art|the adj|big n|picture cm|cm det:art|the adv|more
+	adj|general n|issue-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|5|PRED 12|11|LP 13|16|DET 14|15|JCT 15|16|MOD
+	16|11|APP 17|3|PUNCT
+%trn:	pro:sub|I adv|real&dadj-LY v|want inf|to v|get adv|across prep|to
+	pro:per|you det:art|the adj|big n|picture cm|cm det:art|the adv|more
+	adj|general n|issue-PL .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|5|OBJ 12|11|LP 13|16|DET 14|15|JCT 15|16|MOD
+	16|11|APP 17|3|PUNCT
+*PAR:	don't worry about the nitty+gritty of the actual linguistic details
+	that I'm going to present .
+%mor:	mod|do~neg|not v|worry prep|about det:art|the
+	on|+on|nitty+on|gritty prep|of det:art|the adj|actual adj|linguistic
+	n|detail-PL pro:rel|that pro:sub|I~aux|be&1S part|go-PRESP inf|to
+	v|present .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|CMOD
+	16|17|INF 17|15|COMP 18|3|PUNCT
+%trn:	mod|do~neg|not v|worry prep|about det:art|the
+	on|+on|nitty+on|gritty prep|of det:art|the adj|actual adj|linguistic
+	n|detail-PL pro:rel|that pro:sub|I~aux|be&1S part|go-PRESP inf|to
+	v|present .
+%grt:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|CMOD
+	16|17|INF 17|15|COMP 18|3|PUNCT
+*PAR:	obviously you hafta be presented with linguistic facts .
+%mor:	adv|obvious&dadj-LY pro:per|you mod|have~inf|to aux|be
+	part|present-PASTP prep|with adj|linguistic n|fact-PL .
+%gra:	1|6|JCT 2|6|SUBJ 3|6|AUX 4|6|INF 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|6|PUNCT
+%trn:	adv|obvious&dadj-LY pro:per|you mod|have~inf|to aux|be
+	part|present-PASTP prep|with adj|linguistic n|fact-PL .
+%grt:	1|6|JCT 2|6|SUBJ 3|6|AUX 4|6|INF 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|6|PUNCT
+*PAR:	but I'm more interested in you getting just the broad picture , the
+	general principles that [/] that are issued here .
+%mor:	conj|but pro:sub|I~aux|be&1S adv|more part|interest-PASTP prep|in
+	pro:per|you part|get-PRESP adv|just det:art|the adj|broad n|picture
+	cm|cm det:art|the adj|general n|principle-PL pro:rel|that
+	aux|be&PRES part|issue-PASTP adv|here .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|XJCT
+	9|12|JCT 10|12|DET 11|12|MOD 12|8|COMP 13|12|LP 14|16|DET 15|16|MOD
+	16|12|APP 17|19|LINK 18|19|AUX 19|16|CMOD 20|19|JCT 21|5|PUNCT
+%trn:	conj|but pro:sub|I~aux|be&1S adv|more part|interest-PASTP prep|in
+	pro:per|you part|get-PRESP adv|just det:art|the adj|broad
+	n|picture cm|cm det:art|the n|general n|principle-PL pro:rel|that
+	aux|be&PRES part|issue-PASTP adv|here .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|SUBJ 8|6|CPOBJ
+	9|12|NJCT 10|12|DET 11|12|MOD 12|8|OBJ 13|12|LP 14|16|DET 15|16|MOD
+	16|12|APP 17|19|LINK 18|19|AUX 19|16|CMOD 20|19|JCT 21|5|PUNCT
+*PAR:	so ‡ most scholars will agree that &le there will be lexical
+	borrowing , that when languages come into contact with each_other
+	the languages will transmit vocabulary especially to fill gaps in
+	the existing vocabulary .
+%mor:	co|so beg|beg qn|most n|scholar-PL mod|will v|agree comp|that
+	pro:exist|there mod|will cop|be adj|lexical n:gerund|borrow-PRESP
+	cm|cm pro:rel|that conj|when n|language-PL v|come prep|into
+	n|contact prep|with pro:refl|each_other det:art|the n|language-PL
+	mod|will v|transmit n|vocabulary adv|especial&dadj-LY inf|to v|fill
+	n|gap-PL prep|in det:art|the part|exist-PRESP n|vocabulary .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COMP 11|12|MOD 12|10|PRED 13|6|LP 14|25|LINK 15|17|LINK
+	16|17|SUBJ 17|25|CJCT 18|17|JCT 19|18|POBJ 20|17|JCT 21|20|POBJ
+	22|23|DET 23|25|SUBJ 24|25|AUX 25|6|COMP 26|25|OBJ 27|25|JCT 28|29|INF
+	29|25|XJCT 30|29|OBJ 31|29|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|6|PUNCT
+%trn:	co|so beg|beg qn|most n|scholar-PL mod|will v|agree comp|that
+	pro:exist|there mod|will cop|be adj|lexical n:gerund|borrow-PRESP
+	cm|cm comp|that conj|when n|language-PL v|come prep|into
+	n|contact prep|with pro:refl|each_other det:art|the n|language-PL
+	mod|will v|transmit n|vocabulary adv|especial&dadj-LY inf|to v|fill
+	n|gap-PL prep|in det:art|the part|exist-PRESP n|vocabulary .
+%grt:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COMP 11|12|MOD 12|10|PRED 13|10|LP
+	14|25|LINK 15|17|LINK 16|17|SUBJ 17|25|CJCT 18|17|JCT 19|18|POBJ
+	20|19|NJCT 21|20|POBJ 22|23|DET 23|25|SUBJ 24|25|AUX 25|10|CJCT
+	26|25|OBJ 27|29|JCT 28|29|INF 29|25|XJCT 30|29|OBJ 31|30|NJCT
+	32|34|DET 33|34|XMOD 34|31|POBJ 35|6|PUNCT
+*PAR:	<what is> [//] and the [/] &ro the Romance languages are full of
+	examples of words <that both> [//] &sch that scholars will attribute
+	let's say to the pre Roman languages .
+%mor:	coord|and det:art|the n:prop|Romance n|language-PL cop|be&PRES
+	adj|full prep|of n|example-PL prep|of n|word-PL pro:rel|that
+	n|scholar-PL mod|will v|attribute v|let~pro:obj|us v|say prep|to
+	det:art|the adj|pre n:prop|Roman n|language-PL .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|14|COMP
+	16|15|OBJ 17|15|COMP 18|17|JCT 19|22|DET 20|22|MOD 21|22|MOD 22|18|POBJ
+	23|5|PUNCT
+%trn:	coord|and det:art|the n:prop|Romance n|language-PL cop|be&PRES
+	adj|full prep|of n|example-PL prep|of n|word-PL pro:rel|that
+	n|scholar-PL mod|will v|attribute v|let~pro:obj|us v|say prep|to
+	det:art|the adj|pre n:prop|Roman n|language-PL .
+%grt:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD
+	15|14|XJCT 16|15|OBJ 17|15|COMP 18|14|JCT 19|22|DET 20|21|MOD
+	21|22|MOD 22|18|POBJ 23|5|PUNCT
+*PAR:	if you read any of the standard histories of let's say the French
+	language there'll usually be a list of words in French that are
+	believed to be of Celtic origin .
+%mor:	conj|if pro:per|you v|read&ZERO pro:indef|any prep|of det:art|the
+	adj|standard n|history-PL prep|of v|let~pro:obj|us v|say det:art|the
+	n:prop|French n|language pro:exist|there~mod|will adv|usual&dadj-LY
+	cop|be det:art|a n|list prep|of n|word-PL prep|in n:prop|French
+	pro:rel|that aux|be&PRES part|believe-PASTP inf|to cop|be prep|of
+	n:prop|Celtic n|origin .
+%gra:	1|3|LINK 2|3|SUBJ 3|12|CJCT 4|3|OBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|12|SUBJ 12|0|ROOT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|15|CMOD 20|21|DET 21|19|PRED 22|21|NJCT
+	23|22|POBJ 24|23|NJCT 25|24|POBJ 26|28|LINK 27|28|AUX 28|25|CMOD
+	29|30|INF 30|28|COMP 31|30|JCT 32|33|MOD 33|31|POBJ 34|12|PUNCT
+%trn:	conj|if pro:per|you v|read&ZERO pro:indef|any prep|of det:art|the
+	n|standard n|history-PL prep|of v|let~pro:obj|us v|say det:art|the
+	n:prop|French n|language pro:exist|there~mod|will adv|usual&dadj-LY
+	cop|be det:art|a n|list prep|of n|word-PL prep|in n:prop|French
+	pro:rel|that aux|be&PRES part|believe-PASTP inf|to cop|be prep|of
+	n:prop|Celtic n|origin .
+%grt:	1|3|LINK 2|3|SUBJ 3|19|CJCT 4|3|OBJ 5|4|NJCT 6|8|DET 7|8|MOD
+	8|5|POBJ 9|8|NJCT 10|15|XMOD 11|10|OBJ 12|10|COMP 13|15|DET
+	14|15|MOD 15|9|POBJ 16|19|SUBJ 17|19|AUX 18|19|JCT 19|0|ROOT
+	20|21|DET 21|19|PRED 22|21|NJCT 23|22|POBJ 24|23|NJCT 25|24|POBJ
+	26|28|LINK 27|28|AUX 28|23|CMOD 29|30|INF 30|28|COMP 31|30|JCT
+	32|33|MOD 33|31|POBJ 34|19|PUNCT
+*PAR:	that they're <words that> [//] words that entered the local
+	varieties of Latin spoken in Gaul due_to a linguistic contact with
+	the Celts .
+%mor:	comp|that pro:sub|they~cop|be&PRES n|word-PL pro:rel|that
+	v|enter-PAST det:art|the adj|local n|variety-PL prep|of n:prop|Latin
+	part|speak&PASTP prep|in n:prop|Gaul prep|due_to det:art|a
+	adj|linguistic n|contact prep|with det:art|the n:prop|Celts .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|LINK 6|4|CMOD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|10|POBJ 12|6|XJCT 13|12|JCT 14|13|POBJ 15|12|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|3|PUNCT
+%trn:	comp|that pro:sub|they~cop|be&PRES n|word-PL pro:rel|that
+	v|enter-PAST det:art|the n|local n|variety-PL prep|of n:prop|Latin
+	part|speak&PASTP prep|in n:prop|Gaul prep|due_to det:art|a
+	adj|linguistic n|contact prep|with det:art|the n:prop|Celts .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|LINK 6|4|CMOD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|10|POBJ 12|9|XMOD 13|12|JCT 14|13|POBJ 15|6|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ
+	22|3|PUNCT
+*PAR:	if you read any of the standard histories of Spanish you'll find
+	lists of examples of words that are allegedly of pre Roman origin
+	that came into the spoken Latin of the Iberian Peninsula <from the>
+	[/] from the various languages spoken in the Iberian Peninsula at
+	the time that the Romans arrived .
+%mor:	conj|if pro:per|you v|read&ZERO pro:indef|any prep|of det:art|the
+	adj|standard n|history-PL prep|of n:prop|Spanish
+	pro:per|you~mod|will v|find n|list-PL prep|of n|example-PL prep|of
+	n|word-PL pro:rel|that cop|be&PRES adv|allege&dadj-PASTP-LY prep|of
+	adj|pre n:prop|Roman n|origin pro:rel|that v|come&PAST prep|into
+	det:art|the part|speak&PASTP n:prop|Latin prep|of det:art|the
+	n:prop|Iberian n:prop|Peninsula prep|from det:art|the adj|various
+	n|language-PL part|speak&PASTP prep|in det:art|the n:prop|Iberian
+	n:prop|Peninsula prep|at det:art|the n|time pro:rel|that det:art|the
+	n:prop|Romans v|arrive-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|OBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|OBJ 15|14|NJCT
+	16|15|POBJ 17|16|NJCT 18|17|POBJ 19|20|LINK 20|18|CMOD 21|20|JCT
+	22|21|INCROOT 23|25|MOD 24|25|MOD 25|22|POBJ 26|27|LINK 27|22|ROOT 28|27|JCT
+	29|30|DET 30|28|POBJ 31|30|OBJ 32|31|NJCT 33|34|DET 34|32|POBJ 35|30|OBJ
+	36|35|NJCT 37|39|DET 38|39|MOD 39|36|POBJ 40|35|XJCT 41|40|JCT 42|43|DET
+	43|41|POBJ 44|40|XJCT 45|44|NJCT 46|47|DET 47|45|POBJ 48|51|LINK 49|50|DET
+	50|51|SUBJ 51|47|CMOD 52|27|PUNCT
+%trn:	conj|if pro:per|you v|read&ZERO pro:indef|any prep|of det:art|the
+	n|standard n|history-PL prep|of n:prop|Spanish pro:per|you~mod|will
+	v|find n|list-PL prep|of n|example-PL prep|of n|word-PL pro:rel|that
+	cop|be&PRES adv|allege&dadj-PASTP-LY prep|of adj|pre n:prop|Roman
+	n|origin pro:rel|that v|come&PAST prep|into det:art|the
+	part|speak&PASTP n:prop|Latin prep|of det:art|the n:prop|Iberian
+	n:prop|Peninsula prep|from det:art|the adj|various n|language-PL
+	part|speak&PASTP prep|in det:art|the n:prop|Iberian n:prop|Peninsula
+	prep|at det:art|the n|time pro:rel|that det:art|the n:prop|Romans
+	v|arrive-PAST .
+%grt:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|OBJ 5|4|NJCT 6|8|DET 7|8|MOD
+	8|5|POBJ 9|8|NJCT 10|9|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|OBJ
+	15|14|NJCT 16|15|POBJ 17|16|NJCT 18|17|POBJ 19|20|LINK 20|18|CJCT
+	21|20|JCT 22|20|JCT 23|24|MOD 24|25|MOD 25|22|POBJ 26|27|LINK
+	27|18|CJCT 28|27|JCT 29|31|DET 30|31|XMOD 31|28|POBJ 32|31|NJCT
+	33|35|DET 34|35|NAME 35|32|POBJ 36|27|JCT 37|39|DET 38|39|MOD
+	39|36|POBJ 40|39|XMOD 41|40|JCT 42|44|DET 43|44|NAME 44|41|POBJ
+	45|40|JCT 46|47|DET 47|45|POBJ 48|51|LINK 49|50|DET 50|51|SUBJ
+	51|47|CMOD 52|13|PUNCT
+*PAR:	again &th one of the more interesting differences between let's say
+	France and Spain and even between let's say Spain France and Italy
+	in this regard is +//.
+%mor:	adv:tem|again pro:indef|one prep|of det:art|the adv|more
+	adj|interesting n|difference-PL prep|between v|let~pro:obj|us v|say
+	n:prop|France coord|and n:prop|Spain coord|and adv|even prep|between
+	v|let~pro:obj|us v|say n:prop|Spain n:prop|France coord|and
+	n:prop|Italy prep|in det:dem|this n|regard cop|be&3S +//.
+%gra:	1|0|JCT 2|1|POBJ 3|2|NJCT 4|7|DET 5|6|JCT 6|7|MOD 7|3|POBJ 8|9|JCT
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|11|OBJ 13|12|CONJ 14|13|COORD 15|20|LINK
+	16|20|JCT 17|16|JCT 18|17|POBJ 19|17|POBJ 20|11|CJCT 21|22|NAME 22|28|SUBJ
+	23|22|CONJ 24|23|COORD 25|22|NJCT 26|27|DET 27|25|POBJ 28|20|COMP
+	29|9|PUNCT
+%trn:	adv:tem|again pro:indef|one prep|of det:art|the adv|more
+	adj|interesting n|difference-PL prep|between v|let~pro:obj|us v|say
+	n:prop|France coord|and n:prop|Spain coord|and adv|even prep|between
+	v|let~pro:obj|us v|say n:prop|Spain n:prop|France coord|and
+	n:prop|Italy prep|in det:dem|this n|regard cop|be&3S +//.
+%grt:	1|28|JCT 2|28|SUBJ 3|2|NJCT 4|7|DET 5|6|JCT 6|7|MOD 7|3|POBJ
+	8|7|NJCT 9|12|XMOD 10|9|OBJ 11|9|COMP 12|8|POBJ 13|12|CONJ
+	14|13|COORD 15|8|CONJ 16|17|JCT 17|15|COORD 18|21|XMOD 19|18|OBJ
+	20|18|COMP 21|17|POBJ 22|21|ENUM 23|22|CONJ 24|23|COORD 25|7|NJCT
+	26|27|DET 27|25|POBJ 28|0|ROOT 29|28|PUNCT
+*PAR:	I mean the territory that we today call Italy and the territory
+	that we today call France .
+%mor:	pro:sub|I v|mean det:art|the n|territory pro:rel|that pro:sub|we
+	adv:tem|today v|call n:prop|Italy coord|and det:art|the n|territory
+	pro:rel|that pro:sub|we adv:tem|today v|call n:prop|France .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|6|PQ 8|4|CMOD
+	9|8|OBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|16|LINK 14|16|SUBJ 15|14|PQ
+	16|9|CMOD 17|16|OBJ 18|2|PUNCT
+%trn:	pro:sub|I v|mean det:art|the n|territory pro:rel|that pro:sub|we
+	adv:tem|today v|call n:prop|Italy coord|and det:art|the n|territory
+	pro:rel|that pro:sub|we adv:tem|today v|call n:prop|France .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|8|JCT 8|4|CMOD
+	9|8|OBJ 10|4|CONJ 11|12|DET 12|10|COORD 13|16|LINK 14|16|SUBJ
+	15|16|JCT 16|12|CMOD 17|16|OBJ 18|2|PUNCT
+*PAR:	all the pre Roman languages that were spoken were eliminated .
+%mor:	qn|all det:art|the adj|pre n:prop|Roman n|language-PL pro:rel|that
+	aux|be&PAST part|speak&PASTP aux|be&PAST part|eliminate-PASTP .
+%gra:	1|5|QUANT 2|5|DET 3|5|MOD 4|5|MOD 5|0|INCROOT 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|10|AUX 10|8|COMP 11|5|PUNCT
+%trn:	qn|all det:art|the adj|pre n:prop|Roman n|language-PL pro:rel|that
+	aux|be&PAST part|speak&PASTP aux|be&PAST part|eliminate-PASTP .
+%grt:	1|5|QUANT 2|5|DET 3|4|MOD 4|5|MOD 5|10|SUBJ 6|8|LINK 7|8|AUX
+	8|5|CMOD 9|10|AUX 10|0|ROOT 11|10|PUNCT
+*PAR:	although one might say +"/.
+%mor:	conj|although pro:indef|one mod|might v|say +"/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%trn:	conj|although pro:indef|one mod|might v|say +"/.
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	+" hey isn't [/] &ther isn't there a variety of Celtic spoken in
+	France ?
+%mor:	co|hey cop|be&3S~neg|not adv|there det:art|a n|variety prep|of
+	n:prop|Celtic part|speak&PASTP prep|in n:prop|France ?
+%gra:	1|2|COM 2|0|ROOT 3|2|NEG 4|2|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|6|XMOD 10|9|JCT 11|10|POBJ 12|2|PUNCT
+%trn:	co|hey cop|be&3S~neg|not pro:exist|there det:art|a n|variety prep|of
+	n:prop|Celtic part|speak&PASTP prep|in n:prop|France ?
+%grt:	1|2|COM 2|0|ROOT 3|2|NEG 4|2|SUBJ 5|6|DET 6|2|PRED 7|6|NJCT 8|7|POBJ
+	9|6|XMOD 10|9|JCT 11|10|POBJ 12|2|PUNCT
+*PAR:	that's true .
+%mor:	pro:dem|that~cop|be&3S adj|true .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S adj|true .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	there is a variety of Celtic spoken in France .
+%mor:	pro:exist|there cop|be&3S det:art|a n|variety prep|of n:prop|Celtic
+	part|speak&PASTP prep|in n:prop|France .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|4|XMOD 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+%trn:	pro:exist|there cop|be&3S det:art|a n|variety prep|of n:prop|Celtic
+	part|speak&PASTP prep|in n:prop|France .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|4|XMOD 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	the dialect in Brittany .
+%mor:	det:art|the n|dialect prep|in n:prop|Brittany .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+%trn:	det:art|the n|dialect prep|in n:prop|Brittany .
+%grt:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	that language called Breton .
+%mor:	det:dem|that n|language v|call-PAST n:prop|Breton .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%trn:	det:dem|that n|language part|call-PASTP n:prop|Breton .
+%grt:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|OBJ 5|2|PUNCT
+*PAR:	but that is not a vestige of the Celts who were there <in the
+	Iberian> [//] in France rather or in Gaul at the time the Romans
+	arrived but rather represents results of a later historical
+	migration of people from the British Isles to that part of France
+	known as Brittany .
+%mor:	conj|but pro:dem|that cop|be&3S neg|not det:art|a n|vestige prep|of
+	det:art|the n:prop|Celts pro:rel|who cop|be&PAST adv|there prep|in
+	n:prop|France adv|rather coord|or prep|in n:prop|Gaul prep|at
+	det:art|the n|time det:art|the n:prop|Romans v|arrive-PAST conj|but
+	adv|rather v|represent-3S n|result-PL prep|of det:art|a adj|late-CP
+	adj|historic-AL n|migrate&dv-TION prep|of n|person&PL prep|from
+	det:art|the n:prop|British n:prop|Isles prep|to det:dem|that n|part
+	prep|of n:prop|France part|know&PASTP prep|as n:prop|Brittany .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|LINK 11|9|CMOD 12|11|JCT 13|11|JCT 14|13|POBJ 15|11|JCT
+	16|24|LINK 17|24|JCT 18|17|POBJ 19|24|JCT 20|21|DET 21|19|POBJ 22|23|DET
+	23|24|SUBJ 24|11|CJCT 25|24|CONJ 26|27|JCT 27|25|COORD 28|27|OBJ
+	29|28|NJCT 30|33|DET 31|33|MOD 32|33|MOD 33|29|POBJ 34|33|NJCT 35|34|POBJ
+	36|35|NJCT 37|38|DET 38|36|POBJ 39|33|NJCT 40|39|NJCT 41|42|DET 42|40|POBJ
+	43|42|NJCT 44|43|POBJ 45|39|XJCT 46|45|JCT 47|46|POBJ 48|3|PUNCT
+%trn:	conj|but pro:dem|that cop|be&3S neg|not det:art|a n|vestige
+	prep|of det:art|the n:prop|Celts pro:rel|who cop|be&PAST adv|there
+	prep|in n:prop|France adv|rather coord|or prep|in n:prop|Gaul
+	prep|at det:art|the n|time det:art|the n:prop|Romans v|arrive-PAST
+	conj|but adv|rather v|represent-3S n|result-PL prep|of det:art|a
+	adj|late-CP adj|historic-AL n|migrate&dv-TION prep|of n|person&PL
+	prep|from det:art|the n:prop|British n:prop|Isles prep|to
+	det:dem|that n|part prep|of n:prop|France part|know&PASTP prep|as
+	n:prop|Brittany .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|LINK 11|9|CMOD 12|11|JCT 13|11|JCT 14|13|POBJ
+	15|13|JCT 16|13|CONJ 17|16|COORD 18|17|POBJ 19|11|JCT 20|21|DET
+	21|19|POBJ 22|23|DET 23|24|SUBJ 24|21|CMOD 25|3|CONJ 26|27|JCT
+	27|25|COORD 28|27|OBJ 29|28|NJCT 30|33|DET 31|33|MOD 32|33|MOD
+	33|29|POBJ 34|33|NJCT 35|34|POBJ 36|33|NJCT 37|39|DET 38|39|MOD
+	39|36|POBJ 40|33|NJCT 41|42|DET 42|40|POBJ 43|42|NJCT 44|43|POBJ
+	45|42|XMOD 46|45|JCT 47|46|POBJ 48|3|PUNCT
+*PAR:	whereas in Spain we do have the interesting case that one of the
+	pre Roman languages survived and is still spoken today , very much
+	so .
+%mor:	conj|whereas prep|in n:prop|Spain pro:sub|we mod|do v|have
+	det:art|the adj|interesting n|case pro:rel|that pro:indef|one
+	prep|of det:art|the adj|pre n:prop|Roman n|language-PL
+	v|survive-PAST coord|and aux|be&3S adv|still part|speak&PASTP
+	adv:tem|today cm|cm adv|very adv|much adv|so .
+%gra:	1|6|LINK 2|6|JCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|11|LINK 11|17|SUBJ 12|11|NJCT 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|POBJ 17|9|CMOD 18|17|CONJ 19|21|AUX 20|21|JCT 21|18|COORD 22|21|JCT
+	23|22|LP 24|25|JCT 25|21|JCT 26|21|JCT 27|6|PUNCT
+%trn:	conj|whereas prep|in n:prop|Spain pro:sub|we mod|do v|have
+	det:art|the adj|interesting n|case pro:rel|that pro:indef|one
+	prep|of det:art|the adj|pre n:prop|Roman n|language-PL
+	v|survive-PAST coord|and aux|be&3S adv|still part|speak&PASTP
+	adv:tem|today cm|cm adv|very adv|much adv|so .
+%grt:	1|6|LINK 2|6|JCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET
+	8|9|MOD 9|6|OBJ 10|17|LINK 11|17|SUBJ 12|11|NJCT 13|16|DET 14|15|MOD
+	15|16|MOD 16|12|POBJ 17|9|CMOD 18|17|CONJ 19|21|AUX 20|21|JCT
+	21|18|COORD 22|21|JCT 23|21|LP 24|25|JCT 25|26|JCT 26|21|JCT
+	27|6|PUNCT
+*PAR:	<and> [/] and I'm referring of_course to Basque which indeed has
+	[//] in certain regions of the country actually enjoys official
+	status in the Basque country government and activities .
+%mor:	coord|and pro:sub|I~aux|be&1S part|refer-PRESP co|of_course prep|to
+	n:prop|Basque pro:rel|which adv|indeed prep|in adj|certain
+	n|region-PL prep|of det:art|the n|country adv|actual&dadj-LY
+	v|enjoy-3S adj|official n|status prep|in det:art|the n:prop|Basque
+	n|country n|govern&dv-MENT coord|and n|active&dadj-ITY-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COM 6|4|JCT 7|17|SUBJ 8|9|LINK
+	9|17|JCT 10|9|JCT 11|12|MOD 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|17|JCT 17|6|POBJ 18|19|MOD 19|17|OBJ 20|17|JCT 21|24|DET 22|24|MOD
+	23|24|MOD 24|20|POBJ 25|24|CONJ 26|25|COORD 27|4|PUNCT
+%trn:	coord|and pro:sub|I~aux|be&1S part|refer-PRESP co|of_course prep|to
+	n:prop|Basque pro:rel|which adv|indeed prep|in adj|certain
+	n|region-PL prep|of det:art|the n|country adv|actual&dadj-LY
+	v|enjoy-3S adj|official n|status prep|in det:art|the n:prop|Basque
+	n|country n|govern&dv-MENT coord|and n|active&dadj-ITY-PL .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COM 6|4|JCT 7|6|POBJ 8|17|LINK
+	9|17|JCT 10|17|JCT 11|12|MOD 12|10|POBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|17|JCT 17|7|CMOD 18|19|MOD 19|17|OBJ 20|17|JCT
+	21|24|DET 22|23|MOD 23|24|MOD 24|20|POBJ 25|24|CONJ 26|25|COORD
+	27|4|PUNCT
+*PAR:	school activities get [//] are conducted in both [/] both Spanish
+	the official language of Spain and also in [/] in Basque .
+%mor:	n|school n|active&dadj-ITY-PL aux|be&PRES part|conduct-PASTP
+	prep|in qn|both n:prop|Spanish det:art|the adj|official n|language
+	prep|of n:prop|Spain coord|and adv|also prep|in n:prop|Basque .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|10|DET
+	9|10|MOD 10|5|POBJ 11|10|NJCT 12|11|POBJ 13|10|CONJ 14|13|COORD 15|14|JCT
+	16|15|POBJ 17|4|PUNCT
+%trn:	n|school n|active&dadj-ITY-PL aux|be&PRES part|conduct-PASTP
+	prep|in qn|both n:prop|Spanish det:art|the adj|official n|language
+	prep|of n:prop|Spain coord|and adv|also prep|in n:prop|Basque .
+%grt:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|10|DET
+	9|10|MOD 10|7|APP 11|10|NJCT 12|11|POBJ 13|5|CONJ 14|15|JCT
+	15|13|COORD 16|15|POBJ 17|4|PUNCT
+*PAR:	what is much more controversial which I want to discuss today is
+	this .
+%mor:	pro:int|what cop|be&3S adv|much adv|more adj|controversial
+	pro:int|which pro:sub|I v|want inf|to v|discuss adv:tem|today
+	cop|be&3S pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|10|INF 10|8|COMP 11|12|SUBJ 12|10|COMP 13|12|PRED 14|2|PUNCT
+%trn:	pro:int|what cop|be&3S adv|much adv|more adj|controversial
+	pro:rel|which pro:sub|I v|want inf|to v|discuss adv:tem|today
+	cop|be&3S pro:dem|this .
+%grt:	1|2|LINK 2|12|CSUBJ 3|4|JCT 4|5|JCT 5|2|PRED 6|8|LINK 7|8|SUBJ
+	8|2|CJCT 9|10|INF 10|8|COMP 11|10|JCT 12|0|ROOT 13|12|PRED
+	14|12|PUNCT
+*PAR:	and this is the general issue of whether nonlexical features can be
+	transmitted from one language to another through language contact .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|the n|general n|issue
+	prep|of comp|whether non#adj|lexical n|feature-PL mod|can aux|be
+	part|transmit-PASTP prep|from det:num|one n|language prep|to
+	pro:indef|another prep|through n|language n|contact .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|13|LINK
+	9|10|MOD 10|13|SUBJ 11|13|AUX 12|13|AUX 13|7|POBJ 14|13|JCT 15|16|QUANT
+	16|14|POBJ 17|13|JCT 18|17|POBJ 19|18|NJCT 20|21|MOD 21|19|POBJ
+	22|3|PUNCT
+%trn:	coord|and pro:dem|this cop|be&3S det:art|the n|general n|issue
+	prep|of comp|whether non#adj|lexical n|feature-PL mod|can aux|be
+	part|transmit-PASTP prep|from det:num|one n|language prep|to
+	pro:indef|another prep|through n|language n|contact .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|13|LINK
+	9|10|MOD 10|13|SUBJ 11|13|AUX 12|13|AUX 13|7|CPOBJ 14|13|JCT
+	15|16|QUANT 16|14|POBJ 17|13|JCT 18|17|POBJ 19|13|JCT 20|21|MOD
+	21|19|POBJ 22|3|PUNCT
+*PAR:	in other words the issue of structural change .
+%mor:	prep|in qn|other n|word-PL det:art|the n|issue prep|of
+	adj|structural n|change .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|5|DET 5|1|ENUM 6|5|NJCT 7|8|MOD
+	8|6|POBJ 9|1|PUNCT
+%trn:	prep|in qn|other n|word-PL det:art|the n|issue prep|of
+	adj|structural n|change .
+%grt:	1|5|NJCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|0|INCROOT 6|5|NJCT 7|8|MOD
+	8|6|POBJ 9|5|PUNCT
+*PAR:	are there linguistic changes <that are> [//] that we +//?
+%mor:	cop|be&PRES pro:exist|there adj|linguistic n|change-PL pro:rel|that
+	pro:sub|we +//?
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|MOD 4|2|INCROOT 5|6|LINK 6|4|INCROOT 7|6|PUNCT
+%trn:	cop|be&PRES pro:exist|there adj|linguistic n|change-PL pro:rel|that
+	pro:sub|we +//?
+%grt:	1|0|ROOT 2|1|SUBJ 3|4|MOD 4|1|PRED 5|6|LINK 6|4|OM 7|1|PUNCT
+*PAR:	are there linguistic structural changes that can be attributed <to
+	the> [//] to language contact ?
+%mor:	cop|be&PRES pro:exist|there adj|linguistic adj|structural
+	n|change-PL pro:rel|that mod|can aux|be part|attribute-PASTP prep|to
+	n|language n|contact ?
+%gra:	1|0|ROOT 2|1|PRED 3|5|MOD 4|5|MOD 5|2|PRED 6|9|LINK 7|9|AUX 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|12|MOD 12|10|POBJ 13|1|PUNCT
+%trn:	cop|be&PRES pro:exist|there adj|linguistic adj|structural n|change-PL
+	pro:rel|that mod|can aux|be part|attribute-PASTP prep|to n|language
+	n|contact ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|5|MOD 4|5|MOD 5|1|PRED 6|9|LINK 7|9|AUX 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|12|MOD 12|10|POBJ 13|1|PUNCT
+*PAR:	this is a fairly controversial area at least within the area of
+	Romance linguistics .
+%mor:	pro:dem|this cop|be&3S det:art|a adv|fair&dadj-LY adj|controversial
+	n|area prep|at n|least prep|within det:art|the n|area prep|of
+	n:prop|Romance n:pt|linguistics .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|6|NJCT 8|7|POBJ
+	9|6|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|6|ENUM 15|2|PUNCT
+%trn:	pro:dem|this cop|be&3S det:art|a adv|fair&dadj-LY adj|controversial
+	n|area prep|at n|least prep|within det:art|the n|area prep|of
+	n:prop|Romance n:pt|linguistics .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|9|JCT 8|7|POBJ
+	9|6|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|MOD 14|12|POBJ
+	15|2|PUNCT
+*PAR:	<and this is all> [//] and to a certain extent the answer to this
+	question has also reflected almost what you'd call scholarly trends
+	or fads .
+%mor:	coord|and prep|to det:art|a adj|certain n|extent det:art|the
+	n|answer prep|to det:dem|this n|question aux|have&3S adv|also
+	part|reflect-PASTP adv|almost pro:int|what pro:per|you~mod|genmod
+	v|call adj|scholar&dn-LY n|trend-PL coord|or n|fad-PL .
+%gra:	1|13|LINK 2|13|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|DET 7|13|SUBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|13|AUX 12|13|JCT 13|0|ROOT 14|13|JCT 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|13|COMP 19|20|MOD 20|18|OBJ 21|20|CONJ 22|21|COORD
+	23|13|PUNCT
+%trn:	coord|and prep|to det:art|a adj|certain n|extent det:art|the
+	n|answer prep|to det:dem|this n|question aux|have&3S adv|also
+	part|reflect-PASTP adv|almost pro:int|what pro:per|you~mod|genmod
+	v|call adj|scholar&dn-LY n|trend-PL coord|or n|fad-PL .
+%grt:	1|13|LINK 2|13|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|DET 7|13|SUBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|13|AUX 12|13|JCT 13|0|ROOT 14|13|JCT 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|13|COBJ 19|20|MOD 20|18|OBJ 21|20|CONJ
+	22|21|COORD 23|13|PUNCT
+*PAR:	at an early period of [//] in the history of Romance linguistics as
+	a scholarly discipline this type of approach had a great appeal .
+%mor:	prep|at det:art|a adj|early n|period prep|in det:art|the n|history
+	prep|of n:prop|Romance n:pt|linguistics prep|as det:art|a
+	adj|scholar&dn-LY n|discipline det:dem|this n|type prep|of
+	n|approach v|have&PAST det:art|a adj|great n|appeal .
+%gra:	1|10|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|0|ROOT 11|19|LINK 12|14|DET 13|14|MOD 14|19|SUBJ 15|16|DET
+	16|19|SUBJ 17|16|NJCT 18|17|POBJ 19|10|CJCT 20|22|DET 21|22|MOD 22|19|OBJ
+	23|10|PUNCT
+%trn:	prep|at det:art|a adj|early n|period prep|in det:art|the n|history
+	prep|of n:prop|Romance n:pt|linguistics prep|as det:art|a
+	adj|scholar&dn-LY n|discipline det:dem|this n|type prep|of
+	n|approach v|have&PAST det:art|a adj|great n|appeal .
+%grt:	1|19|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|10|NJCT 12|13|DET 13|14|SUBJ 14|11|POBJ
+	15|16|DET 16|19|SUBJ 17|16|NJCT 18|17|POBJ 19|0|ROOT 20|22|DET
+	21|22|MOD 22|19|OBJ 23|19|PUNCT
+*PAR:	back around the turn of the century when historical linguistics
+	still was not yet you_know very [//] a fully [//] &s full fledged
+	sophisticated discipline .
+%mor:	adv|back prep|around det:art|the n|turn prep|of det:art|the
+	n|century conj|when adj|historic-AL n:pt|linguistics adv|still
+	cop|be&PAST&13S neg|not adv:tem|yet co|you_know det:art|a adj|full
+	part|fledge-PASTP adj|sophisticated n|discipline .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|12|LINK 9|10|MOD 10|12|SUBJ 11|12|JCT 12|2|CJCT 13|12|NEG 14|20|JCT 15|20|COM
+	16|20|DET 17|20|MOD 18|20|MOD 19|20|MOD 20|12|PRED 21|2|PUNCT
+%trn:	adv|back prep|around det:art|the n|turn prep|of det:art|the
+	n|century conj|when adj|historic-AL n:pt|linguistics adv|still
+	cop|be&PAST&13S neg|not adv:tem|yet co|you_know det:art|a adj|full
+	part|fledge-PASTP adj|sophisticated n|discipline .
+%grt:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|12|LINK 9|10|MOD 10|12|SUBJ 11|12|JCT 12|2|CJCT 13|14|NEG
+	14|12|JCT 15|12|COM 16|20|DET 17|18|JCT 18|20|XMOD 19|20|MOD
+	20|12|PRED 21|2|PUNCT
+*PAR:	people who studied the history of the Romance languages would look
+	at let's say <a given particular> [//] a given change in the history
+	of French or Spanish or Italian .
+%mor:	n|person&PL pro:rel|who v|study-PAST det:art|the n|history prep|of
+	det:art|the n:prop|Romance n|language-PL mod|will&COND v|look
+	prep|at v|let~pro:obj|us v|say det:art|a part|give&PASTP n|change
+	prep|in det:art|the n|history prep|of n:prop|French coord|or
+	n:prop|Spanish coord|or n:prop|Italian .
+%gra:	1|11|SUBJ 2|3|LINK 3|11|JCT 4|5|DET 5|3|OBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|12|POBJ 14|15|SUBJ 15|11|COMP
+	16|18|DET 17|18|MOD 18|15|OBJ 19|15|JCT 20|21|DET 21|19|POBJ 22|21|NJCT
+	23|22|POBJ 24|15|CONJ 25|24|COORD 26|25|CONJ 27|26|COORD 28|11|PUNCT
+%trn:	n|person&PL pro:rel|who v|study-PAST det:art|the n|history prep|of
+	det:art|the n:prop|Romance n|language-PL mod|will&COND v|look
+	prep|at v|let~pro:obj|us v|say det:art|a part|give&PASTP n|change
+	prep|in det:art|the n|history prep|of n:prop|French coord|or
+	n:prop|Spanish coord|or n:prop|Italian .
+%grt:	1|11|SUBJ 2|3|LINK 3|1|CMOD 4|5|DET 5|3|OBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|18|XMOD 14|13|OBJ
+	15|13|COMP 16|18|DET 17|18|MOD 18|12|POBJ 19|18|NJCT 20|21|DET
+	21|19|POBJ 22|21|NJCT 23|22|POBJ 24|23|CONJ 25|24|COORD 26|25|CONJ
+	27|26|COORD 28|11|PUNCT
+*PAR:	and if this change were sort_of unique , in other words if it were
+	a process that occurred only in one of the Romance languages and not
+	in any of the others , they might wonder +"/.
+%mor:	coord|and conj|if det:dem|this n|change cop|be&PAST adv|sort_of
+	adj|unique cm|cm prep|in qn|other n|word-PL conj|if pro:per|it
+	cop|be&PAST det:art|a n|process pro:rel|that v|occur-PAST adv|only
+	prep|in det:num|one prep|of det:art|the n:prop|Romance n|language-PL
+	coord|and neg|not prep|in qn|any prep|of det:art|the n:pt|others
+	cm|cm pro:sub|they mod|might v|wonder +"/.
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|LP
+	9|5|JCT 10|11|QUANT 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|5|CJCT 15|16|DET
+	16|14|PRED 17|18|LINK 18|16|CMOD 19|18|JCT 20|18|JCT 21|20|POBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|18|CONJ 27|28|NEG 28|36|JCT 29|28|POBJ
+	30|29|NJCT 31|32|DET 32|30|POBJ 33|28|LP 34|36|SUBJ 35|36|AUX
+	36|26|COORD 37|5|PUNCT
+%trn:	coord|and conj|if det:dem|this n|change cop|be&PAST adv|sort_of
+	adj|unique cm|cm prep|in qn|other n|word-PL conj|if pro:per|it
+	cop|be&PAST det:art|a n|process pro:rel|that v|occur-PAST adv|only
+	prep|in det:num|one prep|of det:art|the n:prop|Romance n|language-PL
+	coord|and neg|not prep|in qn|any prep|of det:art|the n:pt|others
+	cm|cm pro:sub|they mod|might v|wonder +"/.
+%grt:	1|36|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|36|CJCT 6|7|JCT 7|5|PRED 8|5|LP
+	9|14|JCT 10|11|QUANT 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|36|CJCT
+	15|16|DET 16|14|PRED 17|18|LINK 18|16|CMOD 19|18|JCT 20|18|JCT
+	21|20|POBJ 22|21|NJCT 23|25|DET 24|25|MOD 25|22|POBJ 26|20|CONJ
+	27|28|NEG 28|26|COORD 29|28|POBJ 30|29|NJCT 31|32|DET 32|30|POBJ
+	33|14|LP 34|36|SUBJ 35|36|AUX 36|0|ROOT 37|36|PUNCT
+*PAR:	+" well gee this is kinda strange .
+%mor:	co|well co|gee pro:dem|this cop|be&3S adv|kinda adj|strange .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+%trn:	co|well co|gee pro:dem|this cop|be&3S adv|kinda adj|strange .
+%grt:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*PAR:	+" how would we explain it ?
+%mor:	pro:int|how mod|will&COND pro:sub|we v|explain pro:per|it ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%trn:	pro:int|how mod|will&COND pro:sub|we v|explain pro:per|it ?
+%grt:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and they often would try to attribute it to external sources .
+%mor:	coord|and pro:sub|they adv|often mod|will&COND v|try inf|to
+	v|attribute pro:per|it prep|to adj|external n|source-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|5|PUNCT
+%trn:	coord|and pro:sub|they adv|often mod|will&COND v|try inf|to
+	v|attribute pro:per|it prep|to adj|external n|source-PL .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|5|PUNCT
+*PAR:	and external sources would be basically a situation of language
+	contact .
+%mor:	coord|and adj|external n|source-PL mod|will&COND cop|be
+	adv|basic&dadj-AL-LY det:art|a n|situate&dv-TION prep|of n|language
+	n|contact .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|5|PUNCT
+%trn:	coord|and adj|external n|source-PL mod|will&COND cop|be
+	adv|basic&dadj-AL-LY det:art|a n|situate&dv-TION prep|of n|language
+	n|contact .
+%grt:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|5|PRED
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|5|PUNCT
+*PAR:	again this &metath metaphor of substratum is one of those
+	geological metaphors which pervades historical linguistics .
+%mor:	adv:tem|again det:dem|this n|metaphor prep|of sub#n|stratum cop|be&3S
+	det:num|one prep|of det:dem|those adj|geologic-AL n|metaphor-PL
+	pro:rel|which v|pervade-3S adj|historic-AL n:pt|linguistics .
+%gra:	1|6|JCT 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PRED 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|13|LINK 13|6|CMOD 14|15|MOD 15|13|OBJ
+	16|6|PUNCT
+%trn:	adv:tem|again pro:dem|this n|metaphor prep|of sub#n|stratum cop|be&3S
+	det:num|one prep|of det:dem|those adj|geologic-AL n|metaphor-PL
+	pro:rel|which v|pervade-3S adj|historic-AL n:pt|linguistics .
+%grt:	1|6|JCT 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PRED
+	8|7|NJCT 9|11|DET 10|11|MOD 11|8|POBJ 12|13|LINK 13|11|CMOD
+	14|15|MOD 15|13|OBJ 16|6|PUNCT
+*PAR:	in other words the substratum is the levels of languages ,
+	obviously a geological metaphor .
+%mor:	prep|in qn|other n|word-PL det:art|the sub#n|stratum cop|be&3S
+	det:art|the n|level-PL prep|of n|language-PL cm|cm
+	adv|obvious&dadj-LY det:art|a adj|geologic-AL n|metaphor .
+%gra:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|9|POBJ 11|8|LP 12|8|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|6|PUNCT
+%trn:	prep|in qn|other n|word-PL det:art|the sub#n|stratum cop|be&3S
+	det:art|the n|level-PL prep|of n|language-PL cm|cm
+	adv|obvious&dadj-LY det:art|a adj|geologic-AL n|metaphor .
+%grt:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|9|POBJ 11|8|LP 12|15|NJCT 13|15|DET 14|15|MOD 15|8|APP
+	16|6|PUNCT
+*PAR:	if [/] &y if &ri let us say the main stratum is Latin , the
+	substratum languages according to this theory are those languages
+	that were there before Latin overlaid them .
+%mor:	conj|if v|let&ZERO pro:obj|us v|say det:art|the adj|main n|stratum
+	cop|be&3S n:prop|Latin cm|cm det:art|the sub#n|stratum n|language-PL
+	part|accord-PRESP prep|to det:dem|this n|theory cop|be&PRES
+	det:dem|those n|language-PL pro:rel|that cop|be&PAST adv|there
+	conj|before n:prop|Latin over#v|lay&PAST pro:obj|them .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|7|DET 6|7|MOD 7|8|SUBJ 8|4|COMP
+	9|8|PRED 10|9|LP 11|13|DET 12|13|MOD 13|18|SUBJ 14|13|XMOD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|8|CJCT 19|20|DET 20|18|PRED 21|22|LINK 22|20|CMOD
+	23|22|JCT 24|26|LINK 25|26|SUBJ 26|22|PRED 27|26|OBJ 28|2|PUNCT
+%trn:	conj|if v|let&ZERO pro:obj|us v|say det:art|the adj|main n|stratum
+	cop|be&3S n:prop|Latin cm|cm det:art|the sub#n|stratum n|language-PL
+	part|accord-PRESP prep|to det:dem|this n|theory cop|be&PRES
+	det:dem|those n|language-PL pro:rel|that cop|be&PAST adv|there
+	conj|before n:prop|Latin over#v|lay&PAST pro:obj|them .
+%grt:	1|8|LINK 2|8|XJCT 3|2|OBJ 4|2|COMP 5|7|DET 6|7|MOD 7|8|SUBJ
+	8|18|CJCT 9|8|PRED 10|8|LP 11|13|DET 12|13|MOD 13|8|PRED 14|18|XJCT
+	15|14|JCT 16|17|DET 17|15|POBJ 18|0|ROOT 19|20|DET 20|18|PRED
+	21|22|LINK 22|20|CMOD 23|22|JCT 24|26|LINK 25|26|SUBJ 26|22|CJCT
+	27|26|OBJ 28|18|PUNCT
+*PAR:	okay so they formed a sort_of linguistic substratum .
+%mor:	co|okay co|so pro:sub|they v|form-PAST det:art|a adv|sort_of
+	adj|linguistic sub#n|stratum .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|8|DET 6|7|JCT 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+%trn:	co|okay conj|so pro:sub|they v|form-PAST det:art|a adv|sort_of
+	adj|linguistic sub#n|stratum .
+%grt:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|NJCT 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*PAR:	and it was argued back then that even if these languages were
+	falling into disuse some of the speech habits <of these> [//] of the
+	speakers of these languages may have affected the way they spoke
+	Latin .
+%mor:	coord|and pro:per|it aux|be&PAST&13S part|argue-PASTP adv|back
+	adv:tem|then comp|that adv|even conj|if det:dem|these n|language-PL
+	aux|be&PAST part|fall-PRESP prep|into dis#n|use pro:indef|some
+	prep|of det:art|the n|speech n|habit-PL prep|of det:art|the
+	n|speak&dv-AGT-PL prep|of det:dem|these n|language-PL mod|may
+	aux|have part|affect-PASTP det:art|the n|way pro:sub|they
+	v|speak&PAST n:prop|Latin .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|33|LINK 8|9|JCT
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|33|CJCT 14|13|JCT 15|29|LINK
+	16|29|SUBJ 17|16|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|29|AUX 28|29|AUX
+	29|14|POBJ 30|31|DET 31|29|OBJ 32|33|SUBJ 33|6|CMOD 34|33|OBJ 35|4|PUNCT
+%trn:	coord|and pro:per|it aux|be&PAST&13S part|argue-PASTP adv|back
+	adv:tem|then comp|that adv|even conj|if det:dem|these n|language-PL
+	aux|be&PAST part|fall-PRESP prep|into dis#n|use pro:indef|some
+	prep|of det:art|the n|speech n|habit-PL prep|of det:art|the
+	n|speak&dv-AGT-PL prep|of det:dem|these n|language-PL mod|may
+	aux|have part|affect-PASTP det:art|the n|way pro:sub|they
+	v|speak&PAST n:prop|Latin .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|JCT 7|29|LINK 8|9|JCT
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|29|CJCT 14|13|JCT
+	15|14|POBJ 16|29|SUBJ 17|16|NJCT 18|20|DET 19|20|MOD 20|17|POBJ
+	21|20|NJCT 22|23|DET 23|21|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ
+	27|29|AUX 28|29|AUX 29|4|COMP 30|31|DET 31|29|OBJ 32|33|SUBJ
+	33|31|CMOD 34|33|OBJ 35|4|PUNCT
+*PAR:	and this was a common way of trying to explain changes that were a
+	bit out_of the ordinary .
+%mor:	coord|and pro:dem|this cop|be&PAST&13S det:art|a adj|common n|way
+	prep|of part|try-PRESP inf|to v|explain n|change-PL pro:rel|that
+	cop|be&PAST det:art|a n|bit prep|out_of det:art|the n|ordinary .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|10|INF 10|8|COMP 11|10|OBJ 12|13|LINK 13|11|CMOD 14|15|DET 15|13|PRED
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+%trn:	coord|and pro:dem|this cop|be&PAST&13S det:art|a adj|common n|way
+	prep|of n:gerund|try-PRESP inf|to v|explain n|change-PL pro:rel|that
+	cop|be&PAST det:art|a n|bit prep|out_of det:art|the n|ordinary .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|10|INF 10|8|COMP 11|10|OBJ 12|13|LINK 13|11|CMOD 14|15|DET
+	15|16|JCT 16|13|JCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+*PAR:	and now I think in this case a picture is probably worth a thousand
+	words .
+%mor:	coord|and adv:tem|now pro:sub|I v|think prep|in det:dem|this n|case
+	det:art|a n|picture cop|be&3S adv|probable&dadj-LY adj|worth
+	det:art|a det:num|thousand n|word-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|10|SUBJ 10|4|CJCT 11|12|JCT 12|15|MOD 13|15|DET 14|15|QUANT 15|10|PRED
+	16|4|PUNCT
+%trn:	coord|and adv:tem|now pro:sub|I v|think prep|in det:dem|this n|case
+	det:art|a n|picture cop|be&3S adv|probable&dadj-LY adj|worth
+	det:art|a det:num|thousand n|word-PL .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|10|JCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|10|SUBJ 10|4|COMP 11|10|JCT 12|10|PRED 13|15|DET 14|15|QUANT
+	15|12|POSTMOD 16|4|PUNCT
+*PAR:	so ‡ I want to give you three concrete examples rather_than talk
+	about this abstractly .
+%mor:	co|so beg|beg pro:sub|I v|want inf|to v|give pro:per|you
+	det:num|three adj|concrete n|example-PL prep|rather_than n|talk
+	prep|about pro:dem|this adv|abstract&dadj-LY .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|10|QUANT
+	9|10|MOD 10|6|OBJ 11|6|JCT 12|11|POBJ 13|6|JCT 14|13|POBJ 15|14|JCT
+	16|4|PUNCT
+%trn:	co|so beg|beg pro:sub|I v|want inf|to v|give pro:per|you
+	det:num|three adj|concrete n|example-PL prep|rather_than v|talk
+	prep|about pro:dem|this adv|abstract&dadj-LY .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ2
+	8|10|QUANT 9|10|MOD 10|6|OBJ 11|6|JCT 12|11|POBJ 13|12|JCT
+	14|13|POBJ 15|12|JCT 16|4|PUNCT
+*PAR:	<I want to> [//] I'm going to present from the history of the
+	Romance languages three examples of structural changes .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|present prep|from
+	det:art|the n|history prep|of det:art|the n:prop|Romance
+	n|language-PL det:num|three n|example-PL prep|of adj|structural
+	n|change-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|14|QUANT 14|5|JCT 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|3|PUNCT
+%trn:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|present prep|from
+	det:art|the n|history prep|of det:art|the n:prop|Romance
+	n|language-PL det:num|three n|example-PL prep|of adj|structural
+	n|change-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|14|QUANT 14|5|OBJ
+	15|14|NJCT 16|17|MOD 17|15|POBJ 18|3|PUNCT
+*PAR:	all of them deal with sound change by the way .
+%mor:	pro:indef|all prep|of pro:obj|them v|deal prep|with n|sound
+	n|change prep|by det:art|the n|way .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+%trn:	pro:indef|all prep|of pro:obj|them v|deal prep|with n|sound
+	n|change prep|by det:art|the n|way .
+%grt:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|NJCT 6|7|MOD 7|5|POBJ
+	8|4|JCT 9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	that were attributed at one point by major scholars to the result
+	of language contact .
+%mor:	pro:rel|that aux|be&PAST part|attribute-PASTP prep|at det:num|one
+	n|point prep|by n|major n|scholar-PL prep|to det:art|the n|result
+	prep|of n|language n|contact .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|JCT 8|9|MOD
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|3|PUNCT
+%trn:	pro:rel|that aux|be&PAST part|attribute-PASTP prep|at det:num|one
+	n|point prep|by adj|major n|scholar-PL prep|to det:art|the n|result
+	prep|of n|language n|contact .
+%grt:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|JCT 8|9|MOD
+	9|7|POBJ 10|3|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|MOD
+	15|13|POBJ 16|3|PUNCT
+*PAR:	and in fact one of them is a problem that's very specifically
+	unique to Spanish .
+%mor:	coord|and prep|in n|fact det:num|one prep|of pro:obj|them cop|be&3S
+	det:art|a n|problem pro:rel|that~cop|be&3S adv|very
+	adv|specific&dadj-AL-LY adj|unique prep|to n:prop|Spanish .
+%gra:	1|7|LINK 2|7|JCT 3|2|POBJ 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|11|LINK 11|9|CMOD 12|13|JCT 13|14|JCT 14|11|PRED 15|14|JCT
+	16|15|POBJ 17|7|PUNCT
+%trn:	coord|and prep|in n|fact det:num|one prep|of pro:obj|them cop|be&3S
+	det:art|a n|problem pro:rel|that~cop|be&3S adv|very
+	adv|specific&dadj-AL-LY adj|unique prep|to n:prop|Spanish .
+%grt:	1|7|LINK 2|7|JCT 3|2|POBJ 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|11|LINK 11|9|CMOD 12|13|JCT 13|14|JCT 14|11|PRED 15|14|JCT
+	16|15|POBJ 17|7|PUNCT
+*PAR:	another is an issue that is usually associated with French although
+	a parallel phenomenon does occur in a_couple_of other Romance
+	varieties .
+%mor:	pro:indef|another cop|be&3S det:art|a n|issue pro:rel|that
+	aux|be&3S adv|usual&dadj-LY part|associate-PASTP prep|with
+	n:prop|French conj|although det:art|a adj|parallel n|phenomenon
+	mod|do&3S v|occur prep|in qn|a_couple_of qn|other n:prop|Romance
+	n|variety-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|LINK 6|8|AUX 7|8|JCT 8|4|CMOD
+	9|8|JCT 10|9|POBJ 11|16|LINK 12|14|DET 13|14|MOD 14|16|SUBJ 15|16|AUX
+	16|8|CJCT 17|16|JCT 18|19|QUANT 19|21|QUANT 20|21|MOD 21|17|POBJ 22|2|PUNCT
+%trn:	pro:indef|another cop|be&3S det:art|a n|issue pro:rel|that
+	aux|be&3S adv|usual&dadj-LY part|associate-PASTP prep|with
+	n:prop|French conj|although det:art|a adj|parallel n|phenomenon
+	mod|do&3S v|occur prep|in qn|a_couple_of qn|other n:prop|Romance
+	n|variety-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|LINK 6|8|AUX 7|8|JCT 8|4|CMOD
+	9|8|JCT 10|9|POBJ 11|16|LINK 12|14|DET 13|14|MOD 14|16|SUBJ 15|16|AUX
+	16|8|CJCT 17|16|JCT 18|21|QUANT 19|21|QUANT 20|21|MOD 21|17|POBJ
+	22|2|PUNCT
+*PAR:	and then there's a [/] &mor a more broad based &t issue as_well ,
+	&wh a phenomenon that is found in various Romance languages .
+%mor:	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|a adv|more
+	adj|broad part|base-PASTP n|issue adv|as_well cm|cm det:art|a
+	n|phenomenon pro:rel|that aux|be&3S part|find&PASTP prep|in
+	adj|various n:prop|Romance n|language-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|9|DET 6|7|JCT 7|9|MOD 8|9|MOD
+	9|4|PRED 10|9|NJCT 11|9|LP 12|13|DET 13|9|APP 14|16|LINK 15|16|AUX
+	16|13|CMOD 17|16|JCT 18|20|MOD 19|20|MOD 20|17|POBJ 21|4|PUNCT
+%trn:	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|a adv|more
+	adj|broad part|base-PASTP n|issue adv|as_well cm|cm det:art|a
+	n|phenomenon pro:rel|that aux|be&3S part|find&PASTP prep|in
+	adj|various n:prop|Romance n|language-PL .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|9|DET 6|8|JCT 7|8|JCT 8|9|XMOD
+	9|4|PRED 10|9|NJCT 11|9|LP 12|13|DET 13|9|APP 14|16|LINK 15|16|AUX
+	16|13|CMOD 17|16|JCT 18|20|MOD 19|20|MOD 20|17|POBJ 21|4|PUNCT
+*PAR:	so ‡ I want to look at the three of them as separate issues and
+	then <try and> [//] try to relate it to this more general issue of
+	how historical linguists discuss the important question as_to whether
+	external &fa forces can play a role in structural change .
+%mor:	co|so beg|beg pro:sub|I v|want inf|to v|look prep|at det:art|the
+	det:num|three prep|of pro:obj|them prep|as adj|separate n|issue-PL
+	coord|and adv:tem|then v|try inf|to v|relate pro:per|it prep|to
+	det:dem|this adv|more adj|general n|issue prep|of pro:int|how
+	adj|historic-AL n|linguist-PL v|discuss det:art|the adj|important
+	n|question prep|as_to conj|whether adj|external n|force-PL mod|can
+	v|play det:art|a n|role prep|in adj|structural n|change .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|6|JCT 13|14|MOD 14|12|POBJ 15|6|CONJ
+	16|17|JCT 17|15|COORD 18|19|INF 19|17|COMP 20|19|OBJ 21|19|JCT 22|25|DET
+	23|24|JCT 24|25|MOD 25|21|POBJ 26|30|JCT 27|28|JCT 28|29|MOD 29|30|SUBJ
+	30|25|CMOD 31|33|DET 32|33|MOD 33|30|OBJ 34|30|JCT 35|39|LINK 36|37|MOD
+	37|39|SUBJ 38|39|AUX 39|34|CPOBJ 40|41|DET 41|39|OBJ 42|39|JCT 43|44|MOD
+	44|42|POBJ 45|4|PUNCT
+%trn:	co|so beg|beg pro:sub|I v|want inf|to v|look prep|at det:art|the
+	det:num|three prep|of pro:obj|them prep|as adj|separate n|issue-PL
+	coord|and adv:tem|then v|try inf|to v|relate pro:per|it prep|to
+	det:dem|this adv|more adj|general n|issue prep|of pro:int|how
+	adj|historic-AL n|linguist-PL v|discuss det:art|the adj|important
+	n|question prep|as_to conj|whether adj|external n|force-PL mod|can
+	v|play det:art|a n|role prep|in adj|structural n|change .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|6|JCT 13|14|MOD 14|12|POBJ
+	15|6|CONJ 16|17|JCT 17|15|COORD 18|19|INF 19|17|COMP 20|19|OBJ
+	21|19|JCT 22|25|DET 23|24|JCT 24|25|MOD 25|21|POBJ 26|25|NJCT
+	27|30|LINK 28|29|MOD 29|30|SUBJ 30|26|COMP 31|33|DET 32|33|MOD
+	33|30|OBJ 34|33|NJCT 35|39|LINK 36|37|MOD 37|39|SUBJ 38|39|AUX
+	39|34|CPOBJ 40|41|DET 41|39|OBJ 42|39|JCT 43|44|MOD 44|42|POBJ
+	45|4|PUNCT
+*PAR:	because linguistics like any other intellectual discipline has its
+	fad .
+%mor:	conj|because n:pt|linguistics prep|like qn|any qn|other
+	adj|intellectual n|discipline v|have&3S det:poss|its n|fad .
+%gra:	1|2|LINK 2|0|ROOT 3|8|LINK 4|5|QUANT 5|7|QUANT 6|7|MOD 7|8|SUBJ
+	8|2|CJCT 9|10|DET 10|8|OBJ 11|2|PUNCT
+%trn:	conj|because n:pt|linguistics prep|like qn|any qn|other
+	n|intellectual n|discipline v|have&3S det:poss|its n|fad .
+%grt:	1|8|LINK 2|8|SUBJ 3|8|JCT 4|7|QUANT 5|7|QUANT 6|7|MOD 7|3|POBJ
+	8|0|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+*PAR:	at one point this type of explanation was very much in vogue and
+	scholars loved it .
+%mor:	prep|at det:num|one n|point det:dem|this n|type prep|of
+	n|explanation cop|be&PAST&13S adv|very adv|much prep|in n|vogue
+	coord|and n|scholar-PL v|love-PAST pro:per|it .
+%gra:	1|8|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|8|SUBJ 6|5|NJCT 7|6|POBJ 8|0|ROOT
+	9|10|JCT 10|8|JCT 11|8|JCT 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|8|CJCT
+	16|15|OBJ 17|8|PUNCT
+%trn:	prep|at det:num|one n|point det:dem|this n|type prep|of
+	n|explanation cop|be&PAST&13S adv|very adv|much prep|in n|vogue
+	coord|and n|scholar-PL v|love-PAST pro:per|it .
+%grt:	1|8|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|8|SUBJ 6|5|NJCT 7|6|POBJ 8|0|ROOT
+	9|10|JCT 10|8|JCT 11|8|JCT 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|8|CJCT
+	16|15|OBJ 17|8|PUNCT
+*PAR:	it was almost de_rigueur .
+%mor:	pro:per|it cop|be&PAST&13S adv|almost adj|de_rigueur .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S adv|almost adj|de_rigueur .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	in fact the [//] most &a attempts at explanations were of this type
+	.
+%mor:	prep|in n|fact qn|most n|attempt-PL prep|at n|explanation-PL
+	cop|be&PAST prep|of det:dem|this n|type .
+%gra:	1|0|INCROOT 2|1|POBJ 3|4|QUANT 4|1|POBJ 5|4|NJCT 6|5|POBJ 7|4|CMOD
+	8|7|JCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+%trn:	prep|in n|fact qn|most n|attempt-PL prep|at n|explanation-PL
+	cop|be&PAST prep|of det:dem|this n|type .
+%grt:	1|7|JCT 2|1|POBJ 3|4|QUANT 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT
+	8|7|JCT 9|10|DET 10|8|POBJ 11|7|PUNCT
+*PAR:	<of this> [//] &sub &-er try to explain changes through external
+	[/] external forces .
+%mor:	v|try inf|to v|explain n|change-PL prep|through adj|external
+	n|force-PL .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|3|JCT 6|7|MOD 7|5|POBJ 8|1|PUNCT
+%trn:	v|try inf|to v|explain n|change-PL prep|through adj|external
+	n|force-PL .
+%grt:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|3|JCT 6|7|MOD 7|5|POBJ 8|1|PUNCT
+*PAR:	whereas later , and this is a trend that still dominates , &m most
+	structural change is looked upon as being due_to internal structural
+	factors .
+%mor:	conj|whereas adv|later cm|cm coord|and pro:dem|this cop|be&3S
+	det:art|a n|trend pro:rel|that adv|still v|dominate-3S cm|cm qn|most
+	adj|structural n|change aux|be&3S part|look-PASTP prep|upon prep|as
+	part|be-PRESP prep|due_to adj|internal adj|structural n|factor-PL .
+%gra:	1|6|LINK 2|6|JCT 3|2|LP 4|2|CONJ 5|4|COORD 6|0|ROOT 7|8|DET 8|6|PRED
+	9|11|LINK 10|11|JCT 11|8|CMOD 12|11|LP 13|15|QUANT 14|15|MOD 15|17|SUBJ
+	16|17|AUX 17|11|COMP 18|17|JCT 19|18|POBJ 20|19|CPOBJ 21|20|JCT 22|24|MOD
+	23|24|MOD 24|21|POBJ 25|6|PUNCT
+%trn:	conj|whereas adv|later cm|cm coord|and pro:dem|this cop|be&3S
+	det:art|a n|trend pro:rel|that adv|still v|dominate-3S cm|cm
+	qn|most adj|structural n|change aux|be&3S part|look-PASTP prep|upon
+	prep|as part|be-PRESP prep|due_to adj|internal adj|structural
+	n|factor-PL .
+%grt:	1|17|LINK 2|17|JCT 3|2|LP 4|6|LINK 5|6|SUBJ 6|17|CJCT 7|8|DET
+	8|6|PRED 9|11|LINK 10|11|JCT 11|8|CMOD 12|6|LP 13|15|QUANT 14|15|MOD
+	15|17|SUBJ 16|17|AUX 17|0|ROOT 18|17|JCT 19|17|JCT 20|19|CPOBJ
+	21|20|JCT 22|24|MOD 23|24|MOD 24|21|POBJ 25|17|PUNCT
+*PAR:	that language contact or real world has nothing to do with it and
+	that these changes can all be explained internally .
+%mor:	det:dem|that n|language n|contact coord|or adj|real n|world
+	v|have&3S pro:indef|nothing inf|to v|do prep|with pro:per|it
+	coord|and comp|that det:dem|these n|change-PL mod|can post|all
+	aux|be part|explain-PASTP adv|internal&dadj-LY .
+%gra:	1|3|DET 2|3|MOD 3|7|SUBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|0|ROOT 8|7|OBJ
+	9|10|INF 10|7|XJCT 11|10|JCT 12|11|POBJ 13|12|CONJ 14|20|LINK 15|16|DET
+	16|20|SUBJ 17|20|AUX 18|20|SUBJ 19|20|AUX 20|13|COORD 21|20|JCT 22|7|PUNCT
+%trn:	comp|that n|language n|contact coord|or adj|real n|world
+	v|have&3S pro:indef|nothing inf|to v|do prep|with pro:per|it
+	coord|and comp|that det:dem|these n|change-PL mod|can post|all
+	aux|be part|explain-PASTP adv|internal&dadj-LY .
+%grt:	1|7|LINK 2|3|MOD 3|7|SUBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|0|ROOT
+	8|7|OBJ 9|10|INF 10|8|XMOD 11|10|JCT 12|11|POBJ 13|7|CONJ
+	14|20|LINK 15|16|DET 16|20|SUBJ 17|20|AUX 18|16|PQ 19|20|AUX
+	20|13|COORD 21|20|JCT 22|7|PUNCT
+*PAR:	that there are structural motivations that you can try to &f [?]
+	analyze in structure .
+%mor:	comp|that pro:exist|there cop|be&PRES adj|structural
+	n|motivate&dv-TION-PL pro:rel|that pro:per|you mod|can v|try inf|to
+	v|analyze prep|in n|structure .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|11|INF 11|9|COMP 12|11|JCT 13|12|POBJ 14|3|PUNCT
+%trn:	comp|that pro:exist|there cop|be&PRES adj|structural
+	n|motivate&dv-TION-PL pro:rel|that pro:per|you mod|can v|try inf|to
+	v|analyze prep|in n|structure .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|11|INF 11|9|COMP 12|11|JCT 13|12|POBJ 14|3|PUNCT
+*PAR:	one can try to find the explanation for the change <within the
+	inherent> [//] within the structure of language .
+%mor:	pro:indef|one mod|can v|try inf|to v|find det:art|the n|explanation
+	prep|for det:art|the n|change prep|within det:art|the n|structure
+	prep|of n|language .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|3|PUNCT
+%trn:	pro:indef|one mod|can v|try inf|to v|find det:art|the n|explanation
+	prep|for det:art|the n|change prep|within det:art|the n|structure
+	prep|of n|language .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|3|PUNCT
+*PAR:	and today even this interesting intellectual +//.
+%mor:	coord|and adv:tem|today adv|even det:dem|this adj|interesting
+	n|intellectual +//.
+%gra:	1|0|INCROOT 2|1|COORD 3|6|JCT 4|6|DET 5|6|MOD 6|2|OM 7|1|PUNCT
+%trn:	coord|and adv:tem|today adv|even det:dem|this adj|interesting
+	adj|intellectual +//.
+%grt:	1|6|LINK 2|6|JCT 3|6|JCT 4|6|DET 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*PAR:	not only was there sort_of this chronological difference between the
+	two approaches but there's even almost a cultural difference .
+%mor:	neg|not adv|only cop|be&PAST&13S adv|there adv|sort_of det:dem|this
+	adj|chronologic-AL n|difference prep|between det:art|the det:num|two
+	n|approach-PL conj|but pro:exist|there~cop|be&3S adv|even adv|almost
+	det:art|a adj|cultural n|difference .
+%gra:	1|2|NEG 2|3|JCT 3|0|ROOT 4|3|JCT 5|8|JCT 6|8|DET 7|8|MOD 8|3|PRED
+	9|8|NJCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|17|JCT 17|15|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|3|PUNCT
+%trn:	neg|not adv|only cop|be&PAST&13S pro:indef|there adv|sort_of
+	det:dem|this adj|chronologic-AL n|difference prep|between
+	det:art|the det:num|two n|approach-PL conj|but
+	pro:exist|there~cop|be&3S adv|even adv|almost det:art|a adj|cultural
+	n|difference .
+%grt:	1|2|NEG 2|3|JCT 3|0|ROOT 4|3|SUBJ 5|8|NJCT 6|8|DET 7|8|MOD 8|3|PRED
+	9|8|NJCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|15|JCT 17|15|JCT 18|20|DET 19|20|MOD 20|15|PRED 21|3|PUNCT
+*PAR:	substratum explanations still enjoy a certain degree of popularity
+	although I will admit today much less so than let's say twenty or
+	thirty years ago when I was a graduate student .
+%mor:	sub#n|stratum n|explanation-PL adv|still v|enjoy det:art|a
+	adj|certain n|degree prep|of n|popularity conj|although pro:sub|I
+	mod|will v|admit adv:tem|today adv|much adj|less adv|so prep|than
+	v|let~pro:obj|us v|say det:num|twenty coord|or det:num|thirty
+	n|year-PL post|ago conj|when pro:sub|I cop|be&PAST&13S det:art|a
+	n|graduate n|student .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|13|JCT 15|16|JCT
+	16|14|POSTMOD 17|21|JCT 18|21|JCT 19|18|POBJ 20|21|SUBJ 21|16|CMOD
+	22|25|QUANT 23|22|CONJ 24|23|COORD 25|21|OBJ 26|25|POSTMOD 27|29|LINK 28|29|SUBJ
+	29|16|CJCT 30|32|DET 31|32|MOD 32|29|PRED 33|4|PUNCT
+%trn:	sub#n|stratum n|explanation-PL adv|still v|enjoy det:art|a
+	adj|certain n|degree prep|of n|popularity conj|although pro:sub|I
+	mod|will v|admit adv:tem|today adv|much adj|less adv|so prep|than
+	v|let~pro:obj|us v|say det:num|twenty coord|or det:num|thirty
+	n|year-PL post|ago conj|when pro:sub|I cop|be&PAST&13S det:art|a
+	n|graduate n|student .
+%grt:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|13|JCT 15|16|JCT
+	16|17|JCT 17|13|JCT 18|17|JCT 19|25|XMOD 20|19|OBJ 21|19|COMP
+	22|25|QUANT 23|22|CONJ 24|23|COORD 25|18|POBJ 26|25|POSTMOD
+	27|29|LINK 28|29|SUBJ 29|25|CMOD 30|32|DET 31|32|MOD 32|29|PRED
+	33|4|PUNCT
+*PAR:	but the [//] this type of explanation enjoyed a good degree of
+	popularity especially in European scholarship .
+%mor:	conj|but det:dem|this n|type prep|of n|explanation v|enjoy-PAST
+	det:art|a adj|good n|degree prep|of n|popularity
+	adv|especial&dadj-LY prep|in n:prop|European n|scholar-SHIP .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|10|POBJ 12|6|JCT 13|6|JCT 14|15|MOD 15|13|POBJ
+	16|6|PUNCT
+%trn:	conj|but det:dem|this n|type prep|of n|explanation v|enjoy-PAST
+	det:art|a adj|good n|degree prep|of n|popularity
+	adv|especial&dadj-LY prep|in n:prop|European n|scholar-SHIP .
+%grt:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|10|POBJ 12|13|JCT 13|9|NJCT 14|15|MOD 15|13|POBJ
+	16|6|PUNCT
+*PAR:	whereas American scholarship is much more skeptical to this sort of
+	approach .
+%mor:	conj|whereas n:prop|American n|scholar-SHIP cop|be&3S adv|much
+	adv|more adj|skeptic&dn-AL prep|to det:dem|this n|sort prep|of
+	n|approach .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|JCT 7|4|PRED 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|4|PUNCT
+%trn:	conj|whereas n:prop|American n|scholar-SHIP cop|be&3S adv|much
+	adv|more adj|skeptic&dn-AL prep|to det:dem|this n|sort prep|of
+	n|approach .
+%grt:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|7|JCT 7|4|PRED 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|4|PUNCT
+*PAR:	&me whereas Europeans were [//] had a more cultural approach to
+	language change , &y &a American scholarship , especially that field
+	, that approach to linguistics known as structuralism +//.
+%mor:	conj|whereas n:prop|Europeans v|have&PAST det:art|a adv|more
+	adj|cultural n|approach prep|to n|language n|change cm|cm
+	n:prop|American n|scholar-SHIP cm|cm adv|especial&dadj-LY
+	det:dem|that n|field cm|cm det:dem|that n|approach prep|to
+	n:pt|linguistics part|know&PASTP prep|as n|structural&dadj-ISM +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|17|SUBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|7|LP 12|13|MOD 13|7|ENUM 14|13|LP 15|17|JCT
+	16|17|DET 17|3|OBJ 18|17|LP 19|20|DET 20|17|ENUM 21|20|NJCT 22|21|POBJ
+	23|20|XJCT 24|23|JCT 25|24|POBJ 26|3|PUNCT
+%trn:	conj|whereas n:prop|Europeans v|have&PAST det:art|a adv|more
+	adj|cultural n|approach prep|to n|language n|change cm|cm
+	n:prop|American n|scholar-SHIP cm|cm adv|especial&dadj-LY
+	det:dem|that n|field cm|cm det:dem|that n|approach prep|to
+	n:pt|linguistics part|know&PASTP prep|as n|structural&dadj-ISM +//.
+%grt:	1|3|LINK 2|3|SUBJ 3|13|CMOD 4|7|DET 5|6|JCT 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|3|LP 12|13|MOD 13|0|INCROOT 14|13|LP
+	15|17|NJCT 16|17|DET 17|13|APP 18|17|LP 19|20|JCT 20|17|APP
+	21|20|NJCT 22|21|POBJ 23|20|XMOD 24|23|JCT 25|24|POBJ 26|13|PUNCT
+*PAR:	which by the way has its origins in Europe and <not in> [/] not in
+	America as such .
+%mor:	pro:rel|which prep|by det:art|the n|way v|have&3S det:poss|its
+	n|origin-PL prep|in n:prop|Europe coord|and neg|not prep|in
+	n:prop|America prep|as qn|such .
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|5|CONJ 11|12|NEG 12|10|COORD 13|12|POBJ 14|15|COORD 15|12|ENUM
+	16|5|PUNCT
+%trn:	pro:rel|which prep|by det:art|the n|way v|have&3S det:poss|its
+	n|origin-PL prep|in n:prop|Europe coord|and neg|not prep|in
+	n:prop|America prep|as qn|such .
+%grt:	1|5|LINK 2|5|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|7|NJCT 9|8|POBJ 10|8|CONJ 11|12|NEG 12|10|COORD 13|12|POBJ
+	14|12|JCT 15|14|POBJ 16|5|PUNCT
+*PAR:	American structuralism basically looked at language as a mechanism
+	, as a structure .
+%mor:	n:prop|American n|structural&dadj-ISM adv|basic&dadj-AL-LY
+	v|look-PAST prep|at n|language prep|as det:art|a n|mechanism cm|cm
+	prep|as det:art|a n|structure .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|LP 11|4|JCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+%trn:	n:prop|American n|structural&dadj-ISM adv|basic&dadj-AL-LY
+	v|look-PAST prep|at n|language prep|as det:art|a n|mechanism cm|cm
+	prep|as det:art|a n|structure .
+%grt:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|7|LP 11|7|ENUM 12|13|DET 13|11|POBJ 14|4|PUNCT
+*PAR:	and changes were to be explained within the framework of that
+	structure without taking into consideration external features .
+%mor:	coord|and n|change-PL cop|be&PAST inf|to aux|be part|explain-PASTP
+	prep|within det:art|the n|framework prep|of det:dem|that n|structure
+	prep|without n:gerund|take-PRESP prep|into n|consider&dv-TION
+	adj|external n|feature-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|INF 5|6|AUX 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|JCT 14|13|POBJ 15|14|JCT
+	16|18|MOD 17|18|MOD 18|15|POBJ 19|3|PUNCT
+%trn:	coord|and n|change-PL cop|be&PAST inf|to aux|be part|explain-PASTP
+	prep|within det:art|the n|framework prep|of det:dem|that n|structure
+	prep|without n:gerund|take-PRESP prep|into n|consider&dv-TION
+	adj|external n|feature-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|INF 5|6|AUX 6|3|CPRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|JCT 14|13|POBJ 15|14|JCT
+	16|15|POBJ 17|18|MOD 18|14|OBJ 19|3|PUNCT
+*PAR:	but anyway let's look at the specific changes now .
+%mor:	conj|but co|anyway v|let~pro:obj|us v|look prep|at det:art|the
+	adj|specific n|change-PL adv:tem|now .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|JCT 11|3|PUNCT
+%trn:	conj|but co|anyway v|let~pro:obj|us v|look prep|at det:art|the
+	adj|specific n|change-PL adv:tem|now .
+%grt:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|JCT 11|3|PUNCT
+*PAR:	here I'll hafta give you some linguistic data .
+%mor:	adv|here pro:sub|I~mod|will mod|have~inf|to v|give pro:per|you
+	qn|some adj|linguistic n|data .
+%gra:	1|6|JCT 2|6|SUBJ 3|6|AUX 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ2 8|10|QUANT
+	9|10|MOD 10|6|OBJ 11|6|PUNCT
+%trn:	adv|here pro:sub|I~mod|will mod|have~inf|to v|give pro:per|you
+	qn|some adj|linguistic n|data .
+%grt:	1|6|JCT 2|6|SUBJ 3|6|AUX 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ2 8|10|QUANT
+	9|10|MOD 10|6|OBJ 11|6|PUNCT
+*PAR:	first of all &l &v let's start with a change that's quite difficult
+	in Spanish .
+%mor:	adv|first prep|of pro:indef|all v|let~pro:obj|us v|start prep|with
+	det:art|a n|change pro:rel|that~cop|be&3S adv|quite adj|difficult
+	prep|in n:prop|Spanish .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|4|OBJ 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|LINK 11|9|CMOD 12|13|JCT 13|11|PRED 14|11|JCT 15|14|POBJ
+	16|4|PUNCT
+%trn:	adv|first prep|of pro:indef|all v|let~pro:obj|us v|start prep|with
+	det:art|a n|change pro:rel|that~cop|be&3S adv|quite adj|difficult
+	prep|in n:prop|Spanish .
+%grt:	1|4|JCT 2|1|JCT 3|4|QUANT 4|0|ROOT 5|4|OBJ 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|LINK 11|9|CMOD 12|13|JCT 13|11|PRED 14|11|JCT 15|14|POBJ
+	16|4|PUNCT
+*PAR:	and look at the very technical approaches to it .
+%mor:	coord|and v|look prep|at det:art|the adv|very adj|technic-AL
+	n|approach-PL prep|to pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|7|DET 5|6|JCT 6|7|MOD 7|3|POBJ 8|7|NJCT
+	9|8|POBJ 10|2|PUNCT
+%trn:	coord|and v|look prep|at det:art|the adv|very adj|technic-AL
+	n|approach-PL prep|to pro:per|it .
+%grt:	1|2|LINK 2|0|ROOT 3|2|JCT 4|7|DET 5|6|JCT 6|7|MOD 7|3|POBJ 8|7|NJCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	there is a change in the history of Spanish whereby a number of
+	+//.
+%mor:	pro:exist|there cop|be&3S det:art|a n|change prep|in det:art|the
+	n|history prep|of n:prop|Spanish pro:rel|whereby det:art|a n|number
+	prep|of +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|12|LINK 11|12|DET 12|9|CMOD 13|12|NJCT 14|2|PUNCT
+%trn:	pro:exist|there cop|be&3S det:art|a n|change prep|in det:art|the
+	n|history prep|of n:prop|Spanish pro:rel|whereby det:art|a n|number
+	prep|of +//.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|12|LINK 11|12|DET 12|2|OM 13|12|NJCT 14|2|PUNCT
+*PAR:	there are a number of lexical items that in Latin began with a
+	sound that is represented in the Latin alphabet by what we call the
+	letter f@l .
+%mor:	pro:exist|there cop|be&PRES det:art|a n|number prep|of adj|lexical
+	n|item-PL pro:rel|that prep|in n:prop|Latin v|begin&PAST prep|with
+	det:art|a n|sound pro:rel|that aux|be&3S part|represent-PASTP
+	prep|in det:art|the n:prop|Latin n|alphabet prep|by pro:int|what
+	pro:sub|we v|call det:art|the n|letter n:let|f .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|MOD 7|5|POBJ 8|12|LINK
+	9|8|JCT 10|11|SUBJ 11|9|POBJ 12|7|NJCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|AUX 17|14|CMOD 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|17|JCT
+	23|25|LINK 24|25|SUBJ 25|22|CPOBJ 26|27|DET 27|25|OBJ 28|25|JCT
+	29|2|PUNCT
+%trn:	pro:exist|there cop|be&PRES det:art|a n|number prep|of adj|lexical
+	n|item-PL pro:rel|that prep|in n:prop|Latin v|begin&PAST prep|with
+	det:art|a adj|sound pro:rel|that aux|be&3S part|represent-PASTP
+	prep|in det:art|the n:prop|Latin n|alphabet prep|by pro:int|what
+	pro:sub|we v|call det:art|the n|letter n:let|f .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|MOD 7|5|POBJ
+	8|11|LINK 9|11|JCT 10|9|POBJ 11|7|CMOD 12|11|JCT 13|14|DET
+	14|12|POBJ 15|17|LINK 16|17|AUX 17|14|CMOD 18|17|JCT 19|21|DET
+	20|21|MOD 21|18|POBJ 22|17|JCT 23|25|LINK 24|25|SUBJ 25|22|CPOBJ
+	26|27|DET 27|25|OBJ 28|27|POSTMOD 29|2|PUNCT
+*PAR:	and therefore it is assumed and probably rightly so +//.
+%mor:	coord|and adv|therefore pro:per|it aux|be&3S part|assume-PASTP
+	coord|and adv|probable&dadj-LY adv|right&dadj-LY adv|so +//.
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|8|JCT 8|9|JCT
+	9|6|COORD 10|5|PUNCT
+%trn:	coord|and adv|therefore pro:per|it aux|be&3S part|assume-PASTP
+	coord|and adv|probable&dadj-LY adv|right&dadj-LY adv|so +//.
+%grt:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|8|JCT 8|9|JCT
+	9|6|COORD 10|5|PUNCT
+*PAR:	but I'm going to <make a slight> [/] make a slight modification to
+	this as we go along .
+%mor:	conj|but pro:sub|I~aux|be&1S part|go-PRESP inf|to v|make det:art|a
+	adj|slight n|modify&dv-TION prep|to pro:dem|this conj|as pro:sub|we
+	v|go adv|along .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|JCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|4|CJCT 15|14|JCT
+	16|4|PUNCT
+%trn:	conj|but pro:sub|I~aux|be&1S part|go-PRESP inf|to v|make det:art|a
+	adj|slight n|modify&dv-TION prep|to pro:dem|this conj|as pro:sub|we
+	v|go adv|along .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|6|CJCT
+	15|14|JCT 16|4|PUNCT
+*PAR:	it's assumed <that &-uh> [/] that that letter f@l in [/] &ro in
+	Latin on the basis of the Romance languages today represented
+	basically the same sound as it does today in the Romance languages .
+%mor:	pro:per|it~aux|be&3S part|assume-PASTP comp|that det:dem|that
+	n|letter n:let|f prep|in n:prop|Latin prep|on det:art|the n|basis
+	prep|of det:art|the n:prop|Romance n|language-PL adv:tem|today
+	v|represent-PAST adv|basic&dadj-AL-LY det:art|the adj|same n|sound
+	conj|as pro:per|it v|do&3S adv:tem|today prep|in det:art|the
+	n:prop|Romance n|language-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|18|LINK 5|6|DET 6|18|SUBJ 7|18|XJCT 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|SUBJ 18|3|COMP 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|25|LINK 24|25|SUBJ 25|18|CJCT 26|25|JCT 27|25|JCT 28|30|DET 29|30|MOD
+	30|27|POBJ 31|3|PUNCT
+%trn:	pro:per|it~aux|be&3S part|assume-PASTP comp|that det:dem|that
+	n|letter n:let|f prep|in n:prop|Latin prep|on det:art|the n|basis
+	prep|of det:art|the n:prop|Romance n|language-PL adv:tem|today
+	v|represent-PAST adv|basic&dadj-AL-LY det:art|the adj|same n|sound
+	conj|as pro:per|it v|do&3S adv:tem|today prep|in det:art|the
+	n:prop|Romance n|language-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|6|DET 6|18|SUBJ 7|6|POSTMOD
+	8|6|NJCT 9|8|POBJ 10|18|JCT 11|12|DET 12|10|POBJ 13|12|NJCT
+	14|16|DET 15|16|MOD 16|13|POBJ 17|16|NJCT 18|3|COMP 19|22|NJCT
+	20|22|DET 21|22|MOD 22|18|OBJ 23|25|LINK 24|25|SUBJ 25|22|CMOD
+	26|25|JCT 27|25|JCT 28|30|DET 29|30|MOD 30|27|POBJ 31|3|PUNCT
+*PAR:	and even in English that it is what is known if you've had some
+	phonetics as a voiceless labiodental fricative .
+%mor:	coord|and adv|even prep|in n:prop|English pro:rel|that pro:per|it
+	cop|be&3S pro:int|what aux|be&3S part|know&PASTP conj|if
+	pro:per|you~aux|have part|have&PASTP qn|some n:pt|phonetics prep|as
+	det:art|a adj|voice&dn-LESS adj|labiodental adj|fricative .
+%gra:	1|11|LINK 2|11|JCT 3|2|JCT 4|3|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|10|LINK 9|10|AUX 10|7|CPRED 11|14|LINK 12|14|SUBJ 13|14|AUX 14|0|ROOT
+	15|16|QUANT 16|14|OBJ 17|14|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|20|PRED
+	22|14|PUNCT
+%trn:	coord|and adv|even prep|in n:prop|English comp|that pro:per|it
+	cop|be&3S pro:int|what aux|be&3S part|know&PASTP conj|if
+	pro:per|you~aux|have part|have&PASTP qn|some n:pt|phonetics prep|as
+	det:art|a adj|voice&dn-LESS adj|labiodental adj|fricative .
+%grt:	1|7|LINK 2|3|JCT 3|7|JCT 4|3|POBJ 5|7|LINK 6|7|SUBJ 7|0|ROOT
+	8|10|LINK 9|10|AUX 10|7|CPRED 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|COMP
+	15|16|QUANT 16|14|OBJ 17|10|JCT 18|21|DET 19|21|MOD 20|21|MOD
+	21|17|POBJ 22|7|PUNCT
+*PAR:	okay so it's a voiceless labiodental fricative .
+%mor:	co|okay co|so pro:per|it~cop|be&3S det:art|a adj|voice&dn-LESS
+	adj|labiodental adj|fricative .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|PRED
+	9|4|PUNCT
+%trn:	co|okay adv|so pro:per|it~cop|be&3S det:art|a adj|voice&dn-LESS
+	adj|labiodental adj|fricative .
+%grt:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|PRED
+	9|4|PUNCT
+*PAR:	&=pause_while_writing again for those of you who haven't had any
+	linguistics don't worry about this .
+%mor:	adv:tem|again prep|for pro:dem|those prep|of pro:per|you pro:rel|who
+	aux|have~neg|not part|have&PASTP qn|any n:pt|linguistics
+	mod|do~neg|not v|worry prep|about pro:dem|this .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|3|NJCT 5|4|POBJ 6|9|LINK 7|9|AUX 8|7|NEG
+	9|5|CMOD 10|11|QUANT 11|14|SUBJ 12|14|AUX 13|12|NEG 14|9|COMP 15|14|JCT
+	16|15|POBJ 17|2|PUNCT
+%trn:	adv:tem|again prep|for pro:dem|those prep|of pro:per|you pro:rel|who
+	aux|have~neg|not part|have&PASTP qn|any n:pt|linguistics
+	mod|do~neg|not v|worry prep|about pro:dem|this .
+%grt:	1|14|JCT 2|14|JCT 3|2|POBJ 4|3|NJCT 5|4|POBJ 6|9|LINK 7|9|AUX 8|7|NEG
+	9|3|CMOD 10|11|QUANT 11|9|OBJ 12|14|AUX 13|12|NEG 14|0|ROOT
+	15|14|JCT 16|15|POBJ 17|14|PUNCT
+*PAR:	if you've had linguistics you know what I mean .
+%mor:	conj|if pro:per|you~aux|have part|have&PASTP n:pt|linguistics
+	pro:per|you v|know pro:int|what pro:sub|I v|mean .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|7|CJCT 5|4|OBJ 6|7|SUBJ 7|0|ROOT 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|7|PUNCT
+%trn:	conj|if pro:per|you~aux|have part|have&PASTP n:pt|linguistics
+	pro:per|you v|know pro:int|what pro:sub|I v|mean .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|7|CJCT 5|4|OBJ 6|7|SUBJ 7|0|ROOT 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|7|PUNCT
+*PAR:	labiodental@q refers to the point of articulation .
+%mor:	meta|labiodental v|refer-3S prep|to det:art|the n|point prep|of
+	n|articulate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+%trn:	meta|labiodental v|refer-3S prep|to det:art|the n|point prep|of
+	n|articulate&dv-TION .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*PAR:	that is the sound is made by the teeth touching the lips , in this
+	case the upper teeth touching the lower lips .
+%mor:	pro:dem|that cop|be&3S det:art|the n|sound aux|be&3S
+	part|make&PASTP prep|by det:art|the n|tooth&PL part|touch-PRESP
+	det:art|the n|lip-PL cm|cm prep|in det:dem|this n|case det:art|the
+	adj|upper n|tooth&PL part|touch-PRESP det:art|the adj|low-CP
+	n|lip-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|AUX 6|2|CPRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|XJCT 11|12|DET 12|10|OBJ 13|12|LP 14|12|NJCT 15|16|DET
+	16|14|POBJ 17|19|DET 18|19|MOD 19|14|POBJ 20|19|XMOD 21|23|DET 22|23|MOD
+	23|20|OBJ 24|2|PUNCT
+%trn:	pro:dem|that cop|be&3S det:art|the n|sound aux|be&3S
+	part|make&PASTP prep|by det:art|the n|tooth&PL part|touch-PRESP
+	det:art|the n|lip-PL cm|cm prep|in det:dem|this n|case det:art|the
+	adj|upper n|tooth&PL part|touch-PRESP det:art|the adj|low-CP
+	n|lip-PL .
+%grt:	1|2|SUBJ 2|6|CJCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|XMOD 11|12|DET 12|10|OBJ 13|9|LP 14|19|NJCT 15|16|DET
+	16|14|POBJ 17|19|DET 18|19|MOD 19|9|APP 20|19|XMOD 21|23|DET
+	22|23|MOD 23|20|OBJ 24|6|PUNCT
+*PAR:	voiceless@q means the vocal cords do not vibrate so there's no
+	audible vibration .
+%mor:	meta|voiceless v|mean-3S det:art|the adj|vocal n|cord-PL v|do
+	neg|not v|vibrate adv|so pro:exist|there~cop|be&3S qn|no adj|audible
+	n|vibrate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|6|SUBJ 6|2|COMP 7|8|NEG 8|6|COMP
+	9|11|JCT 10|11|SUBJ 11|8|COMP 12|14|QUANT 13|14|MOD 14|11|PRED 15|2|PUNCT
+%trn:	meta|voiceless v|mean-3S det:art|the adj|vocal n|cord-PL v|do
+	neg|not v|vibrate conj|so pro:exist|there~cop|be&3S qn|no
+	adj|audible n|vibrate&dv-TION .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|COMP
+	9|11|LINK 10|11|SUBJ 11|8|CJCT 12|14|QUANT 13|14|MOD 14|11|PRED
+	15|2|PUNCT
+*PAR:	and fricative@q &de &de describes &th the [//] how the air actually
+	passes through the point of contact .
+%mor:	coord|and meta|fricative v|describe-3S pro:int|how det:art|the
+	n|air adv|actual&dadj-LY v|pass-3S prep|through det:art|the n|point
+	prep|of n|contact .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|JCT 8|3|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+%trn:	coord|and meta|fricative v|describe-3S pro:int|how det:art|the
+	n|air adv|actual&dadj-LY v|pass-3S prep|through det:art|the n|point
+	prep|of n|contact .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|JCT 8|3|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+*PAR:	that it actually rubs +//.
+%mor:	comp|that pro:per|it adv|actual&dadj-LY n|rub-PL +//.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+%trn:	comp|that pro:per|it adv|actual&dadj-LY v|rub-3S +//.
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAR:	there's friction .
+%mor:	pro:exist|there~cop|be&3S n|friction .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S n|friction .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	now there are a number of words .
+%mor:	adv:tem|now pro:exist|there cop|be&PRES det:art|a n|number prep|of
+	n|word-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+%trn:	adv:tem|now pro:exist|there cop|be&PRES det:art|a n|number prep|of
+	n|word-PL .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	not every one of these words +...
+%mor:	neg|not qn|every pro:indef|one prep|of det:dem|these n|word-PL +...
+%gra:	1|2|NEG 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%trn:	neg|not qn|every pro:indef|one prep|of det:dem|these n|word-PL
+	+...
+%grt:	1|2|NEG 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	I'm not going to go into the issue here of the regularity of sound
+	change and why some &a [/] &wh &a items of structure show this
+	change and others don't .
+%mor:	pro:sub|I~aux|be&1S neg|not part|go-PRESP inf|to v|go prep|into
+	det:art|the n|issue adv|here prep|of det:art|the n|regularity
+	prep|of n|sound n|change coord|and pro:int|why qn|some n|item-PL
+	prep|of n|structure n|show det:dem|this n|change coord|and
+	n:pt|others mod|do~neg|not .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|JCT 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|MOD
+	16|14|POBJ 17|6|CONJ 18|20|LINK 19|20|QUANT 20|25|CSUBJ 21|20|NJCT 22|23|MOD
+	23|21|POBJ 24|25|DET 25|17|COORD 26|25|CONJ 27|26|COORD 28|27|INCROOT
+	29|28|NEG 30|28|PUNCT
+%trn:	pro:sub|I~aux|be&1S neg|not part|go-PRESP inf|to v|go prep|into
+	det:art|the n|issue adv|here prep|of det:art|the n|regularity
+	prep|of n|sound n|change coord|and pro:int|why qn|some n|item-PL
+	prep|of n|structure v|show det:dem|this n|change coord|and
+	n:pt|others mod|do~neg|not .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|9|NJCT 12|13|DET 13|11|POBJ 14|13|NJCT
+	15|16|MOD 16|14|POBJ 17|13|CONJ 18|23|LINK 19|20|QUANT 20|23|SUBJ
+	21|20|NJCT 22|21|POBJ 23|17|COORD 24|25|DET 25|23|OBJ 26|28|LINK
+	27|28|SUBJ 28|23|CJCT 29|28|NEG 30|4|PUNCT
+*PAR:	I'm only going to give you three or four examples but take my word
+	for it .
+%mor:	pro:sub|I~aux|be&1S adv|only part|go-PRESP inf|to v|give
+	pro:per|you det:num|three coord|or det:num|four n|example-PL
+	conj|but v|take det:poss|my n|word prep|for pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|11|QUANT
+	9|8|CONJ 10|9|COORD 11|6|OBJ 12|4|CONJ 13|12|COORD 14|15|DET 15|13|OBJ
+	16|13|JCT 17|16|POBJ 18|4|PUNCT
+%trn:	pro:sub|I~aux|be&1S adv|only part|go-PRESP inf|to v|give
+	pro:per|you det:num|three coord|or det:num|four n|example-PL
+	conj|but v|take det:poss|my n|word prep|for pro:per|it .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ2
+	8|11|QUANT 9|8|CONJ 10|9|COORD 11|6|OBJ 12|13|LINK 13|4|XJCT
+	14|15|DET 15|13|OBJ 16|13|JCT 17|16|POBJ 18|4|PUNCT
+*PAR:	there are dozens more I could give but let's just use three or four
+	as the you_know representative sample of the entire thing .
+%mor:	pro:exist|there cop|be&PRES n|dozen-PL post|more pro:sub|I
+	mod|could v|give conj|but v|let~pro:obj|us adv|just v|use
+	det:num|three coord|or det:num|four prep|as det:art|the co|you_know
+	adj|representative n|sample prep|of det:art|the adj|entire n|thing .
+%gra:	1|2|SUBJ 2|7|CJCT 3|2|PRED 4|3|PQ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|CONJ
+	9|8|COORD 10|9|OBJ 11|12|JCT 12|9|COMP 13|12|OBJ 14|13|CONJ 15|14|COORD
+	16|12|JCT 17|20|DET 18|20|COM 19|20|MOD 20|16|POBJ 21|20|NJCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|7|PUNCT
+%trn:	pro:exist|there cop|be&PRES n|dozen-PL post|more pro:sub|I mod|could
+	v|give conj|but v|let~pro:obj|us adv|just v|use det:num|three
+	coord|or det:num|four prep|as det:art|the co|you_know
+	adj|representative n|sample prep|of det:art|the adj|entire n|thing .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|9|LINK 9|2|XJCT 10|9|OBJ 11|12|JCT 12|9|COMP 13|12|OBJ 14|13|CONJ
+	15|14|COORD 16|12|JCT 17|20|DET 18|20|COM 19|20|MOD 20|16|POBJ
+	21|20|NJCT 22|24|DET 23|24|MOD 24|21|POBJ 25|2|PUNCT
+*PAR:	so ‡ you have this Latin word .
+%mor:	co|so beg|beg pro:per|you v|have det:dem|this n:prop|Latin n|word .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%trn:	co|so beg|beg pro:per|you v|have pro:dem|this n:prop|Latin n|word .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	this is the verb to_make@q or to_do@q in Latin , facere@s:lat .
+%mor:	pro:dem|this cop|be&3S det:art|the n|verb meta|to_make coord|or
+	meta|to_do prep|in n:prop|Latin cm|cm L2|facere .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|5|CONJ 7|6|COORD 8|7|NJCT
+	9|8|POBJ 10|7|LP 11|7|ENUM 12|2|PUNCT
+%trn:	pro:dem|this cop|be&3S det:art|the n|verb meta|to_make coord|or
+	meta|to_do prep|in n:prop|Latin cm|cm L2|facere .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|POSTMOD 6|5|CONJ 7|6|COORD
+	8|4|NJCT 9|8|POBJ 10|4|LP 11|4|APP 12|2|PUNCT
+*PAR:	if you can't read my writing and want me to spell any of these out
+	for you just don't hesitate to ask .
+%mor:	conj|if pro:per|you mod|can~neg|not v|read&ZERO det:poss|my
+	n:gerund|write-PRESP coord|and v|want pro:obj|me inf|to v|spell
+	qn|any prep|of pro:dem|these adv|out prep|for pro:per|you adv|just
+	mod|do~neg|not v|hesitate inf|to v|ask .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|9|OBJ 11|12|INF 12|9|COMP 13|12|OBJ 14|13|NJCT 15|14|POBJ
+	16|12|JCT 17|12|JCT 18|17|POBJ 19|22|JCT 20|22|AUX 21|20|NEG 22|12|CJCT
+	23|24|INF 24|22|COMP 25|5|PUNCT
+%trn:	conj|if pro:per|you mod|can~neg|not v|read&ZERO det:poss|my
+	n:gerund|write-PRESP coord|and v|want pro:obj|me inf|to v|spell
+	qn|any prep|of pro:dem|these adv|out prep|for pro:per|you adv|just
+	mod|do~neg|not v|hesitate inf|to v|ask .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|22|CJCT 6|7|DET 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|9|OBJ 11|12|INF 12|9|COMP 13|12|OBJ 14|13|JCT 15|14|POBJ
+	16|12|JCT 17|12|JCT 18|17|POBJ 19|22|JCT 20|22|AUX 21|20|NEG
+	22|0|ROOT 23|24|INF 24|22|COMP 25|22|PUNCT
+*PAR:	let's take this Latin word , the Latin word filius@s:lat .
+%mor:	v|let~pro:obj|us v|take det:dem|this n:prop|Latin n|word cm|cm
+	det:art|the n:prop|Latin n|word L2|filius .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|DET 5|6|MOD 6|3|OBJ 7|1|LP 8|10|DET
+	9|10|MOD 10|1|OBJ 11|10|POSTMOD 12|1|PUNCT
+%trn:	v|let~pro:obj|us v|take det:dem|this n:prop|Latin n|word cm|cm
+	det:art|the n:prop|Latin n|word L2|filius .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|6|DET 5|6|MOD 6|3|OBJ 7|6|LP 8|10|DET
+	9|10|MOD 10|6|APP 11|10|POSTMOD 12|1|PUNCT
+*PAR:	this is the word for son , the male child alright , the word for
+	son .
+%mor:	pro:dem|this cop|be&3S det:art|the n|word prep|for n|son cm|cm
+	det:art|the adj|male n|child co|alright cm|cm det:art|the n|word
+	prep|for n|son .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|6|LP 8|10|DET
+	9|10|MOD 10|4|APP 11|14|COM 12|11|LP 13|14|DET 14|10|CMOD 15|14|NJCT
+	16|15|POBJ 17|2|PUNCT
+%trn:	pro:dem|this cop|be&3S det:art|the n|word prep|for n|son cm|cm
+	det:art|the adj|male n|child co|alright cm|cm det:art|the n|word
+	prep|for n|son .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|6|LP 8|10|DET
+	9|10|MOD 10|6|APP 11|10|COM 12|10|LP 13|14|DET 14|4|ENUM
+	15|14|NJCT 16|15|POBJ 17|2|PUNCT
+*PAR:	this word here folia@s:lat is a Latin word for a leaf like a leaf
+	on a tree .
+%mor:	det:dem|this n|word adv|here L2|folia cop|be&3S det:art|a
+	n:prop|Latin n|word prep|for det:art|a n|leaf prep|like det:art|a
+	n|leaf prep|on det:art|a n|tree .
+%gra:	1|2|DET 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|8|NJCT 13|14|DET 14|12|POBJ 15|8|NJCT
+	16|17|DET 17|15|POBJ 18|5|PUNCT
+%trn:	det:dem|this n|word adv|here L2|folia cop|be&3S det:art|a
+	n:prop|Latin n|word prep|for det:art|a n|leaf prep|like det:art|a
+	n|leaf prep|on det:art|a n|tree .
+%grt:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|2|APP 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|14|NJCT 16|17|DET 17|15|POBJ 18|5|PUNCT
+*PAR:	and this word here fabulari@s:lat +//.
+%mor:	coord|and det:dem|this n|word adv|here L2|fabulari +//.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+%trn:	coord|and det:dem|this n|word adv|here L2|fabulari +//.
+%grt:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|3|APP 6|3|PUNCT
+*PAR:	and I'll write it in its classical form although this is not the
+	immediate form that would underlie the Romance form that I want to
+	talk about .
+%mor:	coord|and pro:sub|I~mod|will v|write pro:per|it prep|in
+	det:poss|its adj|classic-AL n|form conj|although pro:dem|this
+	cop|be&3S neg|not det:art|the adj|immediate n|form pro:rel|that
+	mod|will&COND under#v|lie det:art|the n:prop|Romance n|form
+	pro:rel|that pro:sub|I v|want inf|to v|talk adv|about .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|LINK 11|12|SUBJ 12|4|CJCT 13|12|NEG 14|16|DET 15|16|MOD
+	16|12|PRED 17|19|LINK 18|19|AUX 19|16|CMOD 20|22|DET 21|22|MOD 22|19|OBJ
+	23|25|LINK 24|25|SUBJ 25|22|CMOD 26|27|INF 27|25|COMP 28|27|JCT 29|4|PUNCT
+%trn:	coord|and pro:sub|I~mod|will v|write pro:per|it prep|in
+	det:poss|its adj|classic-AL n|form conj|although pro:dem|this
+	cop|be&3S neg|not det:art|the adj|immediate n|form pro:rel|that
+	mod|will&COND under#v|lie det:art|the n:prop|Romance n|form
+	pro:rel|that pro:sub|I v|want inf|to v|talk prep|about .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|LINK 11|12|SUBJ 12|4|CJCT 13|12|NEG 14|16|DET
+	15|16|MOD 16|12|PRED 17|19|LINK 18|19|AUX 19|16|CMOD 20|22|DET
+	21|22|MOD 22|19|OBJ 23|25|LINK 24|25|SUBJ 25|22|CMOD 26|27|INF
+	27|25|COMP 28|27|JCT 29|4|PUNCT
+*PAR:	this is the verb that meant to_speak@q or to_talk@q .
+%mor:	pro:dem|this cop|be&3S det:art|the n|verb pro:rel|that v|mean&PAST
+	meta|to_speak coord|or meta|to_talk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|6|OBJ 8|7|CONJ
+	9|8|COORD 10|2|PUNCT
+%trn:	pro:dem|this cop|be&3S det:art|the n|verb pro:rel|that v|mean&PAST
+	meta|to_speak coord|or meta|to_talk .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|6|OBJ 8|7|CONJ
+	9|8|COORD 10|2|PUNCT
+*PAR:	alright originally you could tell fables to tell tales etcetera
+	okay ?
+%mor:	co|alright adv|origin&dadj-AL-LY pro:per|you mod|could v|tell
+	n|fable-PL inf|to v|tell n|tale-PL adv|etcetera co|okay ?
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|COMP
+	9|8|OBJ 10|11|JCT 11|8|COM 12|5|PUNCT
+%trn:	co|alright adv|origin&dadj-AL-LY pro:per|you mod|could v|tell
+	n|fable-PL inf|to v|tell n|tale-PL adv|etcetera co|okay ?
+%grt:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|XJCT
+	9|8|OBJ 10|9|NJCT 11|5|COM 12|5|PUNCT
+*PAR:	we have these four .
+%mor:	pro:sub|we v|have det:dem|these det:num|four .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%trn:	pro:sub|we v|have det:dem|these det:num|four .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	now in Spanish +//.
+%mor:	adv:tem|now prep|in n:prop|Spanish +//.
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%trn:	adv:tem|now prep|in n:prop|Spanish +//.
+%grt:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|2|PUNCT
+*PAR:	and especially it's , when I say in Spanish , in only one of the
+	[/] the varieties of Hispano_Romance , actually the variety that
+	became the standard of what we call Spanish .
+%mor:	coord|and adv|especial&dadj-LY pro:per|it~cop|be&3S cm|cm conj|when
+	pro:sub|I v|say prep|in n:prop|Spanish cm|cm prep|in qn|only
+	pro:indef|one prep|of det:art|the n|variety-PL prep|of
+	n:prop|Hispano_Romance cm|cm adv|actual&dadj-LY det:art|the
+	n|variety pro:rel|that cop|become&PAST det:art|the n|standard
+	prep|of pro:int|what pro:sub|we v|call n:prop|Spanish .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|LP 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|JCT 10|9|POBJ 11|8|LP 12|8|JCT 13|14|QUANT 14|12|POBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|18|POBJ 20|8|LP 21|8|JCT 22|23|DET
+	23|21|POBJ 24|25|LINK 25|23|CMOD 26|27|DET 27|25|PRED 28|27|NJCT 29|31|LINK
+	30|31|SUBJ 31|28|CPOBJ 32|31|OBJ 33|4|PUNCT
+%trn:	coord|and adv|especial&dadj-LY pro:per|it~cop|be&3S cm|cm conj|when
+	pro:sub|I v|say prep|in n:prop|Spanish cm|cm prep|in qn|only
+	pro:indef|one prep|of det:art|the n|variety-PL prep|of
+	n:prop|Hispano_Romance cm|cm adv|actual&dadj-LY det:art|the
+	n|variety pro:rel|that cop|become&PAST det:art|the n|standard
+	prep|of pro:int|what pro:sub|we v|call n:prop|Spanish .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|LP 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|JCT 10|9|POBJ 11|8|LP 12|4|JCT 13|14|QUANT 14|12|POBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|18|POBJ 20|14|LP 21|23|NJCT
+	22|23|DET 23|14|APP 24|25|LINK 25|23|CMOD 26|27|DET 27|25|PRED
+	28|27|NJCT 29|31|LINK 30|31|SUBJ 31|28|CPOBJ 32|31|OBJ 33|4|PUNCT
+*PAR:	but strictly speaking if I really want to be strict about the
+	dilution say in Spanish then I should really say in Castilian , i_e
+	in that particular variety of Hispano_Romance known as Castilian ,
+	(be)cause there did exist other varieties .
+%mor:	conj|but adv|strict&dadj-LY part|speak-PRESP conj|if pro:sub|I
+	adv|real&dadj-LY v|want inf|to cop|be adj|strict prep|about
+	det:art|the n|dilute&dv-TION co|say prep|in n:prop|Spanish
+	adv:tem|then pro:sub|I mod|should adv|real&dadj-LY v|say prep|in
+	n:prop|Castilian cm|cm conj|i_e prep|in det:dem|that adj|particular
+	n|variety prep|of n:prop|Hispano_Romance part|know&PASTP prep|as
+	n:prop|Castilian cm|cm conj|because pro:exist|there mod|do&PAST
+	v|exist qn|other n|variety-PL .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|JCT 7|3|CJCT 8|9|INF
+	9|7|COMP 10|9|PRED 11|9|JCT 12|13|DET 13|11|POBJ 14|21|COM 15|21|JCT
+	16|15|POBJ 17|21|JCT 18|21|SUBJ 19|21|AUX 20|21|JCT 21|13|POSTMOD 22|21|JCT
+	23|22|POBJ 24|7|LP 25|32|LINK 26|32|JCT 27|29|DET 28|29|MOD 29|26|POBJ
+	30|29|NJCT 31|30|POBJ 32|7|XJCT 33|32|JCT 34|33|POBJ 35|32|LP 36|39|LINK
+	37|39|SUBJ 38|39|AUX 39|32|CJCT 40|41|QUANT 41|39|OBJ 42|3|PUNCT
+%trn:	conj|but adv|strict&dadj-LY part|speak-PRESP conj|if pro:sub|I
+	adv|real&dadj-LY v|want inf|to cop|be adj|strict prep|about
+	det:art|the n|dilute&dv-TION co|say prep|in n:prop|Spanish
+	adv:tem|then pro:sub|I mod|should adv|real&dadj-LY v|say prep|in
+	n:prop|Castilian cm|cm conj|i_e prep|in det:dem|that adj|particular
+	n|variety prep|of n:prop|Hispano_Romance part|know&PASTP prep|as
+	n:prop|Castilian cm|cm conj|because pro:exist|there mod|do&PAST
+	v|exist qn|other n|variety-PL .
+%grt:	1|21|LINK 2|3|JCT 3|21|XJCT 4|7|LINK 5|7|SUBJ 6|7|JCT 7|21|CJCT
+	8|9|INF 9|7|COMP 10|9|PRED 11|10|JCT 12|13|DET 13|11|POBJ 14|13|COM
+	15|13|NJCT 16|15|POBJ 17|21|JCT 18|21|SUBJ 19|21|AUX 20|21|JCT
+	21|0|ROOT 22|21|JCT 23|22|POBJ 24|22|LP 25|26|COM 26|22|APP
+	27|29|DET 28|29|MOD 29|26|POBJ 30|29|NJCT 31|30|POBJ 32|31|XMOD
+	33|32|JCT 34|33|POBJ 35|26|LP 36|39|LINK 37|39|SUBJ 38|39|AUX
+	39|21|CJCT 40|41|QUANT 41|39|PRED 42|21|PUNCT
+*PAR:	why Castilian became the norm as a national language is actually an
+	issue perhaps worth mentioning within this broader framework but not
+	today .
+%mor:	pro:int|why n:prop|Castilian cop|become&PAST det:art|the n|norm
+	prep|as det:art|a adj|nation&dn-AL n|language cop|be&3S
+	adv|actual&dadj-LY det:art|a n|issue adv|perhaps adj|worth
+	part|mention-PRESP prep|within det:dem|this adj|broad-CP n|framework
+	conj|but neg|not adv:tem|today .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|15|JCT 15|13|POSTMOD
+	16|15|XMOD 17|16|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|15|CONJ 22|23|NEG
+	23|21|COORD 24|3|PUNCT
+%trn:	pro:int|why n:prop|Castilian cop|become&PAST det:art|the n|norm
+	prep|as det:art|a adj|nation&dn-AL n|language cop|be&3S
+	adv|actual&dadj-LY det:art|a n|issue adv|perhaps adj|worth
+	n:gerund|mention-PRESP prep|within det:dem|this adj|broad-CP
+	n|framework conj|but neg|not adv:tem|today .
+%grt:	1|3|JCT 2|3|SUBJ 3|10|CSUBJ 4|5|DET 5|3|PRED 6|5|NJCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|0|ROOT 11|10|JCT 12|13|DET 13|10|PRED 14|15|JCT
+	15|13|POSTMOD 16|15|POSTMOD 17|16|NJCT 18|20|DET 19|20|MOD
+	20|17|POBJ 21|23|LINK 22|23|NEG 23|16|NJCT 24|10|PUNCT
+*PAR:	maybe next class .
+%mor:	adv|maybe adj|next n|class .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%trn:	adv|maybe adj|next n|class .
+%grt:	1|3|NJCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	<let me write> [//] I'm going to write the modern forms instead_of
+	the medieval forms .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|write det:art|the
+	adj|modern n|form-PL prep|instead_of det:art|the adj|medieval
+	n|form-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|3|PUNCT
+%trn:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|write det:art|the
+	adj|modern n|form-PL prep|instead_of det:art|the adj|medieval
+	n|form-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|3|PUNCT
+*PAR:	this word , the word facere@s:lat , gives you the [//] &la in
+	Spanish +//.
+%mor:	det:dem|this n|word cm|cm det:art|the n|word L2|facere cm|cm
+	v|give-3S pro:per|you prep|in n:prop|Spanish +//.
+%gra:	1|2|DET 2|8|JCT 3|2|LP 4|5|DET 5|8|SUBJ 6|5|POSTMOD 7|6|LP 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|8|PUNCT
+%trn:	det:dem|this n|word cm|cm det:art|the n|word L2|facere cm|cm
+	v|give-3S pro:per|you prep|in n:prop|Spanish +//.
+%grt:	1|2|DET 2|8|SUBJ 3|2|LP 4|5|DET 5|3|APP 6|5|POSTMOD 7|5|LP 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|8|PUNCT
+*PAR:	and again many of you will know these words .
+%mor:	coord|and adv:tem|again pro:indef|many prep|of pro:per|you mod|will
+	v|know det:dem|these n|word-PL .
+%gra:	1|7|LINK 2|7|JCT 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+%trn:	coord|and adv:tem|again pro:indef|many prep|of pro:per|you mod|will
+	v|know det:dem|these n|word-PL .
+%grt:	1|7|LINK 2|7|JCT 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	gives you this verb hacer@s:spa <with an h@l> [//] spelled with an
+	h@l which is not pronounced today .
+%mor:	v|give-3S pro:per|you det:dem|this n|verb L2|hacer part|spell-PASTP
+	prep|with det:art|a n:let|h pro:rel|which aux|be&3S neg|not
+	part|pronounce-PASTP adv:tem|today .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|AUX 12|11|NEG 13|9|CMOD 14|13|JCT 15|1|PUNCT
+%trn:	v|give-3S pro:per|you det:dem|this n|verb L2|hacer part|spell-PASTP
+	prep|with det:art|a n:let|h pro:rel|which aux|be&3S neg|not
+	part|pronounce-PASTP adv:tem|today .
+%grt:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ2 5|4|POSTMOD 6|5|XMOD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|13|LINK 11|13|AUX 12|13|NEG 13|9|XMOD
+	14|13|JCT 15|1|PUNCT
+*PAR:	the h@l is simply an orthographic relic .
+%mor:	det:art|the n:let|h cop|be&3S adv|simple&dadj-LY det:art|a
+	adj|orthographic n|relic .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+%trn:	det:art|the n:let|h cop|be&3S adv|simple&dadj-LY det:art|a
+	adj|orthographic n|relic .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|3|PRED 8|3|PUNCT
+*PAR:	<but as you> [//] but for those who have studied Spanish the [/] &h
+	the initial h@l in Spanish is completely silent .
+%mor:	conj|but prep|for det:dem|those pro:rel|who aux|have
+	part|study-PASTP n:prop|Spanish det:art|the adj|initial n:let|h
+	prep|in n:prop|Spanish cop|be&3S adv|complete&dadj-LY adj|silent .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|13|SUBJ
+	8|9|DET 9|13|JCT 10|13|SUBJ 11|10|NJCT 12|11|POBJ 13|6|COMP 14|15|JCT
+	15|13|PRED 16|1|PUNCT
+%trn:	conj|but prep|for det:dem|those pro:rel|who aux|have
+	part|study-PASTP n:prop|Spanish det:art|the adj|initial n:let|h
+	prep|in n:prop|Spanish cop|be&3S adv|complete&dadj-LY adj|silent .
+%grt:	1|13|LINK 2|13|JCT 3|2|POBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|OBJ
+	8|10|DET 9|10|MOD 10|13|SUBJ 11|10|NJCT 12|11|POBJ 13|0|ROOT
+	14|15|JCT 15|13|PRED 16|13|PUNCT
+*PAR:	it has no phonetic value whatsoever .
+%mor:	pro:per|it v|have&3S qn|no adj|phonetic n|value
+	pro:indef|whatsoever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|OBJ 6|5|POSTMOD 7|2|PUNCT
+%trn:	pro:per|it v|have&3S qn|no adj|phonetic n|value
+	pro:indef|whatsoever .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|OBJ 6|5|POSTMOD 7|2|PUNCT
+*PAR:	it's a holdover .
+%mor:	pro:per|it~cop|be&3S det:art|a n|+v|hold+prep|over .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%trn:	pro:per|it~cop|be&3S det:art|a n|+v|hold+prep|over .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	it's a relic .
+%mor:	pro:per|it~cop|be&3S det:art|a n|relic .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%trn:	pro:per|it~cop|be&3S det:art|a n|relic .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	it's now today just there to cause confusion and make your life
+	miserable .
+%mor:	pro:per|it~cop|be&3S adv:tem|now adv:tem|today adv|just adv|there
+	inf|to v|cause n|confusion coord|and v|make det:poss|your n|life
+	adj|miserable .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|6|JCT 6|2|JCT 7|8|INF 8|2|XJCT
+	9|8|OBJ 10|8|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|13|POSTMOD 15|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adv:tem|now adv:tem|today adv|just adv|there
+	inf|to v|cause n|confusion coord|and v|make det:poss|your n|life
+	adj|miserable .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|JCT 6|2|JCT 7|8|INF 8|6|XJCT
+	9|8|OBJ 10|8|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|13|POSTMOD
+	15|2|PUNCT
+*PAR:	the word for son is this word pronounced ixo@k .
+%mor:	det:art|the n|word prep|for n|son cop|be&3S det:dem|this n|word
+	part|pronounce-PASTP n:let|ixo .
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|XMOD
+	9|8|OBJ 10|5|PUNCT
+%trn:	det:art|the n|word prep|for n|son cop|be&3S det:dem|this n|word
+	part|pronounce-PASTP n:let|ixo .
+%grt:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|XMOD
+	9|8|OBJ 10|5|PUNCT
+*PAR:	the word for leaf is this word pronounced oxa@k .
+%mor:	det:art|the n|word prep|for n|leaf cop|be&3S det:dem|this n|word
+	part|pronounce-PASTP n:let|oxa .
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|XMOD
+	9|8|OBJ 10|5|PUNCT
+%trn:	det:art|the n|word prep|for n|leaf cop|be&3S det:dem|this n|word
+	part|pronounce-PASTP n:let|oxa .
+%grt:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|XMOD
+	9|8|OBJ 10|5|PUNCT
+*PAR:	and the verb to_speak@q or to_talk@q is this verb hablar@s:spa .
+%mor:	coord|and det:art|the n|verb meta|to_speak coord|or meta|to_talk
+	cop|be&3S det:dem|this n|verb L2|hablar .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|7|SUBJ 5|4|CONJ 6|5|COORD 7|0|ROOT 8|9|DET
+	9|10|MOD 10|7|PRED 11|7|PUNCT
+%trn:	coord|and det:art|the n|verb meta|to_speak coord|or meta|to_talk
+	cop|be&3S det:dem|this n|verb L2|hablar .
+%grt:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|POSTMOD 5|4|CONJ 6|5|COORD 7|0|ROOT
+	8|9|DET 9|7|PRED 10|9|POSTMOD 11|7|PUNCT
+*PAR:	now this h@l as I said today is not pronounced but we do know +//.
+%mor:	adv:tem|now det:dem|this n:let|h conj|as pro:sub|I v|say&PAST
+	adv:tem|today cop|be&3S neg|not part|pronounce-PASTP conj|but
+	pro:sub|we mod|do v|know +//.
+%gra:	1|8|JCT 2|3|DET 3|8|SUBJ 4|6|LINK 5|6|SUBJ 6|8|CJCT 7|8|SUBJ 8|0|ROOT
+	9|8|NEG 10|8|PRED 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CJCT 15|8|PUNCT
+%trn:	adv:tem|now det:dem|this n:let|h conj|as pro:sub|I v|say&PAST
+	adv:tem|today aux|be&3S neg|not part|pronounce-PASTP conj|but
+	pro:sub|we mod|do v|know +//.
+%grt:	1|10|JCT 2|3|DET 3|10|SUBJ 4|6|LINK 5|6|SUBJ 6|10|CJCT 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|0|ROOT 11|14|LINK 12|14|SUBJ 13|14|AUX
+	14|10|CJCT 15|10|PUNCT
+*PAR:	here you just hafta take my word for it .
+%mor:	adv|here pro:per|you adv|just mod|have~inf|to v|take det:poss|my
+	n|word prep|for pro:per|it .
+%gra:	1|6|JCT 2|6|SUBJ 3|6|JCT 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|6|PUNCT
+%trn:	adv|here pro:per|you adv|just mod|have~inf|to v|take det:poss|my
+	n|word prep|for pro:per|it .
+%grt:	1|6|JCT 2|6|SUBJ 3|6|JCT 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|6|PUNCT
+*PAR:	I wouldn't lie to you too often .
+%mor:	pro:sub|I mod|will&COND~neg|not v|lie prep|to pro:per|you adv|too
+	adv|often .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|JCT 8|4|JCT
+	9|4|PUNCT
+%trn:	pro:sub|I mod|will&COND~neg|not v|lie prep|to pro:per|you adv|too
+	adv|often .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|JCT 8|4|JCT
+	9|4|PUNCT
+*PAR:	the h@l in medieval Spanish was pronounced .
+%mor:	det:art|the n:let|h prep|in adj|medieval n:prop|Spanish
+	aux|be&PAST&13S part|pronounce-PASTP .
+%gra:	1|2|DET 2|0|INCROOT 3|7|JCT 4|3|POBJ 5|7|SUBJ 6|7|AUX 7|2|CJCT
+	8|2|PUNCT
+%trn:	det:art|the n:let|h prep|in adj|medieval n:prop|Spanish
+	aux|be&PAST&13S part|pronounce-PASTP .
+%grt:	1|2|DET 2|7|SUBJ 3|2|NJCT 4|5|MOD 5|3|POBJ 6|7|AUX 7|0|ROOT
+	8|7|PUNCT
+*PAR:	I_mean there is a historical reason for that h@l being there in
+	these particular cases „ alright ?
+%mor:	co|I_mean pro:exist|there cop|be&3S det:art|a adj|historic-AL
+	n|reason prep|for det:dem|that n:let|h part|be-PRESP adv|there
+	prep|in det:dem|these n|particular n|case-PL end|end co|alright ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|XJCT 11|10|JCT 12|10|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|17|ENDP 17|3|END 18|3|PUNCT
+%trn:	co|I_mean pro:indef|there cop|be&3S det:art|a adj|historic-AL
+	n|reason prep|for det:dem|that n:let|h part|be-PRESP adv|there
+	prep|in det:dem|these adj|particular n|case-PL end|end co|alright ?
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|DET
+	9|10|SUBJ 10|7|CPOBJ 11|10|JCT 12|10|JCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|17|ENDP 17|3|END 18|3|PUNCT
+*PAR:	so ‡ <we do know> [//] in medieval Spanish we do have evidence to
+	prove it including one of the first descriptions of the Spanish
+	language that goes back to the Middle Ages .
+%mor:	co|so beg|beg prep|in adj|medieval n:prop|Spanish pro:sub|we mod|do
+	v|have n|evidence inf|to v|prove pro:per|it part|include-PRESP
+	det:num|one prep|of det:art|the adj|first n|description-PL prep|of
+	det:art|the n:prop|Spanish n|language pro:rel|that v|go-3S adv|back
+	prep|to det:art|the n:prop|Middle n:prop|Ages .
+%gra:	1|0|BEG 2|1|BEGP 3|8|JCT 4|5|MOD 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|11|INF 11|9|XMOD 12|11|OBJ 13|12|XMOD 14|13|OBJ 15|14|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|24|LINK 24|13|COMP 25|24|JCT 26|24|JCT 27|29|DET 28|29|MOD 29|26|POBJ
+	30|8|PUNCT
+%trn:	co|so beg|beg prep|in adj|medieval n:prop|Spanish pro:sub|we mod|do
+	v|have n|evidence inf|to v|prove pro:per|it part|include-PRESP
+	det:num|one prep|of det:art|the adj|first n|description-PL prep|of
+	det:art|the n:prop|Spanish n|language pro:rel|that v|go-3S adv|back
+	prep|to det:art|the n:prop|Middle n:prop|Ages .
+%grt:	1|0|BEG 2|1|BEGP 3|8|JCT 4|5|MOD 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|11|INF 11|9|XMOD 12|11|OBJ 13|9|XMOD 14|13|OBJ 15|14|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|24|LINK 24|14|CMOD 25|24|JCT 26|24|JCT 27|29|DET 28|29|MOD
+	29|26|POBJ 30|8|PUNCT
+*PAR:	that this h@l was pronounced .
+%mor:	comp|that det:dem|this n:let|h aux|be&PAST&13S part|pronounce-PASTP
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%trn:	comp|that det:dem|this n:let|h aux|be&PAST&13S part|pronounce-PASTP
+	.
+%grt:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and so at one point <these words> [//] this h@l was sort_of an
+	aspirated h@k type sound .
+%mor:	coord|and co|so prep|at det:num|one n|point det:dem|this n:let|h
+	aux|be&PAST&13S adv|sort_of det:art|a part|aspirate-PASTP n:let|h
+	n|type n|sound .
+%gra:	1|11|LINK 2|7|COM 3|7|JCT 4|5|QUANT 5|3|POBJ 6|7|DET 7|11|SUBJ 8|11|AUX
+	9|11|JCT 10|11|DET 11|0|ROOT 12|14|MOD 13|14|MOD 14|11|OBJ 15|11|PUNCT
+%trn:	coord|and co|so prep|at det:num|one n|point det:dem|this n:let|h
+	cop|be&PAST&13S adv|sort_of det:art|a part|aspirate-PASTP n:let|h
+	n|type n|sound .
+%grt:	1|8|LINK 2|8|COM 3|8|JCT 4|5|QUANT 5|3|POBJ 6|7|DET 7|8|SUBJ
+	8|0|ROOT 9|14|NJCT 10|14|DET 11|12|XMOD 12|13|MOD 13|14|MOD
+	14|8|PRED 15|8|PUNCT
+*PAR:	okay it was <an aspirated> [//] &s a voiceless aspirate$n of [//]
+	like in English h@l in those words where you actually pronounce the
+	h@l „ okay ?
+%mor:	co|okay pro:per|it cop|be&PAST&13S det:art|a adj|voice&dn-LESS
+	n|aspirate prep|like prep|in n:prop|English n:let|h prep|in
+	det:dem|those n|word-PL pro:rel|where pro:per|you adv|actual&dadj-LY
+	v|pronounce det:art|the n:let|h end|end co|okay ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|JCT
+	9|8|POBJ 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|JCT 17|13|CMOD 18|19|DET 19|17|OBJ 20|21|ENDP 21|3|END 22|3|PUNCT
+%trn:	co|okay pro:per|it cop|be&PAST&13S det:art|a adj|voice&dn-LESS
+	n|aspirate prep|like prep|in n:prop|English n:let|h prep|in
+	det:dem|those n|word-PL pro:rel|where pro:per|you adv|actual&dadj-LY
+	v|pronounce det:art|the n:let|h end|end co|okay ?
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|17|LINK
+	15|17|SUBJ 16|17|JCT 17|13|CMOD 18|19|DET 19|17|OBJ 20|21|ENDP
+	21|3|END 22|3|PUNCT
+*PAR:	so ‡ this would've been pronounced at some point in its history
+	something like hatser@k , hidjo@k in Old Spanish , ixo@k in modern
+	Spanish , &ho hodja@k in Old Spanish .
+%mor:	co|so beg|beg pro:dem|this mod|will&COND~aux|have aux|be&PASTP
+	part|pronounce-PASTP prep|at qn|some n|point prep|in det:poss|its
+	n|history pro:indef|something prep|like n:let|hatser cm|cm
+	n:let|hidjo prep|in n:prop|Old n:prop|Spanish cm|cm n:let|ixo
+	prep|in adj|modern n:prop|Spanish cm|cm n:let|hodja prep|in
+	n:prop|Old n:prop|Spanish .
+%gra:	1|0|BEG 2|1|BEGP 3|7|SUBJ 4|7|AUX 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|QUANT 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|8|POBJ 15|14|NJCT
+	16|15|POBJ 17|16|LP 18|14|NJCT 19|18|NJCT 20|19|POBJ 21|19|POBJ 22|21|LP
+	23|21|ENUM 24|23|JCT 25|26|MOD 26|24|POBJ 27|21|LP 28|21|ENUM 29|28|JCT
+	30|29|POBJ 31|29|POBJ 32|7|PUNCT
+%trn:	co|so beg|beg pro:dem|this mod|will&COND~aux|have aux|be&PASTP
+	part|pronounce-PASTP prep|at qn|some n|point prep|in det:poss|its
+	n|history pro:indef|something prep|like n:let|hatser cm|cm
+	n:let|hidjo prep|in n:prop|Old n:prop|Spanish cm|cm n:let|ixo
+	prep|in adj|modern n:prop|Spanish cm|cm n:let|hodja prep|in
+	n:prop|Old n:prop|Spanish .
+%grt:	1|0|BEG 2|1|BEGP 3|7|SUBJ 4|7|AUX 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|QUANT 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|7|OBJ
+	15|14|NJCT 16|15|POBJ 17|16|LP 18|16|ENUM 19|18|NJCT 20|21|NAME
+	21|19|POBJ 22|18|LP 23|18|ENUM 24|23|JCT 25|26|MOD 26|24|POBJ
+	27|23|LP 28|23|ENUM 29|28|JCT 30|31|NAME 31|29|POBJ 32|7|PUNCT
+*PAR:	the letter j@l underwent a change in Spanish , at least its value .
+%mor:	det:art|the n|letter n:let|j under#v|go&PAST det:art|a n|change
+	prep|in n:prop|Spanish cm|cm prep|at n|least det:poss|its n|value .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|6|DET 6|4|OBJ 7|6|NJCT
+	8|7|POBJ 9|6|LP 10|6|NJCT 11|10|POBJ 12|13|DET 13|6|APP 14|2|PUNCT
+%trn:	det:art|the n|letter n:let|j under#v|go&PAST det:art|a n|change
+	prep|in n:prop|Spanish cm|cm prep|at n|least det:poss|its n|value .
+%grt:	1|2|DET 2|4|SUBJ 3|2|POSTMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT
+	8|7|POBJ 9|4|LP 10|13|NJCT 11|10|POBJ 12|13|DET 13|4|TOP 14|4|PUNCT
+*PAR:	it useta represent a dj@k type sound and it's now a x@k type sound .
+%mor:	pro:per|it mod|used~inf|to v|represent det:art|a n:let|dj n|type
+	n|sound coord|and pro:per|it~cop|be&3S adv:tem|now det:art|a n:let|x
+	n|type n|sound .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|11|JCT 13|16|DET 14|16|MOD 15|16|MOD
+	16|11|PRED 17|4|PUNCT
+%trn:	pro:per|it mod|used~inf|to v|represent det:art|a n:let|dj n|type
+	n|sound coord|and pro:per|it~cop|be&3S adv:tem|now det:art|a n:let|x
+	n|type n|sound .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|8|DET 6|7|MOD 7|8|MOD 8|4|OBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|11|JCT 13|16|DET 14|15|MOD
+	15|16|MOD 16|11|PRED 17|4|PUNCT
+*PAR:	I mention that just for those who are interested in it .
+%mor:	pro:sub|I v|mention comp|that adv|just prep|for det:dem|those
+	pro:rel|who aux|be&PRES part|interest-PASTP prep|in pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|3|NJCT 6|5|POBJ 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|10|POBJ 12|2|PUNCT
+%trn:	pro:sub|I v|mention pro:dem|that adv|just prep|for pro:dem|those
+	pro:int|who aux|be&PRES part|interest-PASTP prep|in pro:per|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|5|POBJ 7|9|LINK 8|9|AUX
+	9|6|COMP 10|9|JCT 11|10|POBJ 12|2|PUNCT
+*PAR:	it's totally irrelevant to what I'm talking about .
+%mor:	pro:per|it~cop|be&3S adv|total&dadj-LY adj|irrelevant prep|to
+	pro:int|what pro:sub|I~aux|be&1S part|talk-PRESP adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CPOBJ 10|9|JCT 11|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adv|total&dadj-LY adj|irrelevant prep|to
+	pro:int|what pro:sub|I~aux|be&1S part|talk-PRESP prep|about .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CPOBJ 10|9|JCT 11|2|PUNCT
+*PAR:	this little dash after the f@l and the h@l indicates that it's in
+	word initial position only .
+%mor:	det:dem|this adj|little n|dash prep|after det:art|the n:let|f
+	coord|and det:art|the n:let|h v|indicate-3S comp|that
+	pro:per|it~cop|be&3S prep|in n|word adj|initial n|position adv|only
+	.
+%gra:	1|3|DET 2|3|MOD 3|10|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|0|ROOT 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|JCT 15|17|MOD
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|10|PUNCT
+%trn:	det:dem|this adj|little n|dash prep|after det:art|the n:let|f
+	coord|and det:art|the n:let|h v|indicate-3S comp|that
+	pro:per|it~cop|be&3S prep|in n|word adj|initial n|position adv|only
+	.
+%grt:	1|3|DET 2|3|MOD 3|10|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|0|ROOT 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|JCT
+	15|16|MOD 16|17|MOD 17|14|POBJ 18|13|JCT 19|10|PUNCT
+*PAR:	which is true .
+%mor:	pro:rel|which cop|be&3S adj|true .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%trn:	pro:rel|which cop|be&3S adj|true .
+%grt:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	<this sound is> [//] &w this change is limited only to the f@k
+	sound we've found in word initial position , usually before another
+	vowel though .
+%mor:	det:dem|this n|change aux|be&3S part|limit-PASTP adv|only prep|to
+	det:art|the n:let|f n|sound pro:sub|we~aux|have part|find&PASTP
+	prep|in n|word adj|initial n|position cm|cm adv|usual&dadj-LY
+	prep|before qn|another n|vowel adv|though .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|SUBJ 11|12|AUX 12|9|CMOD 13|12|JCT 14|16|MOD 15|16|MOD
+	16|13|POBJ 17|4|LP 18|4|JCT 19|4|JCT 20|21|QUANT 21|19|POBJ 22|21|NJCT
+	23|4|PUNCT
+%trn:	det:dem|this n|change aux|be&3S part|limit-PASTP adv|only prep|to
+	det:art|the n:let|f n|sound pro:sub|we~aux|have part|find&PASTP
+	prep|in n|word adj|initial n|position cm|cm adv|usual&dadj-LY
+	prep|before qn|another n|vowel adv|though .
+%grt:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|SUBJ 11|12|AUX 12|9|CMOD 13|12|JCT 14|15|MOD 15|16|MOD
+	16|13|POBJ 17|12|LP 18|19|JCT 19|12|JCT 20|21|QUANT 21|19|POBJ
+	22|19|JCT 23|4|PUNCT
+*PAR:	again you don't hafta worry about the fine points of it .
+%mor:	adv:tem|again pro:per|you mod|do~neg|not mod|have~inf|to v|worry
+	prep|about det:art|the adj|fine n|point-PL prep|of pro:per|it .
+%gra:	1|7|JCT 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|AUX 6|7|INF 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|12|POBJ 14|7|PUNCT
+%trn:	adv:tem|again pro:per|you mod|do~neg|not mod|have~inf|to v|worry
+	prep|about det:art|the adj|fine n|point-PL prep|of pro:per|it .
+%grt:	1|7|JCT 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|AUX 6|7|INF 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|12|POBJ 14|7|PUNCT
+*PAR:	but basically what you have linguistically is you have the change
+	in terms of features .
+%mor:	conj|but adv|basic&dadj-AL-LY pro:int|what pro:per|you v|have
+	adv|linguistic&dadj-AL-LY cop|be&3S pro:per|you v|have det:art|the
+	n|change prep|in n|term-PL prep|of n|feature-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|COMP 8|9|SUBJ
+	9|7|CPRED 10|11|DET 11|9|OBJ 12|9|JCT 13|12|POBJ 14|13|NJCT 15|14|POBJ
+	16|5|PUNCT
+%trn:	conj|but adv|basic&dadj-AL-LY pro:int|what pro:per|you v|have
+	adv|linguistic&dadj-AL-LY cop|be&3S pro:per|you v|have det:art|the
+	n|change prep|in n|term-PL prep|of n|feature-PL .
+%grt:	1|7|LINK 2|7|JCT 3|5|OBJ 4|5|SUBJ 5|7|CSUBJ 6|5|JCT 7|0|ROOT
+	8|9|SUBJ 9|7|CPRED 10|11|DET 11|9|OBJ 12|11|NJCT 13|12|POBJ
+	14|13|NJCT 15|14|POBJ 16|7|PUNCT
+*PAR:	you have a change <from a> [//] from what was a voiceless
+	labiodental fricative &=pause_while_writing to a voiceless perhaps
+	pharyngeal aspirate$n .
+%mor:	pro:per|you v|have det:art|a n|change prep|from pro:int|what
+	cop|be&PAST&13S det:art|a adj|voice&dn-LESS adj|labiodental
+	adj|fricative prep|to det:art|a adj|voice&dn-LESS adv|perhaps
+	adj|pharyngeal n|aspirate .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|SUBJ 7|5|CPOBJ 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|PRED 12|11|JCT 13|17|DET 14|17|MOD 15|16|JCT
+	16|17|MOD 17|12|POBJ 18|2|PUNCT
+%trn:	pro:per|you v|have det:art|a n|change prep|from pro:int|what
+	cop|be&PAST&13S det:art|a adj|voice&dn-LESS adj|labiodental
+	adj|fricative prep|to det:art|a adj|voice&dn-LESS adv|perhaps
+	adj|pharyngeal n|aspirate .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|SUBJ 7|5|CPOBJ
+	8|11|DET 9|11|MOD 10|11|MOD 11|7|PRED 12|4|NJCT 13|17|DET
+	14|17|MOD 15|16|JCT 16|17|MOD 17|12|POBJ 18|2|PUNCT
+*PAR:	and [/] &b and basically what's even more [/] &imp more striking of
+	[//] with regard to this change from the point of view of phonetics
+	is that the [/] the labiodental fricative is pronounced in the front
+	of the mouth <whereas the> [/] &lab whereas the pharyngeal aspirate$n
+	by being pharyngeal just by definition is pronounced way at the back
+	.
+%mor:	coord|and adv|basic&dadj-AL-LY pro:int|what~aux|be&3S adv|even
+	adv|more part|strike-PRESP prep|with n|regard prep|to det:dem|this
+	n|change prep|from det:art|the n|point prep|of n|view prep|of
+	n:pt|phonetics cop|be&3S comp|that det:art|the adj|labiodental
+	adj|fricative aux|be&3S part|pronounce-PASTP prep|in det:art|the
+	n|front prep|of det:art|the n|mouth conj|whereas det:art|the
+	adj|pharyngeal n|aspirate prep|by n:gerund|be-PRESP adj|pharyngeal
+	adv|just prep|by n|definition aux|be&3S part|pronounce-PASTP adv|way
+	prep|at det:art|the n|back .
+%gra:	1|7|LINK 2|7|JCT 3|7|SUBJ 4|7|AUX 5|6|JCT 6|7|JCT 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|7|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|17|NJCT 19|18|POBJ 20|7|CJCT 21|26|LINK 22|23|DET
+	23|26|JCT 24|26|SUBJ 25|26|AUX 26|20|CPRED 27|26|JCT 28|29|DET 29|27|POBJ
+	30|29|NJCT 31|32|DET 32|30|POBJ 33|26|JCT 34|36|DET 35|36|MOD 36|33|OBJ
+	37|44|LINK 38|44|SUBJ 39|38|PRED 40|38|JCT 41|38|JCT 42|41|POBJ 43|44|AUX
+	44|36|XMOD 45|44|JCT 46|44|JCT 47|48|DET 48|46|POBJ 49|7|PUNCT
+%trn:	coord|and adv|basic&dadj-AL-LY pro:int|what~aux|be&3S adv|even
+	adv|more part|strike-PRESP prep|with n|regard prep|to det:dem|this
+	n|change prep|from det:art|the n|point prep|of n|view prep|of
+	n:pt|phonetics cop|be&3S comp|that det:art|the adj|labiodental
+	adj|fricative aux|be&3S part|pronounce-PASTP prep|in det:art|the
+	n|front prep|of det:art|the n|mouth conj|whereas det:art|the
+	adj|pharyngeal n|aspirate prep|by n:gerund|be-PRESP adj|pharyngeal
+	adv|just prep|by n|definition aux|be&3S part|pronounce-PASTP adv|way
+	prep|at det:art|the n|back .
+%grt:	1|20|LINK 2|20|JCT 3|7|SUBJ 4|7|AUX 5|6|JCT 6|7|JCT 7|20|CSUBJ
+	8|7|JCT 9|8|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|7|JCT
+	14|15|DET 15|13|POBJ 16|15|NJCT 17|16|POBJ 18|15|NJCT 19|18|POBJ
+	20|0|ROOT 21|26|LINK 22|24|DET 23|24|MOD 24|26|SUBJ 25|26|AUX
+	26|20|CPRED 27|26|JCT 28|29|DET 29|27|POBJ 30|29|NJCT 31|32|DET
+	32|30|POBJ 33|44|LINK 34|36|DET 35|36|MOD 36|44|SUBJ 37|44|JCT
+	38|37|POBJ 39|38|PRED 40|41|JCT 41|44|JCT 42|41|POBJ 43|44|AUX
+	44|26|CJCT 45|46|JCT 46|44|JCT 47|48|DET 48|46|POBJ 49|20|PUNCT
+*PAR:	in other words the point of articulation <has changed> [//] has
+	moved from the front to the back .
+%mor:	prep|in qn|other n|word-PL det:art|the n|point prep|of
+	n|articulate&dv-TION aux|have&3S part|move-PASTP prep|from
+	det:art|the n|front prep|to det:art|the n|back .
+%gra:	1|9|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|9|SUBJ 6|5|NJCT 7|6|POBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|15|DET 15|13|POBJ
+	16|9|PUNCT
+%trn:	prep|in qn|other n|word-PL det:art|the n|point prep|of
+	n|articulate&dv-TION aux|have&3S part|move-PASTP prep|from
+	det:art|the n|front prep|to det:art|the n|back .
+%grt:	1|9|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|9|SUBJ 6|5|NJCT 7|6|POBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|15|DET 15|13|POBJ
+	16|9|PUNCT
+*PAR:	and <that's fairly> [//] that's a fairly large leap in [x 3]
+	physiological terms .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|a adv|fair&dadj-LY
+	adj|large n|leap prep|in adj|physiologic-AL n|term-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|3|PUNCT
+%trn:	coord|and pro:dem|that~cop|be&3S det:art|a adv|fair&dadj-LY
+	adj|large n|leap prep|in adj|physiologic-AL n|term-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|3|PUNCT
+*PAR:	now what is interesting , what caught the attention of [/] &ro of
+	early pioneer scholars was two things with regard to this change .
+%mor:	adv:tem|now pro:int|what cop|be&3S adj|interesting cm|cm pro:int|what
+	v|catch&PAST det:art|the n|attention prep|of adj|early n|pioneer
+	n|scholar-PL cop|be&PAST&13S det:num|two n|thing-PL prep|with
+	n|regard prep|to det:dem|this n|change .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|LP 6|7|LINK 7|3|CPRED 8|9|DET
+	9|14|SUBJ 10|9|NJCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|7|COMP 15|16|QUANT
+	16|14|PRED 17|16|NJCT 18|17|POBJ 19|16|NJCT 20|21|DET 21|19|POBJ
+	22|3|PUNCT
+%trn:	adv:tem|now pro:int|what cop|be&3S adj|interesting cm|cm pro:int|what
+	v|catch&PAST det:art|the n|attention prep|of adj|early n|pioneer
+	n|scholar-PL cop|be&PAST&13S det:num|two n|thing-PL prep|with
+	n|regard prep|to det:dem|this n|change .
+%grt:	1|14|JCT 2|3|SUBJ 3|14|CSUBJ 4|3|PRED 5|3|LP 6|7|SUBJ 7|3|ENUM
+	8|9|DET 9|7|OBJ 10|9|NJCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|0|ROOT
+	15|16|QUANT 16|14|PRED 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|21|DET
+	21|19|POBJ 22|14|PUNCT
+*PAR:	one was the very nature of <the change> [/] the change going from
+	f@k to x@k .
+%mor:	pro:indef|one cop|be&PAST&13S det:art|the adv|very n|nature prep|of
+	det:art|the n|change part|go-PRESP prep|from n:let|f prep|to n:let|x
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|JCT 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|XMOD 10|9|JCT 11|10|POBJ 12|11|NJCT 13|12|POBJ 14|2|PUNCT
+%trn:	pro:indef|one cop|be&PAST&13S det:art|the adv|very n|nature prep|of
+	det:art|the n|change part|go-PRESP prep|from n:let|f prep|to n:let|x
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|NJCT 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|XMOD 10|9|JCT 11|10|POBJ 12|9|JCT 13|12|POBJ 14|2|PUNCT
+*PAR:	and the second was that within the framework of the Romance
+	languages +...
+%mor:	coord|and det:art|the n|second cop|be&PAST&13S pro:dem|that
+	prep|within det:art|the n|framework prep|of det:art|the
+	n:prop|Romance n|language-PL +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+%trn:	coord|and det:art|the n|second cop|be&PAST&13S pro:rel|that
+	prep|within det:art|the n|framework prep|of det:art|the
+	n:prop|Romance n|language-PL +...
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|LINK 6|4|OM 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*PAR:	and at the time , most scholars , you_know around the turn of the
+	century when they studied the Romance languages they were familiar
+	mainly with literary varieties .
+%mor:	coord|and prep|at det:art|the n|time cm|cm qn|most n|scholar-PL
+	cm|cm co|you_know prep|around det:art|the n|turn prep|of det:art|the
+	n|century conj|when pro:sub|they v|study-PAST det:art|the
+	n:prop|Romance n|language-PL pro:sub|they cop|be&PAST adj|familiar
+	adv|main&dadj-LY prep|with adj|literary n|variety-PL .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|2|LP 6|7|QUANT 7|0|INCROOT 8|7|LP
+	9|18|COM 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|18|LINK 17|18|SUBJ 18|7|CJCT 19|21|DET 20|21|MOD 21|18|OBJ 22|23|SUBJ
+	23|21|CMOD 24|23|PRED 25|24|JCT 26|25|JCT 27|28|MOD 28|26|POBJ 29|7|PUNCT
+%trn:	coord|and prep|at det:art|the n|time cm|cm qn|most n|scholar-PL
+	cm|cm co|you_know prep|around det:art|the n|turn prep|of det:art|the
+	n|century conj|when pro:sub|they v|study-PAST det:art|the
+	n:prop|Romance n|language-PL pro:sub|they cop|be&PAST adj|familiar
+	adv|main&dadj-LY prep|with adj|literary n|variety-PL .
+%grt:	1|23|LINK 2|23|JCT 3|4|DET 4|2|POBJ 5|2|LP 6|7|QUANT 7|23|TOP 8|7|LP
+	9|23|COM 10|23|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|18|LINK 17|18|SUBJ 18|23|CJCT 19|21|DET 20|21|MOD
+	21|18|OBJ 22|23|SUBJ 23|0|ROOT 24|23|PRED 25|24|JCT 26|24|JCT
+	27|28|MOD 28|26|POBJ 29|23|PUNCT
+*PAR:	people were just getting started into studying lesser regional
+	varieties <so+called> [//] we colloquially and popularly and
+	inaccurately call dialects .
+%mor:	n|person&PL aux|be&PAST adv|just part|get-PRESP part|start-PASTP
+	prep|into n:gerund|study-PRESP adj|less-CP adj|region&dn-AL
+	n|variety-PL pro:sub|we adv|colloquial&dadj-LY coord|and
+	adv|popular&dadj-LY coord|and in#adv|accurate&dadj-LY v|call
+	n|dialect-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|COMP 6|5|JCT 7|6|POBJ 8|10|MOD
+	9|10|MOD 10|7|OBJ 11|17|SUBJ 12|11|JCT 13|12|CONJ 14|13|COORD 15|12|CONJ
+	16|15|COORD 17|10|CMOD 18|17|OBJ 19|4|PUNCT
+%trn:	n|person&PL aux|be&PAST adv|just aux|get-PRESP part|start-PASTP
+	prep|into n:gerund|study-PRESP adj|less-CP adj|region&dn-AL
+	n|variety-PL pro:sub|we adv|colloquial&dadj-LY coord|and
+	adv|popular&dadj-LY coord|and in#adv|accurate&dadj-LY v|call
+	n|dialect-PL .
+%grt:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|10|MOD
+	9|10|MOD 10|7|OBJ 11|17|SUBJ 12|17|JCT 13|12|CONJ 14|13|COORD
+	15|14|CONJ 16|15|COORD 17|10|CMOD 18|17|OBJ 19|5|PUNCT
+*PAR:	but basically you [//] &ha &wh what struck everybody's attention
+	was that this change seemed to be limited to Castilian only , that
+	in other varieties of Romance this change did not occur .
+%mor:	conj|but adv|basic&dadj-AL-LY pro:int|what v|strike&PAST
+	pro:indef|everybody~cop|be&3S n|attention cop|be&PAST&13S comp|that
+	det:dem|this n|change cop|seem-PAST inf|to aux|be part|limit-PASTP
+	prep|to n:prop|Castilian adv|only cm|cm pro:rel|that prep|in
+	qn|other n|variety-PL prep|of n:prop|Romance det:dem|this n|change
+	mod|do&PAST neg|not v|occur .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|SUBJ 8|6|PRED
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|8|PRED 13|15|INF 14|15|AUX 15|30|XJCT
+	16|15|JCT 17|16|POBJ 18|30|JCT 19|18|LP 20|30|LINK 21|30|JCT 22|23|QUANT
+	23|21|POBJ 24|23|NJCT 25|24|POBJ 26|27|DET 27|30|SUBJ 28|30|AUX
+	29|28|NEG 30|12|CPRED 31|4|PUNCT
+%trn:	conj|but adv|basic&dadj-AL-LY pro:int|what v|strike&PAST
+	adj|everybody&dn-POSS n|attention cop|be&PAST&13S comp|that
+	det:dem|this n|change cop|seem-PAST inf|to aux|be part|limit-PASTP
+	prep|to n:prop|Castilian adv|only cm|cm comp|that prep|in qn|other
+	n|variety-PL prep|of n:prop|Romance det:dem|this n|change
+	mod|do&PAST neg|not v|occur .
+%grt:	1|7|LINK 2|7|JCT 3|4|SUBJ 4|7|CSUBJ 5|6|MOD 6|4|OBJ 7|0|ROOT
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|7|PRED 12|14|INF 13|14|AUX
+	14|11|CPRED 15|14|JCT 16|15|POBJ 17|14|JCT 18|14|LP 19|29|LINK
+	20|29|JCT 21|22|QUANT 22|20|POBJ 23|22|NJCT 24|23|POBJ 25|26|DET
+	26|29|SUBJ 27|29|AUX 28|27|NEG 29|14|ENUM 30|7|PUNCT
+*PAR:	and let me just give you two quick examples .
+%mor:	coord|and v|let&ZERO pro:obj|me adv|just v|give pro:per|you
+	det:num|two adj|quick n|example-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|COMP 6|5|OBJ 7|9|QUANT 8|9|MOD
+	9|6|APP 10|2|PUNCT
+%trn:	coord|and v|let&ZERO pro:obj|me adv|just v|give pro:per|you
+	det:num|two adj|quick n|example-PL .
+%grt:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|COMP 6|5|OBJ2 7|9|QUANT 8|9|MOD
+	9|5|OBJ 10|2|PUNCT
+*PAR:	<let's take> [//] right next door to Spanish we have Portuguese .
+%mor:	adv|right adj|next n|door prep|to n:prop|Spanish pro:sub|we v|have
+	n:prop|Portuguese .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|7|SUBJ 7|3|CMOD 8|7|OBJ
+	9|3|PUNCT
+%trn:	adv|right adj|next n|door prep|to n:prop|Spanish pro:sub|we v|have
+	n:prop|Portuguese .
+%grt:	1|2|JCT 2|3|MOD 3|7|TOP 4|3|NJCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT
+	8|7|OBJ 9|7|PUNCT
+*PAR:	these four words also survived in Portuguese but the Portuguese
+	forms have been since the middle ages on the following .
+%mor:	det:dem|these det:num|four n|word-PL adv|also part|survive-PASTP
+	prep|in n:prop|Portuguese conj|but det:art|the n:prop|Portuguese
+	n|form-PL aux|have cop|be&PASTP prep|since det:art|the n|middle
+	n|age-PL prep|on det:art|the n:gerund|follow-PRESP .
+%gra:	1|3|DET 2|3|QUANT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|13|LINK
+	9|11|DET 10|11|MOD 11|13|SUBJ 12|13|AUX 13|5|CJCT 14|13|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|13|JCT 19|20|DET 20|18|POBJ 21|5|PUNCT
+%trn:	det:dem|these det:num|four n|word-PL adv|also v|survive-PAST
+	prep|in n:prop|Portuguese conj|but det:art|the n:prop|Portuguese
+	n|form-PL aux|have cop|be&PASTP prep|since det:art|the n|middle
+	n|age-PL prep|on det:art|the n:gerund|follow-PRESP .
+%grt:	1|3|DET 2|3|QUANT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|13|LINK 9|11|DET 10|11|MOD 11|13|CSUBJ 12|13|AUX 13|5|CJCT
+	14|13|JCT 15|17|DET 16|17|MOD 17|14|POBJ 18|13|JCT 19|20|DET
+	20|18|POBJ 21|5|PUNCT
+*PAR:	the verb to_do@q or to_make@q is fazer@s:por .
+%mor:	det:art|the n|verb meta|to_do coord|or meta|to_make cop|be&3S
+	L2|fazer .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|PRED 8|3|PUNCT
+%trn:	det:art|the n|verb meta|to_do coord|or meta|to_make cop|be&3S
+	L2|fazer .
+%grt:	1|2|DET 2|6|SUBJ 3|2|POSTMOD 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|PRED
+	8|6|PUNCT
+*PAR:	the word for son is pronounced filho@s:por .
+%mor:	det:art|the n|word prep|for n|son aux|be&3S part|pronounce-PASTP
+	L2|filho .
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%trn:	det:art|the n|word prep|for n|son aux|be&3S part|pronounce-PASTP
+	L2|filho .
+%grt:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	the word for leaf is folha@s:por .
+%mor:	det:art|the n|word prep|for n|leaf cop|be&3S L2|folha .
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%trn:	det:art|the n|word prep|for n|leaf cop|be&3S L2|folha .
+%grt:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	and the verb to_speak@q is falar@s:por .
+%mor:	coord|and det:art|the n|verb meta|to_speak cop|be&3S L2|falar .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%trn:	coord|and det:art|the n|verb meta|to_speak cop|be&3S L2|falar .
+%grt:	1|5|LINK 2|3|DET 3|5|SUBJ 4|3|POSTMOD 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	in French the verb to_do@q or to_make@q is the verb faire@s:fra .
+%mor:	prep|in n:prop|French det:art|the n|verb meta|to_do coord|or
+	meta|to_make cop|be&3S det:art|the n|verb L2|faire .
+%gra:	1|0|INCROOT 2|1|POBJ 3|4|DET 4|1|POBJ 5|4|NJCT 6|8|LINK 7|8|SUBJ
+	8|5|CJCT 9|10|DET 10|8|PRED 11|10|POSTMOD 12|1|PUNCT
+%trn:	prep|in n:prop|French det:art|the n|verb meta|to_do coord|or
+	meta|to_make cop|be&3S det:art|the n|verb L2|faire .
+%grt:	1|8|JCT 2|1|POBJ 3|4|DET 4|8|SUBJ 5|4|POSTMOD 6|5|CONJ 7|6|COORD
+	8|0|ROOT 9|10|DET 10|8|PRED 11|10|POSTMOD 12|8|PUNCT
+*PAR:	&=pause_while_writing the word for &th a son that is a male child
+	is le_fils@s:fra .
+%mor:	det:art|the n|word prep|for det:art|a n|son pro:rel|that cop|be&3S
+	det:art|a adj|male n|child cop|be&3S L2|le_fils .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|LINK 7|5|CMOD
+	8|10|DET 9|10|MOD 10|11|SUBJ 11|7|PRED 12|11|PRED 13|2|PUNCT
+%trn:	det:art|the n|word prep|for det:art|a n|son pro:rel|that cop|be&3S
+	det:art|a adj|male n|child cop|be&3S L2|le_fils .
+%grt:	1|2|DET 2|11|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|LINK 7|5|CMOD
+	8|10|DET 9|10|MOD 10|7|PRED 11|0|ROOT 12|11|PRED 13|11|PUNCT
+*PAR:	the word for leaf is feuille@s:fra .
+%mor:	det:art|the n|word prep|for n|leaf cop|be&3S L2|feuille .
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%trn:	det:art|the n|word prep|for n|leaf cop|be&3S L2|feuille .
+%grt:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	and as far as the verb to_speak@q is concerned we can leave this
+	out because we [/] we don't have a cognate .
+%mor:	coord|and prep|as adv|far conj|as det:art|the n|verb meta|to_speak
+	aux|be&3S part|concern-PASTP pro:sub|we mod|can v|leave pro:dem|this
+	adv|out conj|because pro:sub|we mod|do~neg|not v|have det:art|a
+	adj|cognate .
+%gra:	1|9|LINK 2|3|COORD 3|9|JCT 4|6|COORD 5|6|DET 6|9|CJCT 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|SUBJ 11|12|AUX 12|9|COMP 13|12|OBJ 14|12|JCT 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|9|CJCT 20|21|DET 21|19|OBJ 22|9|PUNCT
+%trn:	coord|and prep|as adv|far conj|as det:art|the n|verb meta|to_speak
+	aux|be&3S part|concern-PASTP pro:sub|we mod|can v|leave pro:dem|this
+	adv|out conj|because pro:sub|we mod|do~neg|not v|have det:art|a
+	adj|cognate .
+%grt:	1|12|LINK 2|3|COORD 3|12|JCT 4|9|COORD 5|6|DET 6|9|SUBJ 7|6|POSTMOD
+	8|9|AUX 9|3|ENUM 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|OBJ 14|12|JCT
+	15|19|LINK 16|19|SUBJ 17|19|AUX 18|17|NEG 19|12|CJCT 20|21|DET
+	21|19|OBJ 22|12|PUNCT
+*PAR:	as it happens in the Latin of Gaul a different verb was used .
+%mor:	conj|as pro:per|it v|happen-3S prep|in det:art|the n:prop|Latin
+	prep|of n:prop|Gaul det:art|a adj|different n|verb aux|be&PAST&13S
+	part|use-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|PUNCT
+%trn:	conj|as pro:per|it v|happen-3S prep|in det:art|the n:prop|Latin
+	prep|of n:prop|Gaul det:art|a adj|different n|verb aux|be&PAST&13S
+	part|use-PASTP .
+%grt:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|13|JCT 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|7|POBJ 9|11|DET 10|11|MOD 11|13|SUBJ 12|13|AUX 13|0|ROOT
+	14|13|PUNCT
+*PAR:	the verb parabolare@s:lat was the verb that meant to_speak@q .
+%mor:	det:art|the n|verb L2|parabolare cop|be&PAST&13S det:art|the n|verb
+	pro:rel|that v|mean&PAST meta|to_speak .
+%gra:	1|2|DET 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|8|LINK 8|6|CMOD
+	9|8|OBJ 10|4|PUNCT
+%trn:	det:art|the n|verb L2|parabolare cop|be&PAST&13S det:art|the n|verb
+	pro:rel|that v|mean&PAST meta|to_speak .
+%grt:	1|2|DET 2|4|SUBJ 3|2|POSTMOD 4|0|ROOT 5|6|DET 6|4|PRED 7|8|LINK
+	8|6|CMOD 9|8|OBJ 10|4|PUNCT
+*PAR:	or the one that dominated was the one that evolved into the French
+	word parler@s:fra .
+%mor:	coord|or det:art|the pro:indef|one pro:rel|that v|dominate-PAST
+	cop|be&PAST&13S det:art|the pro:indef|one pro:rel|that v|evolve-PAST
+	prep|into det:art|the n:prop|French n|word L2|parler .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|5|LINK 5|3|CMOD 6|0|ROOT 7|8|DET 8|6|PRED
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|10|INCROOT 16|15|PUNCT
+%trn:	coord|or det:art|the pro:indef|one pro:rel|that v|dominate-PAST
+	cop|be&PAST&13S det:art|the pro:indef|one pro:rel|that v|evolve-PAST
+	prep|into det:art|the n:prop|French n|word L2|parler .
+%grt:	1|6|LINK 2|3|DET 3|6|SUBJ 4|5|LINK 5|3|CMOD 6|0|ROOT 7|8|DET
+	8|6|PRED 9|10|LINK 10|8|CMOD 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|14|POSTMOD 16|6|PUNCT
+*PAR:	in other words this Latin fabulari@s:lat , it was typical of the
+	Latin of the Iberian Peninsula because it survives in both Spanish
+	and Portuguese .
+%mor:	prep|in qn|other n|word-PL det:dem|this n:prop|Latin L2|fabulari
+	cm|cm pro:per|it cop|be&PAST&13S adj|typical prep|of det:art|the
+	n:prop|Latin prep|of det:art|the n:prop|Iberian n:prop|Peninsula
+	conj|because pro:per|it v|survive-3S prep|in qn|both n:prop|Spanish
+	coord|and n:prop|Portuguese .
+%gra:	1|9|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|6|NAME 6|1|ENUM 7|6|LP 8|9|SUBJ
+	9|17|CJCT 10|9|PRED 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|0|ROOT 18|20|LINK 19|20|SUBJ 20|17|CJCT 21|20|JCT
+	22|23|QUANT 23|21|POBJ 24|23|CONJ 25|24|COORD 26|17|PUNCT
+%trn:	prep|in qn|other n|word-PL det:dem|this n:prop|Latin L2|fabulari
+	cm|cm pro:per|it cop|be&PAST&13S adj|typical prep|of det:art|the
+	n:prop|Latin prep|of det:art|the n:prop|Iberian n:prop|Peninsula
+	conj|because pro:per|it v|survive-3S prep|in qn|both n:prop|Spanish
+	coord|and n:prop|Portuguese .
+%grt:	1|9|JCT 2|3|QUANT 3|1|POBJ 4|6|DET 5|6|MOD 6|9|TOP 7|6|LP 8|9|SUBJ
+	9|0|ROOT 10|9|PRED 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|17|NAME 17|14|POBJ 18|20|LINK 19|20|SUBJ 20|9|CJCT 21|20|JCT
+	22|23|QUANT 23|21|POBJ 24|23|CONJ 25|24|COORD 26|9|PUNCT
+*PAR:	but the point is that just using these [/] &rom these particular
+	varieties of Romance , the [//] this change f@k to x@k appears to
+	occur only in Spanish .
+%mor:	conj|but det:art|the n|point cop|be&3S comp|that adv|just
+	part|use-PRESP det:dem|these adj|particular n|variety-PL prep|of
+	n:prop|Romance cm|cm det:dem|this n|change n:let|f prep|to n:let|x
+	v|appear-3S inf|to v|occur adv|only prep|in n:prop|Spanish .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|JCT 7|5|XMOD 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|NJCT 12|11|POBJ 13|7|LP 14|15|DET 15|7|OBJ
+	16|15|PRED 17|19|JCT 18|19|SUBJ 19|16|CJCT 20|21|INF 21|19|COMP 22|21|JCT
+	23|21|JCT 24|23|POBJ 25|4|PUNCT
+%trn:	conj|but det:art|the n|point cop|be&3S comp|that adv|just
+	part|use-PRESP det:dem|these adj|particular n|variety-PL prep|of
+	n:prop|Romance cm|cm det:dem|this n|change n:let|f prep|to n:let|x
+	v|appear-3S inf|to v|occur adv|only prep|in n:prop|Spanish .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|19|LINK 6|7|JCT 7|19|XJCT
+	8|10|DET 9|10|MOD 10|7|OBJ 11|10|NJCT 12|11|POBJ 13|7|LP 14|15|DET
+	15|19|SUBJ 16|15|APP 17|16|NJCT 18|17|POBJ 19|4|PRED 20|21|INF
+	21|19|COMP 22|21|JCT 23|21|JCT 24|23|POBJ 25|4|PUNCT
+*PAR:	it doesn't occur in any of the other Romance languages .
+%mor:	pro:per|it mod|do&3S~neg|not v|occur prep|in qn|any prep|of
+	det:art|the qn|other n:prop|Romance n|language-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|JCT 8|11|DET
+	9|10|QUANT 10|11|MOD 11|7|POBJ 12|4|PUNCT
+%trn:	pro:per|it mod|do&3S~neg|not v|occur prep|in qn|any prep|of
+	det:art|the qn|other n:prop|Romance n|language-PL .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|11|DET
+	9|11|QUANT 10|11|MOD 11|7|POBJ 12|4|PUNCT
+*PAR:	it seems to be limited to Spanish .
+%mor:	pro:per|it cop|seem-3S inf|to aux|be part|limit-PASTP prep|to
+	n:prop|Spanish .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|AUX 5|2|COMP 6|5|JCT 7|6|POBJ 8|2|PUNCT
+%trn:	pro:per|it cop|seem-3S inf|to aux|be part|limit-PASTP prep|to
+	n:prop|Spanish .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|AUX 5|2|CPRED 6|5|JCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	and it's [//] also in linguistic terms it is a strange change .
+%mor:	coord|and adv|also prep|in adj|linguistic n|term-PL pro:per|it
+	cop|be&3S det:art|a adj|strange n|change .
+%gra:	1|7|LINK 2|7|JCT 3|7|JCT 4|5|MOD 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|PRED 11|7|PUNCT
+%trn:	coord|and adv|also prep|in adj|linguistic n|term-PL pro:per|it
+	cop|be&3S det:art|a adj|strange n|change .
+%grt:	1|7|LINK 2|7|JCT 3|7|JCT 4|5|MOD 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|PRED 11|7|PUNCT
+*PAR:	now that's not a very scientific way to [/] &s to describe anything
+	by the way , to say that's strange .
+%mor:	adv:tem|now pro:dem|that~cop|be&3S neg|not det:art|a adv|very
+	adj|scientific n|way inf|to v|describe pro:indef|anything prep|by
+	det:art|the n|way cm|cm inf|to v|say pro:dem|that~cop|be&3S
+	adj|strange .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|8|DET 6|7|JCT 7|8|MOD 8|3|PRED
+	9|10|INF 10|8|XMOD 11|10|OBJ 12|10|JCT 13|14|DET 14|12|POBJ 15|8|LP
+	16|17|INF 17|8|XMOD 18|19|SUBJ 19|17|COMP 20|19|PRED 21|3|PUNCT
+%trn:	adv:tem|now pro:dem|that~cop|be&3S neg|not det:art|a adv|very
+	adj|scientific n|way inf|to v|describe pro:indef|anything prep|by
+	det:art|the n|way cm|cm inf|to v|say pro:dem|that~cop|be&3S
+	adj|strange .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|8|DET 6|7|JCT 7|8|MOD
+	8|3|PRED 9|10|INF 10|8|XMOD 11|10|OBJ 12|3|JCT 13|14|DET 14|12|POBJ
+	15|3|LP 16|17|INF 17|3|XJCT 18|19|SUBJ 19|17|COMP 20|19|PRED
+	21|3|PUNCT
+*PAR:	or to even use a worse description , unnatural .
+%mor:	coord|or inf|to adv|even v|use det:art|a adj|bad&CP n|description
+	cm|cm un#adj|natural .
+%gra:	1|4|LINK 2|4|INF 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|LP
+	9|4|ENUM 10|4|PUNCT
+%trn:	coord|or inf|to adv|even v|use det:art|a adj|bad&CP n|description
+	cm|cm un#adj|natural .
+%grt:	1|4|LINK 2|4|INF 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|LP
+	9|7|ENUM 10|4|PUNCT
+*PAR:	linguists have talked about changes that are more natural than
+	others .
+%mor:	n|linguist-PL aux|have part|talk-PASTP prep|about n|change-PL
+	pro:rel|that cop|be&PRES adv|more adj|natural prep|than n:pt|others
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|LINK 7|5|CMOD 8|9|JCT
+	9|7|PRED 10|9|JCT 11|10|POBJ 12|3|PUNCT
+%trn:	n|linguist-PL aux|have part|talk-PASTP prep|about n|change-PL
+	pro:rel|that cop|be&PRES adv|more adj|natural prep|than n:pt|others
+	.
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|LINK 7|5|CMOD 8|9|JCT
+	9|7|PRED 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*PAR:	that's a statistical term and has nothing to do with human
+	physiology or natural or unnatural speech acts .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|statistic&dn-AL n|term
+	coord|and v|have&3S pro:indef|nothing inf|to v|do prep|with
+	adj|human n|physiology coord|or adj|natural coord|or un#adj|natural
+	n|speech n|act-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|CONJ 7|6|COORD 8|7|OBJ
+	9|10|INF 10|8|XMOD 11|10|JCT 12|13|MOD 13|11|POBJ 14|13|CONJ 15|14|COORD
+	16|10|CONJ 17|19|MOD 18|19|MOD 19|16|COORD 20|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S det:art|a adj|statistic&dn-AL n|term
+	coord|and v|have&3S pro:indef|nothing inf|to v|do prep|with
+	adj|human n|physiology coord|or adj|natural coord|or un#adj|natural
+	n|speech n|act-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|CONJ 7|6|COORD
+	8|7|OBJ 9|10|INF 10|8|XMOD 11|10|JCT 12|13|MOD 13|11|POBJ
+	14|13|CONJ 15|19|MOD 16|15|CONJ 17|16|COORD 18|19|MOD 19|14|COORD
+	20|2|PUNCT
+*PAR:	<if you can> [//] <if any> [//] if a human can do it it's natural .
+%mor:	conj|if det:art|a n|human mod|can v|do pro:per|it
+	pro:per|it~cop|be&3S adj|natural .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|8|CJCT 6|5|OBJ 7|8|SUBJ 8|0|ROOT
+	9|8|PRED 10|8|PUNCT
+%trn:	conj|if det:art|a n|human mod|can v|do pro:per|it
+	pro:per|it~cop|be&3S adj|natural .
+%grt:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|8|CJCT 6|5|OBJ 7|8|SUBJ 8|0|ROOT
+	9|8|PRED 10|8|PUNCT
+*PAR:	so ‡ f@k to x@k , since <it is> [/] &a it is possible to open f@k
+	to x@k it is an articulatory possibility .
+%mor:	co|so beg|beg n:let|f prep|to n:let|x cm|cm conj|since pro:per|it
+	cop|be&3S adj|possible inf|to v|open n:let|f prep|to n:let|x
+	pro:per|it cop|be&3S det:art|a adj|articulatory n|possible&dadj-ITY
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|JCT 5|4|POBJ 6|3|LP 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|9|PRED 11|12|INF 12|10|XMOD 13|12|OBJ 14|17|JCT 15|14|POBJ
+	16|17|SUBJ 17|13|CJCT 18|20|DET 19|20|MOD 20|17|PRED 21|3|PUNCT
+%trn:	co|so beg|beg n:let|f prep|to n:let|x cm|cm conj|since pro:per|it
+	cop|be&3S adj|possible inf|to v|open n:let|f prep|to n:let|x
+	pro:per|it cop|be&3S det:art|a adj|articulatory n|possible&dadj-ITY
+	.
+%grt:	1|0|BEG 2|1|BEGP 3|17|TOP 4|3|NJCT 5|4|POBJ 6|3|LP 7|9|LINK
+	8|9|SUBJ 9|17|CJCT 10|9|PRED 11|12|INF 12|10|XMOD 13|12|OBJ
+	14|12|JCT 15|14|POBJ 16|17|SUBJ 17|0|ROOT 18|20|DET 19|20|MOD
+	20|17|PRED 21|17|PUNCT
+*PAR:	it is not an unnatural speech act .
+%mor:	pro:per|it cop|be&3S neg|not det:art|a un#adj|natural n|speech
+	n|act .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|7|DET 5|7|MOD 6|7|MOD 7|2|PRED 8|2|PUNCT
+%trn:	pro:per|it cop|be&3S neg|not det:art|a un#adj|natural n|speech
+	n|act .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|7|DET 5|7|MOD 6|7|MOD 7|2|PRED
+	8|2|PUNCT
+*PAR:	it may not be a statistically very common or frequent change in the
+	totality of changes that are observable in the world's languages but
+	that is irrelevant in our considerations .
+%mor:	pro:per|it mod|may neg|not cop|be det:art|a
+	adv|statistic&dadj-AL-LY adv|very adj|common coord|or adj|frequent
+	n|change prep|in det:art|the n|total-ITY prep|of n|change-PL
+	pro:rel|that cop|be&PRES adj|observe&dv-ABLE prep|in det:art|the
+	adj|world&dn-POSS n|language-PL conj|but pro:dem|that cop|be&3S
+	adj|irrelevant prep|in det:poss|our n|consider&dv-TION-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|11|DET 6|8|JCT 7|8|JCT 8|11|MOD
+	9|8|CONJ 10|9|COORD 11|4|PRED 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|18|LINK 18|16|CMOD 19|18|PRED 20|18|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|26|LINK 25|26|SUBJ 26|18|CJCT 27|26|PRED 28|26|JCT
+	29|30|DET 30|28|POBJ 31|4|PUNCT
+%trn:	pro:per|it mod|may neg|not cop|be det:art|a
+	adv|statistic&dadj-AL-LY adv|very adj|common coord|or adj|frequent
+	n|change prep|in det:art|the n|total-ITY prep|of n|change-PL
+	pro:rel|that cop|be&PRES adj|observe&dv-ABLE prep|in det:art|the
+	adj|world&dn-POSS n|language-PL conj|but pro:dem|that cop|be&3S
+	adj|irrelevant prep|in det:poss|our n|consider&dv-TION-PL .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|11|DET 6|8|JCT 7|8|JCT 8|11|MOD
+	9|8|CONJ 10|9|COORD 11|4|PRED 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|14|NJCT 16|15|POBJ 17|18|LINK 18|16|CMOD 19|18|PRED 20|19|JCT
+	21|23|DET 22|23|MOD 23|20|POBJ 24|26|LINK 25|26|SUBJ 26|4|CJCT
+	27|26|PRED 28|26|JCT 29|30|DET 30|28|POBJ 31|4|PUNCT
+*PAR:	but statistically it's not all that common .
+%mor:	conj|but adv|statistic&dadj-AL-LY pro:per|it~cop|be&3S neg|not
+	adv|all det:dem|that adj|common .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|8|JCT 7|8|DET 8|4|PRED
+	9|4|PUNCT
+%trn:	conj|but adv|statistic&dadj-AL-LY pro:per|it~cop|be&3S neg|not
+	adv|all det:dem|that adj|common .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|JCT 7|8|JCT
+	8|4|PRED 9|4|PUNCT
+*PAR:	and so within the framework of the Romance languages it really
+	stood out .
+%mor:	coord|and adv|so prep|within det:art|the n|framework prep|of
+	det:art|the n:prop|Romance n|language-PL pro:per|it adv|real&dadj-LY
+	v|stand&PAST adv|out .
+%gra:	1|12|LINK 2|3|JCT 3|12|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|SUBJ 11|12|JCT 12|0|ROOT 13|12|JCT 14|12|PUNCT
+%trn:	coord|and adv|so prep|within det:art|the n|framework prep|of
+	det:art|the n:prop|Romance n|language-PL pro:per|it adv|real&dadj-LY
+	v|stand&PAST adv|out .
+%grt:	1|12|LINK 2|12|JCT 3|12|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|SUBJ 11|12|JCT 12|0|ROOT 13|12|JCT 14|12|PUNCT
+*PAR:	why would Spanish go this route ?
+%mor:	pro:int|why mod|will&COND n:prop|Spanish v|go det:dem|this n|route
+	?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%trn:	pro:int|why mod|will&COND n:prop|Spanish v|go det:dem|this n|route
+	?
+%grt:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@End

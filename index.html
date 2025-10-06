@@ -1,0 +1,52 @@
+<HTML>  
+<HEAD>
+
+<TITLE>MOR and UD Grammars</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8"; charset=iso-8859-1">
+
+</HEAD>
+
+<LINK REL=stylesheet HREF="../../0styles/talkCSS.css" TYPE="text/css"> <!-- style sheet call -->
+	<body class="first" bgcolor="#FFFFFF" style="margin:0 auto; width:802px;">
+
+<table cellspacing="2" cellpadding="2" border="0">
+<tr>
+	<td width=400 bgcolor="#555555" align=center><b><font color="#ffffff" size="+2" face="Arial, Helvetica, sans-serif">TalkBank</font></b></td>
+	<td width=200></td>
+	<td align=right><img src="../../talkbank.png" width="75" height="49">
+	<td width=200></td>
+	<td width=400 bgcolor="dddddd" align=center><font color="#0055dd" size="+1" face="Arial, Helvetica, sans-serif">MOR and UD Grammars</font></td>
+</tr>
+</table> 
+
+<h3> Processing with UD  </h3>
+<p> We are currently transitioning morphosyntactic analysis for the TalkBank system from the MOR/POST/MEGRASP 
+system to the UD (Universal Dependencies) system which is described in detail
+<a href="https://universaldependencies.org"> here </a>.  We apply UD taggers to TalkBank files using Stanford's 
+<a href="https://stanfordnlp.github.io/stanza/pos.html"> Stanza system </a> that has been built into the 
+Batchalign2 program created by Houjun Liu, as described in
+this <a href="https://ldr.lps.library.cmu.edu/article/id/810/">this article</a> published in Language Development Research.
+
+<h3> Processing with Batchalign </h3>
+Creating the new UD analysis requires use of Batchalign2 which can be download and installed from 
+<a href="https://github.com/talkbank">here </a>. However, users who are not familiar with the 
+type of installation required by Batchalign are welcome to send their transcript to macw@cmu.edu 
+for tagging. It only takes minutes for us to tag and then send you back the result.  However, it
+is important that the transcripts have already been validated by the CHECK program inside CLAN.
+
+<p> As of March 2024, we have tagged these languages in CHILDES using UD: Afrikaans, Cantonese, Catalan, Croatian, Czech, Danish, Dutch, English, Estonian, French, German, 
+Icelandic, Irish, Italian, Japanese, Korean, Mandarin, Norwegian, Polish,
+Portuguese, Serbian, Slovenian, Spanish, Swedish, Turkish, and Welsh. Once UD grammars become available for languages such as Sesotho or Nungon, we hope to apply UD through Batchalign to these languages also.  Currently, application to Arabic, Bulgarian, Farsi, Greek, Hebrew,  Russian, and Tamil is blocked by the fact that the transcripts were done in a non-standard romanization not supported by UD. Application to Danish and Hungarian will require extensive cleanup of the transcripts.
+
+<p> The great advantage of UD over MOR is that it is available for many more languages. It also performs
+much better than MOR for computing dependency relations on the %gra line.  However, its control of 
+morphological analysis on the %mor line is not as analytic as MOR.  So, for English, French, Mandarin, and Spanish, we will retain access to the
+MOR grammars from these links:
+<ul>
+	<li type="disc"><a href="eng.zip">English (eng)</a>: This grammar was built by Brian MacWhinney and Mitzi Morris. 
+	<li type="disc"><a href="fra.zip">French (fra)</a>: This grammar was developed by Christophe Parisse and Brian MacWhinney, 
+	<li type="disc"><a href="spa.zip">Spanish (spa)</a>: This grammar was developed by Brian MacWhinney.
+	<li type="disc"><a href="zho.zip">Mandarin (zho)</a>: This grammar was developed by Brian MacWhinney.
+</ul>
+</BODY>
+</HTML>

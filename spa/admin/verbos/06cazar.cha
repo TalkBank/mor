@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	cazo .
+%mor:	v|caza-1S&PRES=hunt .
+*T:	cazas .
+%mor:	v|caza-2S&PRES=hunt .
+*T:	caza .
+%mor:	imp|caza-2S&IMP=hunt .
+*T:	cacemos .
+%mor:	imp|caza-1P&IMP=hunt .
+*T:	cacéis .
+%mor:	v|caza-2P&SUB&PRES=hunt .
+*T:	cacen .
+%mor:	v|caza-3P&SUB&PRES=hunt .
+@Blank
+*T:	cazaba .
+%mor:	v|caza-13S&PAS=hunt .
+*T:	cazabas .
+%mor:	v|caza-2S&PAS=hunt .
+*T:	cazaba .
+%mor:	v|caza-13S&PAS=hunt .
+*T:	cazábamos .
+%mor:	v|caza-1P&PAS=hunt .
+*T:	cazabais .
+%mor:	v|caza-2P&PAS=hunt .
+*T:	cazaban .
+%mor:	v|caza-3P&PAS=hunt .
+@Blank
+*T:	cacé .
+%mor:	v|caza-1S&PRET=hunt .
+*T:	cazaste .
+%mor:	v|caza-2S&PRET=hunt .
+*T:	cazó .
+%mor:	v|caza-3S&PRET=hunt .
+*T:	cazamos .
+%mor:	v|caza-1P&PRES&PRET=hunt .
+*T:	cazasteis .
+%mor:	v|caza-2P&PRET=hunt .
+*T:	cazaron .
+%mor:	v|caza-3P&PRET=hunt .
+@Blank
+*T:	cazaré .
+%mor:	v|caza-1S&FUT=hunt .
+*T:	cazarás .
+%mor:	v|caza-2S&FUT=hunt .
+*T:	cazará .
+%mor:	v|caza-3S&FUT=hunt .
+*T:	cazaremos .
+%mor:	v|caza-1P&FUT=hunt .
+*T:	cazaréis .
+%mor:	v|caza-2P&FUT=hunt .
+*T:	cazarán .
+%mor:	v|caza-3P&FUT=hunt .
+@Blank
+*T:	cace .
+%mor:	v|caza-13S&SUB&PRES=hunt .
+*T:	caces .
+%mor:	v|caza-2S&SUB&PRES=hunt .
+*T:	cace .
+%mor:	v|caza-13S&SUB&PRES=hunt .
+*T:	cacemos .
+%mor:	imp|caza-1P&IMP=hunt .
+*T:	cacéis .
+%mor:	v|caza-2P&SUB&PRES=hunt .
+*T:	cacen .
+%mor:	v|caza-3P&SUB&PRES=hunt .
+@Blank
+*T:	cazara .
+%mor:	v|caza-13S&SUB&PAS=hunt .
+*T:	cazaras .
+%mor:	v|caza-2S&SUB&PAS=hunt .
+*T:	cazara .
+%mor:	v|caza-13S&SUB&PAS=hunt .
+*T:	cazáramos .
+%mor:	v|caza-1P&SUB&PAS=hunt .
+*T:	cazarais .
+%mor:	v|caza-2P&SUB&PAS=hunt .
+*T:	cazaran .
+%mor:	v|caza-3P&SUB&PAS=hunt .
+@Blank
+*T:	cazando .
+%mor:	ger|caza-PROG=hunt .
+*T:	cazado .
+%mor:	part|caza-PPART-MASC=hunt .
+*T:	caza .
+%mor:	imp|caza-2S&IMP=hunt .
+*T:	cace .
+%mor:	v|caza-13S&SUB&PRES=hunt .
+*T:	cazad .
+%mor:	imp|caza-2P&IMP=hunt .
+*T:	cacen .
+%mor:	v|caza-3P&SUB&PRES=hunt .
+@Blank
+@End

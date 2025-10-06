@@ -1,0 +1,25 @@
+@UTF8
+@Window:	162_1593_677_700_-1_-1_383_0_383_0
+*@b	{[scat bab]}
+*@c	{[scat chi]}
+*@d	{[scat dia]}
+*@e	skip
+*@f	{[scat fam]}
+*@i	{[scat co]}
+*@k	{[scat n] [letter +] [allo n0]}
+*@l	{[scat n] [letter +] [allo n0]}
+*@n	{[scat neo]}
+*@o	{[scat on]}
+*@p	{[scat phon]}
+*@q	{[scat meta]}
+*@si	{[scat sing]}
+*@sl	{[scat sign]}
+*@s:* {[scat L2]}
+*@s$* {[scat L2]}
+*@sas {[scat sas]}
+*@s	{[scat L2]}
+*@t	{[scat test]}
+*@u	{[scat uni]}
+*@wp {[scat wplay]}
+*@x	{[scat un k]}
+*@z:m	skip

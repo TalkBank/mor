@@ -1,0 +1,41 @@
+@UTF8
+*PAR:	the queen knew that it might have been Cinderella's .
+%mor:	det:art|the n|queen v|know&PAST comp|that pro:per|it mod|might
+	aux|have cop|be&PASTP adj|Cinderella&dn-POSS .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|AUX 8|3|COMP
+	9|8|PRED 10|3|PUNCT
+*PAR:	they actually may have destroyed her dress .
+%mor:	pro:sub|they adv|actual&dadj-LY mod|may aux|have part|destroy-PASTP
+	det:poss|her n|dress .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	her clothes turn back into the tattered remains of whatever
+	her clothing is as a servant .
+%mor:	det:poss|her n:pt|clothes n|turn adv|back prep|into det:art|the
+	part|tatter-PASTP v|remain-3S prep|of pro:int|whatever det:poss|her
+	n|clothing cop|be&3S prep|as det:art|a n|servant .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|3|NJCT 6|7|DET 7|5|POBJ 8|7|OBJ
+	9|8|JCT 10|13|LINK 11|12|DET 12|13|SUBJ 13|9|CPOBJ 14|13|JCT 15|16|DET
+	16|14|POBJ 17|3|PUNCT
+*PAR:	he is going around town and trying to see who fits in this
+	glass slippers .
+%mor:	pro:sub|he aux|be&3S part|go-PRESP prep|around n|town coord|and
+	part|try-PRESP inf|to v|see pro:int|who n|fit-PL prep|in
+	det:dem|this n|glass n|slipper-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|9|INF
+	9|7|COMP 10|11|DET 11|9|OBJ 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|3|PUNCT
+*PAR:	she has got some sort of freakishly shaped foot that only one person
+	in town can fit into .
+%mor:	pro:sub|she aux|have&3S part|get&PASTP qn|some n|sort prep|of
+	adv|freak&dadj-ISH-LY part|shape-PASTP n|foot pro:rel|that adv|only
+	det:num|one n|person prep|in n|town mod|can v|fit&ZERO prep|into .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|JCT 8|6|POBJ
+	9|17|JCT 10|12|LINK 11|12|JCT 12|13|QUANT 13|17|SUBJ 14|13|NJCT
+	15|14|POBJ 16|17|AUX 17|8|OBJ 18|3|JCT 19|3|PUNCT
+*PAR:	Cinderella ‡ clean the floor .
+%mor:	n:prop|Cinderella beg|beg v|clean det:art|the n|floor .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	daddy ‡ open the window .
+%mor:	n|daddy beg|beg v|open det:art|the n|window .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@End

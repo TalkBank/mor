@@ -1,0 +1,13 @@
+@UTF8
+@Window:	0_1206_770_1024_-1_-1_124_0_124_0
+salita+de+estar {[scat n][comp n+prep+n][gen f]} =living_room=
+jamón+de+york {[scat n][comp n+prep+n][gen m]} =ham=
+pata+de+palo {[scat n][comp n+prep+n][gen f]} =pegleg=
+fin+de+semana {[scat n][comp n+prep+n][gen m]} =weekend=
+vaquita+de+sanantonio {[scat n][comp n+prep+n][gen f]} =ladybug=
+cabeza+de+chorlito {[scat n][comp n+prep+n][gen f]} =idiot=
+hijo+de+puta {[scat n][comp n+prep+n][anim yes]} =bastard=
+tratamiento+de+conducto {[scat n][comp n+prep+n][gen m]} =root_canal=
+dulce+de+leche {[scat n][comp n+prep+n][gen m]} =caramel=
+
+

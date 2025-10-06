@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	como .
+%mor:	adv|como=like .
+*T:	comes .
+%mor:	v|come-2S&PRES=eat .
+*T:	come .
+%mor:	imp|come-2S&IMP=eat .
+*T:	comemos .
+%mor:	v|come-1P&PRES=eat .
+*T:	coméis .
+%mor:	v|come-2P&PRES=eat .
+*T:	comen .
+%mor:	v|come-3P&PRES=eat .
+@Blank
+*T:	comía .
+%mor:	v|come-13S&PAS=eat .
+*T:	comías .
+%mor:	v|come-2S&PAS=eat .
+*T:	comía .
+%mor:	v|come-13S&PAS=eat .
+*T:	comíamos .
+%mor:	v|come-1P&PAS=eat .
+*T:	comíais .
+%mor:	v|come-2P&PAS=eat .
+*T:	comían .
+%mor:	v|come-3P&PAS=eat .
+@Blank
+*T:	comí .
+%mor:	v|come-1S&PRET=eat .
+*T:	comiste .
+%mor:	v|come-2S&PRET=eat .
+*T:	comió .
+%mor:	v|come-3S&PRET=eat .
+*T:	comimos .
+%mor:	v|come-1P&PRES&PRET=eat .
+*T:	comisteis .
+%mor:	v|come-2P&PRET=eat .
+*T:	comieron .
+%mor:	v|come-3P&PRET=eat .
+@Blank
+*T:	comeré .
+%mor:	v|come-1S&FUT=eat .
+*T:	comerás .
+%mor:	v|come-2S&FUT=eat .
+*T:	comerá .
+%mor:	v|come-3S&FUT=eat .
+*T:	comeremos .
+%mor:	v|come-1P&FUT=eat .
+*T:	comeréis .
+%mor:	v|come-2P&FUT=eat .
+*T:	comerán .
+%mor:	v|come-3P&FUT=eat .
+@Blank
+*T:	coma .
+%mor:	imp|come-3S&IMP=eat .
+*T:	comas .
+%mor:	v|come-2S&SUB&PRES=eat .
+*T:	coma .
+%mor:	imp|come-3S&IMP=eat .
+*T:	comamos .
+%mor:	imp|come-1P&IMP=eat .
+*T:	comáis .
+%mor:	v|come-2P&SUB&PRES=eat .
+*T:	coman .
+%mor:	imp|come-3P&IMP=eat .
+@Blank
+*T:	comiera .
+%mor:	v|come-13S&SUB&PAS=eat .
+*T:	comieras .
+%mor:	v|come-2S&SUB&PAS=eat .
+*T:	comiera .
+%mor:	v|come-13S&SUB&PAS=eat .
+*T:	comiéramos .
+%mor:	v|come-1P&SUB&PAS=eat .
+*T:	comierais .
+%mor:	v|come-2P&SUB&PAS=eat .
+*T:	comieran .
+%mor:	v|come-3P&SUB&PAS=eat .
+@Blank
+*T:	comiendo .
+%mor:	ger|come-PROG=eat .
+*T:	comido .
+%mor:	part|come-PPART-MASC=eat .
+*T:	come .
+%mor:	imp|come-2S&IMP=eat .
+*T:	coma .
+%mor:	imp|come-3S&IMP=eat .
+*T:	comed .
+%mor:	imp|come-2P&IMP=eat .
+*T:	coman .
+%mor:	imp|come-3P&IMP=eat .
+@End

@@ -1,0 +1,10 @@
+@UTF8
+adónde {[scat pro:int]} =whither=
+cómo {[scat pro:int]} =how=
+cuál {[scat pro:int]} =which=
+cuándo {[scat pro:int]} =when=
+cuánto {[scat pro:int][inflect yes]} =how_much=
+dónde {[scat pro:int]} =where=
+qué {[scat pro:int]} =what=
+porqué {[scat pro:int]} =why=
+quién {[scat pro:int]} =who=

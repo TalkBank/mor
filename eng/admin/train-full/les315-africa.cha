@@ -1,0 +1,2675 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Instructor Participant
+@ID:	eng|MICASE-train|PAR|||||Participant|||
+*PAR:	okay so I [/] &w I wanted to [/] to [/] &t to start talking today
+	and [/] and Thursday about the [/] the nineteenth century .
+%mor:	co|okay co|so pro:sub|I v|want-PAST inf|to v|start part|talk-PRESP
+	adv:tem|today coord|and n:prop|Thursday prep|about det:art|the
+	adj|nineteenth n|century .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|COMP 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|4|PUNCT
+%trn:	co|okay conj|so pro:sub|I v|want-PAST inf|to v|start
+	part|talk-PRESP adv:tem|today coord|and n:prop|Thursday prep|about
+	det:art|the adj|nineteenth n|century .
+%grt:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|COMP 8|7|JCT
+	9|8|CONJ 10|9|COORD 11|7|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|4|PUNCT
+*PAR:	and I'd like to just put that on the table , what [//] this [/]
+	this need for having [//] being able to characterize nineteenth
+	century Africa in certain ways .
+%mor:	coord|and pro:sub|I~mod|genmod v|like inf|to adv|just v|put&ZERO
+	pro:dem|that prep|on det:art|the n|table cm|cm det:dem|this n|need
+	prep|for n:gerund|be-PRESP adj|able inf|to v|character&dadj-IZE
+	adj|nineteenth n|century n:prop|Africa prep|in adj|certain n|way-PL
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|JCT 7|4|COMP 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|4|LP 13|14|DET 14|4|OBJ 15|14|NJCT
+	16|15|POBJ 17|16|PRED 18|19|INF 19|17|XMOD 20|21|MOD 21|19|OBJ 22|21|APP
+	23|21|NJCT 24|25|MOD 25|23|POBJ 26|4|PUNCT
+%trn:	coord|and pro:sub|I~mod|genmod v|like inf|to adv|just v|put&ZERO
+	pro:dem|that prep|on det:art|the n|table cm|cm det:dem|this n|need
+	prep|for n:gerund|be-PRESP adj|able inf|to v|character&dadj-IZE
+	adj|nineteenth n|century n:prop|Africa prep|in adj|certain n|way-PL
+	.
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|JCT 6|7|JCT 7|4|COMP 8|7|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|8|LP 13|14|DET 14|8|APP 15|14|NJCT
+	16|15|POBJ 17|16|PRED 18|19|INF 19|17|XMOD 20|21|MOD 21|22|MOD
+	22|19|OBJ 23|19|JCT 24|25|MOD 25|23|POBJ 26|4|PUNCT
+*PAR:	from the eighteen eighties virtually all of Africa came &un within
+	twenty or twenty five years +//.
+%mor:	prep|from det:art|the det:num|eighteen n|eighty-PL
+	adv|virtual&dadj-LY pro:indef|all prep|of n:prop|Africa v|come&PAST
+	prep|within det:num|twenty coord|or det:num|twenty det:num|five
+	n|year-PL +//.
+%gra:	1|9|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|9|JCT 6|9|SUBJ 7|6|NJCT 8|7|POBJ
+	9|0|ROOT 10|9|JCT 11|15|QUANT 12|11|CONJ 13|14|DATE 14|12|COORD
+	15|10|POBJ 16|9|PUNCT
+%trn:	prep|from det:art|the det:num|eighteen n|eighty-PL
+	adv|virtual&dadj-LY pro:indef|all prep|of n:prop|Africa v|come&PAST
+	prep|within det:num|twenty coord|or det:num|twenty det:num|five
+	n|year-PL +//.
+%grt:	1|9|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|9|JCT 6|9|SUBJ 7|6|NJCT 8|7|POBJ
+	9|0|ROOT 10|9|JCT 11|15|QUANT 12|11|CONJ 13|14|ENUM 14|12|COORD
+	15|10|POBJ 16|9|PUNCT
+*PAR:	by [//] between eighteen eighty and nineteen oh [: zero] five
+	virtually all of Africa came under European imperial domination .
+%mor:	prep|between det:num|eighteen det:num|eighty coord|and
+	det:num|nineteen det:num|zero det:num|five adv|virtual&dadj-LY
+	pro:indef|all prep|of n:prop|Africa v|come&PAST prep|under
+	n:prop|European adj|imperial n|dominate&dv-TION .
+%gra:	1|12|LINK 2|3|QUANT 3|12|SUBJ 4|3|CONJ 5|4|COORD 6|7|DATE 7|8|QUANT
+	8|12|JCT 9|12|SUBJ 10|9|NJCT 11|10|POBJ 12|0|ROOT 13|12|JCT 14|16|MOD
+	15|16|MOD 16|13|POBJ 17|12|PUNCT
+%trn:	prep|between det:num|eighteen det:num|eighty coord|and
+	det:num|nineteen det:num|zero det:num|five adv|virtual&dadj-LY
+	pro:indef|all prep|of n:prop|Africa v|come&PAST prep|under
+	n:prop|European adj|imperial n|dominate&dv-TION .
+%grt:	1|12|JCT 2|3|DATE 3|1|POBJ 4|3|CONJ 5|7|DATE 6|7|DATE 7|4|COORD
+	8|9|NJCT 9|12|SUBJ 10|9|NJCT 11|10|POBJ 12|0|ROOT 13|12|JCT 14|16|MOD
+	15|16|MOD 16|13|POBJ 17|12|PUNCT
+*PAR:	and Europeans sought to create institutions to control Africans ,
+	to [/] &f to get their labor , to have Africans pay taxes , to pay
+	the costs of administration , other things that I talked about early
+	in the course .
+%mor:	coord|and n:prop|Europeans v|seek&PAST inf|to v|create
+	n|institute&dv-TION-PL inf|to v|control n:prop|Africans cm|cm inf|to
+	v|get det:poss|their n|labor cm|cm inf|to v|have n:prop|Africans
+	n|pay n|tax-PL cm|cm inf|to v|pay det:art|the n|cost-PL prep|of
+	n|administrate&dv-TION cm|cm qn|other n|thing-PL pro:rel|that
+	pro:sub|I v|talk-PAST adv|about adv|early prep|in det:art|the
+	n|course .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|8|INF 8|5|XJCT
+	9|8|OBJ 10|3|LP 11|12|INF 12|3|XJCT 13|14|DET 14|12|OBJ 15|3|LP 16|17|INF
+	17|3|XJCT 18|20|MOD 19|20|MOD 20|17|OBJ 21|20|LP 22|23|INF 23|20|XJCT
+	24|25|DET 25|23|OBJ 26|25|NJCT 27|26|POBJ 28|23|LP 29|30|QUANT 30|23|OBJ
+	31|33|LINK 32|33|SUBJ 33|30|CMOD 34|35|JCT 35|33|JCT 36|33|JCT 37|38|DET
+	38|36|POBJ 39|3|PUNCT
+%trn:	coord|and n:prop|Europeans v|seek&PAST inf|to v|create
+	n|institute&dv-TION-PL inf|to v|control n:prop|Africans cm|cm inf|to
+	v|get det:poss|their n|labor cm|cm inf|to v|have n:prop|Africans
+	v|pay n|tax-PL cm|cm inf|to v|pay det:art|the n|cost-PL prep|of
+	n|administrate&dv-TION cm|cm qn|other n|thing-PL pro:rel|that
+	pro:sub|I v|talk-PAST prep|about adv|early prep|in det:art|the
+	n|course .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|8|LP 11|12|INF 12|8|ENUM 13|14|DET 14|12|OBJ 15|12|LP
+	16|17|INF 17|12|ENUM 18|17|OBJ 19|17|COMP 20|19|OBJ 21|17|LP
+	22|23|INF 23|17|ENUM 24|25|DET 25|23|OBJ 26|25|NJCT 27|26|POBJ
+	28|23|LP 29|30|QUANT 30|23|ENUM 31|33|LINK 32|33|SUBJ 33|30|CMOD
+	34|33|JCT 35|33|JCT 36|33|JCT 37|38|DET 38|36|POBJ 39|3|PUNCT
+*PAR:	and this new system that [/] that the British , French , &s
+	eventually the Italians , also the Belgians and the Germans up until
+	the end of the First World War , were trying to evolve there , was as
+	I've said at different times supposed to be a cheap system that paid
+	for itself .
+%mor:	coord|and det:dem|this adj|new n|system pro:rel|that det:art|the
+	n:prop|British cm|cm n:prop|French cm|cm adv|eventual&dadj-LY
+	det:art|the n:prop|Italians cm|cm adv|also det:art|the
+	n:prop|Belgians coord|and det:art|the n:prop|Germans adv|up
+	prep|until det:art|the n|end prep|of det:art|the n:prop|First
+	n:prop|World n:prop|War cm|cm aux|be&PAST part|try-PRESP inf|to
+	v|evolve adv|there cm|cm cop|be&PAST&13S conj|as pro:sub|I~aux|have
+	part|say&PASTP prep|at adj|different n|time-PL v|suppose-PAST inf|to
+	cop|be det:art|a adj|cheap n|system pro:rel|that v|pay&PAST prep|for
+	pro:refl|itself .
+%gra:	1|37|LINK 2|4|DET 3|4|MOD 4|37|SUBJ 5|7|LINK 6|7|DET 7|32|SUBJ 8|7|LP
+	9|7|ENUM 10|9|LP 11|13|JCT 12|13|DET 13|7|APP 14|13|LP 15|17|JCT
+	16|17|DET 17|7|APP 18|17|CONJ 19|20|DET 20|18|COORD 21|17|JCT 22|17|JCT
+	23|24|DET 24|22|POBJ 25|24|NJCT 26|27|DET 27|29|NAME 28|29|NAME 29|25|POBJ
+	30|17|LP 31|32|AUX 32|4|CMOD 33|34|INF 34|32|COMP 35|34|JCT 36|4|LP 37|0|ROOT
+	38|41|LINK 39|41|SUBJ 40|41|AUX 41|37|PRED 42|41|JCT 43|44|MOD
+	44|42|POBJ 45|41|XJCT 46|47|INF 47|45|COMP 48|50|DET 49|50|MOD 50|47|PRED
+	51|52|LINK 52|50|CMOD 53|52|JCT 54|53|POBJ 55|37|PUNCT
+%trn:	coord|and det:dem|this adj|new n|system pro:rel|that det:art|the
+	n:prop|British cm|cm n:prop|French cm|cm adv|eventual&dadj-LY
+	det:art|the n:prop|Italians cm|cm adv|also det:art|the
+	n:prop|Belgians coord|and det:art|the n:prop|Germans adv|up
+	prep|until det:art|the n|end prep|of det:art|the n:prop|First
+	n:prop|World n:prop|War cm|cm aux|be&PAST part|try-PRESP inf|to
+	v|evolve adv|there cm|cm aux|be&PAST&13S conj|as pro:sub|I~aux|have
+	part|say&PASTP prep|at adj|different n|time-PL part|suppose-PASTP
+	inf|to cop|be det:art|a adj|cheap n|system pro:rel|that v|pay&PAST
+	prep|for pro:refl|itself .
+%grt:	1|45|LINK 2|4|DET 3|4|MOD 4|45|SUBJ 5|32|LINK 6|7|DET 7|32|SUBJ
+	8|7|LP 9|7|ENUM 10|9|LP 11|13|NJCT 12|13|DET 13|9|ENUM 14|13|LP
+	15|17|NJCT 16|17|DET 17|7|APP 18|17|CONJ 19|20|DET 20|18|COORD
+	21|17|NJCT 22|17|NJCT 23|24|DET 24|22|POBJ 25|24|NJCT 26|29|DET
+	27|29|NAME 28|29|NAME 29|25|POBJ 30|17|LP 31|32|AUX 32|4|CMOD
+	33|34|INF 34|32|COMP 35|34|JCT 36|32|LP 37|45|AUX 38|41|LINK
+	39|41|SUBJ 40|41|AUX 41|45|CJCT 42|41|JCT 43|44|MOD 44|42|POBJ
+	45|0|ROOT 46|47|INF 47|45|COMP 48|50|DET 49|50|MOD
+	50|47|PRED 51|52|LINK 52|50|CMOD 53|52|JCT 54|53|POBJ 55|45|PUNCT
+*PAR:	Europe was not willing to invest huge amounts of resources in the
+	administration of these colonies .
+%mor:	n:prop|Europe cop|be&PAST&13S neg|not adj|willing inf|to v|invest
+	adj|huge n|amount-PL prep|of n|resource-PL prep|in det:art|the
+	n|administrate&dv-TION prep|of det:dem|these n|colony-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|6|INF 6|4|XMOD 7|8|MOD 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|2|PUNCT
+%trn:	n:prop|Europe cop|be&PAST&13S neg|not adj|willing inf|to v|invest
+	adj|huge n|amount-PL prep|of n|resource-PL prep|in det:art|the
+	n|administrate&dv-TION prep|of det:dem|these n|colony-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|6|INF 6|4|XMOD 7|8|MOD 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|6|JCT 12|13|DET 13|11|POBJ 14|13|NJCT
+	15|16|DET 16|14|POBJ 17|2|PUNCT
+*PAR:	and some of the arguments about how Europeans <got into the> [//]
+	got into these colonies is that they [/] they backed in them against
+	their own interests and wishes .
+%mor:	coord|and pro:indef|some prep|of det:art|the n|argue&dv-MENT-PL
+	prep|about pro:int|how n:prop|Europeans v|get&PAST prep|into
+	det:dem|these n|colony-PL cop|be&3S comp|that pro:sub|they
+	v|back-PAST prep|in pro:obj|them prep|against det:poss|their adj|own
+	n|interest-PL coord|and n|wish-PL .
+%gra:	1|13|LINK 2|13|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|JCT 7|9|LINK 8|9|SUBJ
+	9|6|CPOBJ 10|2|NJCT 11|12|DET 12|10|POBJ 13|0|ROOT 14|16|LINK
+	15|16|SUBJ 16|13|CPRED 17|16|JCT 18|17|POBJ 19|16|JCT 20|22|DET 21|22|MOD
+	22|19|POBJ 23|22|CONJ 24|23|COORD 25|13|PUNCT
+%trn:	coord|and pro:indef|some prep|of det:art|the n|argue&dv-MENT-PL
+	prep|about pro:int|how n:prop|Europeans v|get&PAST prep|into
+	det:dem|these n|colony-PL cop|be&3S comp|that pro:sub|they
+	v|back-PAST prep|in pro:obj|them prep|against det:poss|their adj|own
+	n|interest-PL coord|and n|wish-PL .
+%grt:	1|13|LINK 2|13|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|9|LINK
+	8|9|SUBJ 9|6|CPOBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|0|ROOT
+	14|16|LINK 15|16|SUBJ 16|13|CPRED 17|16|JCT 18|17|POBJ 19|16|JCT
+	20|22|DET 21|22|MOD 22|19|POBJ 23|22|CONJ 24|23|COORD 25|13|PUNCT
+*PAR:	political kind_of diplomatic struggles having to do with Europe
+	were transferred onto the African continent .
+%mor:	adj|politic-AL adv|kind_of adj|diplomatic n|struggle-PL
+	part|have-PRESP inf|to v|do prep|with n:prop|Europe aux|be&PAST
+	part|transfer-PASTP prep|onto det:art|the n:prop|African n|continent
+	.
+%gra:	1|4|MOD 2|3|JCT 3|4|MOD 4|0|INCROOT 5|4|XMOD 6|7|INF 7|5|COMP 8|7|JCT
+	9|8|POBJ 10|11|AUX 11|7|XJCT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|4|PUNCT
+%trn:	adj|politic-AL adv|kind_of adj|diplomatic n|struggle-PL
+	part|have-PRESP inf|to v|do prep|with n:prop|Europe aux|be&PAST
+	part|transfer-PASTP prep|onto det:art|the n:prop|African n|continent
+	.
+%grt:	1|4|MOD 2|3|JCT 3|4|MOD 4|11|SUBJ 5|4|XMOD 6|7|INF 7|5|COMP
+	8|7|JCT 9|8|POBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|11|PUNCT
+*PAR:	and claims were made in [/] in Africa for different territories ,
+	the French doing this to [/] to &re react against the Germans or the
+	British doing this to react against the French .
+%mor:	coord|and n|claim-PL aux|be&PAST part|make&PASTP prep|in
+	n:prop|Africa prep|for adj|different n|territory-PL cm|cm
+	det:art|the n:prop|French part|do-PRESP pro:dem|this inf|to v|react
+	prep|against det:art|the n:prop|Germans coord|or det:art|the
+	n:prop|British part|do-PRESP pro:dem|this inf|to v|react
+	prep|against det:art|the n:prop|French .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|9|LP 11|12|DET 12|4|CJCT 13|12|XMOD 14|13|OBJ 15|16|INF
+	16|13|XJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|16|CONJ 21|22|DET 22|20|COORD
+	23|22|XMOD 24|23|OBJ 25|26|INF 26|23|XJCT 27|26|JCT 28|29|DET 29|27|POBJ
+	30|4|PUNCT
+%trn:	coord|and n|claim-PL aux|be&PAST part|make&PASTP prep|in
+	n:prop|Africa prep|for adj|different n|territory-PL cm|cm
+	det:art|the n:prop|French part|do-PRESP pro:dem|this inf|to v|react
+	prep|against det:art|the n:prop|Germans coord|or det:art|the
+	n:prop|British part|do-PRESP pro:dem|this inf|to v|react
+	prep|against det:art|the n:prop|French .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|4|LP 11|12|DET 12|13|SUBJ 13|4|XJCT 14|13|OBJ 15|16|INF
+	16|13|XJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|13|CONJ 21|22|DET
+	22|23|SUBJ 23|20|COORD 24|23|OBJ 25|26|INF 26|23|XJCT 27|26|JCT
+	28|29|DET 29|27|POBJ 30|4|PUNCT
+*PAR:	that in Africa <people were exercising> [//] countries in Europe
+	were exercising their interests even when they saw <the dangers of
+	of getting involved> [//] the dangers and costs of getting involved
+	more deeply in Africa .
+%mor:	pro:dem|that prep|in n:prop|Africa n|country-PL prep|in
+	n:prop|Europe aux|be&PAST part|exercise-PRESP det:poss|their
+	n|interest-PL adv|even conj|when pro:sub|they v|see&PAST det:art|the
+	n|danger-PL coord|and n|cost-PL prep|of n:gerund|get-PRESP
+	part|involve-PASTP adv|more adv|deep&dadj-LY prep|in n:prop|Africa .
+%gra:	1|8|SUBJ 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|JCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|JCT 12|14|LINK 13|14|SUBJ 14|8|CJCT 15|16|DET
+	16|14|OBJ 17|16|CONJ 18|17|COORD 19|18|NJCT 20|19|POBJ 21|16|XMOD 22|21|JCT
+	23|21|JCT 24|21|JCT 25|24|POBJ 26|8|PUNCT
+%trn:	comp|that prep|in n:prop|Africa n|country-PL prep|in n:prop|Europe
+	aux|be&PAST part|exercise-PRESP det:poss|their n|interest-PL
+	adv|even conj|when pro:sub|they v|see&PAST det:art|the n|danger-PL
+	coord|and n|cost-PL prep|of n:gerund|get-PRESP part|involve-PASTP
+	adv|more adv|deep&dadj-LY prep|in n:prop|Africa .
+%grt:	1|8|LINK 2|8|JCT 3|2|POBJ 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|12|JCT 12|14|LINK 13|14|SUBJ 14|8|CJCT
+	15|16|DET 16|14|OBJ 17|16|CONJ 18|17|COORD 19|16|NJCT 20|19|POBJ
+	21|20|COMP 22|23|JCT 23|21|JCT 24|21|JCT 25|24|POBJ 26|8|PUNCT
+*PAR:	this era was [/] was one in which European interests , companies ,
+	governments were all over the place in Africa but were withholding
+	themselves from getting &in more deeply involved .
+%mor:	det:dem|this n|era cop|be&PAST&13S det:num|one adv|in pro:rel|which
+	n:prop|European n|interest-PL cm|cm n|company-PL cm|cm
+	n|govern&dv-MENT-PL cop|be&PAST adv|all prep|over det:art|the
+	n|place prep|in n:prop|Africa conj|but aux|be&PAST
+	part|withhold-PRESP pro:refl|themselves prep|from n:gerund|get-PRESP
+	adv|more adv|deep&dadj-LY part|involve-PASTP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|8|QUANT 5|4|JCT 6|7|LINK 7|8|MOD 8|13|JCT
+	9|8|LP 10|8|ENUM 11|10|LP 12|13|SUBJ 13|3|PRED 14|15|JCT 15|13|JCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|18|POBJ 20|13|CONJ 21|22|AUX 22|20|COORD
+	23|22|OBJ 24|22|JCT 25|24|POBJ 26|25|JCT 27|28|JCT 28|25|XJCT 29|3|PUNCT
+%trn:	det:dem|this n|era cop|be&PAST&13S det:num|one adv|in pro:rel|which
+	n:prop|European n|interest-PL cm|cm n|company-PL cm|cm
+	n|govern&dv-MENT-PL cop|be&PAST adv|all prep|over det:art|the
+	n|place prep|in n:prop|Africa conj|but aux|be&PAST
+	part|withhold-PRESP pro:refl|themselves prep|from n:gerund|get-PRESP
+	adv|more adv|deep&dadj-LY part|involve-PASTP .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|13|LINK 7|8|MOD
+	8|13|SUBJ 9|8|LP 10|8|ENUM 11|10|LP 12|10|ENUM 13|5|CPOBJ 14|15|JCT
+	15|13|JCT 16|17|DET 17|15|POBJ 18|13|JCT 19|18|POBJ 20|13|CONJ
+	21|22|AUX 22|20|COORD 23|22|OBJ 24|22|JCT 25|24|POBJ 26|27|JCT
+	27|28|JCT 28|25|COMP 29|3|PUNCT
+*PAR:	and the reason that I think historians need a certain kind of
+	nineteenth century Africa or why Europe needed a certain kind of
+	nineteenth century Africa is that <they hafta do> [//] their
+	arguments about empire hadta be configured around two [/] two
+	kind_of competing principles .
+%mor:	coord|and det:art|the n|reason pro:rel|that pro:sub|I v|think
+	n|historian-PL v|need det:art|a adj|certain n|kind prep|of
+	adj|nineteenth n|century n:prop|Africa coord|or pro:int|why
+	n:prop|Europe v|need-PAST det:art|a adj|certain n|kind prep|of
+	adj|nineteenth n|century n:prop|Africa cop|be&3S comp|that
+	det:poss|their n|argue&dv-MENT-PL prep|about n|empire
+	mod|have&PAST~inf|to aux|be part|configure-PASTP prep|around
+	det:num|two adv|kind_of part|compete-PRESP n|principle-PL .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|8|SUBJ
+	8|6|COMP 9|11|DET 10|11|MOD 11|8|OBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|11|APP
+	16|11|CONJ 17|19|LINK 18|19|SUBJ 19|16|COORD 20|22|DET 21|22|MOD
+	22|27|SUBJ 23|22|NJCT 24|25|MOD 25|23|POBJ 26|22|APP 27|19|COMP 28|27|PRED
+	29|30|DET 30|28|OBJ 31|36|JCT 32|36|JCT 33|36|AUX 34|36|INF 35|36|AUX
+	36|30|CMOD 37|36|JCT 38|37|POBJ 39|40|JCT 40|38|COMP 41|40|OBJ 42|3|PUNCT
+%trn:	coord|and det:art|the n|reason pro:rel|that pro:sub|I v|think
+	n|historian-PL v|need det:art|a adj|certain n|kind prep|of
+	adj|nineteenth n|century n:prop|Africa coord|or pro:rel|why
+	n:prop|Europe v|need-PAST det:art|a adj|certain n|kind prep|of
+	adj|nineteenth n|century n:prop|Africa cop|be&3S comp|that
+	det:poss|their n|argue&dv-MENT-PL prep|about n|empire
+	mod|have&PAST~inf|to aux|be part|configure-PASTP prep|around
+	det:num|two adv|kind_of part|compete-PRESP n|principle-PL .
+%grt:	1|27|LINK 2|3|DET 3|27|SUBJ 4|8|LINK 5|6|SUBJ 6|8|CJCT 7|8|SUBJ
+	8|3|CMOD 9|11|DET 10|11|MOD 11|8|OBJ 12|11|NJCT 13|14|MOD 14|15|MOD
+	15|12|POBJ 16|8|CONJ 17|19|LINK 18|19|SUBJ 19|16|COORD 20|22|DET
+	21|22|MOD 22|19|OBJ 23|22|NJCT 24|25|MOD 25|26|MOD 26|23|POBJ
+	27|0|ROOT 28|36|LINK 29|30|DET 30|36|JCT 31|30|NJCT 32|31|POBJ
+	33|36|AUX 34|36|INF 35|36|AUX 36|27|CPRED 37|36|JCT 38|41|QUANT
+	39|40|JCT 40|41|XMOD 41|37|POBJ 42|27|PUNCT
+*PAR:	one principle was that [/] that Africa needed the involvement of
+	Europeans , a justification for Europeans being there .
+%mor:	det:num|one n|principle cop|be&PAST&13S comp|that n:prop|Africa
+	v|need-PAST det:art|the n|involve&dv-MENT prep|of n:prop|Europeans
+	cm|cm det:art|a n|justify&dv-TION prep|for n:prop|Europeans
+	part|be-PRESP adv|there .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|6|LP 12|13|DET 13|6|OBJ 14|13|NJCT 15|14|POBJ
+	16|13|XMOD 17|16|JCT 18|3|PUNCT
+%trn:	det:num|one n|principle cop|be&PAST&13S comp|that n:prop|Africa
+	v|need-PAST det:art|the n|involve&dv-MENT prep|of n:prop|Europeans
+	cm|cm det:art|a n|justify&dv-TION prep|for n:prop|Europeans
+	part|be-PRESP adv|there .
+%grt:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|8|DET
+	8|6|OBJ 9|8|NJCT 10|9|POBJ 11|8|LP 12|13|DET 13|8|APP 14|13|NJCT
+	15|14|POBJ 16|15|XMOD 17|16|JCT 18|3|PUNCT
+*PAR:	that Africa needed civilization , it needed modernity , it needed
+	European presence to completely end the effects of the slave trade
+	and slavery in Africa .
+%mor:	comp|that n:prop|Africa v|need-PAST n|civil&dv-IZE-TION cm|cm
+	pro:per|it v|need-PAST n|modern&dadj-ITY cm|cm pro:per|it
+	v|need-PAST n:prop|European n|presence inf|to adv|complete&dadj-LY
+	v|end det:art|the n|effect-PL prep|of det:art|the n|slave n|trade
+	coord|and n|slavery prep|in n:prop|Africa .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|LP 6|7|SUBJ 7|3|ENUM 8|7|OBJ
+	9|7|LP 10|11|SUBJ 11|3|CJCT 12|13|MOD 13|11|OBJ 14|16|INF 15|16|JCT
+	16|13|XMOD 17|18|DET 18|16|OBJ 19|18|NJCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|16|CONJ 24|23|COORD 25|24|NJCT 26|25|POBJ 27|3|PUNCT
+%trn:	comp|that n:prop|Africa v|need-PAST n|civil&dv-IZE-TION cm|cm
+	pro:per|it v|need-PAST n|modern&dadj-ITY cm|cm pro:per|it
+	v|need-PAST n:prop|European n|presence inf|to adv|complete&dadj-LY
+	v|end det:art|the n|effect-PL prep|of det:art|the n|slave n|trade
+	coord|and n|slavery prep|in n:prop|Africa .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|LP 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|7|LP 10|11|SUBJ 11|7|CJCT 12|13|MOD 13|11|OBJ 14|16|INF 15|16|JCT
+	16|11|XJCT 17|18|DET 18|16|OBJ 19|18|NJCT 20|22|DET 21|22|MOD
+	22|19|POBJ 23|22|CONJ 24|23|COORD 25|22|NJCT 26|25|POBJ 27|3|PUNCT
+*PAR:	so_that there was an absolute need for Europe to come in and
+	transform Africa , this kind_of transformative need to reform or
+	transform .
+%mor:	conj|so_that pro:exist|there cop|be&PAST&13S det:art|a adj|absolute
+	n|need prep|for n:prop|Europe inf|to v|come adv|in coord|and
+	v|transform n:prop|Africa cm|cm det:dem|this adv|kind_of
+	adj|transformative n|need inf|to re#v|form coord|or v|transform .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|10|INF 10|6|XMOD 11|10|JCT 12|3|CONJ 13|12|COORD 14|13|OBJ 15|14|LP
+	16|19|DET 17|18|JCT 18|19|MOD 19|13|OBJ 20|21|INF 21|19|XMOD 22|21|CONJ
+	23|22|COORD 24|3|PUNCT
+%trn:	conj|so_that pro:exist|there cop|be&PAST&13S det:art|a adj|absolute
+	n|need prep|for n:prop|Europe inf|to v|come adv|in coord|and
+	v|transform n:prop|Africa cm|cm pro:dem|this adv|kind_of
+	adj|transformative n|need inf|to re#v|form coord|or v|transform .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|10|INF 10|6|XMOD 11|10|JCT 12|10|CONJ 13|12|COORD 14|13|OBJ
+	15|6|LP 16|19|SUBJ 17|18|JCT 18|19|MOD 19|6|ENUM 20|21|INF
+	21|19|XMOD 22|21|CONJ 23|22|COORD 24|3|PUNCT
+*PAR:	and second that while Europe was smart benign humane and wasn't
+	gonna transform Africa very much , it was gonna work with Africans
+	in their own institutions , bring people along slowly steadily
+	through education , through giving people marginal rights , through
+	protecting their rights , through protecting African institutions .
+%mor:	coord|and adv|second comp|that conj|while n:prop|Europe
+	cop|be&PAST&13S adj|smart adj|benign adj|humane coord|and
+	aux|be&PAST&13S~neg|not part|go-PRESP~inf|to v|transform
+	n:prop|Africa adv|very adv|much cm|cm pro:per|it aux|be&PAST&13S
+	part|go-PRESP~inf|to v|work prep|with n:prop|Africans prep|in
+	det:poss|their adj|own n|institute&dv-TION-PL cm|cm v|bring
+	n|person&PL prep|along adv|slow&dadj-LY adv|steady&dadj-LY
+	prep|through n|educate&dv-TION cm|cm prep|through
+	n:gerund|give-PRESP n|person&PL adj|margin&dn-AL n|right-PL cm|cm
+	prep|through n:gerund|protect-PRESP det:poss|their n|right-PL cm|cm
+	prep|through n:gerund|protect-PRESP n:prop|African
+	n|institute&dv-TION-PL .
+%gra:	1|6|LINK 2|1|JCT 3|2|POBJ 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|9|MOD 8|9|MOD
+	9|6|PRED 10|6|CONJ 11|13|AUX 12|11|NEG 13|10|COORD 14|15|INF 15|13|COMP
+	16|15|OBJ 17|18|JCT 18|15|JCT 19|13|LP 20|22|SUBJ 21|22|AUX 22|13|ROOT
+	23|24|INF 24|22|COMP 25|24|JCT 26|25|POBJ 27|26|NJCT 28|30|DET 29|30|MOD
+	30|27|POBJ 31|22|LP 32|22|ROOT 33|32|OBJ 34|32|JCT 35|34|POBJ 36|35|NJCT
+	37|36|INCROOT 38|37|POBJ 39|37|LP 40|37|INCROOT 41|44|DET 42|44|MOD
+	43|44|MOD 44|40|POBJ 45|44|LP 46|40|JCT 47|46|POBJ 48|49|DET 49|47|OBJ
+	50|47|LP 51|40|JCT 52|54|MOD 53|54|MOD 54|51|POBJ 55|40|PUNCT
+%trn:	coord|and adv|second comp|that conj|while n:prop|Europe
+	cop|be&PAST&13S adj|smart adj|benign adj|humane coord|and
+	aux|be&PAST&13S~neg|not part|go-PRESP~inf|to v|transform
+	n:prop|Africa adv|very adv|much cm|cm pro:per|it aux|be&PAST&13S
+	part|go-PRESP~inf|to v|work prep|with n:prop|Africans prep|in
+	det:poss|their adj|own n|institute&dv-TION-PL cm|cm v|bring
+	n|person&PL adv|along adv|slow&dadj-LY adv|steady&dadj-LY
+	prep|through n|educate&dv-TION cm|cm prep|through n:gerund|give-PRESP
+	n|person&PL adj|margin&dn-AL n|right-PL cm|cm prep|through
+	n:gerund|protect-PRESP det:poss|their n|right-PL cm|cm prep|through
+	n:gerund|protect-PRESP n:prop|African n|institute&dv-TION-PL .
+%grt:	1|22|LINK 2|22|JCT 3|22|LINK 4|6|LINK 5|6|SUBJ 6|22|CJCT 7|6|PRED
+	8|7|ENUM 9|8|ENUM 10|6|CONJ 11|13|AUX 12|11|NEG 13|10|COORD 14|15|INF
+	15|13|COMP 16|15|OBJ 17|18|JCT 18|15|JCT 19|6|LP 20|22|SUBJ
+	21|22|AUX 22|0|ROOT 23|24|INF 24|22|COMP 25|24|JCT 26|25|POBJ
+	27|24|JCT 28|30|DET 29|30|MOD 30|27|POBJ 31|24|LP 32|24|ENUM
+	33|32|OBJ 34|32|JCT 35|32|JCT 36|32|JCT 37|32|JCT 38|37|POBJ
+	39|37|LP 40|37|ENUM 41|40|POBJ 42|41|OBJ2 43|44|MOD 44|41|OBJ
+	45|40|LP 46|40|ENUM 47|46|POBJ 48|49|DET 49|47|OBJ 50|46|LP
+	51|46|ENUM 52|51|POBJ 53|54|MOD 54|52|OBJ 55|22|PUNCT
+*PAR:	and these two arguments &fo that came about in the early twentieth
+	century or the late nineteenth and early twentieth century , that
+	[/] that &Afri Africa hadta be &tra transformed and Africa hadta be
+	retained , were two arguments that went hand_in_hand and kind_of
+	worked with each_other and against each_other .
+%mor:	coord|and det:dem|these det:num|two n|argue&dv-MENT-PL pro:rel|that
+	v|come&PAST adv|about prep|in det:art|the adj|early adj|twentieth
+	n|century coord|or det:art|the adj|late adj|nineteenth coord|and
+	adv|early adj|twentieth n|century cm|cm pro:rel|that n:prop|Africa
+	mod|have&PAST~inf|to aux|be part|transform-PASTP coord|and
+	n:prop|Africa mod|have&PAST~inf|to aux|be part|retain-PASTP cm|cm
+	cop|be&PAST det:num|two n|argue&dv-MENT-PL pro:rel|that v|go&PAST
+	adv|hand_in_hand coord|and adv|kind_of part|work-PASTP prep|with
+	pro:refl|each_other coord|and prep|against pro:refl|each_other .
+%gra:	1|4|LINK 2|4|DET 3|4|QUANT 4|0|INCROOT 5|6|LINK 6|4|CMOD 7|6|JCT
+	8|6|JCT 9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|12|CONJ 14|16|DET 15|16|MOD
+	16|13|COORD 17|12|CONJ 18|19|JCT 19|20|MOD 20|17|COORD 21|20|LP
+	22|27|LINK 23|27|SUBJ 24|27|AUX 25|27|INF 26|27|AUX 27|12|CMOD 28|33|LINK
+	29|33|SUBJ 30|33|AUX 31|33|INF 32|33|AUX 33|27|CJCT 34|33|LP 35|33|ENUM
+	36|37|QUANT 37|35|PRED 38|39|LINK 39|37|CMOD 40|39|JCT 41|39|CONJ 42|43|JCT
+	43|41|COORD 44|43|JCT 45|44|POBJ 46|43|CONJ 47|46|COORD 48|47|POBJ
+	49|4|PUNCT
+%trn:	coord|and det:dem|these det:num|two n|argue&dv-MENT-PL pro:rel|that
+	v|come&PAST adv|about prep|in det:art|the adj|early adj|twentieth
+	n|century coord|or det:art|the adj|late adj|nineteenth coord|and
+	adj|early adj|twentieth n|century cm|cm pro:rel|that n:prop|Africa
+	mod|have&PAST~inf|to aux|be part|transform-PASTP coord|and
+	n:prop|Africa mod|have&PAST~inf|to aux|be part|retain-PASTP cm|cm
+	cop|be&PAST det:num|two n|argue&dv-MENT-PL pro:rel|that v|go&PAST
+	adv|hand_in_hand coord|and adv|kind_of v|work-PAST prep|with
+	pro:refl|each_other coord|and prep|against pro:refl|each_other .
+%grt:	1|35|LINK 2|4|DET 3|4|QUANT 4|35|SUBJ 5|6|LINK 6|4|CMOD 7|6|JCT
+	8|6|JCT 9|12|DET 10|11|MOD 11|12|MOD 12|8|POBJ 13|12|CONJ 14|20|DET
+	15|16|MOD 16|20|MOD 17|16|CONJ 18|19|MOD 19|17|COORD 20|13|COORD
+	21|6|LP 22|27|LINK 23|27|SUBJ 24|27|AUX 25|27|INF 26|27|AUX
+	27|4|CMOD 28|33|LINK 29|33|SUBJ 30|33|AUX 31|33|INF 32|33|AUX
+	33|27|CJCT 34|27|LP 35|0|ROOT 36|37|QUANT 37|35|PRED 38|39|LINK
+	39|37|CMOD 40|39|JCT 41|39|CONJ 42|43|JCT 43|41|COORD 44|43|JCT
+	45|44|POBJ 46|44|CONJ 47|46|COORD 48|47|POBJ 49|35|PUNCT
+*PAR:	and [/] and &Eur neither Europe or Africa could &effe escape from
+	the effects of these two .
+%mor:	coord|and coord|neither n:prop|Europe coord|or n:prop|Africa
+	mod|could v|escape prep|from det:art|the n|effect-PL prep|of
+	det:dem|these det:num|two .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|7|PUNCT
+%trn:	coord|and coord|neither n:prop|Europe coord|or n:prop|Africa
+	mod|could v|escape prep|from det:art|the n|effect-PL prep|of
+	det:dem|these det:num|two .
+%grt:	1|7|LINK 2|3|COORD 3|7|SUBJ 4|5|COORD 5|3|ENUM 6|7|AUX 7|0|ROOT
+	8|7|JCT 9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|7|PUNCT
+*PAR:	so_that given the presence of those two positions , those two
+	arguments , it would be useful if nineteenth century Africa could be
+	presented as a period of [/] of terrible strife , difficulties ,
+	<kinds of> [//] a_lot_of negative things going on in Africa that
+	needed to be ended cured and healed .
+%mor:	conj|so_that part|give&PASTP det:art|the n|presence prep|of
+	det:dem|those det:num|two n|position-PL cm|cm det:dem|those
+	det:num|two n|argue&dv-MENT-PL cm|cm pro:per|it mod|will&COND cop|be
+	adj|use&dn-FULL conj|if adj|nineteenth n|century n:prop|Africa
+	mod|could aux|be part|present-PASTP prep|as det:art|a n|period
+	prep|of adj|terrible n|strife cm|cm n|difficulty-PL cm|cm
+	qn|a_lot_of n|negative n|thing-PL part|go-PRESP adv|on prep|in
+	n:prop|Africa pro:rel|that v|need-PAST inf|to aux|be part|end-PASTP
+	part|cure-PASTP coord|and v|heal-PAST .
+%gra:	1|2|LINK 2|16|CJCT 3|4|DET 4|2|OBJ 5|4|NJCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|2|LP 10|12|DET 11|12|QUANT 12|2|OBJ 13|2|LP 14|16|SUBJ 15|16|AUX
+	16|0|ROOT 17|16|PRED 18|16|JCT 19|20|MOD 20|18|POBJ 21|24|SUBJ 22|24|AUX
+	23|24|AUX 24|20|CMOD 25|24|JCT 26|27|DET 27|25|POBJ 28|27|NJCT 29|30|MOD
+	30|28|POBJ 31|24|LP 32|24|ENUM 33|32|LP 34|36|QUANT 35|36|MOD 36|24|JCT
+	37|36|XMOD 38|37|JCT 39|37|JCT 40|39|POBJ 41|42|LINK 42|40|CMOD 43|45|INF
+	44|45|AUX 45|42|COMP 46|45|COMP 47|46|CONJ 48|47|COORD 49|16|PUNCT
+%trn:	conj|so_that part|give&PASTP det:art|the n|presence prep|of
+	det:dem|those det:num|two n|position-PL cm|cm det:dem|those
+	det:num|two n|argue&dv-MENT-PL cm|cm pro:per|it mod|will&COND cop|be
+	adj|use&dn-FULL conj|if adj|nineteenth n|century n:prop|Africa
+	mod|could aux|be part|present-PASTP prep|as det:art|a n|period
+	prep|of adj|terrible n|strife cm|cm n|difficulty-PL cm|cm
+	qn|a_lot_of adj|negative n|thing-PL part|go-PRESP adv|on prep|in
+	n:prop|Africa pro:rel|that v|need-PAST inf|to aux|be part|end-PASTP
+	part|cure-PASTP coord|and part|heal-PASTP .
+%grt:	1|16|LINK 2|16|XJCT 3|4|DET 4|2|OBJ 5|4|NJCT 6|8|DET 7|8|QUANT
+	8|5|POBJ 9|8|LP 10|12|DET 11|12|QUANT 12|8|ENUM 13|12|LP 14|16|SUBJ
+	15|16|AUX 16|0|ROOT 17|16|PRED 18|24|LINK 19|20|MOD 20|21|MOD
+	21|24|SUBJ 22|24|AUX 23|24|AUX 24|16|CJCT 25|24|JCT 26|27|DET
+	27|25|POBJ 28|27|NJCT 29|30|MOD 30|28|POBJ 31|30|LP 32|30|ENUM
+	33|32|LP 34|36|QUANT 35|36|MOD 36|32|ENUM 37|36|XMOD 38|37|JCT
+	39|37|JCT 40|39|POBJ 41|42|LINK 42|36|CMOD 43|45|INF 44|45|AUX
+	45|42|COMP 46|45|ENUM 47|46|CONJ 48|47|COORD 49|16|PUNCT
+*PAR:	or simultaneously that all those things that people thought about
+	Africa , that it was primitive and uncivilized , were actually
+	kind_of wrong .
+%mor:	coord|or adv|simultaneous&dadj-LY comp|that qn|all det:dem|those
+	n|thing-PL pro:rel|that n|person&PL v|think&PAST prep|about
+	n:prop|Africa cm|cm pro:rel|that pro:per|it cop|be&PAST&13S
+	adj|primitive coord|and un#part|civil-IZE-PASTP cm|cm cop|be&PAST
+	adv|actual&dadj-LY adv|kind_of adj|wrong .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|6|QUANT 5|6|DET 6|3|OBJ 7|9|LINK
+	8|9|SUBJ 9|6|CMOD 10|9|JCT 11|10|POBJ 12|11|LP 13|15|LINK 14|15|SUBJ 15|11|CMOD
+	16|15|PRED 17|15|CONJ 18|17|COORD 19|18|LP 20|15|PRED 21|23|JCT
+	22|23|JCT 23|20|PRED 24|1|PUNCT
+%trn:	coord|or adv|simultaneous&dadj-LY comp|that qn|all det:dem|those
+	n|thing-PL pro:rel|that n|person&PL v|think&PAST prep|about
+	n:prop|Africa cm|cm pro:rel|that pro:per|it cop|be&PAST&13S
+	adj|primitive coord|and un#part|civil-IZE-PASTP cm|cm cop|be&PAST
+	adv|actual&dadj-LY adv|kind_of adj|wrong .
+%grt:	1|20|LINK 2|20|JCT 3|20|JCT 4|6|QUANT 5|6|DET 6|20|SUBJ 7|9|LINK
+	8|9|MOD 9|6|CMOD 10|9|JCT 11|10|POBJ 12|9|LP 13|15|LINK 14|15|SUBJ
+	15|6|CMOD 16|15|PRED 17|16|CONJ 18|17|COORD 19|15|LP 20|0|ROOT
+	21|20|JCT 22|23|JCT 23|20|PRED 24|20|PUNCT
+*PAR:	that there were institutions in Africa that Europeans could work
+	with .
+%mor:	comp|that pro:exist|there cop|be&PAST n|institute&dv-TION-PL
+	prep|in n:prop|Africa pro:rel|that n:prop|Europeans mod|could v|work
+	prep|with .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|5|POBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CMOD 11|10|JCT 12|3|PUNCT
+%trn:	comp|that pro:exist|there cop|be&PAST n|institute&dv-TION-PL prep|in
+	n:prop|Africa pro:rel|that n:prop|Europeans mod|could v|work
+	prep|with .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|4|CMOD 11|10|JCT 12|3|PUNCT
+*PAR:	that there were states that could be grafted on in a kind_of
+	Shepstonian manner onto European institutions and made to work to
+	keep the price of imperialism costs down .
+%mor:	comp|that pro:exist|there cop|be&PAST n|state-PL pro:rel|that
+	mod|could aux|be part|graft-PASTP adv|on prep|in det:art|a
+	adv|kind_of n:prop|Shepstonian n|manner prep|onto n:prop|European
+	n|institute&dv-TION-PL coord|and v|make&PAST prep|to n|work inf|to
+	v|keep det:art|the n|price prep|of n|imperialism n|cost-PL adv|down
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|8|AUX 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|8|JCT 11|14|DET 12|13|JCT 13|14|MOD 14|10|POBJ 15|8|JCT
+	16|17|MOD 17|15|POBJ 18|8|CONJ 19|18|COORD 20|19|JCT 21|20|POBJ 22|23|INF
+	23|19|XJCT 24|25|DET 25|23|OBJ 26|25|NJCT 27|28|MOD 28|26|POBJ 29|23|JCT
+	30|3|PUNCT
+%trn:	comp|that pro:exist|there cop|be&PAST n|state-PL pro:rel|that
+	mod|could aux|be part|graft-PASTP adv|on prep|in det:art|a
+	adv|kind_of n:prop|Shepstonian n|manner prep|onto n:prop|European
+	n|institute&dv-TION-PL coord|and part|make&PASTP inf|to v|work inf|to
+	v|keep det:art|the n|price prep|of n|imperialism n|cost-PL adv|down
+	.
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|8|AUX 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|8|JCT 11|14|DET 12|13|JCT 13|14|MOD 14|10|POBJ 15|8|JCT
+	16|17|MOD 17|15|POBJ 18|8|CONJ 19|18|COORD 20|21|INF 21|19|COMP 22|23|INF
+	23|21|COMP 24|25|DET 25|23|OBJ 26|25|NJCT 27|28|MOD 28|26|POBJ
+	29|23|JCT 30|3|PUNCT
+*PAR:	so_that when people historians and others attempted to develop
+	pictures of the nineteenth century , this long nineteenth century ,
+	the pictures that they developed &s &s seemed to have these [/]
+	these two [/] two features of them .
+%mor:	conj|so_that conj|when n|person&PL n|historian-PL coord|and
+	n:pt|others v|attempt-PAST inf|to v|develop n|picture-PL prep|of
+	det:art|the adj|nineteenth n|century cm|cm det:dem|this adj|long
+	adj|nineteenth n|century cm|cm det:art|the n|picture-PL pro:rel|that
+	pro:sub|they v|develop-PAST cop|seem-PAST inf|to v|have
+	det:dem|these det:num|two n|feature-PL prep|of pro:obj|them .
+%gra:	1|7|LINK 2|4|LINK 3|4|MOD 4|7|SUBJ 5|4|CONJ 6|5|COORD 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|7|LP
+	16|19|DET 17|19|MOD 18|19|MOD 19|7|OBJ 20|19|LP 21|22|DET 22|26|SUBJ
+	23|25|LINK 24|25|SUBJ 25|22|CMOD 26|19|CMOD 27|28|INF 28|26|COMP 29|31|DET
+	30|31|QUANT 31|28|OBJ 32|31|NJCT 33|32|POBJ 34|7|PUNCT
+%trn:	conj|so_that conj|when n|person&PL n|historian-PL coord|and
+	n:pt|others v|attempt-PAST inf|to v|develop n|picture-PL prep|of
+	det:art|the adj|nineteenth n|century cm|cm det:dem|this adj|long
+	adj|nineteenth n|century cm|cm det:art|the n|picture-PL pro:rel|that
+	pro:sub|they v|develop-PAST cop|seem-PAST inf|to v|have
+	det:dem|these det:num|two n|feature-PL prep|of pro:obj|them .
+%grt:	1|26|LINK 2|7|LINK 3|7|SUBJ 4|3|ENUM 5|4|CONJ 6|5|COORD 7|26|CJCT
+	8|9|INF 9|7|COMP 10|9|OBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|14|LP 16|19|DET 17|19|MOD 18|19|MOD 19|14|APP 20|19|LP 21|22|DET
+	22|26|SUBJ 23|25|LINK 24|25|SUBJ 25|22|CMOD 26|0|ROOT 27|28|INF
+	28|26|COMP 29|31|DET 30|31|QUANT 31|28|OBJ 32|31|NJCT 33|32|POBJ
+	34|26|PUNCT
+*PAR:	<a look towards> [//] a look at events in the nineteenth century as
+	representing Africa's own reform of [/] of itself , of its own
+	problems , of dealing with its own problems in ways that could be
+	made [//] thought of as continuous with the new reforms that
+	Europeans are bringing in .
+%mor:	det:art|a n|look prep|at n|event-PL prep|in det:art|the
+	adj|nineteenth n|century prep|as n:gerund|represent-PRESP
+	adj|Africa&dn-POSS adj|own n|reform prep|of pro:refl|itself cm|cm
+	prep|of det:poss|its adj|own n|problem-PL cm|cm prep|of
+	n:gerund|deal-PRESP prep|with det:poss|its adj|own n|problem-PL
+	prep|in n|way-PL pro:rel|that mod|could aux|be part|think&PASTP
+	prep|of adv|as adj|continuous prep|with det:art|the adj|new
+	n|reform-PL pro:rel|that n:prop|Europeans aux|be&PRES
+	part|bring-PRESP adv|in .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|COORD 10|2|CJCT 11|13|MOD 12|13|MOD 13|10|OBJ 14|13|NJCT
+	15|14|POBJ 16|13|LP 17|13|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|20|LP 22|20|NJCT
+	23|22|POBJ 24|23|JCT 25|27|DET 26|27|MOD 27|24|POBJ 28|27|NJCT
+	29|28|POBJ 30|33|LINK 31|33|AUX 32|33|AUX 33|29|CMOD 34|33|JCT 35|36|JCT
+	36|34|POBJ 37|36|JCT 38|40|DET 39|40|MOD 40|37|POBJ 41|44|LINK 42|44|SUBJ
+	43|44|AUX 44|40|CMOD 45|44|JCT 46|2|PUNCT
+%trn:	det:art|a n|look prep|at n|event-PL prep|in det:art|the
+	adj|nineteenth n|century prep|as n:gerund|represent-PRESP
+	adj|Africa&dn-POSS adj|own n|reform prep|of pro:refl|itself cm|cm
+	prep|of det:poss|its adj|own n|problem-PL cm|cm prep|of
+	n:gerund|deal-PRESP prep|with det:poss|its adj|own n|problem-PL
+	prep|in n|way-PL pro:rel|that mod|could aux|be part|think&PASTP
+	prep|of prep|as adj|continuous prep|with det:art|the adj|new
+	n|reform-PL pro:rel|that n:prop|Europeans aux|be&PRES
+	part|bring-PRESP adv|in .
+%grt:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|NJCT 6|8|DET 7|8|MOD
+	8|5|POBJ 9|2|JCT 10|9|POBJ 11|13|MOD 12|13|MOD 13|10|OBJ
+	14|13|NJCT 15|14|POBJ 16|14|LP 17|14|ENUM 18|20|DET 19|20|MOD
+	20|17|POBJ 21|17|LP 22|17|ENUM 23|22|POBJ 24|23|JCT 25|27|DET
+	26|27|MOD 27|24|POBJ 28|23|JCT 29|28|POBJ 30|33|LINK 31|33|AUX
+	32|33|AUX 33|29|CMOD 34|33|JCT 35|33|JCT 36|35|POBJ 37|36|JCT
+	38|40|DET 39|40|MOD 40|37|POBJ 41|44|LINK 42|44|SUBJ 43|44|AUX
+	44|40|CMOD 45|44|JCT 46|2|PUNCT
+*PAR:	or secondly that <Africa could be represented> [//] &Afr events in
+	Africa could be representative of something as an anathema <to
+	African> [//] to European ideas about what &cev civilization should
+	be .
+%mor:	coord|or adv|second&dadj-LY comp|that n|event-PL prep|in
+	n:prop|Africa mod|could cop|be n|representative prep|of
+	pro:indef|something prep|as det:art|a n|anathema prep|to
+	n:prop|European n|idea-PL prep|about pro:int|what
+	n|civil&dv-IZE-TION mod|should cop|be .
+%gra:	1|4|LINK 2|4|JCT 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|8|PRED 10|9|NJCT 11|10|POBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|8|JCT 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|CPOBJ
+	23|8|PUNCT
+%trn:	coord|or adv|second&dadj-LY comp|that n|event-PL prep|in
+	n:prop|Africa mod|could cop|be adj|representative prep|of
+	pro:indef|something prep|as det:art|a n|anathema prep|to
+	n:prop|European n|idea-PL prep|about pro:int|what
+	n|civil&dv-IZE-TION mod|should cop|be .
+%grt:	1|8|LINK 2|8|JCT 3|8|LINK 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|8|PRED 10|9|JCT 11|10|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|17|NJCT 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|18|CPOBJ 23|8|PUNCT
+*PAR:	and <the Zulu> [//] the story of the Zulu empire you can see <is a
+	story about you_know how> [//] is also a story about how Europeans
+	or South African government and society &a at large was dealing with
+	that phenomenon .
+%mor:	coord|and det:art|the n|story prep|of det:art|the n:prop|Zulu
+	n|empire pro:per|you mod|can v|see cop|be&3S adv|also det:art|a
+	n|story prep|about pro:int|how n:prop|Europeans coord|or
+	n:prop|South n:prop|African n|govern&dv-MENT coord|and n|society
+	prep|at adj|large aux|be&PAST&13S part|deal-PRESP prep|with
+	det:dem|that n|phenomenon .
+%gra:	1|11|LINK 2|3|DET 3|11|SUBJ 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ 8|10|SUBJ
+	9|10|AUX 10|3|CMOD 11|0|ROOT 12|11|JCT 13|14|DET 14|11|PRED 15|14|NJCT
+	16|27|LINK 17|27|JCT 18|17|CONJ 19|21|MOD 20|21|MOD 21|18|COORD
+	22|17|CONJ 23|22|COORD 24|27|JCT 25|24|POBJ 26|27|AUX 27|15|CPOBJ 28|27|JCT
+	29|30|DET 30|28|POBJ 31|11|PUNCT
+%trn:	coord|and det:art|the n|story prep|of det:art|the n:prop|Zulu
+	n|empire pro:per|you mod|can v|see cop|be&3S adv|also det:art|a
+	n|story prep|about pro:int|how n:prop|Europeans coord|or
+	n:prop|South n:prop|African n|govern&dv-MENT coord|and n|society
+	prep|at adj|large aux|be&PAST&13S part|deal-PRESP prep|with
+	det:dem|that n|phenomenon .
+%grt:	1|11|LINK 2|3|DET 3|11|SUBJ 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ 8|10|SUBJ
+	9|10|AUX 10|11|CJCT 11|0|ROOT 12|11|JCT 13|14|DET 14|11|PRED
+	15|14|NJCT 16|27|LINK 17|27|JCT 18|17|CONJ 19|20|NAME 20|21|MOD
+	21|18|COORD 22|21|CONJ 23|22|COORD 24|23|NJCT 25|24|POBJ 26|27|AUX
+	27|15|CPOBJ 28|27|JCT 29|30|DET 30|28|POBJ 31|11|PUNCT
+*PAR:	the Buganda society <I mentioned> [//] I talked about last week is
+	an example of a set of processes and developments underway that
+	Europeans could herald as representing the capacities of [/] of
+	African institutions to reform and build themselves in ways that
+	would cheapen the costs of imperial responsibilities and could be
+	incorporated in [/] in imperial world .
+%mor:	det:art|the n:prop|Buganda n|society pro:sub|I v|talk-PAST
+	prep|about adj|last n|week cop|be&3S det:art|a n|example prep|of
+	det:art|a n|set prep|of n|process-PL coord|and n|develop&dv-MENT-PL
+	adv|underway pro:rel|that n:prop|Europeans mod|could v|herald
+	prep|as n:gerund|represent-PRESP det:art|the n|capacity-PL prep|of
+	n:prop|African n|institute&dv-TION-PL inf|to re#v|form coord|and
+	v|build pro:refl|themselves prep|in n|way-PL pro:rel|that
+	mod|will&COND v|cheapen det:art|the n|cost-PL prep|of adj|imperial
+	n|responsible&dadj-ITY-PL coord|and mod|could aux|be
+	part|incorporate-PASTP prep|in adj|imperial n|world .
+%gra:	1|3|DET 2|3|MOD 3|9|SUBJ 4|5|SUBJ 5|3|CMOD 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|0|ROOT 10|11|DET 11|9|PRED 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|11|CONJ 18|17|COORD 19|18|NJCT 20|23|LINK 21|23|SUBJ
+	22|23|AUX 23|19|CMOD 24|23|JCT 25|24|POBJ 26|27|DET 27|25|OBJ 28|27|NJCT
+	29|30|MOD 30|28|POBJ 31|32|INF 32|27|XMOD 33|32|CONJ 34|33|COORD 35|34|OBJ
+	36|34|JCT 37|36|POBJ 38|40|LINK 39|40|AUX 40|37|CMOD 41|42|DET 42|40|OBJ
+	43|42|NJCT 44|45|MOD 45|43|POBJ 46|25|CONJ 47|49|AUX 48|49|AUX 49|46|COORD
+	50|49|JCT 51|52|MOD 52|50|POBJ 53|9|PUNCT
+%trn:	det:art|the n:prop|Buganda n|society pro:sub|I v|talk-PAST
+	prep|about adj|last n|week cop|be&3S det:art|a n|example prep|of
+	det:art|a n|set prep|of n|process-PL coord|and n|develop&dv-MENT-PL
+	adv|underway pro:rel|that n:prop|Europeans mod|could v|herald prep|as
+	part|represent-PRESP det:art|the n|capacity-PL prep|of
+	n:prop|African n|institute&dv-TION-PL inf|to re#v|form coord|and
+	v|build pro:refl|themselves prep|in n|way-PL pro:rel|that
+	mod|will&COND v|cheapen det:art|the n|cost-PL prep|of adj|imperial
+	n|responsible&dadj-ITY-PL coord|and mod|could aux|be
+	part|incorporate-PASTP prep|in adj|imperial n|world .
+%grt:	1|3|DET 2|3|MOD 3|9|SUBJ 4|5|SUBJ 5|3|CMOD 6|5|JCT 7|8|MOD 8|5|JCT
+	9|0|ROOT 10|11|DET 11|9|PRED 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|16|CONJ 18|17|COORD 19|16|NJCT 20|23|LINK 21|23|SUBJ
+	22|23|AUX 23|16|CMOD 24|23|JCT 25|24|CPOBJ 26|27|DET 27|25|OBJ
+	28|27|NJCT 29|30|MOD 30|28|POBJ 31|32|INF 32|27|XMOD 33|32|CONJ
+	34|33|COORD 35|32|OBJ 36|32|JCT 37|36|POBJ 38|40|LINK 39|40|AUX
+	40|37|CMOD 41|42|DET 42|40|OBJ 43|42|NJCT 44|45|MOD 45|43|POBJ
+	46|40|CONJ 47|49|AUX 48|49|AUX 49|46|COORD 50|49|JCT 51|52|MOD
+	52|50|POBJ 53|9|PUNCT
+*PAR:	in a sense for the nineteenth centuries <there are> [//] to
+	oversimplify a little bit there are two West Africas .
+%mor:	prep|in det:art|a n|sense prep|for det:art|the adj|nineteenth
+	n|century-PL inf|to over#v|simplify det:art|a adj|little n|bit
+	pro:exist|there cop|be&PRES det:num|two n:prop|West n:prop|Africas .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|INF
+	9|7|XMOD 10|12|DET 11|12|MOD 12|14|JCT 13|14|SUBJ 14|9|COMP 15|16|QUANT
+	16|17|NAME 17|14|PRED 18|1|PUNCT
+%trn:	prep|in det:art|a n|sense prep|for det:art|the adj|nineteenth
+	n|century-PL inf|to over#v|simplify det:art|a adj|little n|bit
+	pro:exist|there cop|be&PRES det:num|two n:prop|West n:prop|Africas .
+%grt:	1|14|JCT 2|3|DET 3|1|POBJ 4|14|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|9|INF 9|14|XJCT 10|12|DET 11|12|MOD 12|9|JCT 13|14|SUBJ 14|0|ROOT
+	15|17|QUANT 16|17|NAME 17|14|PRED 18|14|PUNCT
+*PAR:	there is the area of the former empires of Ghana , Mali , Songhai ,
+	the Sahelian or western Sudanic region north of the West Africa
+	forest represented today by countries of Senegal , Gambia , Mali ,
+	Burkina Faso , parts of [/] of Guinea , northern Cote D_Ivoire ,
+	northern Ghana , parts of southern Niger , northern Nigeria ,
+	southern Chad , northern Cameroon .
+%mor:	pro:exist|there cop|be&3S det:art|the n|area prep|of det:art|the
+	adj|former n|empire-PL prep|of n:prop|Ghana cm|cm n:prop|Mali cm|cm
+	n:prop|Songhai cm|cm det:art|the n:prop|Sahelian coord|or
+	adj|western n:prop|Sudanic n|region adj|north prep|of det:art|the
+	n:prop|West n:prop|Africa n|forest v|represent-PAST adv:tem|today
+	adv|by n|country-PL prep|of n:prop|Senegal cm|cm n:prop|Gambia cm|cm
+	n:prop|Mali cm|cm n:prop|Burkina n:prop|Faso cm|cm n|part-PL prep|of
+	n:prop|Guinea cm|cm adj|northern n:prop|Cote n:prop|D_Ivoire cm|cm
+	adj|northern n:prop|Ghana cm|cm n|part-PL prep|of adj|southern
+	n:prop|Niger cm|cm adj|northern n:prop|Nigeria cm|cm adj|southern
+	n:prop|Chad cm|cm adj|northern n:prop|Cameroon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|8|LP 12|4|ENUM 13|12|LP 14|4|ENUM 15|14|LP 16|17|DET
+	17|28|SUBJ 18|17|CONJ 19|18|COORD 20|21|MOD 21|27|MOD 22|27|MOD
+	23|22|JCT 24|25|DET 25|23|POBJ 26|27|MOD 27|28|SUBJ 28|4|CMOD 29|28|JCT
+	30|28|JCT 31|47|JCT 32|31|NJCT 33|32|POBJ 34|31|LP 35|31|ENUM 36|31|LP
+	37|31|ENUM 38|31|LP 39|40|NAME 40|31|APP 41|40|LP 42|31|ENUM 43|42|NJCT
+	44|43|POBJ 45|42|LP 46|47|MOD 47|48|NAME 48|30|POBJ 49|48|LP 50|51|MOD 51|48|APP
+	52|48|LP 53|48|ENUM 54|53|NJCT 55|56|MOD 56|54|POBJ 57|48|LP 58|59|MOD
+	59|48|APP 60|48|LP 61|62|MOD 62|48|APP 63|48|LP 64|65|MOD 65|48|APP
+	66|2|PUNCT
+%trn:	pro:exist|there cop|be&3S det:art|the n|area prep|of det:art|the
+	adj|former n|empire-PL prep|of n:prop|Ghana cm|cm n:prop|Mali cm|cm
+	n:prop|Songhai cm|cm det:art|the n:prop|Sahelian coord|or
+	adj|western n:prop|Sudanic n|region adj|north prep|of det:art|the
+	n:prop|West n:prop|Africa n|forest part|represent-PASTP
+	adv:tem|today adv|by n|country-PL prep|of n:prop|Senegal cm|cm
+	n:prop|Gambia cm|cm n:prop|Mali cm|cm n:prop|Burkina n:prop|Faso
+	cm|cm n|part-PL prep|of n:prop|Guinea cm|cm adj|northern n:prop|Cote
+	n:prop|D_Ivoire cm|cm adj|northern n:prop|Ghana cm|cm n|part-PL
+	prep|of adj|southern n:prop|Niger cm|cm adj|northern n:prop|Nigeria
+	cm|cm adj|southern n:prop|Chad cm|cm adj|northern n:prop|Cameroon .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|10|LP 12|10|ENUM 13|12|LP 14|12|ENUM 15|14|LP
+	16|21|DET 17|21|MOD 18|17|CONJ 19|20|MOD 20|18|COORD 21|4|ENUM
+	22|21|POSTMOD 23|22|JCT 24|27|DET 25|26|NAME 26|27|MOD 27|23|POBJ
+	28|21|XMOD 29|28|JCT 30|28|JCT 31|30|POBJ 32|31|NJCT 33|32|POBJ
+	34|33|LP 35|33|ENUM 36|35|LP 37|35|ENUM 38|37|LP 39|40|NAME
+	40|37|ENUM 41|40|LP 42|40|ENUM 43|42|NJCT 44|43|POBJ 45|42|LP
+	46|48|MOD 47|48|NAME 48|42|ENUM 49|48|LP 50|51|MOD 51|48|ENUM
+	52|51|LP 53|51|ENUM 54|53|NJCT 55|56|MOD 56|54|POBJ 57|53|LP
+	58|59|MOD 59|53|ENUM 60|59|LP 61|62|MOD 62|59|ENUM 63|62|LP
+	64|65|MOD 65|62|ENUM 66|2|PUNCT
+*PAR:	but <this belt of> [//] this Sahelian or Sudanic belt was one
+	region .
+%mor:	conj|but det:dem|this n:prop|Sahelian coord|or n:prop|Sudanic
+	n|belt cop|be&PAST&13S det:num|one n|region .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|0|ROOT 8|9|QUANT
+	9|7|PRED 10|7|PUNCT
+%trn:	conj|but det:dem|this n:prop|Sahelian coord|or n:prop|Sudanic
+	n|belt cop|be&PAST&13S det:num|one n|region .
+%grt:	1|7|LINK 2|6|DET 3|6|MOD 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|0|ROOT
+	8|9|QUANT 9|7|PRED 10|7|PUNCT
+*PAR:	the other region was this area that had now for several centuries
+	been [//] &con had contact directly with European trading
+	institutions and the Atlantic trade , especially the Atlantic slave
+	trade .
+%mor:	det:art|the qn|other n|region cop|be&PAST&13S det:dem|this n|area
+	pro:rel|that aux|have&PAST adv:tem|now prep|for qn|several n|century-PL
+	v|have&PAST n|contact adv|direct&dadj-LY prep|with n:prop|European
+	n:gerund|trade-PRESP n|institute&dv-TION-PL coord|and det:art|the
+	n:prop|Atlantic n|trade cm|cm adv|especial&dadj-LY det:art|the
+	n:prop|Atlantic n|slave n|trade .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|13|LINK 8|13|AUX
+	9|13|JCT 10|13|JCT 11|12|QUANT 12|10|POBJ 13|6|CMOD 14|13|OBJ 15|13|JCT
+	16|13|JCT 17|19|MOD 18|19|MOD 19|16|POBJ 20|19|CONJ 21|23|DET 22|23|MOD
+	23|20|COORD 24|23|LP 25|23|NJCT 26|29|DET 27|29|MOD 28|29|MOD
+	29|25|POBJ 30|4|PUNCT
+%trn:	det:art|the qn|other n|region cop|be&PAST&13S det:dem|this n|area
+	pro:rel|that aux|have&PAST adv:tem|now prep|for qn|several n|century-PL
+	part|have&PASTP n|contact adv|direct&dadj-LY prep|with
+	n:prop|European n:gerund|trade-PRESP n|institute&dv-TION-PL
+	coord|and det:art|the n:prop|Atlantic n|trade cm|cm
+	adv|especial&dadj-LY det:art|the n:prop|Atlantic n|slave n|trade .
+%grt:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|13|LINK
+	8|13|AUX 9|13|JCT 10|13|JCT 11|12|QUANT 12|10|POBJ 13|6|CMOD
+	14|13|OBJ 15|13|JCT 16|13|JCT 17|19|MOD 18|19|MOD 19|16|POBJ
+	20|19|CONJ 21|23|DET 22|23|MOD 23|20|COORD 24|23|LP 25|29|NJCT
+	26|29|DET 27|29|MOD 28|29|MOD 29|23|APP 30|4|PUNCT
+*PAR:	and so &th there were really two arenas in which significant events
+	took place in [/] in the nineteenth century .
+%mor:	coord|and co|so pro:exist|there cop|be&PAST adv|real&dadj-LY
+	det:num|two n|arena-PL prep|in pro:int|which adj|significant
+	n|event-PL v|take&PAST n|place prep|in det:art|the adj|nineteenth
+	n|century .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|7|QUANT 7|4|PRED 8|7|NJCT
+	9|12|LINK 10|11|MOD 11|12|SUBJ 12|8|CPOBJ 13|12|OBJ 14|12|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|4|PUNCT
+%trn:	coord|and co|so pro:exist|there cop|be&PAST adv|real&dadj-LY
+	det:num|two n|arena-PL prep|in pro:int|which adj|significant
+	n|event-PL v|take&PAST n|place prep|in det:art|the adj|nineteenth
+	n|century .
+%grt:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|4|PRED
+	8|7|NJCT 9|12|LINK 10|11|MOD 11|12|SUBJ 12|8|CPOBJ 13|12|OBJ
+	14|12|JCT 15|17|DET 16|17|MOD 17|14|POBJ 18|4|PUNCT
+*PAR:	that's what I wanna talk about today and I'll try to go through &s
+	swiftly .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|I v|want~inf|to v|talk
+	prep|about adv:tem|today coord|and pro:sub|I~mod|will v|try inf|to
+	v|go adv|through adv|swift&dadj-LY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|7|INF 7|5|COMP 8|7|JCT
+	9|8|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CJCT 14|15|INF 15|13|COMP
+	16|15|JCT 17|15|JCT 18|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S pro:int|what pro:sub|I v|want~inf|to v|talk
+	prep|about adv:tem|today coord|and pro:sub|I~mod|will v|try inf|to
+	v|go adv|through adv|swift&dadj-LY .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|7|INF 7|5|COMP
+	8|7|JCT 9|7|JCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|2|CJCT 14|15|INF
+	15|13|COMP 16|15|JCT 17|15|JCT 18|2|PUNCT
+*PAR:	this [//] the major characteristic or major event that was repeated
+	over and over again throughout the region was the Islamic revolution
+	.
+%mor:	det:art|the adj|major n|characteristic coord|or adj|major n|event
+	pro:rel|that aux|be&PAST&13S part|repeat-PASTP adv|over coord|and
+	adv|over adv:tem|again prep|throughout det:art|the n|region
+	cop|be&PAST&13S det:art|the n:prop|Islamic n|revolution .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|6|MOD 6|4|COORD 7|9|LINK 8|9|AUX
+	9|3|CMOD 10|9|JCT 11|17|LINK 12|13|JCT 13|17|JCT 14|17|JCT 15|16|DET
+	16|14|POBJ 17|9|CJCT 18|20|DET 19|20|MOD 20|17|PRED 21|3|PUNCT
+%trn:	det:art|the adj|major n|characteristic coord|or adj|major n|event
+	pro:rel|that aux|be&PAST&13S part|repeat-PASTP adv|over coord|and
+	adv|over adv:tem|again prep|throughout det:art|the n|region
+	cop|be&PAST&13S det:art|the n:prop|Islamic n|revolution .
+%grt:	1|3|DET 2|3|MOD 3|17|SUBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|9|LINK
+	8|9|AUX 9|3|CMOD 10|9|JCT 11|10|CONJ 12|11|COORD 13|9|JCT
+	14|9|JCT 15|16|DET 16|14|POBJ 17|0|ROOT 18|20|DET 19|20|MOD
+	20|17|PRED 21|17|PUNCT
+*PAR:	a transformation of a society once [//] one region [/] &sub region
+	of the Sudanic belt after another by a [/] a movement that we call
+	an Islamic revolution .
+%mor:	det:art|a n|transform&dv-TION prep|of det:art|a n|society
+	det:num|one n|region prep|of det:art|the n:prop|Sudanic n|belt
+	prep|after pro:indef|another prep|by det:art|a n|movement
+	pro:rel|that pro:sub|we v|call det:art|a n:prop|Islamic n|revolution
+	.
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|7|DET 5|7|MOD 6|7|QUANT 7|3|POBJ
+	8|7|NJCT 9|11|DET 10|11|MOD 11|8|POBJ 12|2|NJCT 13|12|POBJ 14|2|NJCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|22|DET 21|22|MOD
+	22|19|OBJ 23|2|PUNCT
+%trn:	det:art|a n|transform&dv-TION prep|of det:art|a n|society
+	det:num|one n|region prep|of det:art|the n:prop|Sudanic n|belt
+	prep|after pro:indef|another prep|by det:art|a n|movement
+	pro:rel|that pro:sub|we v|call det:art|a n:prop|Islamic n|revolution
+	.
+%grt:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|QUANT 7|2|ENUM
+	8|7|NJCT 9|11|DET 10|11|MOD 11|8|POBJ 12|7|NJCT 13|12|POBJ 14|2|NJCT
+	15|16|DET 16|14|POBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|22|DET
+	21|22|MOD 22|19|OBJ 23|2|PUNCT
+*PAR:	but this is a different article that [/] &t that takes these &is
+	series of Islamic revolutions , pretty much reduces them to two or
+	three sentences .
+%mor:	conj|but pro:dem|this cop|be&3S det:art|a adj|different n|article
+	pro:rel|that v|take-3S det:dem|these n|series prep|of n:prop|Islamic
+	n|revolution-PL cm|cm adv|pretty adv|much v|reduce-3S pro:obj|them
+	prep|to det:num|two coord|or det:num|three n|sentence-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|17|CJCT 4|6|DET 5|6|MOD 6|3|PRED 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|3|LP 15|16|JCT
+	16|17|JCT 17|0|ROOT 18|17|OBJ 19|17|JCT 20|19|POBJ 21|20|CONJ 22|23|QUANT
+	23|21|COORD 24|17|PUNCT
+%trn:	conj|but pro:dem|this cop|be&3S det:art|a adj|different n|article
+	pro:rel|that v|take-3S det:dem|these n|series prep|of n:prop|Islamic
+	n|revolution-PL cm|cm adv|pretty adv|much v|reduce-3S pro:obj|them
+	prep|to det:num|two coord|or det:num|three n|sentence-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|8|LP 15|16|JCT
+	16|17|JCT 17|8|ENUM 18|17|OBJ 19|17|JCT 20|23|QUANT 21|20|CONJ
+	22|21|COORD 23|19|POBJ 24|17|PUNCT
+*PAR:	and I think that it pretty much represents what the general story
+	is of these revolutions .
+%mor:	coord|and pro:sub|I v|think comp|that pro:per|it adv|pretty
+	adv|much v|represent-3S pro:int|what det:art|the adj|general n|story
+	cop|be&3S prep|of det:dem|these n|revolution-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|7|JCT 7|8|JCT 8|3|COMP
+	9|13|LINK 10|12|DET 11|12|MOD 12|13|SUBJ 13|8|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|3|PUNCT
+%trn:	coord|and pro:sub|I v|think comp|that pro:per|it adv|pretty
+	adv|much v|represent-3S pro:int|what det:art|the adj|general n|story
+	cop|be&3S prep|of det:dem|these n|revolution-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|7|JCT 7|8|JCT 8|3|COMP
+	9|13|LINK 10|12|DET 11|12|MOD 12|13|SUBJ 13|8|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|3|PUNCT
+*PAR:	what was going on in the Sudan around eighteen hundred was that the
+	[/] the old system of empires in the western Sudan had fallen away
+	about two centuries earlier .
+%mor:	pro:int|what aux|be&PAST&13S part|go-PRESP adv|on prep|in
+	det:art|the n:prop|Sudan prep|around det:num|eighteen
+	det:num|hundred cop|be&PAST&13S comp|that det:art|the adj|old
+	n|system prep|of n|empire-PL prep|in det:art|the adj|western
+	n:prop|Sudan aux|have&PAST part|fall&PASTP adv|away prep|about
+	det:num|two n|century-PL adv|early-CP .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|11|SUBJ 11|3|CJCT 12|11|PRED 13|15|DET 14|15|MOD 15|12|OBJ
+	16|15|NJCT 17|16|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|23|SUBJ 22|23|AUX
+	23|20|CMOD 24|23|JCT 25|23|JCT 26|27|QUANT 27|25|POBJ 28|27|NJCT
+	29|3|PUNCT
+%trn:	pro:int|what aux|be&PAST&13S part|go-PRESP adv|on prep|in
+	det:art|the n:prop|Sudan prep|around det:num|eighteen
+	det:num|hundred cop|be&PAST&13S comp|that det:art|the adj|old
+	n|system prep|of n|empire-PL prep|in det:art|the adj|western
+	n:prop|Sudan aux|have&PAST part|fall&PASTP adv|away adv|about
+	det:num|two n|century-PL adv|early-CP .
+%grt:	1|3|SUBJ 2|3|AUX 3|11|CSUBJ 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|10|DATE 10|8|POBJ 11|0|ROOT 12|23|LINK 13|15|DET 14|15|MOD
+	15|23|SUBJ 16|15|NJCT 17|16|POBJ 18|17|NJCT 19|21|DET 20|21|MOD
+	21|18|POBJ 22|23|AUX 23|11|CPRED 24|23|JCT 25|26|JCT 26|27|QUANT
+	27|28|JCT 28|23|JCT 29|11|PUNCT
+*PAR:	and what one had were a series of small states or city states ,
+	hundreds of them across the Sudan , each with their own governance ,
+	each with their own local economy , their own methods of extraction
+	.
+%mor:	coord|and pro:int|what pro:indef|one v|have&PAST cop|be&PAST
+	det:art|a n|series prep|of adj|small n|state-PL coord|or n|city
+	n|state-PL cm|cm n|hundred-PL prep|of pro:obj|them prep|across
+	det:art|the n:prop|Sudan cm|cm qn|each prep|with det:poss|their
+	adj|own n|governance cm|cm qn|each prep|with det:poss|their adj|own
+	adj|local n|economy cm|cm det:poss|their adj|own n|method-PL prep|of
+	n|extraction .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|ROOT 6|7|DET 7|5|INCROOT
+	8|7|NJCT 9|10|MOD 10|8|POBJ 11|7|CONJ 12|13|MOD 13|11|COORD 14|13|LP
+	15|11|COORD 16|15|NJCT 17|16|POBJ 18|15|NJCT 19|20|DET 20|18|POBJ 21|11|LP
+	22|23|QUANT 23|11|COORD 24|26|DET 25|26|MOD 26|23|POBJ 27|26|LP 28|23|INCROOT
+	29|28|NJCT 30|33|DET 31|33|MOD 32|33|MOD 33|29|POBJ 34|33|LP 35|37|DET
+	36|37|MOD 37|33|APP 38|37|NJCT 39|38|POBJ 40|28|PUNCT
+%trn:	coord|and pro:int|what pro:indef|one v|have&PAST cop|be&PAST
+	det:art|a n|series prep|of adj|small n|state-PL coord|or n|city
+	n|state-PL cm|cm n|hundred-PL prep|of pro:obj|them prep|across
+	det:art|the n:prop|Sudan cm|cm qn|each prep|with det:poss|their
+	adj|own n|governance cm|cm qn|each prep|with det:poss|their adj|own
+	adj|local n|economy cm|cm det:poss|their adj|own n|method-PL prep|of
+	n|extraction .
+%grt:	1|5|LINK 2|4|LINK 3|4|SUBJ 4|5|CSUBJ 5|0|ROOT 6|7|DET 7|5|PRED
+	8|7|NJCT 9|10|MOD 10|8|POBJ 11|10|CONJ 12|13|MOD 13|11|COORD
+	14|10|LP 15|10|APP 16|15|NJCT 17|16|POBJ 18|15|NJCT 19|20|DET
+	20|18|POBJ 21|15|LP 22|23|JCT 23|10|NJCT 24|26|DET 25|26|MOD
+	26|23|POBJ 27|23|LP 28|29|JCT 29|10|NJCT 30|33|DET 31|33|MOD
+	32|33|MOD 33|29|POBJ 34|33|LP 35|37|DET 36|37|MOD 37|33|ENUM
+	38|37|NJCT 39|38|POBJ 40|5|PUNCT
+*PAR:	but across the whole region <you would say> [//] &y if you you_know
+	were looking at them <they would be> [//] over any kind of hundred ,
+	two hundred , three hundred mile &a region they'd look pretty
+	similar .
+%mor:	conj|but prep|across det:art|the adj|whole n|region conj|if
+	pro:per|you co|you_know aux|be&PAST part|look-PRESP prep|at
+	pro:obj|them prep|over qn|any n|kind prep|of det:num|hundred cm|cm
+	det:num|two det:num|hundred cm|cm det:num|three det:num|hundred
+	n|mile n|region pro:sub|they~mod|genmod cop|look adv|pretty
+	adj|similar .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|5|NJCT 7|6|POBJ 8|10|COM
+	9|10|AUX 10|7|COMP 11|10|JCT 12|11|POBJ 13|10|JCT 14|15|QUANT
+	15|13|POBJ 16|15|NJCT 17|16|POBJ 18|17|LP 19|20|QUANT 20|10|CJCT 21|20|LP
+	22|23|DATE 23|24|QUANT 24|25|MOD 25|20|ENUM 26|28|SUBJ 27|28|AUX 28|25|CMOD
+	29|30|JCT 30|28|PRED 31|1|PUNCT
+%trn:	conj|but prep|across det:art|the adj|whole n|region conj|if
+	pro:per|you co|you_know aux|be&PAST part|look-PRESP prep|at
+	pro:obj|them prep|over qn|any n|kind prep|of det:num|hundred cm|cm
+	det:num|two det:num|hundred cm|cm det:num|three det:num|hundred
+	n|mile n|region pro:sub|they~mod|genmod cop|look adv|pretty
+	adj|similar .
+%grt:	1|28|LINK 2|28|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|10|LINK 7|10|SUBJ
+	8|10|COM 9|10|AUX 10|28|CJCT 11|10|JCT 12|11|POBJ 13|10|JCT
+	14|15|QUANT 15|13|POBJ 16|15|NJCT 17|24|QUANT 18|17|LP 19|20|QUANT
+	20|17|ENUM 21|20|LP 22|23|QUANT 23|20|ENUM 24|25|MOD 25|16|POBJ
+	26|28|SUBJ 27|28|AUX 28|0|ROOT 29|30|JCT 30|28|PRED 31|28|PUNCT
+*PAR:	if you compared the ones in northern Nigeria to the ones in
+	southern Mali they would look different but the ones in northern
+	Nigeria would &s look pretty much the same .
+%mor:	conj|if pro:per|you v|compare-PAST det:art|the pro:indef|one-PL
+	prep|in adj|northern n:prop|Nigeria prep|to det:art|the
+	pro:indef|one-PL prep|in adj|southern n:prop|Mali pro:sub|they
+	mod|will&COND cop|look adj|different conj|but det:art|the
+	pro:indef|one-PL prep|in adj|northern n:prop|Nigeria mod|will&COND
+	cop|look adv|pretty adv|much det:art|the adj|same .
+%gra:	1|3|LINK 2|3|SUBJ 3|17|CJCT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|17|SUBJ
+	16|17|AUX 17|0|ROOT 18|17|PRED 19|30|LINK 20|21|DET 21|30|SUBJ 22|21|NJCT
+	23|26|JCT 24|26|SUBJ 25|26|AUX 26|22|POBJ 27|28|JCT 28|30|JCT 29|30|DET
+	30|17|CJCT 31|17|PUNCT
+%trn:	conj|if pro:per|you v|compare-PAST det:art|the pro:indef|one-PL
+	prep|in adj|northern n:prop|Nigeria prep|to det:art|the
+	pro:indef|one-PL prep|in adj|southern n:prop|Mali pro:sub|they
+	mod|will&COND cop|look adj|different conj|but det:art|the
+	pro:indef|one-PL prep|in adj|northern n:prop|Nigeria mod|will&COND
+	cop|look adv|pretty adv|much det:art|the adj|same .
+%grt:	1|3|LINK 2|3|SUBJ 3|17|CJCT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|MOD 14|12|POBJ
+	15|17|SUBJ 16|17|AUX 17|0|ROOT 18|17|PRED 19|26|LINK 20|21|DET
+	21|26|SUBJ 22|21|NJCT 23|24|MOD 24|22|POBJ 25|26|AUX 26|17|CJCT
+	27|28|JCT 28|30|JCT 29|30|DET 30|26|PRED 31|17|PUNCT
+*PAR:	and as you moved across the belt there would be similarities in any
+	small region .
+%mor:	coord|and conj|as pro:per|you v|move-PAST prep|across det:art|the
+	n|belt adv|there mod|will&COND cop|be n|similarity-PL prep|in qn|any
+	adj|small n|region .
+%gra:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|10|PRED 12|11|NJCT 13|15|QUANT 14|15|MOD
+	15|12|POBJ 16|10|PUNCT
+%trn:	coord|and conj|as pro:per|you v|move-PAST prep|across det:art|the
+	n|belt pro:exist|there mod|will&COND cop|be n|similarity-PL prep|in
+	qn|any adj|small n|region .
+%grt:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|10|PRED 12|11|NJCT 13|15|QUANT 14|15|MOD
+	15|12|POBJ 16|10|PUNCT
+*PAR:	that's kind_of probably <an obvious> [/] an obvious point .
+%mor:	pro:dem|that~cop|be&3S adv|kind_of adv|probable&dadj-LY det:art|a
+	adj|obvious n|point .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S adv|kind_of adv|probable&dadj-LY det:art|a
+	adj|obvious n|point .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|2|PRED 8|2|PUNCT
+*PAR:	they were interconnected by trade routes , market systems ,
+	calendrically organized market systems that moved around among the
+	[/] the states , and connections also through networks of Islamic
+	scholarship that connected all these .
+%mor:	pro:sub|they aux|be&PAST inter#part|connect-PASTP prep|by n|trade
+	n|route-PL cm|cm n|market n|system-PL cm|cm adv|calendrical&dadj-LY
+	part|organize-PASTP n|market n|system-PL pro:rel|that v|move-PAST
+	adv|around prep|among det:art|the n|state-PL cm|cm coord|and
+	n|connection-PL adv|also prep|through n|network-PL prep|of
+	n:prop|Islamic n|scholar-SHIP pro:rel|that v|connect-PAST qn|all
+	pro:dem|these .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|LP 8|9|MOD
+	9|3|ENUM 10|9|LP 11|12|JCT 12|3|XJCT 13|14|MOD 14|12|OBJ 15|16|LINK
+	16|14|CMOD 17|16|JCT 18|16|JCT 19|20|DET 20|18|POBJ 21|16|LP 22|16|CONJ
+	23|22|COORD 24|23|NJCT 25|24|JCT 26|25|POBJ 27|26|NJCT 28|29|MOD 29|27|POBJ
+	30|31|LINK 31|23|CMOD 32|33|QUANT 33|31|OBJ 34|3|PUNCT
+%trn:	pro:sub|they aux|be&PAST inter#part|connect-PASTP prep|by n|trade
+	n|route-PL cm|cm n|market n|system-PL cm|cm adv|calendrical&dadj-LY
+	part|organize-PASTP n|market n|system-PL pro:rel|that v|move-PAST
+	adv|around prep|among det:art|the n|state-PL cm|cm coord|and
+	n|connection-PL adv|also prep|through n|network-PL prep|of
+	n:prop|Islamic n|scholar-SHIP pro:rel|that v|connect-PAST qn|all
+	det:dem|these .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|6|LP 8|9|MOD
+	9|6|ENUM 10|9|LP 11|12|JCT 12|14|XMOD 13|14|MOD 14|9|ENUM 15|16|LINK
+	16|14|CMOD 17|16|JCT 18|16|JCT 19|20|DET 20|18|POBJ 21|14|LP
+	22|14|CONJ 23|22|COORD 24|23|NJCT 25|23|NJCT 26|25|POBJ 27|26|NJCT
+	28|29|MOD 29|27|POBJ 30|31|LINK 31|26|CJCT 32|33|QUANT 33|31|OBJ
+	34|3|PUNCT
+*PAR:	almost all these city states in [//] were governed by Muslim rulers
+	and had within their [//] the cities an urbanized elite population
+	that was substantially Muslim .
+%mor:	adv|almost qn|all det:dem|these n|city n|state-PL aux|be&PAST
+	part|govern-PASTP prep|by n:prop|Muslim n|rule&dv-AGT-PL coord|and
+	v|have&PAST prep|within det:art|the n|city-PL det:art|a
+	part|urban-IZE-PASTP adj|elite n|populate&dv-TION pro:rel|that
+	cop|be&PAST&13S adv|substantial&dadj-LY n:prop|Muslim .
+%gra:	1|7|JCT 2|5|QUANT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|7|CONJ 12|11|COORD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|19|DET 17|19|MOD 18|19|MOD 19|12|OBJ 20|21|LINK 21|19|CMOD 22|23|JCT
+	23|21|PRED 24|7|PUNCT
+%trn:	adv|almost qn|all det:dem|these n|city n|state-PL aux|be&PAST
+	part|govern-PASTP prep|by n:prop|Muslim n|rule&dv-AGT-PL coord|and
+	v|have&PAST prep|within det:art|the n|city-PL det:art|a
+	part|urban-IZE-PASTP adj|elite n|populate&dv-TION pro:rel|that
+	cop|be&PAST&13S adv|substantial&dadj-LY n:prop|Muslim .
+%grt:	1|2|JCT 2|5|QUANT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|7|CONJ 12|11|COORD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|19|DET 17|19|XMOD 18|19|MOD 19|12|OBJ 20|21|LINK 21|19|CMOD
+	22|21|JCT 23|21|PRED 24|7|PUNCT
+*PAR:	and in every one of these city states , almost every one of them ,
+	there [/] &we there was at least one mosque , central mosque .
+%mor:	coord|and prep|in qn|every pro:indef|one prep|of det:dem|these
+	n|city n|state-PL cm|cm adv|almost qn|every pro:indef|one prep|of
+	pro:obj|them cm|cm pro:exist|there cop|be&PAST&13S prep|at n|least
+	det:num|one n|mosque cm|cm adj|central n|mosque .
+%gra:	1|17|LINK 2|17|JCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|LP 10|11|JCT 11|12|QUANT 12|2|POBJ 13|12|NJCT 14|13|POBJ 15|12|LP
+	16|17|SUBJ 17|0|ROOT 18|17|JCT 19|21|MOD 20|21|QUANT 21|18|POBJ 22|17|LP
+	23|24|MOD 24|17|PRED 25|17|PUNCT
+%trn:	coord|and prep|in qn|every pro:indef|one prep|of det:dem|these
+	n|city n|state-PL cm|cm adv|almost qn|every pro:indef|one prep|of
+	pro:obj|them cm|cm pro:exist|there cop|be&PAST&13S prep|at n|least
+	det:num|one n|mosque cm|cm adj|central n|mosque .
+%grt:	1|17|LINK 2|17|JCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|LP 10|11|JCT 11|12|QUANT 12|4|APP 13|12|NJCT 14|13|POBJ 15|12|LP
+	16|17|SUBJ 17|0|ROOT 18|17|JCT 19|18|POBJ 20|21|QUANT 21|17|PRED
+	22|21|LP 23|24|MOD 24|21|APP 25|17|PUNCT
+*PAR:	there were centers of Islamic scholarship and learning .
+%mor:	pro:exist|there cop|be&PAST n|center-PL prep|of n:prop|Islamic
+	n|scholar-SHIP coord|and part|learn-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|MOD 6|4|POBJ 7|2|CONJ 8|7|COORD
+	9|2|PUNCT
+%trn:	pro:exist|there cop|be&PAST n|center-PL prep|of n:prop|Islamic
+	n|scholar-SHIP coord|and n:gerund|learn-PRESP .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|MOD 6|4|POBJ 7|6|CONJ
+	8|7|COORD 9|2|PUNCT
+*PAR:	and Islam was not only seated in the town but was a means of
+	connection of the whole region in and of itself and to Islamic
+	communities all over the world through periodic pilgrimages ,
+	<through the> [//] &tra through travel , through trade among Muslim
+	traders .
+%mor:	coord|and n:prop|Islam aux|be&PAST&13S neg|not adv|only
+	part|seat-PASTP prep|in det:art|the n|town conj|but cop|be&PAST&13S
+	det:art|a n:pt|means prep|of n|connection prep|of det:art|the
+	adj|whole n|region prep|in coord|and prep|of pro:refl|itself
+	coord|and prep|to n:prop|Islamic n|community-PL adv|all prep|over
+	det:art|the n|world prep|through adj|periodic n|pilgrimage-PL cm|cm
+	prep|through n|travel cm|cm prep|through n|trade prep|among
+	n:prop|Muslim n|trade&dv-AGT-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT 11|10|ROOT 12|13|DET 13|11|PRED 14|13|NJCT 15|14|POBJ
+	16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|NJCT 21|20|CONJ
+	22|21|COORD 23|22|POBJ 24|20|CONJ 25|24|COORD 26|27|MOD 27|25|POBJ 28|29|JCT
+	29|25|INCROOT 30|31|DET 31|29|POBJ 32|31|NJCT 33|34|MOD 34|32|POBJ 35|29|LP
+	36|38|JCT 37|36|POBJ 38|29|LP 39|29|INCROOT 40|39|POBJ 41|39|JCT
+	42|43|MOD 43|41|POBJ 44|39|PUNCT
+%trn:	coord|and n:prop|Islam aux|be&PAST&13S neg|not adv|only
+	part|seat-PASTP prep|in det:art|the n|town conj|but cop|be&PAST&13S
+	det:art|a n:pt|means prep|of n|connection prep|of det:art|the
+	adj|whole n|region prep|in coord|and prep|of pro:refl|itself
+	coord|and prep|to n:prop|Islamic n|community-PL adv|all prep|over
+	det:art|the n|world prep|through adj|periodic n|pilgrimage-PL cm|cm
+	prep|through n|travel cm|cm prep|through n|trade prep|among
+	n:prop|Muslim n|trade&dv-AGT-PL .
+%grt:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|5|NEG 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|13|DET 13|11|PRED 14|13|JCT
+	15|14|POBJ 16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|NJCT
+	21|20|CONJ 22|21|COORD 23|20|POBJ 24|16|CONJ 25|24|COORD 26|27|MOD
+	27|25|POBJ 28|29|JCT 29|27|NJCT 30|31|DET 31|29|POBJ 32|15|NJCT
+	33|34|MOD 34|32|POBJ 35|32|LP 36|32|ENUM 37|36|POBJ 38|36|LP
+	39|36|ENUM 40|39|POBJ 41|40|NJCT 42|43|MOD 43|41|POBJ 44|6|PUNCT
+*PAR:	but the [/] the slave trade had [/] had in its own time pulled
+	resources away from these networks into exchange systems of the
+	Atlantic .
+%mor:	conj|but det:art|the n|slave n|trade aux|have&PAST prep|in
+	det:poss|its adj|own n|time part|pull-PASTP n|resource-PL adv|away
+	prep|from det:dem|these n|network-PL prep|into n|exchange
+	n|system-PL prep|of det:art|the n:prop|Atlantic .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|PUNCT 5|4|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|XMOD 11|10|OBJ 12|11|JCT 13|11|NJCT 14|15|DET 15|13|POBJ
+	16|10|JCT 17|18|MOD 18|16|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|5|PUNCT
+%trn:	conj|but det:art|the n|slave n|trade aux|have&PAST prep|in
+	det:poss|its adj|own n|time v|pull-PAST n|resource-PL adv|away
+	prep|from det:dem|these n|network-PL prep|into n|exchange
+	n|system-PL prep|of det:art|the n:prop|Atlantic .
+%grt:	1|10|LINK 2|4|DET 3|4|MOD 4|10|SUBJ 5|10|AUX 6|10|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|0|ROOT 11|10|OBJ 12|10|JCT 13|10|JCT 14|15|DET
+	15|13|POBJ 16|10|JCT 17|18|MOD 18|16|POBJ 19|18|NJCT 20|21|DET
+	21|19|POBJ 22|10|PUNCT
+*PAR:	and I think most historians agree that this area of the Sudanic
+	belt became poorer as a result of the Atlantic slave trade .
+%mor:	coord|and pro:sub|I v|think qn|most n|historian-PL v|agree
+	comp|that det:dem|this n|area prep|of det:art|the n:prop|Sudanic
+	n|belt cop|become&PAST adj|poor-CP prep|as det:art|a n|result
+	prep|of det:art|the n:prop|Atlantic n|slave n|trade .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|6|SUBJ 6|3|COMP 7|14|LINK
+	8|9|DET 9|14|SUBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|6|COMP
+	15|14|PRED 16|14|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|23|DET 21|23|MOD
+	22|23|MOD 23|19|POBJ 24|3|PUNCT
+%trn:	coord|and pro:sub|I v|think qn|most n|historian-PL v|agree comp|that
+	det:dem|this n|area prep|of det:art|the n:prop|Sudanic n|belt
+	cop|become&PAST adj|poor-CP prep|as det:art|a n|result prep|of
+	det:art|the n:prop|Atlantic n|slave n|trade .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|6|SUBJ 6|3|COMP 7|14|JCT 8|9|DET
+	9|14|SUBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|6|COMP 15|14|PRED
+	16|14|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|23|DET 21|23|MOD 22|23|MOD
+	23|19|POBJ 24|3|PUNCT
+*PAR:	the whole region became impoverished .
+%mor:	det:art|the adj|whole n|region cop|become&PAST adj|impoverished .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%trn:	det:art|the adj|whole n|region cop|become&PAST adj|impoverished .
+%grt:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	it was dependent on <long distance trade> [//] production for long
+	distance trade .
+%mor:	pro:per|it cop|be&PAST&13S adj|dependent prep|on n|production
+	prep|for adj|long n|distance n|trade .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|2|JCT 7|9|MOD 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S adj|dependent prep|on n|production
+	prep|for adj|long n|distance n|trade .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|2|JCT 7|8|MOD 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*PAR:	this is one explanation for the collapse of these large empires .
+%mor:	pro:dem|this cop|be&3S det:num|one n|explanation prep|for
+	det:art|the n|collapse prep|of det:dem|these adj|large n|empire-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+%trn:	pro:dem|this cop|be&3S det:num|one n|explanation prep|for
+	det:art|the n|collapse prep|of det:dem|these adj|large n|empire-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*PAR:	there was &ver apparently very little profit involved in holding
+	them all together that could support an [//] &im a broad imperial
+	system that could claim control of city states over five hundred or
+	a thousand miles .
+%mor:	pro:exist|there cop|be&PAST&13S adv|apparent&dadj-LY adv|very
+	adj|little n|profit v|involve-PAST prep|in n:gerund|hold-PRESP
+	pro:obj|them post|all adv|together pro:rel|that mod|could v|support
+	det:art|a adj|broad adj|imperial n|system pro:rel|that mod|could
+	v|claim n|control prep|of n|city n|state-PL prep|over det:num|five
+	det:num|hundred coord|or det:art|a det:num|thousand n|mile-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|6|MOD 6|2|PRED 7|2|JCT 8|7|JCT
+	9|8|POBJ 10|9|OBJ 11|10|PQ 12|9|JCT 13|15|LINK 14|15|AUX 15|9|CMOD 16|19|DET
+	17|19|MOD 18|19|MOD 19|15|OBJ 20|22|LINK 21|22|AUX 22|19|CMOD 23|22|OBJ
+	24|23|NJCT 25|26|MOD 26|24|POBJ 27|22|JCT 28|29|QUANT 29|27|POBJ
+	30|29|CONJ 31|33|DET 32|33|QUANT 33|30|COORD 34|2|PUNCT
+%trn:	pro:exist|there cop|be&PAST&13S adv|apparent&dadj-LY adv|very
+	adj|little n|profit part|involve-PASTP prep|in n:gerund|hold-PRESP
+	pro:obj|them post|all adv|together pro:rel|that mod|could v|support
+	det:art|a adj|broad adj|imperial n|system pro:rel|that mod|could
+	v|claim n|control prep|of n|city n|state-PL prep|over det:num|five
+	det:num|hundred coord|or det:art|a det:num|thousand n|mile-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|6|MOD 6|2|PRED 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|9|OBJ 11|10|PQ 12|9|JCT 13|15|LINK 14|15|AUX 15|6|CMOD
+	16|19|DET 17|19|MOD 18|19|MOD 19|15|OBJ 20|22|LINK 21|22|AUX
+	22|19|CMOD 23|22|OBJ 24|23|NJCT 25|26|MOD 26|24|POBJ 27|22|JCT
+	28|29|ENUM 29|33|QUANT 30|29|CONJ 31|32|DET 32|30|COORD 33|27|POBJ
+	34|2|PUNCT
+*PAR:	so_that by eighteen hundred these areas were +//.
+%mor:	conj|so_that prep|by det:num|eighteen det:num|hundred det:dem|these
+	n|area-PL cop|be&PAST +//.
+%gra:	1|7|LINK 2|7|LINK 3|4|QUANT 4|6|QUANT 5|6|DET 6|7|SUBJ 7|0|ROOT
+	8|7|PUNCT
+%trn:	conj|so_that prep|by det:num|eighteen det:num|hundred det:dem|these
+	n|area-PL cop|be&PAST +//.
+%grt:	1|7|LINK 2|7|JCT 3|4|DATE 4|2|POBJ 5|6|DET 6|7|SUBJ 7|0|ROOT
+	8|7|PUNCT
+*PAR:	probably between fifteen hundred and eighteen hundred these [//]
+	this whole region had gone through a [/] a process of economic
+	decline .
+%mor:	adv|probable&dadj-LY prep|between det:num|fifteen det:num|hundred
+	coord|and det:num|eighteen det:num|hundred det:dem|this adj|whole
+	n|region aux|have&PAST part|go&PASTP prep|through det:art|a
+	n|process prep|of adj|economic n|decline .
+%gra:	1|12|JCT 2|12|JCT 3|4|QUANT 4|2|POBJ 5|4|CONJ 6|5|COORD 7|10|QUANT
+	8|10|DET 9|10|MOD 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|15|DET
+	15|13|POBJ 16|15|NJCT 17|18|MOD 18|16|POBJ 19|12|PUNCT
+%trn:	adv|probable&dadj-LY prep|between det:num|fifteen det:num|hundred
+	coord|and det:num|eighteen det:num|hundred det:dem|this adj|whole
+	n|region aux|have&PAST part|go&PASTP prep|through det:art|a
+	n|process prep|of adj|economic n|decline .
+%grt:	1|12|JCT 2|12|JCT 3|4|DATE 4|2|POBJ 5|4|CONJ 6|7|DATE 7|5|COORD
+	8|10|DET 9|10|MOD 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|15|DET
+	15|13|POBJ 16|15|NJCT 17|18|MOD 18|16|POBJ 19|12|PUNCT
+*PAR:	and at the same time the slave trade had probably introduced +//.
+%mor:	coord|and prep|at det:art|the adj|same n|time det:art|the n|slave
+	n|trade aux|have&PAST adv|probable&dadj-LY part|introduce-PASTP +//.
+%gra:	1|11|LINK 2|11|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|DET 7|8|MOD 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|0|ROOT 12|11|PUNCT
+%trn:	coord|and prep|at det:art|the adj|same n|time det:art|the n|slave
+	n|trade aux|have&PAST adv|probable&dadj-LY v|introduce-PAST +//.
+%grt:	1|11|LINK 2|11|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|DET 7|8|MOD 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|0|ROOT 12|11|PUNCT
+*PAR:	the slave trade across the Sahara , the slave trade to the south
+	had probably <strengthened the> [/] &th strengthened the [/] the use
+	of forced labor or slave labor in the economies of these city states
+	.
+%mor:	det:art|the n|slave n|trade prep|across det:art|the n:prop|Sahara
+	cm|cm det:art|the n|slave n|trade prep|to det:art|the n|south
+	aux|have&PAST adv|probable&dadj-LY part|strengthen-PASTP det:art|the
+	n|use prep|of part|force-PASTP n|labor coord|or n|slave n|labor
+	prep|in det:art|the n|economy-PL prep|of det:dem|these n|city
+	n|state-PL .
+%gra:	1|3|DET 2|3|MOD 3|16|JCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|LP 8|10|DET
+	9|10|MOD 10|16|SUBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|AUX 15|16|JCT
+	16|0|ROOT 17|18|DET 18|16|OBJ 19|18|NJCT 20|19|POBJ 21|20|OBJ 22|21|CONJ
+	23|24|MOD 24|22|COORD 25|20|JCT 26|27|DET 27|25|POBJ 28|27|NJCT 29|31|DET
+	30|31|MOD 31|28|POBJ 32|16|PUNCT
+%trn:	det:art|the n|slave n|trade prep|across det:art|the n:prop|Sahara
+	cm|cm det:art|the n|slave n|trade prep|to det:art|the n|south
+	aux|have&PAST adv|probable&dadj-LY part|strengthen-PASTP det:art|the
+	n|use prep|of part|force-PASTP n|labor coord|or n|slave n|labor
+	prep|in det:art|the n|economy-PL prep|of det:dem|these n|city
+	n|state-PL .
+%grt:	1|3|DET 2|3|MOD 3|10|APP 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|LP 8|10|DET
+	9|10|MOD 10|16|SUBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|AUX
+	15|16|JCT 16|0|ROOT 17|18|DET 18|16|OBJ 19|18|NJCT 20|21|XMOD
+	21|19|POBJ 22|21|CONJ 23|24|MOD 24|22|COORD 25|18|NJCT 26|27|DET
+	27|25|POBJ 28|27|NJCT 29|31|DET 30|31|MOD 31|28|POBJ 32|16|PUNCT
+*PAR:	so_that on the one hand they became poorer and on the other hand they
+	became more involved <with the> [/] with the organization of society
+	based on force and forced labor .
+%mor:	conj|so_that prep|on det:art|the det:num|one n|hand pro:sub|they
+	cop|become&PAST adj|poor-CP coord|and prep|on det:art|the qn|other
+	n|hand pro:sub|they cop|become&PAST adv|more part|involve-PASTP
+	prep|with det:art|the n|organize&dv-TION prep|of n|society
+	v|base-PAST prep|on n|force coord|and part|force-PASTP n|labor .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|15|LINK 10|15|JCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|15|SUBJ
+	15|7|CJCT 16|15|JCT 17|16|XMOD 18|23|JCT 19|20|DET 20|23|SUBJ 21|20|NJCT
+	22|21|POBJ 23|17|COMP 24|23|JCT 25|24|POBJ 26|23|CONJ 27|26|COORD 28|27|OBJ
+	29|7|PUNCT
+%trn:	conj|so_that prep|on det:art|the det:num|one n|hand pro:sub|they
+	cop|become&PAST adj|poor-CP coord|and prep|on det:art|the qn|other
+	n|hand pro:sub|they cop|become&PAST adv|more part|involve-PASTP
+	prep|with det:art|the n|organize&dv-TION prep|of n|society
+	part|base-PASTP prep|on n|force coord|and part|force-PASTP n|labor .
+%grt:	1|7|LINK 2|7|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|15|LINK 10|15|JCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|15|SUBJ
+	15|7|CJCT 16|17|JCT 17|15|CPRED 18|17|JCT 19|20|DET 20|18|POBJ
+	21|20|NJCT 22|21|POBJ 23|20|XMOD 24|23|JCT 25|24|POBJ 26|25|CONJ
+	27|28|XMOD 28|26|COORD 29|7|PUNCT
+*PAR:	<there were> [//] in the nineteenth century there were four major
+	Islamic revolutions that took place in West Africa that were &re &c
+	clearly related to one_another .
+%mor:	prep|in det:art|the adj|nineteenth n|century pro:exist|there
+	cop|be&PAST det:num|four adj|major n:prop|Islamic n|revolution-PL
+	pro:rel|that v|take&PAST n|place prep|in n:prop|West n:prop|Africa
+	pro:rel|that aux|be&PAST adv|clear&dadj-LY part|relate-PASTP prep|to
+	pro:refl|one_another .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|4|CMOD 7|10|QUANT
+	8|10|MOD 9|10|MOD 10|6|PRED 11|12|LINK 12|10|CMOD 13|12|OBJ 14|12|JCT
+	15|14|POBJ 16|12|OBJ 17|20|LINK 18|20|AUX 19|20|JCT 20|16|CMOD 21|20|JCT
+	22|21|POBJ 23|1|PUNCT
+%trn:	prep|in det:art|the adj|nineteenth n|century pro:exist|there
+	cop|be&PAST det:num|four adj|major n:prop|Islamic n|revolution-PL
+	pro:rel|that v|take&PAST n|place prep|in n:prop|West n:prop|Africa
+	pro:rel|that aux|be&PAST adv|clear&dadj-LY part|relate-PASTP prep|to
+	pro:refl|one_another .
+%grt:	1|6|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|10|QUANT
+	8|10|MOD 9|10|MOD 10|6|PRED 11|12|LINK 12|10|CMOD 13|12|OBJ 14|12|JCT
+	15|16|NAME 16|14|POBJ 17|20|LINK 18|20|AUX 19|20|JCT 20|10|CMOD
+	21|20|JCT 22|21|POBJ 23|6|PUNCT
+*PAR:	<there was a> [//] there were other revolutions east of there in
+	the &s Sudan , in Chad and Sudan , that were not as closely related ,
+	though the timing of them could be said to be related .
+%mor:	pro:exist|there cop|be&PAST qn|other n|revolution-PL adv|east
+	prep|of n|there prep|in det:art|the n:prop|Sudan cm|cm prep|in
+	n:prop|Chad coord|and n:prop|Sudan cm|cm pro:rel|that aux|be&PAST
+	neg|not adv|as adv|close&dadj-LY part|relate-PASTP cm|cm conj|though
+	det:art|the n:gerund|time-PRESP prep|of pro:obj|them mod|could
+	aux|be part|say&PASTP inf|to aux|be part|relate-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|LP 12|2|JCT 13|12|POBJ 14|13|CONJ 15|14|COORD
+	16|2|LP 17|22|LINK 18|22|AUX 19|18|NEG 20|22|JCT 21|22|JCT 22|2|CJCT
+	23|22|LP 24|31|LINK 25|26|DET 26|31|SUBJ 27|26|JCT 28|27|POBJ 29|31|AUX
+	30|31|AUX 31|22|CJCT 32|34|INF 33|34|AUX 34|31|COMP 35|2|PUNCT
+%trn:	pro:exist|there cop|be&PAST qn|other n|revolution-PL adv|east
+	prep|of pro:indef|there prep|in det:art|the n:prop|Sudan cm|cm prep|in
+	n:prop|Chad coord|and n:prop|Sudan cm|cm pro:rel|that aux|be&PAST
+	neg|not adv|as adv|close&dadj-LY part|relate-PASTP cm|cm
+	conj|though det:art|the n:gerund|time-PRESP prep|of pro:obj|them
+	mod|could aux|be part|say&PASTP inf|to aux|be part|relate-PASTP .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|JCT 5|4|NJCT 6|5|JCT 7|6|POBJ
+	8|4|NJCT 9|10|DET 10|8|POBJ 11|8|LP 12|8|ENUM 13|12|POBJ 14|13|CONJ
+	15|14|COORD 16|12|LP 17|22|LINK 18|22|AUX 19|18|NEG 20|21|JCT
+	21|22|JCT 22|4|CMOD 23|2|LP 24|31|LINK 25|26|DET 26|31|SUBJ
+	27|26|JCT 28|27|POBJ 29|31|AUX 30|31|AUX 31|2|CJCT 32|34|INF
+	33|34|AUX 34|31|COMP 35|2|PUNCT
+*PAR:	there was the Hausaland revolt of eighteen oh [: zero] four .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|the n:prop|Hausaland
+	n|revolt prep|of det:num|eighteen det:num|zero det:num|four .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|DATE 8|9|DATE
+	9|6|POBJ 10|2|PUNCT
+%trn:	pro:exist|there cop|be&PAST&13S det:art|the n:prop|Hausaland
+	n|revolt prep|of det:num|eighteen det:num|zero det:num|four .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|DATE 8|9|DATE
+	9|6|POBJ 10|2|PUNCT
+*PAR:	and these revolutions <in the western> [//] in this area of
+	Senegambia , Mali , and Guinea , three of them , that lasted right
+	up into the time that the French started to occupy the Senegambia
+	region <in the> [//] to go inland and become involved with the [//]
+	those communities that were in revolt in the eighteen seventies .
+%mor:	coord|and det:dem|these n|revolution-PL prep|in det:dem|this n|area
+	prep|of n:prop|Senegambia cm|cm n:prop|Mali cm|cm coord|and
+	n:prop|Guinea cm|cm det:num|three prep|of pro:obj|them cm|cm
+	pro:rel|that v|last-PAST adv|right adv|up prep|into det:art|the
+	n|time pro:rel|that det:art|the n:prop|French v|start-PAST inf|to
+	v|occupy det:art|the n:prop|Senegambia n|region inf|to v|go
+	adv|inland coord|and cop|become part|involve-PASTP prep|with
+	det:dem|those n|community-PL pro:rel|that cop|be&PAST prep|in
+	n|revolt prep|in det:art|the det:num|eighteen n|seventy-PL .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|7|POBJ 9|3|LP 10|3|ENUM 11|10|LP 12|3|CONJ 13|12|COORD 14|3|LP 15|3|ENUM
+	16|15|JCT 17|16|POBJ 18|15|LP 19|20|LINK 20|3|CMOD 21|22|JCT 22|20|JCT
+	23|20|JCT 24|25|DET 25|23|POBJ 26|29|LINK 27|28|DET 28|29|SUBJ 29|25|CMOD
+	30|31|INF 31|29|COMP 32|34|DET 33|34|MOD 34|31|OBJ 35|36|INF 36|31|XJCT
+	37|36|JCT 38|36|CONJ 39|38|COORD 40|39|PRED 41|40|JCT 42|43|DET 43|41|POBJ
+	44|45|LINK 45|43|CMOD 46|45|JCT 47|46|POBJ 48|47|NJCT 49|51|DET
+	50|51|QUANT 51|48|POBJ 52|3|PUNCT
+%trn:	coord|and det:dem|these n|revolution-PL prep|in det:dem|this n|area
+	prep|of n:prop|Senegambia cm|cm n:prop|Mali cm|cm coord|and
+	n:prop|Guinea cm|cm det:num|three prep|of pro:obj|them cm|cm
+	pro:rel|that v|last-PAST adv|right adv|up prep|into det:art|the
+	n|time pro:rel|that det:art|the n:prop|French v|start-PAST inf|to
+	v|occupy det:art|the n:prop|Senegambia n|region inf|to v|go
+	adv|inland coord|and cop|become part|involve-PASTP prep|with
+	det:dem|those n|community-PL pro:rel|that cop|be&PAST prep|in
+	n|revolt prep|in det:art|the det:num|eighteen n|seventy-PL .
+%grt:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|7|POBJ 9|8|LP 10|8|ENUM 11|10|LP 12|10|CONJ 13|12|COORD 14|13|LP
+	15|3|APP 16|15|JCT 17|16|POBJ 18|15|LP 19|20|LINK 20|3|CMOD
+	21|22|JCT 22|20|JCT 23|20|JCT 24|25|DET 25|23|POBJ 26|29|LINK
+	27|28|DET 28|29|SUBJ 29|25|CMOD 30|31|INF 31|29|COMP 32|34|DET
+	33|34|MOD 34|31|OBJ 35|36|INF 36|31|XJCT 37|36|JCT 38|36|CONJ
+	39|38|COORD 40|39|CPRED 41|40|JCT 42|43|DET 43|41|POBJ 44|45|LINK
+	45|43|CMOD 46|45|JCT 47|46|POBJ 48|45|JCT 49|51|DET 50|51|DATE
+	51|48|POBJ 52|3|PUNCT
+*PAR:	&samor Samori Toure is considered an Islamic revolutionary but also
+	is one of the leading examples of [/] of resistance to European
+	conquest beginning in the eighteen seventies and &th into &eight end
+	of the eighteen eighties .
+%mor:	n:prop|Samori n:prop|Toure aux|be&3S part|consider-PASTP det:art|a
+	n:prop|Islamic adj|revolutionary conj|but adv|also cop|be&3S
+	pro:indef|one prep|of det:art|the part|lead-PRESP n|example-PL
+	prep|of n|resistance prep|to n:prop|European n|conquest
+	part|begin-PRESP prep|in det:art|the det:num|eighteen n|seventy-PL
+	coord|and prep|into n|end prep|of det:art|the det:num|eighteen
+	n|eighty-PL .
+%gra:	1|2|NAME 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|CONJ
+	9|10|JCT 10|8|COORD 11|10|PRED 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|15|NJCT 17|16|POBJ 18|11|NJCT 19|20|MOD 20|18|POBJ 21|11|XMOD 22|21|JCT
+	23|25|DET 24|25|QUANT 25|22|POBJ 26|21|CONJ 27|26|COORD 28|27|POBJ
+	29|28|NJCT 30|32|DET 31|32|QUANT 32|29|POBJ 33|4|PUNCT
+%trn:	n:prop|Samori n:prop|Toure aux|be&3S part|consider-PASTP det:art|a
+	n:prop|Islamic n|revolutionary conj|but adv|also cop|be&3S
+	pro:indef|one prep|of det:art|the part|lead-PRESP n|example-PL
+	prep|of n|resistance prep|to n:prop|European n|conquest
+	part|begin-PRESP prep|in det:art|the det:num|eighteen n|seventy-PL
+	coord|and prep|into n|end prep|of det:art|the det:num|eighteen
+	n|eighty-PL .
+%grt:	1|2|NAME 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|CONJ
+	9|10|JCT 10|8|COORD 11|10|PRED 12|11|NJCT 13|15|DET 14|15|XMOD
+	15|12|POBJ 16|15|NJCT 17|16|POBJ 18|17|NJCT 19|20|MOD 20|18|POBJ
+	21|10|XJCT 22|21|JCT 23|25|DET 24|25|DATE 25|22|POBJ 26|22|CONJ
+	27|26|COORD 28|27|POBJ 29|28|NJCT 30|32|DET 31|32|DATE 32|29|POBJ
+	33|4|PUNCT
+*PAR:	and each of these revolutions involved the [/] the unmaking of
+	<traditional authorities> [//] traditional political authorities in
+	the region , the establishment <of a> [/] of a caliphate with a [/]
+	a leader and a state based on Islamic principles , and the [/] <the
+	building of or> [//] the spreading of Islam from the cities from the
+	elite to the mass of the population or beyond .
+%mor:	coord|and qn|each prep|of det:dem|these n|revolution-PL
+	v|involve-PAST det:art|the un#n:gerund|make-PRESP prep|of
+	adj|tradition&dn-AL adj|politic-AL n|authority-PL prep|in
+	det:art|the n|region cm|cm det:art|the n|establishment prep|of
+	det:art|a n|caliphate prep|with det:art|a n|lead&dv-AGT coord|and
+	det:art|a n|state v|base-PAST prep|on n:prop|Islamic n|principle-PL
+	cm|cm coord|and det:art|the n:gerund|spread-PRESP prep|of
+	n:prop|Islam prep|from det:art|the n|city-PL prep|from det:art|the
+	adj|elite prep|to det:art|the n|mass prep|of det:art|the
+	n|populate&dv-TION coord|or adv|beyond .
+%gra:	1|6|LINK 2|6|QUANT 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|12|MOD 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|8|LP 17|18|DET 18|28|SUBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|18|NJCT
+	23|24|DET 24|22|POBJ 25|18|CONJ 26|27|DET 27|25|COORD 28|8|CJCT 29|28|JCT
+	30|31|MOD 31|29|POBJ 32|28|LP 33|28|CONJ 34|35|DET 35|33|COORD 36|35|JCT
+	37|36|POBJ 38|35|JCT 39|40|DET 40|38|POBJ 41|35|JCT 42|43|DET
+	43|41|POBJ 44|43|JCT 45|46|DET 46|44|POBJ 47|46|NJCT 48|49|DET 49|47|POBJ
+	50|43|CONJ 51|50|COORD 52|6|PUNCT
+%trn:	coord|and qn|each prep|of det:dem|these n|revolution-PL
+	v|involve-PAST det:art|the un#n:gerund|make-PRESP prep|of
+	adj|tradition&dn-AL adj|politic-AL n|authority-PL prep|in
+	det:art|the n|region cm|cm det:art|the n|establishment prep|of
+	det:art|a n|caliphate prep|with det:art|a n|lead&dv-AGT coord|and
+	det:art|a n|state part|base-PASTP prep|on n:prop|Islamic
+	n|principle-PL cm|cm coord|and det:art|the n:gerund|spread-PRESP
+	prep|of n:prop|Islam prep|from det:art|the n|city-PL prep|from
+	det:art|the n|elite prep|to det:art|the n|mass prep|of det:art|the
+	n|populate&dv-TION coord|or adv|beyond .
+%grt:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|12|MOD 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|8|LP 17|18|DET 18|8|ENUM 19|18|NJCT 20|21|DET 21|19|POBJ
+	22|21|NJCT 23|24|DET 24|22|POBJ 25|24|CONJ 26|27|DET 27|25|COORD
+	28|24|XMOD 29|28|JCT 30|31|MOD 31|29|POBJ 32|18|LP 33|18|CONJ
+	34|35|DET 35|33|COORD 36|35|NJCT 37|36|POBJ 38|35|NJCT 39|40|DET
+	40|38|POBJ 41|35|NJCT 42|43|DET 43|41|POBJ 44|35|NJCT 45|46|DET
+	46|44|POBJ 47|46|NJCT 48|49|DET 49|47|POBJ 50|44|CONJ 51|50|COORD
+	52|6|PUNCT
+*PAR:	I shouldn't say from the elite to the mass of the population
+	because the mass of the population was generally in revolt against
+	the [/] the elites .
+%mor:	pro:sub|I mod|should~neg|not v|say prep|from det:art|the adj|elite
+	prep|to det:art|the n|mass prep|of det:art|the n|populate&dv-TION
+	conj|because det:art|the n|mass prep|of det:art|the
+	n|populate&dv-TION cop|be&PAST&13S adv|general&dadj-LY prep|in
+	n|revolt prep|against det:art|the n|elite-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|20|LINK 15|16|DET
+	16|20|SUBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|4|CJCT 21|20|JCT 22|20|JCT
+	23|22|POBJ 24|20|JCT 25|26|DET 26|24|POBJ 27|4|PUNCT
+%trn:	pro:sub|I mod|should~neg|not v|say prep|from det:art|the n|elite
+	prep|to det:art|the n|mass prep|of det:art|the n|populate&dv-TION
+	conj|because det:art|the n|mass prep|of det:art|the
+	n|populate&dv-TION cop|be&PAST&13S adv|general&dadj-LY prep|in
+	n|revolt prep|against det:art|the n|elite-PL .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|20|LINK 15|16|DET
+	16|20|SUBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|4|CJCT 21|20|JCT 22|20|JCT
+	23|22|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|4|PUNCT
+*PAR:	the [//] there're two &gen general process models of Islamic
+	revolutions in Africa or in the world .
+%mor:	pro:exist|there~cop|be&PRES det:num|two adj|general n|process
+	n|model-PL prep|of n:prop|Islamic n|revolution-PL prep|in
+	n:prop|Africa coord|or prep|in det:art|the n|world .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|QUANT 4|6|MOD 5|6|MOD 6|2|PRED 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|6|NJCT 11|10|POBJ 12|6|CONJ 13|12|COORD 14|15|DET 15|13|POBJ
+	16|2|PUNCT
+%trn:	pro:exist|there~cop|be&PRES det:num|two adj|general n|process
+	n|model-PL prep|of n:prop|Islamic n|revolution-PL prep|in
+	n:prop|Africa coord|or prep|in det:art|the n|world .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|QUANT 4|5|MOD 5|6|MOD 6|2|PRED 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|10|CONJ 13|12|COORD 14|15|DET
+	15|13|POBJ 16|2|PUNCT
+*PAR:	one is based on a sociological and comparative analysis of a number
+	of revolutions .
+%mor:	pro:indef|one aux|be&3S part|base-PASTP prep|on det:art|a
+	socio#adj|logical coord|and adj|comparative n|analysis prep|of
+	det:art|a n|number prep|of n|revolution-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|9|NJCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|13|POBJ 15|3|PUNCT
+%trn:	pro:indef|one aux|be&3S part|base-PASTP prep|on det:art|a
+	socio#adj|logical coord|and adj|comparative n|analysis prep|of
+	det:art|a n|number prep|of n|revolution-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|9|DET 6|9|MOD 7|6|CONJ 8|7|COORD
+	9|4|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|13|POBJ
+	15|3|PUNCT
+*PAR:	and the second is that there's actually a model within Islamic
+	thought and Islamic &his historiography , &an a model of [/] of
+	revolution that is based on the prophet Mohammed's own life history
+	.
+%mor:	coord|and det:art|the adj|second cop|be&3S comp|that
+	pro:exist|there~cop|be&3S adv|actual&dadj-LY det:art|a n|model
+	prep|within n:prop|Islamic n|thought coord|and n:prop|Islamic
+	n|historiography cm|cm det:art|a n|model prep|of n|revolution
+	pro:rel|that aux|be&3S part|base-PASTP prep|on det:art|the n|prophet
+	adj|Mohammed&dn-POSS adj|own n|life n|history .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|10|CONJ 15|16|MOD
+	16|14|COORD 17|16|LP 18|19|DET 19|16|OBJ 20|19|NJCT 21|20|POBJ 22|24|LINK
+	23|24|AUX 24|21|CMOD 25|24|JCT 26|27|DET 27|31|MOD 28|31|MOD 29|31|MOD
+	30|31|MOD 31|25|POBJ 32|4|PUNCT
+%trn:	coord|and det:art|the adj|second cop|be&3S comp|that
+	pro:exist|there~cop|be&3S adv|actual&dadj-LY det:art|a n|model
+	prep|within n:prop|Islamic n|thought coord|and n:prop|Islamic
+	n|historiography cm|cm det:art|a n|model prep|of n|revolution
+	pro:rel|that aux|be&3S part|base-PASTP prep|on det:art|the n|prophet
+	adj|Mohammed&dn-POSS adj|own n|life n|history .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CPRED
+	8|7|JCT 9|10|DET 10|7|PRED 11|10|NJCT 12|13|MOD 13|11|POBJ
+	14|13|CONJ 15|16|MOD 16|14|COORD 17|10|LP 18|19|DET 19|10|APP
+	20|19|NJCT 21|20|POBJ 22|24|LINK 23|24|AUX 24|19|CMOD 25|24|JCT
+	26|27|DET 27|28|APP 28|31|MOD 29|31|MOD 30|31|MOD 31|25|POBJ
+	32|4|PUNCT
+*PAR:	and they [//] you_know in some ways they interrelate and some ways
+	they [/] they don't you_know .
+%mor:	coord|and co|you_know prep|in qn|some n|way-PL pro:sub|they
+	inter#v|relate coord|and qn|some n|way-PL pro:sub|they
+	mod|do~neg|not co|you_know .
+%gra:	1|7|LINK 2|7|COM 3|7|JCT 4|5|QUANT 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|CONJ
+	9|10|QUANT 10|8|COORD 11|14|SUBJ 12|14|AUX 13|12|NEG 14|10|CMOD
+	15|7|PUNCT
+%trn:	coord|and co|you_know prep|in qn|some n|way-PL pro:sub|they
+	inter#v|relate coord|and qn|some n|way-PL pro:sub|they
+	mod|do~neg|not co|you_know .
+%grt:	1|7|LINK 2|7|COM 3|7|JCT 4|5|QUANT 5|3|POBJ 6|7|SUBJ 7|0|ROOT
+	8|12|LINK 9|10|QUANT 10|12|JCT 11|12|SUBJ 12|7|CJCT 13|12|NEG
+	14|7|COM 15|7|PUNCT
+*PAR:	I think it's [/] it's pretty interesting to keep both of them in
+	mind and I've put them there and you can look at them your [//]
+	yourself .
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S adv|pretty adj|interesting
+	inf|to v|keep qn|both prep|of pro:obj|them prep|in n|mind coord|and
+	pro:sub|I~aux|have part|put&PASTP pro:obj|them adv|there coord|and
+	pro:per|you mod|can v|look prep|at pro:obj|them pro:refl|yourself .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|PRED 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|9|JCT 11|10|POBJ 12|11|NJCT 13|12|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|9|CJCT 18|17|OBJ 19|17|JCT 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|17|CJCT 24|23|JCT 25|24|POBJ 26|23|JCT 27|2|PUNCT
+%trn:	pro:sub|I v|think pro:per|it~cop|be&3S adv|pretty adj|interesting
+	inf|to v|keep qn|both prep|of pro:obj|them prep|in n|mind coord|and
+	pro:sub|I~aux|have part|put&PASTP pro:obj|them adv|there coord|and
+	pro:per|you mod|can v|look prep|at pro:obj|them pro:refl|yourself .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|PRED 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|9|NJCT 11|10|POBJ 12|8|JCT 13|12|POBJ 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|2|CJCT 18|17|OBJ 19|17|JCT 20|23|LINK
+	21|23|SUBJ 22|23|AUX 23|2|CJCT 24|23|JCT 25|24|POBJ 26|23|JCT
+	27|2|PUNCT
+*PAR:	I wanted to talk specifically about the <revolution in Islamic>
+	[//] revolution in [/] in northern Nigeria or what was called
+	Hausaland that began in [/] in eighteen oh [: zero] four .
+%mor:	pro:sub|I v|want-PAST inf|to v|talk adv|specific&dadj-AL-LY
+	prep|about det:art|the n|revolution prep|in adj|northern
+	n:prop|Nigeria coord|or pro:int|what aux|be&PAST&13S part|call-PASTP
+	n:prop|Hausaland pro:rel|that v|begin&PAST prep|in det:num|eighteen
+	det:num|zero det:num|four .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|4|CJCT
+	16|15|OBJ 17|18|LINK 18|16|CMOD 19|18|JCT 20|22|DATE 21|22|DATE 22|19|POBJ
+	23|2|PUNCT
+%trn:	pro:sub|I v|want-PAST inf|to v|talk adv|specific&dadj-AL-LY
+	prep|about det:art|the n|revolution prep|in adj|northern
+	n:prop|Nigeria coord|or pro:int|what aux|be&PAST&13S part|call-PASTP
+	n:prop|Hausaland pro:rel|that v|begin&PAST prep|in det:num|eighteen
+	det:num|zero det:num|four .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|11|CONJ 13|15|SUBJ 14|15|AUX
+	15|12|COORD 16|15|OBJ 17|18|LINK 18|8|CMOD 19|18|JCT 20|22|DATE
+	21|22|DATE 22|19|POBJ 23|2|PUNCT
+*PAR:	the [//] in the late eighteenth century there was a [/] &milit a
+	militant form of Islam that was spreading across the [/] &wester the
+	Sudan region moving from west to east .
+%mor:	prep|in det:art|the adj|late adj|eighteenth n|century
+	pro:exist|there cop|be&PAST&13S det:art|a adj|militant n|form
+	prep|of n:prop|Islam pro:rel|that aux|be&PAST&13S part|spread-PRESP
+	prep|across det:art|the n:prop|Sudan n|region part|move-PRESP
+	prep|from n|west prep|to n|east .
+%gra:	1|7|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|1|POBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|NJCT 12|11|POBJ 13|15|LINK 14|15|AUX 15|12|CMOD
+	16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|15|XJCT 21|20|JCT 22|21|POBJ
+	23|22|NJCT 24|23|POBJ 25|7|PUNCT
+%trn:	prep|in det:art|the adj|late adj|eighteenth n|century pro:exist|there
+	cop|be&PAST&13S det:art|a adj|militant n|form prep|of n:prop|Islam
+	pro:rel|that aux|be&PAST&13S part|spread-PRESP prep|across
+	det:art|the n:prop|Sudan n|region part|move-PRESP prep|from n|west
+	prep|to n|east .
+%grt:	1|7|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|1|POBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|NJCT 12|11|POBJ 13|15|LINK 14|15|AUX
+	15|10|CMOD 16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|15|XJCT
+	21|20|JCT 22|21|POBJ 23|20|JCT 24|23|POBJ 25|7|PUNCT
+*PAR:	<one of the> [//] if you just look at the [/] the nineteenth
+	century and you look at [/] at <when the> [//] &reve when these
+	revolutions take place it looks like they spread from east to west .
+%mor:	conj|if pro:per|you adv|just v|look prep|at det:art|the
+	adj|nineteenth n|century coord|and pro:per|you v|look prep|at
+	pro:rel|when det:dem|these n|revolution-PL v|take n|place pro:per|it
+	v|look-3S conj|like pro:sub|they v|spread&ZERO prep|from n|east
+	prep|to n|west .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|CONJ 10|11|SUBJ 11|9|COORD 12|11|JCT 13|16|LINK 14|15|DET 15|16|SUBJ
+	16|12|CMOD 17|16|OBJ 18|19|SUBJ 19|16|COMP 20|22|LINK 21|22|SUBJ
+	22|19|COMP 23|22|JCT 24|23|POBJ 25|24|NJCT 26|25|POBJ 27|4|PUNCT
+%trn:	conj|if pro:per|you adv|just v|look prep|at det:art|the
+	adj|nineteenth n|century coord|and pro:per|you v|look prep|at
+	pro:rel|when det:dem|these n|revolution-PL v|take n|place pro:per|it
+	v|look-3S prep|like pro:sub|they v|spread&ZERO prep|from n|east
+	prep|to n|west .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|19|CJCT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|11|JCT 13|16|LINK 14|15|DET
+	15|16|SUBJ 16|12|CPOBJ 17|16|OBJ 18|19|SUBJ 19|0|ROOT 20|19|JCT
+	21|22|SUBJ 22|20|CPOBJ 23|22|JCT 24|23|POBJ 25|22|JCT 26|25|POBJ
+	27|19|PUNCT
+*PAR:	but that's because we haven't looked at the revolutions in the
+	eighteenth century .
+%mor:	conj|but pro:dem|that~cop|be&3S conj|because pro:sub|we
+	aux|have~neg|not part|look-PASTP prep|at det:art|the n|revolution-PL
+	prep|in det:art|the adj|eighteenth n|century .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|3|PUNCT
+%trn:	conj|but pro:dem|that~cop|be&3S conj|because pro:sub|we
+	aux|have~neg|not part|look-PASTP prep|at det:art|the n|revolution-PL
+	prep|in det:art|the adj|eighteenth n|century .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG
+	8|3|CPRED 9|8|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|3|PUNCT
+*PAR:	in the eighteenth century there was a series of Islamic revolutions
+	in this region and it's from there that the [/] the ideas and some
+	of the personnel involved in &re revolutions <to the> [/] to the
+	east spread and then worked back west again .
+%mor:	prep|in det:art|the adj|eighteenth n|century pro:exist|there
+	cop|be&PAST&13S det:art|a n|series prep|of n:prop|Islamic
+	n|revolution-PL prep|in det:dem|this n|region coord|and
+	pro:per|it~cop|be&3S prep|from n|there pro:rel|that det:art|the
+	n|idea-PL coord|and pro:indef|some prep|of det:art|the n|personnel
+	v|involve-PAST prep|in n|revolution-PL prep|to det:art|the n|east
+	v|spread&ZERO coord|and adv:tem|then v|work-PAST adv|back adv|west
+	adv:tem|again .
+%gra:	1|6|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|6|JCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|6|CJCT 18|28|JCT 19|28|SUBJ 20|22|LINK 21|22|DET 22|28|SUBJ
+	23|22|CONJ 24|23|COORD 25|24|NJCT 26|27|DET 27|25|POBJ 28|17|CJCT 29|28|JCT
+	30|29|POBJ 31|28|JCT 32|33|DET 33|31|POBJ 34|28|ENUM 35|37|LINK
+	36|37|JCT 37|34|COMP 38|37|JCT 39|37|JCT 40|39|JCT 41|6|PUNCT
+%trn:	prep|in det:art|the adj|eighteenth n|century pro:exist|there
+	cop|be&PAST&13S det:art|a n|series prep|of n:prop|Islamic
+	n|revolution-PL prep|in det:dem|this n|region coord|and
+	pro:per|it~cop|be&3S prep|from pro:indef|there comp|that det:art|the
+	n|idea-PL coord|and pro:indef|some prep|of det:art|the n|personnel
+	part|involve-PASTP prep|in n|revolution-PL prep|to det:art|the n|east
+	v|spread&ZERO coord|and adv:tem|then v|work-PAST adv|back adv|west
+	adv:tem|again .
+%grt:	1|6|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|8|NJCT 13|14|DET 14|12|POBJ
+	15|17|LINK 16|17|SUBJ 17|6|CJCT 18|17|JCT 19|18|POBJ 20|34|LINK
+	21|22|DET 22|34|SUBJ 23|22|CONJ 24|23|COORD 25|24|NJCT 26|27|DET
+	27|25|POBJ 28|22|XMOD 29|28|JCT 30|29|POBJ 31|30|NJCT 32|33|DET
+	33|31|POBJ 34|17|CJCT 35|34|CONJ 36|37|JCT 37|35|COORD 38|37|JCT
+	39|37|JCT 40|37|JCT 41|6|PUNCT
+*PAR:	it started to experience the movement into the region of &ex &is
+	militant Islamic leaders associated with the Tijaniyya brotherhood .
+%mor:	pro:per|it v|start-PAST inf|to v|experience det:art|the n|movement
+	prep|into det:art|the n|region prep|of adj|militant n:prop|Islamic
+	n|lead&dv-AGT-PL part|associate-PASTP prep|with det:art|the
+	n:prop|Tijaniyya n|brother-HOOD .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|4|XJCT 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|2|PUNCT
+%trn:	pro:per|it v|start-PAST inf|to v|experience det:art|the n|movement
+	prep|into det:art|the n|region prep|of n|militant n:prop|Islamic
+	n|lead&dv-AGT-PL part|associate-PASTP prep|with det:art|the
+	n:prop|Tijaniyya n|brother-HOOD .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|NJCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|13|XMOD
+	15|14|JCT 16|18|DET 17|18|MOD 18|15|POBJ 19|2|PUNCT
+*PAR:	these were &as ascetic devout fundamental believers in Islam who
+	moved about the [//] &th these regions and maintained contact <with
+	each> [//] with each_other .
+%mor:	pro:dem|these cop|be&PAST n|ascetic adj|devout adj|fundamental
+	n|believe&dv-AGT-PL prep|in n:prop|Islam pro:rel|who v|move-PAST
+	prep|about det:dem|these n|region-PL coord|and part|maintain-PASTP
+	n|contact prep|with pro:refl|each_other .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|6|MOD 5|6|MOD 6|2|PRED 7|2|JCT 8|7|POBJ
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|10|CONJ 15|14|COORD
+	16|15|OBJ 17|15|JCT 18|17|POBJ 19|2|PUNCT
+%trn:	pro:dem|these cop|be&PAST n|ascetic adj|devout adj|fundamental
+	n|believe&dv-AGT-PL prep|in n:prop|Islam pro:rel|who v|move-PAST
+	prep|about det:dem|these n|region-PL coord|and v|maintain-PAST
+	n|contact prep|with pro:refl|each_other .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|6|MOD 5|6|MOD 6|2|PRED 7|6|NJCT 8|7|POBJ
+	9|10|LINK 10|6|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|10|CONJ
+	15|14|COORD 16|15|OBJ 17|15|JCT 18|17|POBJ 19|2|PUNCT
+*PAR:	and under the Tijaniyya there were a series of sort_of subunit
+	brotherhoods and it was the Torodbe , specifically the Torodbe
+	brotherhood within the Tijaniyya , that moved into this region of
+	northern Nigeria .
+%mor:	coord|and prep|under det:art|the n:prop|Tijaniyya pro:exist|there
+	cop|be&PAST det:art|a n|series prep|of adv|sort_of sub#n|unit
+	n|brother-HOOD-PL coord|and pro:per|it cop|be&PAST&13S det:art|the
+	n:prop|Torodbe cm|cm adv|specific&dadj-AL-LY det:art|the
+	n:prop|Torodbe n|brother-HOOD prep|within det:art|the
+	n:prop|Tijaniyya cm|cm pro:rel|that v|move-PAST prep|into
+	det:dem|this n|region prep|of adj|northern n:prop|Nigeria .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|11|JCT 11|9|POBJ 12|11|OBJ 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|17|DET 17|15|PRED 18|17|LP 19|17|NJCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|17|LP 27|28|LINK 28|17|CMOD 29|28|JCT
+	30|31|DET 31|29|POBJ 32|31|NJCT 33|34|MOD 34|32|POBJ 35|6|PUNCT
+%trn:	coord|and prep|under det:art|the n:prop|Tijaniyya pro:exist|there
+	cop|be&PAST det:art|a n|series prep|of adv|sort_of sub#n|unit
+	n|brother-HOOD-PL coord|and pro:per|it cop|be&PAST&13S det:art|the
+	n:prop|Torodbe cm|cm adv|specific&dadj-AL-LY det:art|the
+	n:prop|Torodbe n|brother-HOOD prep|within det:art|the
+	n:prop|Tijaniyya cm|cm pro:rel|that v|move-PAST prep|into
+	det:dem|this n|region prep|of adj|northern n:prop|Nigeria .
+%grt:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|11|JCT 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ
+	15|6|CJCT 16|17|DET 17|15|PRED 18|17|LP 19|22|NJCT 20|22|DET
+	21|22|MOD 22|17|APP 23|22|NJCT 24|25|DET 25|23|POBJ 26|22|LP
+	27|28|LINK 28|17|CMOD 29|28|JCT 30|31|DET 31|29|POBJ 32|31|NJCT
+	33|34|MOD 34|32|POBJ 35|6|PUNCT
+*PAR:	and what [//] one of the [/] the things that happened is that the
+	Torodbe were particularly associated with the Fulani or Fula
+	speaking people who tended in this period to be more mobile , to be
+	pastoralists or [/] or seminomadic who moved back and forth across
+	this region .
+%mor:	coord|and det:num|one prep|of det:art|the n|thing-PL pro:rel|that
+	v|happen-PAST cop|be&3S comp|that det:art|the n:prop|Torodbe
+	aux|be&PAST adv|particular&dadj-LY part|associate-PASTP prep|with
+	det:art|the n:prop|Fulani coord|or n:prop|Fula part|speak-PRESP
+	n|person&PL pro:rel|who v|tend-PAST prep|in det:dem|this n|period
+	inf|to cop|be adv|more adj|mobile cm|cm inf|to cop|be
+	n|pastoral&dadj-IST-PL coord|or semi#adj|nomadic pro:rel|who
+	v|move-PAST adv|back coord|and adv|forth prep|across det:dem|this
+	n|region .
+%gra:	1|8|LINK 2|8|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|LINK 7|5|CMOD 8|0|ROOT
+	9|14|LINK 10|11|DET 11|14|SUBJ 12|14|AUX 13|14|JCT 14|8|CPRED 15|14|JCT
+	16|17|DET 17|15|POBJ 18|17|CONJ 19|18|COORD 20|19|XMOD 21|20|OBJ
+	22|23|LINK 23|21|CMOD 24|23|JCT 25|26|DET 26|24|POBJ 27|28|INF 28|23|XJCT
+	29|30|JCT 30|28|PRED 31|28|LP 32|33|INF 33|28|PRED 34|33|PRED 35|34|CONJ
+	36|35|COORD 37|38|LINK 38|33|CMOD 39|38|JCT 40|38|CONJ 41|40|COORD 42|41|JCT
+	43|44|DET 44|42|POBJ 45|8|PUNCT
+%trn:	coord|and det:num|one prep|of det:art|the n|thing-PL pro:rel|that
+	v|happen-PAST cop|be&3S comp|that det:art|the n:prop|Torodbe
+	aux|be&PAST adv|particular&dadj-LY part|associate-PASTP prep|with
+	det:art|the n:prop|Fulani coord|or n:prop|Fula part|speak-PRESP
+	n|person&PL pro:rel|who v|tend-PAST prep|in det:dem|this n|period
+	inf|to cop|be adv|more adj|mobile cm|cm inf|to cop|be
+	n|pastoral&dadj-IST-PL coord|or semi#adj|nomadic pro:rel|who
+	v|move-PAST adv|back coord|and adv|forth prep|across det:dem|this
+	n|region .
+%grt:	1|8|LINK 2|8|SUBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|7|LINK 7|5|CMOD 8|0|ROOT
+	9|14|LINK 10|11|DET 11|14|SUBJ 12|14|AUX 13|14|JCT 14|8|CPRED 15|14|JCT
+	16|17|DET 17|15|POBJ 18|17|CONJ 19|20|OBJ 20|21|XMOD 21|18|COORD
+	22|23|LINK 23|17|CMOD 24|23|JCT 25|26|DET 26|24|POBJ 27|28|INF
+	28|23|COMP 29|30|JCT 30|28|PRED 31|28|LP 32|33|INF 33|28|ENUM
+	34|33|PRED 35|34|CONJ 36|35|COORD 37|38|LINK 38|17|CMOD 39|38|JCT
+	40|39|CONJ 41|40|COORD 42|38|JCT 43|44|DET 44|42|POBJ 45|8|PUNCT
+*PAR:	sometimes carrying trade goods , sometimes just moving the
+	livestock animals from one place to another , and reestablishing
+	themselves over time further to the [/] the east .
+%mor:	adv:tem|sometimes part|carry-PRESP n|trade n:pt|goods cm|cm
+	adv:tem|sometimes adv|just part|move-PRESP det:art|the n|livestock
+	n|animal-PL prep|from det:num|one n|place prep|to qn|another cm|cm
+	coord|and re#part|establish-PRESP pro:refl|themselves prep|over
+	n|time adv|further prep|to det:art|the adj|east .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|ENUM 5|4|LP 6|8|JCT 7|8|JCT 8|2|XJCT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|NJCT 13|14|QUANT 14|12|POBJ 15|8|JCT
+	16|15|POBJ 17|16|LP 18|16|CONJ 19|18|COORD 20|19|OBJ 21|20|NJCT 22|21|POBJ
+	23|20|JCT 24|23|JCT 25|26|DET 26|24|POBJ 27|2|PUNCT
+%trn:	adv:tem|sometimes part|carry-PRESP n|trade n:pt|goods cm|cm
+	adv:tem|sometimes adv|just part|move-PRESP det:art|the n|livestock
+	n|animal-PL prep|from det:num|one n|place prep|to pro:indef|another
+	cm|cm coord|and re#part|establish-PRESP pro:refl|themselves
+	prep|over n|time adv|further prep|to det:art|the n|east .
+%grt:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|LP 6|8|JCT 7|8|JCT 8|2|ENUM
+	9|11|DET 10|11|MOD 11|8|OBJ 12|8|JCT 13|14|QUANT 14|12|POBJ
+	15|8|JCT 16|15|POBJ 17|8|LP 18|8|CONJ 19|18|COORD 20|19|OBJ
+	21|19|JCT 22|21|POBJ 23|24|JCT 24|19|JCT 25|26|DET 26|24|POBJ
+	27|2|PUNCT
+*PAR:	and what they found <when they got to northern> [//] &ni as they
+	came into northern Nigeria is they found the city states dominated
+	by rulers who were Hausa speaking .
+%mor:	coord|and pro:int|what pro:sub|they v|find&PAST conj|as
+	pro:sub|they v|come&PAST prep|into adj|northern n:prop|Nigeria
+	cop|be&3S pro:sub|they v|find&PAST det:art|the n|city n|state-PL
+	part|dominate-PASTP prep|by n|rule&dv-AGT-PL pro:rel|who aux|be&PAST
+	n:prop|Hausa part|speak-PRESP .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|8|CPOBJ 12|13|SUBJ 13|11|CPRED 14|16|DET 15|16|MOD
+	16|13|OBJ 17|16|XMOD 18|17|JCT 19|18|POBJ 20|23|LINK 21|23|AUX
+	22|23|SUBJ 23|19|CMOD 24|4|PUNCT
+%trn:	coord|and pro:int|what pro:sub|they v|find&PAST conj|as
+	pro:sub|they v|come&PAST prep|into adj|northern n:prop|Nigeria
+	cop|be&3S pro:sub|they v|find&PAST det:art|the n|city n|state-PL
+	part|dominate-PASTP prep|by n|rule&dv-AGT-PL pro:rel|who aux|be&PAST
+	n:prop|Hausa part|speak-PRESP .
+%grt:	1|11|LINK 2|4|LINK 3|4|SUBJ 4|11|CSUBJ 5|7|LINK 6|7|SUBJ 7|4|CJCT
+	8|7|JCT 9|10|MOD 10|8|POBJ 11|0|ROOT 12|13|SUBJ 13|11|CPRED
+	14|16|DET 15|16|MOD 16|13|OBJ 17|16|XMOD 18|17|JCT 19|18|POBJ
+	20|23|LINK 21|23|AUX 22|23|OBJ 23|19|CMOD 24|11|PUNCT
+*PAR:	and the states , the cities themselves were Hausa speaking .
+%mor:	coord|and det:art|the n|state-PL cm|cm det:art|the n|city-PL
+	pro:refl|themselves aux|be&PAST n:prop|Hausa part|speak-PRESP .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|LP 5|6|DET 6|3|APP 7|10|SUBJ 8|10|AUX
+	9|10|SUBJ 10|6|CMOD 11|1|PUNCT
+%trn:	coord|and det:art|the n|state-PL cm|cm det:art|the n|city-PL
+	pro:refl|themselves aux|be&PAST n:prop|Hausa part|speak-PRESP .
+%grt:	1|10|LINK 2|3|DET 3|10|SUBJ 4|3|LP 5|6|DET 6|3|APP 7|6|APP
+	8|10|AUX 9|10|OBJ 10|0|ROOT 11|10|PUNCT
+*PAR:	a [//] one of the Fula teachers was named Uthman Dan Fodio .
+%mor:	pro:indef|one prep|of det:art|the n:prop|Fula n|teach&dv-AGT-PL
+	aux|be&PAST&13S part|name-PASTP n:prop|Uthman n:prop|Dan
+	n:prop|Fodio .
+%gra:	1|7|SUBJ 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|AUX 7|0|ROOT 8|10|NAME
+	9|10|NAME 10|7|OBJ 11|7|PUNCT
+%trn:	det:num|one prep|of det:art|the n:prop|Fula n|teach&dv-AGT-PL
+	aux|be&PAST&13S part|name-PASTP n:prop|Uthman n:prop|Dan
+	n:prop|Fodio .
+%grt:	1|7|SUBJ 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|AUX 7|0|ROOT 8|9|NAME
+	9|10|NAME 10|7|OBJ 11|7|PUNCT
+*PAR:	and he got into a series of arguments , a [//] kind_of &Luth Martin
+	Luther type arguments with the Islamic clerics who were associated
+	with the rulers of these Hausa city states .
+%mor:	coord|and pro:sub|he v|get&PAST prep|into det:art|a n|series
+	prep|of n|argue&dv-MENT-PL cm|cm adv|kind_of n:prop|Martin
+	n:prop|Luther n|type n|argue&dv-MENT-PL prep|with det:art|the
+	n:prop|Islamic n|cleric-PL pro:rel|who aux|be&PAST
+	part|associate-PASTP prep|with det:art|the n|rule&dv-AGT-PL prep|of
+	det:dem|these n:prop|Hausa n|city n|state-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|3|LP 10|3|JCT 11|14|MOD 12|14|MOD 13|14|MOD 14|10|POBJ 15|14|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|21|LINK 20|21|AUX 21|18|CMOD 22|21|JCT
+	23|24|DET 24|22|POBJ 25|24|NJCT 26|29|DET 27|29|MOD 28|29|MOD 29|25|POBJ
+	30|3|PUNCT
+%trn:	coord|and pro:sub|he v|get&PAST prep|into det:art|a n|series
+	prep|of n|argue&dv-MENT-PL cm|cm adv|kind_of n:prop|Martin
+	n:prop|Luther n|type n|argue&dv-MENT-PL prep|with det:art|the
+	n:prop|Islamic n|cleric-PL pro:rel|who aux|be&PAST
+	part|associate-PASTP prep|with det:art|the n|rule&dv-AGT-PL prep|of
+	det:dem|these n:prop|Hausa n|city n|state-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|8|LP 10|13|JCT 11|12|NAME 12|13|MOD 13|14|MOD 14|8|APP 15|14|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|21|LINK 20|21|AUX 21|18|CMOD 22|21|JCT
+	23|24|DET 24|22|POBJ 25|24|NJCT 26|29|DET 27|29|MOD 28|29|MOD 29|25|POBJ
+	30|3|PUNCT
+*PAR:	and the argument went like this .
+%mor:	coord|and det:art|the n|argue&dv-MENT v|go&PAST prep|like
+	pro:dem|this .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%trn:	coord|and det:art|the n|argue&dv-MENT v|go&PAST prep|like
+	pro:dem|this .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	the [//] Uthman said that while these rulers were Muslim claimed to
+	be Muslim and while they accommodated Muslim scholars and protected
+	the mosque in their towns , they did not abide by the
+	restrictions , the ideals of orthodox Islam .
+%mor:	n:prop|Uthman v|say&PAST comp|that conj|while det:dem|these
+	n|rule&dv-AGT-PL aux|be&PAST n:prop|Muslim part|claim-PASTP inf|to
+	cop|be n:prop|Muslim coord|and conj|while pro:sub|they
+	v|accommodate-PAST n:prop|Muslim n|scholar-PL coord|and
+	v|protect-PAST det:art|the n|mosque prep|in det:poss|their n|town-PL
+	cm|cm pro:sub|they mod|do&PAST neg|not v|abide prep|by det:art|the
+	n|restriction-PL cm|cm det:art|the n|ideal-PL prep|of adj|orthodox
+	n:prop|Islam .
+%gra:	1|2|SUBJ 2|0|ROOT 3|16|LINK 4|9|LINK 5|6|DET 6|9|SUBJ 7|9|AUX 8|9|SUBJ
+	9|16|CJCT 10|11|INF 11|9|COMP 12|11|PRED 13|12|CONJ 14|13|COORD
+	15|16|SUBJ 16|2|COMP 17|18|MOD 18|16|OBJ 19|16|CONJ 20|19|COORD 21|22|DET
+	22|20|OBJ 23|20|JCT 24|25|DET 25|23|POBJ 26|20|LP 27|30|SUBJ 28|30|AUX
+	29|28|NEG 30|20|CJCT 31|30|JCT 32|33|DET 33|31|POBJ 34|30|LP 35|36|DET
+	36|30|OBJ 37|36|NJCT 38|39|MOD 39|37|POBJ 40|2|PUNCT
+%trn:	n:prop|Uthman v|say&PAST comp|that conj|while det:dem|these
+	n|rule&dv-AGT-PL cop|be&PAST n:prop|Muslim v|claim-PAST inf|to
+	cop|be n:prop|Muslim coord|and conj|while pro:sub|they
+	v|accommodate-PAST n:prop|Muslim n|scholar-PL coord|and
+	v|protect-PAST det:art|the n|mosque prep|in det:poss|their n|town-PL
+	cm|cm pro:sub|they mod|do&PAST neg|not v|abide prep|by det:art|the
+	n|restriction-PL cm|cm det:art|the n|ideal-PL prep|of adj|orthodox
+	n:prop|Islam .
+%grt:	1|2|SUBJ 2|0|ROOT 3|30|LINK 4|7|LINK 5|6|DET 6|7|SUBJ 7|30|CJCT
+	8|7|PRED 9|7|ENUM 10|11|INF 11|9|COMP 12|11|PRED 13|16|LINK
+	14|16|LINK 15|16|SUBJ 16|30|CJCT 17|18|MOD 18|16|OBJ 19|16|CONJ
+	20|19|COORD 21|22|DET 22|20|OBJ 23|22|NJCT 24|25|DET 25|23|POBJ
+	26|16|LP 27|30|SUBJ 28|30|AUX 29|28|NEG 30|2|COMP 31|30|JCT
+	32|33|DET 33|31|POBJ 34|33|LP 35|36|DET 36|33|ENUM 37|36|NJCT
+	38|39|MOD 39|37|POBJ 40|2|PUNCT
+*PAR:	and that [//] in fact that the rulers' patronage of [/] of the
+	Muslim scholars in the towns , the [/] the patronage of Islam in the
+	town , actually was actually the opposite of what it looked like .
+%mor:	coord|and prep|in n|fact pro:rel|that det:art|the
+	adj|rule&dn-AGT-PL-POSS n|patronage prep|of det:art|the
+	n:prop|Muslim n|scholar-PL prep|in det:art|the n|town-PL cm|cm
+	det:art|the n|patronage prep|of n:prop|Islam prep|in det:art|the
+	n|town cm|cm adv|actual&dadj-LY cop|be&PAST&13S adv|actual&dadj-LY
+	det:art|the n|opposite prep|of pro:int|what pro:per|it v|look-PAST
+	prep|like .
+%gra:	1|0|INCROOT 2|1|JCT 3|25|COM 4|7|LINK 5|7|DET 6|7|MOD 7|25|SUBJ
+	8|7|NJCT 9|11|DET 10|11|MOD 11|8|POBJ 12|7|NJCT 13|14|DET 14|12|POBJ 15|7|LP
+	16|17|DET 17|7|APP 18|17|NJCT 19|18|POBJ 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|17|LP 24|25|JCT 25|2|POBJ 26|25|JCT 27|28|DET 28|26|POBJ 29|28|NJCT
+	30|32|LINK 31|32|SUBJ 32|29|CPOBJ 33|32|JCT 34|1|PUNCT
+%trn:	coord|and prep|in n|fact comp|that det:art|the
+	adj|rule&dn-AGT-PL-POSS n|patronage prep|of det:art|the
+	n:prop|Muslim n|scholar-PL prep|in det:art|the n|town-PL cm|cm
+	det:art|the n|patronage prep|of n:prop|Islam prep|in det:art|the
+	n|town cm|cm adv|actual&dadj-LY cop|be&PAST&13S adv|actual&dadj-LY
+	det:art|the n|opposite prep|of pro:int|what pro:per|it v|look-PAST
+	prep|like .
+%grt:	1|25|LINK 2|25|JCT 3|2|POBJ 4|25|LINK 5|7|DET 6|7|MOD 7|25|SUBJ
+	8|7|NJCT 9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|14|DET
+	14|12|POBJ 15|7|LP 16|17|DET 17|7|APP 18|17|NJCT 19|18|POBJ
+	20|19|NJCT 21|22|DET 22|20|POBJ 23|17|LP 24|25|JCT 25|0|ROOT
+	26|25|JCT 27|28|DET 28|25|PRED 29|28|NJCT 30|32|LINK 31|32|SUBJ
+	32|29|CPOBJ 33|32|JCT 34|25|PUNCT
+*PAR:	that it was a way of maintaining the illusion of an Islamic
+	community without it being Islamic at all .
+%mor:	comp|that pro:per|it cop|be&PAST&13S det:art|a n|way prep|of
+	n:gerund|maintain-PRESP det:art|the n|illusion prep|of det:art|a
+	n:prop|Islamic n|community prep|without pro:per|it part|be-PRESP
+	n:prop|Islamic prep|at pro:indef|all .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|5|NJCT 15|14|POBJ
+	16|5|XMOD 17|16|OBJ 18|16|JCT 19|18|POBJ 20|3|PUNCT
+%trn:	comp|that pro:per|it cop|be&PAST&13S det:art|a n|way prep|of
+	n:gerund|maintain-PRESP det:art|the n|illusion prep|of det:art|a
+	n:prop|Islamic n|community prep|without pro:per|it part|be-PRESP
+	n:prop|Islamic prep|at pro:indef|all .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|7|JCT 15|14|POBJ
+	16|15|XMOD 17|16|PRED 18|16|JCT 19|18|POBJ 20|3|PUNCT
+*PAR:	it allowed the rulers to get away with having the presence of this
+	more cosmopolitan population in the town and being able to kind_of
+	domesticate them to the interests of the Hausa city state .
+%mor:	pro:per|it v|allow-PAST det:art|the n|rule&dv-AGT-PL inf|to v|get
+	adv|away prep|with n:gerund|have-PRESP det:art|the n|presence
+	prep|of det:dem|this adv|more adj|cosmopolitan n|populate&dv-TION
+	prep|in det:art|the n|town coord|and n:gerund|be-PRESP adj|able
+	inf|to adv|kind_of v|domesticate pro:obj|them prep|to det:art|the
+	n|interest-PL prep|of det:art|the n:prop|Hausa n|city n|state .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|2|XJCT 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|11|DET 11|9|OBJ 12|11|NJCT 13|16|DET 14|15|JCT 15|16|MOD
+	16|12|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|11|CONJ 21|20|COORD 22|21|PRED
+	23|25|INF 24|25|JCT 25|22|XMOD 26|25|OBJ 27|25|JCT 28|29|DET 29|27|POBJ
+	30|29|NJCT 31|34|DET 32|34|MOD 33|34|MOD 34|30|POBJ 35|2|PUNCT
+%trn:	pro:per|it v|allow-PAST det:art|the n|rule&dv-AGT-PL inf|to v|get
+	adv|away prep|with n:gerund|have-PRESP det:art|the n|presence
+	prep|of det:dem|this adv|more adj|cosmopolitan n|populate&dv-TION
+	prep|in det:art|the n|town coord|and n:gerund|be-PRESP adj|able
+	inf|to adv|kind_of v|domesticate pro:obj|them prep|to det:art|the
+	n|interest-PL prep|of det:art|the n:prop|Hausa n|city n|state .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|2|XJCT 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|11|DET 11|9|OBJ 12|11|NJCT 13|16|DET 14|15|JCT 15|16|MOD
+	16|12|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|9|CONJ 21|20|COORD 22|21|PRED
+	23|25|INF 24|25|JCT 25|22|XMOD 26|25|OBJ 27|25|JCT 28|29|DET 29|27|POBJ
+	30|29|NJCT 31|34|DET 32|34|MOD 33|34|MOD 34|30|POBJ 35|2|PUNCT
+*PAR:	and the [/] the rulers' own identification with Islam was a
+	pretense in_order_to keep <these foreign> [/] &elem these foreign
+	elements who connected them through trade systems , cultural systems
+	, to the wider world .
+%mor:	coord|and det:art|the adj|rule&dn-AGT-PL-POSS adj|own
+	n|identify&dv-TION prep|with n:prop|Islam cop|be&PAST&13S det:art|a
+	n|pretense inf|in_order_to v|keep det:dem|these adj|foreign
+	n|element-PL pro:rel|who v|connect-PAST pro:obj|them prep|through
+	n|trade n|system-PL cm|cm adj|cultural n|system-PL cm|cm prep|to
+	det:art|the adj|wide-CP n|world .
+%gra:	1|5|LINK 2|5|DET 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|NJCT 7|8|SUBJ 8|6|POBJ
+	9|10|DET 10|8|PRED 11|12|INF 12|10|XMOD 13|15|DET 14|15|MOD 15|12|OBJ
+	16|17|LINK 17|15|CMOD 18|17|OBJ 19|17|JCT 20|21|MOD 21|19|POBJ 22|17|LP
+	23|24|MOD 24|17|OBJ 25|24|LP 26|24|ENUM 27|29|DET 28|29|MOD 29|26|POBJ
+	30|5|PUNCT
+%trn:	coord|and det:art|the adj|rule&dn-AGT-PL-POSS adj|own
+	n|identify&dv-TION prep|with n:prop|Islam cop|be&PAST&13S det:art|a
+	n|pretense inf|in_order_to v|keep det:dem|these adj|foreign
+	n|element-PL pro:rel|who v|connect-PAST pro:obj|them prep|through
+	n|trade n|system-PL cm|cm adj|cultural n|system-PL cm|cm prep|to
+	det:art|the adj|wide-CP n|world .
+%grt:	1|8|LINK 2|3|DET 3|5|MOD 4|5|MOD 5|8|SUBJ 6|5|NJCT 7|6|POBJ 8|0|ROOT
+	9|10|DET 10|8|PRED 11|12|INF 12|10|XMOD 13|15|DET 14|15|MOD 15|12|OBJ
+	16|17|LINK 17|15|CMOD 18|17|OBJ 19|17|JCT 20|21|MOD 21|19|POBJ
+	22|21|LP 23|24|MOD 24|21|ENUM 25|24|LP 26|17|JCT 27|29|DET
+	28|29|MOD 29|26|POBJ 30|8|PUNCT
+*PAR:	and [/] and so_that what Uthman was saying was that Islam was being
+	maintained in these city states pretty much as a foreign
+	accommodation to a foreign religion .
+%mor:	coord|and conj|so_that pro:int|what n:prop|Uthman aux|be&PAST&13S
+	part|say-PRESP cop|be&PAST&13S comp|that n:prop|Islam
+	aux|be&PAST&13S aux|be-PRESP part|maintain-PASTP prep|in
+	det:dem|these n|city n|state-PL adv|pretty adv|much prep|as
+	det:art|a adj|foreign n|accommodation prep|to det:art|a adj|foreign
+	n|religion .
+%gra:	1|7|LINK 2|7|LINK 3|6|OBJ 4|6|SUBJ 5|6|AUX 6|7|CSUBJ 7|0|ROOT 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|AUX 12|7|CPRED 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|JCT 18|12|JCT 19|12|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|22|NJCT 24|26|DET 25|26|MOD 26|23|POBJ 27|7|PUNCT
+%trn:	coord|and conj|so_that pro:int|what n:prop|Uthman aux|be&PAST&13S
+	part|say-PRESP cop|be&PAST&13S pro:rel|that n:prop|Islam
+	aux|be&PAST&13S aux|be-PRESP part|maintain-PASTP prep|in
+	det:dem|these n|city n|state-PL adv|pretty adv|much prep|as
+	det:art|a adj|foreign n|accommodation prep|to det:art|a adj|foreign
+	n|religion .
+%grt:	1|7|LINK 2|7|LINK 3|6|OBJ 4|6|SUBJ 5|6|AUX 6|7|CSUBJ 7|0|ROOT 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|AUX 12|7|CPRED 13|12|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|18|JCT 18|12|JCT 19|12|JCT 20|22|DET
+	21|22|MOD 22|19|POBJ 23|22|NJCT 24|26|DET 25|26|MOD 26|23|POBJ
+	27|7|PUNCT
+*PAR:	and what he was calling for was a complete transformation of the
+	society into an Islamic society and [/] and a destruction of this
+	compromised corrupt system of Hausa government [//] governance .
+%mor:	coord|and pro:int|what pro:sub|he aux|be&PAST&13S part|call-PRESP
+	prep|for cop|be&PAST&13S det:art|a adj|complete n|transform&dv-TION
+	prep|of det:art|the n|society prep|into det:art|a n:prop|Islamic
+	n|society coord|and det:art|a n|destruction prep|of det:dem|this
+	part|compromise-PASTP adj|corrupt n|system prep|of n:prop|Hausa
+	n|governance .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|10|CONJ 19|20|DET 20|18|COORD 21|20|NJCT
+	22|23|DET 23|21|POBJ 24|25|MOD 25|23|OBJ 26|25|NJCT 27|28|MOD 28|26|POBJ
+	29|5|PUNCT
+%trn:	coord|and pro:int|what pro:sub|he aux|be&PAST&13S part|call-PRESP
+	prep|for cop|be&PAST&13S det:art|a adj|complete n|transform&dv-TION
+	prep|of det:art|the n|society prep|into det:art|a n:prop|Islamic
+	n|society coord|and det:art|a n|destruction prep|of det:dem|this
+	part|compromise-PASTP adj|corrupt n|system prep|of n:prop|Hausa
+	n|governance .
+%grt:	1|7|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|7|CSUBJ 6|5|JCT 7|0|ROOT
+	8|10|DET 9|10|MOD 10|7|PRED 11|10|NJCT 12|13|DET 13|11|POBJ
+	14|10|NJCT 15|17|DET 16|17|MOD 17|14|POBJ 18|10|CONJ 19|20|DET
+	20|18|COORD 21|20|NJCT 22|25|DET 23|25|XMOD 24|25|MOD 25|21|POBJ
+	26|25|NJCT 27|28|MOD 28|26|POBJ 29|7|PUNCT
+*PAR:	what he had going for him was this sort_of economic crisis , this
+	kind_of steady state of depression in the area and the effects of
+	the ruler [//] Hausa rulers .
+%mor:	pro:int|what pro:sub|he v|have&PAST part|go-PRESP prep|for
+	pro:obj|him cop|be&PAST&13S det:dem|this adv|sort_of adj|economic
+	n|crisis cm|cm det:dem|this adv|kind_of adj|steady n|state prep|of
+	n|depression prep|in det:art|the n|area coord|and det:art|the
+	n|effect-PL prep|of det:art|the n:prop|Hausa n|rule&dv-AGT-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|XJCT 5|4|JCT 6|5|POBJ 7|4|COMP 8|11|DET
+	9|10|JCT 10|11|MOD 11|7|PRED 12|11|LP 13|16|DET 14|15|JCT 15|16|MOD
+	16|7|JCT 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|16|CONJ
+	23|24|DET 24|22|COORD 25|24|NJCT 26|28|DET 27|28|MOD 28|25|POBJ 29|3|PUNCT
+%trn:	pro:int|what pro:sub|he v|have&PAST part|go-PRESP prep|for
+	pro:obj|him cop|be&PAST&13S det:dem|this adv|sort_of adj|economic
+	n|crisis cm|cm det:dem|this adv|kind_of adj|steady n|state prep|of
+	n|depression prep|in det:art|the n|area coord|and det:art|the
+	n|effect-PL prep|of det:art|the n:prop|Hausa n|rule&dv-AGT-PL .
+%grt:	1|3|OBJ 2|3|SUBJ 3|7|CSUBJ 4|3|XJCT 5|4|JCT 6|5|POBJ 7|0|ROOT
+	8|11|DET 9|10|JCT 10|11|MOD 11|7|PRED 12|11|LP 13|16|DET 14|15|JCT
+	15|16|MOD 16|11|ENUM 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|21|DET
+	21|19|POBJ 22|16|CONJ 23|24|DET 24|22|COORD 25|24|NJCT 26|28|DET
+	27|28|MOD 28|25|POBJ 29|7|PUNCT
+*PAR:	tax systems specifically , or <labor and> [//] tax and labor systems
+	, where in [/] in spite of depression these Hausa city state rulers
+	could keep up their way of life , their control , through heavily
+	taxing the income and labor of the people not only in the towns and
+	the surrounding areas .
+%mor:	n|tax n|system-PL adv|specific&dadj-AL-LY cm|cm coord|or n|tax
+	coord|and n|labor n|system-PL cm|cm pro:rel|where prep|in n|spite
+	prep|of n|depression det:dem|these n:prop|Hausa n|city n|state
+	n|rule&dv-AGT-PL mod|could v|keep adv|up det:poss|their n|way
+	prep|of n|life cm|cm det:poss|their n|control cm|cm prep|through
+	adv|heavy&dadj-LY part|tax-PRESP det:art|the n|income coord|and
+	n|labor prep|of det:art|the n|person&PL neg|not adv|only prep|in
+	det:art|the n|town-PL coord|and det:art|the part|surround-PRESP
+	n|area-PL .
+%gra:	1|2|MOD 2|0|ROOT 3|2|NJCT 4|3|LP 5|2|CONJ 6|5|COORD 7|2|CONJ 8|9|MOD
+	9|7|COORD 10|2|LP 11|22|LINK 12|22|JCT 13|12|POBJ 14|13|NJCT 15|14|POBJ
+	16|20|DET 17|20|MOD 18|20|MOD 19|20|MOD 20|12|POBJ 21|22|AUX 22|2|CMOD
+	23|22|JCT 24|25|DET 25|22|OBJ 26|25|NJCT 27|26|POBJ 28|25|LP 29|30|DET
+	30|25|APP 31|25|LP 32|22|JCT 33|34|JCT 34|32|POBJ 35|36|DET 36|34|OBJ
+	37|36|CONJ 38|37|COORD 39|38|NJCT 40|41|DET 41|39|POBJ 42|43|NEG 43|36|NJCT
+	44|43|JCT 45|46|DET 46|44|POBJ 47|43|CONJ 48|50|DET 49|50|MOD 50|47|COORD
+	51|2|PUNCT
+%trn:	n|tax n|system-PL adv|specific&dadj-AL-LY cm|cm coord|or n|tax
+	coord|and n|labor n|system-PL cm|cm pro:rel|where prep|in n|spite
+	prep|of n|depression det:dem|these n:prop|Hausa n|city n|state
+	n|rule&dv-AGT-PL mod|could v|keep adv|up det:poss|their n|way
+	prep|of n|life cm|cm det:poss|their n|control cm|cm prep|through
+	adv|heavy&dadj-LY n:gerund|tax-PRESP det:art|the n|income coord|and
+	n|labor prep|of det:art|the n|person&PL neg|not adv|only prep|in
+	det:art|the n|town-PL coord|and det:art|the part|surround-PRESP
+	n|area-PL .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|2|LP 5|2|CONJ 6|9|MOD 7|6|CONJ
+	8|7|COORD 9|5|COORD 10|9|LP 11|22|LINK 12|22|JCT 13|12|POBJ
+	14|13|NJCT 15|14|POBJ 16|20|DET 17|20|MOD 18|19|MOD 19|20|MOD
+	20|22|SUBJ 21|22|AUX 22|2|CMOD 23|22|JCT 24|25|DET 25|23|POBJ
+	26|25|NJCT 27|26|POBJ 28|25|LP 29|30|DET 30|25|ENUM 31|30|LP
+	32|22|JCT 33|34|NJCT 34|32|POBJ 35|36|DET 36|34|OBJ 37|36|CONJ
+	38|37|COORD 39|36|NJCT 40|41|DET 41|39|POBJ 42|43|NEG 43|44|JCT
+	44|41|NJCT 45|46|DET 46|44|POBJ 47|46|CONJ 48|50|DET 49|50|MOD
+	50|47|COORD 51|2|PUNCT
+*PAR:	so_that underneath or alongside this call to orthodox Islam was
+	this economic interest , this kind_of social interest in tax revolt
+	.
+%mor:	conj|so_that adv|underneath coord|or prep|alongside det:dem|this
+	n|call prep|to adj|orthodox n:prop|Islam cop|be&PAST&13S
+	det:dem|this adj|economic n|interest cm|cm det:dem|this adv|kind_of
+	adj|social n|interest prep|in n|tax n|revolt .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|CONJ 4|3|COORD 5|6|DET 6|4|POBJ 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|7|CPOBJ 11|13|DET 12|13|MOD 13|10|PRED 14|13|LP 15|18|DET
+	16|17|JCT 17|18|MOD 18|10|JCT 19|18|NJCT 20|21|MOD 21|19|POBJ 22|1|PUNCT
+%trn:	conj|so_that prep|underneath coord|or prep|alongside det:dem|this
+	n|call prep|to adj|orthodox n:prop|Islam cop|be&PAST&13S
+	det:dem|this adj|economic n|interest cm|cm det:dem|this adv|kind_of
+	adj|social n|interest prep|in n|tax n|revolt .
+%grt:	1|10|LINK 2|10|JCT 3|2|CONJ 4|3|COORD 5|6|DET 6|2|POBJ 7|6|NJCT
+	8|9|MOD 9|7|POBJ 10|0|ROOT 11|13|DET 12|13|MOD 13|10|PRED 14|13|LP
+	15|18|PRED 16|17|JCT 17|18|MOD 18|13|APP 19|18|NJCT 20|21|MOD
+	21|19|POBJ 22|10|PUNCT
+*PAR:	so ‡ it became kind_of a combination movement .
+%mor:	co|so beg|beg pro:per|it cop|become&PAST adv|kind_of det:art|a
+	n|combine&dv-TION n|movement .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+%trn:	co|so beg|beg pro:per|it cop|become&PAST adv|kind_of det:art|a
+	n|combine&dv-TION n|movement .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|8|NJCT 6|8|DET 7|8|MOD 8|4|PRED
+	9|4|PUNCT
+*PAR:	he had the Hausa in the countryside who didn't like the taxation of
+	<the city> [//] their city masters .
+%mor:	pro:sub|he v|have&PAST det:art|the n:prop|Hausa prep|in det:art|the
+	n|+n|country+n|side pro:rel|who mod|do&PAST~neg|not v|like
+	det:art|the n|tax&dv-TION prep|of det:poss|their n|city n|master-PL
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|11|AUX 10|9|NEG 11|7|CMOD 12|13|DET 13|11|OBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|2|PUNCT
+%trn:	pro:sub|he v|have&PAST det:art|the n:prop|Hausa prep|in det:art|the
+	n|+n|country+n|side pro:rel|who mod|do&PAST~neg|not v|like
+	det:art|the n|tax&dv-TION prep|of det:poss|their n|city n|master-PL
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|11|AUX 10|11|NEG 11|4|CMOD 12|13|DET 13|11|OBJ 14|13|NJCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|2|PUNCT
+*PAR:	he had the Fulani who saw the [//] this Islamic movement as
+	something like a Fulani movement that would [//] could overcome
+	Hausa domination .
+%mor:	pro:sub|he v|have&PAST det:art|the n:prop|Fulani pro:rel|who
+	v|see&PAST det:dem|this n:prop|Islamic n|movement prep|as
+	pro:indef|something prep|like det:art|a n:prop|Fulani n|movement
+	pro:rel|that mod|could over#v|come n:prop|Hausa n|dominate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|LINK 6|4|CMOD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|11|COORD 11|9|CMOD 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|20|LINK 17|20|AUX 18|20|MOD 19|20|MOD 20|15|CMOD 21|2|PUNCT
+%trn:	pro:sub|he v|have&PAST det:art|the n:prop|Fulani pro:rel|who
+	v|see&PAST det:dem|this n:prop|Islamic n|movement prep|as
+	pro:indef|something prep|like det:art|a n:prop|Fulani n|movement
+	pro:rel|that mod|could over#v|come n:prop|Hausa n|dominate&dv-TION .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|LINK 6|4|CMOD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|JCT 11|10|POBJ 12|11|NJCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|20|LINK 17|20|AUX 18|20|MOD 19|20|MOD 20|15|CMOD
+	21|2|PUNCT
+*PAR:	he had <the religious> [//] this religious debate where he claimed
+	the high ground , the orthodox ground .
+%mor:	pro:sub|he v|have&PAST det:dem|this adj|religious n|debate
+	pro:rel|where pro:sub|he v|claim-PAST det:art|the adj|high n|ground
+	cm|cm det:art|the adj|orthodox n|ground .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|LP 13|15|DET 14|15|MOD 15|11|APP
+	16|2|PUNCT
+%trn:	pro:sub|he v|have&PAST det:dem|this adj|religious n|debate
+	pro:rel|where pro:sub|he v|claim-PAST det:art|the adj|high n|ground
+	cm|cm det:art|the adj|orthodox n|ground .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|LP 13|15|DET 14|15|MOD 15|11|APP
+	16|2|PUNCT
+*PAR:	and within a few years <he had an> [//] you_know in [/] in
+	northwest part of this northern Nigeria region he had the Hausa
+	leaders worrying about a kind_of steady state of revolt .
+%mor:	coord|and prep|within det:art|a qn|few n|year-PL co|you_know
+	prep|in adj|northwest n|part prep|of det:dem|this adj|northern
+	n:prop|Nigeria n|region pro:sub|he v|have&PAST det:art|the
+	n:prop|Hausa n|lead&dv-AGT-PL part|worry-PRESP prep|about det:art|a
+	adv|kind_of adj|steady n|state prep|of n|revolt .
+%gra:	1|16|LINK 2|16|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|16|COM 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|9|NJCT 11|14|DET 12|14|MOD 13|14|MOD 14|10|POBJ 15|16|SUBJ
+	16|0|ROOT 17|19|DET 18|19|MOD 19|16|OBJ 20|19|XMOD 21|20|JCT 22|25|DET
+	23|24|JCT 24|25|MOD 25|21|POBJ 26|25|NJCT 27|26|POBJ 28|16|PUNCT
+%trn:	coord|and prep|within det:art|a qn|few n|year-PL co|you_know
+	prep|in adj|northwest n|part prep|of det:dem|this adj|northern
+	n:prop|Nigeria n|region pro:sub|he v|have&PAST det:art|the
+	n:prop|Hausa n|lead&dv-AGT-PL part|worry-PRESP prep|about det:art|a
+	adv|kind_of adj|steady n|state prep|of n|revolt .
+%grt:	1|16|LINK 2|16|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|16|COM 7|16|JCT
+	8|9|MOD 9|7|POBJ 10|9|NJCT 11|14|DET 12|13|MOD 13|14|MOD 14|10|POBJ
+	15|16|SUBJ 16|0|ROOT 17|19|DET 18|19|MOD 19|16|OBJ 20|19|XMOD
+	21|20|JCT 22|25|DET 23|24|JCT 24|25|MOD 25|21|POBJ 26|25|NJCT
+	27|26|POBJ 28|16|PUNCT
+*PAR:	and they started to act against the movement after they found that
+	Uthman would not compromise .
+%mor:	coord|and pro:sub|they v|start-PAST inf|to v|act prep|against
+	det:art|the n|movement conj|after pro:sub|they v|find&PAST comp|that
+	n:prop|Uthman mod|will&COND neg|not n|compromise .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|16|LINK 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|11|OBJ 17|3|PUNCT
+%trn:	coord|and pro:sub|they v|start-PAST inf|to v|act prep|against
+	det:art|the n|movement conj|after pro:sub|they v|find&PAST comp|that
+	n:prop|Uthman mod|will&COND neg|not v|compromise .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|16|LINK 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|11|COMP 17|3|PUNCT
+*PAR:	they tried to negotiate compromises and he said +"/.
+%mor:	pro:sub|they v|try-PAST inf|to v|negotiate n|compromise-PL
+	coord|and pro:sub|he v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|2|PUNCT
+%trn:	pro:sub|they v|try-PAST inf|to v|negotiate n|compromise-PL
+	coord|and pro:sub|he v|say&PAST +"/.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|2|PUNCT
+*PAR:	+" there's no compromise .
+%mor:	pro:exist|there~cop|be&3S qn|no n|compromise .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S qn|no n|compromise .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*PAR:	+" you can't compromise these kind of Islamic principles .
+%mor:	pro:per|you mod|can~neg|not v|compromise det:dem|these n|kind
+	prep|of n:prop|Islamic n|principle-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+%trn:	pro:per|you mod|can~neg|not v|compromise det:dem|these n|kind
+	prep|of n:prop|Islamic n|principle-PL .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+*PAR:	+" we need an &is orthodox Islamic society .
+%mor:	pro:sub|we v|need det:art|a adj|orthodox n:prop|Islamic n|society .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%trn:	pro:sub|we v|need det:art|a adj|orthodox n:prop|Islamic n|society .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*PAR:	+" that's what we're calling for .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|we~aux|be&PRES
+	part|call-PRESP prep|for .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CPRED 7|6|JCT 8|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S pro:int|what pro:sub|we~aux|be&PRES
+	part|call-PRESP prep|for .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CPRED 7|6|JCT 8|2|PUNCT
+*PAR:	+" and there is no compromise .
+%mor:	coord|and pro:exist|there cop|be&3S qn|no n|compromise .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+%trn:	coord|and pro:exist|there cop|be&3S qn|no n|compromise .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*PAR:	+" no accommodation is possible .
+%mor:	qn|no n|accommodation cop|be&3S adj|possible .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%trn:	qn|no n|accommodation cop|be&3S adj|possible .
+%grt:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and so in the course of that he moved into this role of the classic
+	&pro story of the prophet Mohammed .
+%mor:	coord|and co|so prep|in det:art|the n|course prep|of pro:dem|that
+	pro:sub|he v|move-PAST prep|into det:dem|this n|role prep|of
+	det:art|the adj|classic n|story prep|of det:art|the n|prophet
+	n:prop|Mohammed .
+%gra:	1|9|LINK 2|9|COM 3|9|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|19|APP 21|9|PUNCT
+%trn:	coord|and co|so prep|in det:art|the n|course prep|of pro:dem|that
+	pro:sub|he v|move-PAST prep|into det:dem|this n|role prep|of
+	det:art|the adj|classic n|story prep|of det:art|the n|prophet
+	n:prop|Mohammed .
+%grt:	1|9|LINK 2|9|COM 3|9|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|19|APP 21|9|PUNCT
+*PAR:	he declared [//] went into exile , declared a jihad , which [//] a
+	holy war against these city states , and one by one they fell or he
+	conquered every single one of them in northern Nigeria .
+%mor:	pro:sub|he v|go&PAST prep|into n|exile cm|cm v|declare-PAST
+	det:art|a n|jihad cm|cm det:art|a adj|holy n|war prep|against
+	det:dem|these n|city n|state-PL cm|cm coord|and det:num|one prep|by
+	det:num|one pro:sub|they v|fall&PAST coord|or pro:sub|he
+	v|conquer-PAST qn|every adj|single pro:indef|one prep|of
+	pro:obj|them prep|in adj|northern n:prop|Nigeria .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|LP 6|2|ENUM 7|8|DET 8|6|OBJ
+	9|2|LP 10|12|DET 11|12|MOD 12|2|ENUM 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|12|LP 18|2|CONJ 19|18|COORD 20|19|JCT 21|23|LINK 22|23|SUBJ
+	23|20|CPOBJ 24|26|LINK 25|26|SUBJ 26|2|CJCT 27|28|QUANT 28|26|JCT 29|28|ENUM
+	30|29|NJCT 31|30|POBJ 32|29|NJCT 33|34|MOD 34|32|POBJ 35|2|PUNCT
+%trn:	pro:sub|he v|go&PAST prep|into n|exile cm|cm v|declare-PAST
+	det:art|a n|jihad cm|cm det:art|a adj|holy n|war prep|against
+	det:dem|these n|city n|state-PL cm|cm coord|and det:num|one prep|by
+	det:num|one pro:sub|they v|fall&PAST coord|or pro:sub|he
+	v|conquer-PAST qn|every adj|single pro:indef|one prep|of
+	pro:obj|them prep|in adj|northern n:prop|Nigeria .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|LP 6|2|ENUM 7|8|DET 8|6|OBJ
+	9|8|LP 10|12|DET 11|12|MOD 12|8|ENUM 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|12|LP 18|23|LINK 19|23|TOP 20|19|NJCT 21|20|POBJ
+	22|23|SUBJ 23|2|CJCT 24|23|CONJ 25|26|SUBJ 26|24|COORD 27|29|QUANT
+	28|29|MOD 29|26|OBJ 30|29|NJCT 31|30|POBJ 32|29|NJCT 33|34|MOD
+	34|32|POBJ 35|2|PUNCT
+*PAR:	and the fact that these city states had [//] &alre were already at
+	odds with each_other meant that <he could pick them off> [//] he and
+	his movement could pick them off one at a time .
+%mor:	coord|and det:art|the n|fact pro:rel|that det:dem|these n|city
+	n|state-PL cop|be&PAST adv|already prep|at n:adj|odd-PL prep|with
+	pro:refl|each_other v|mean&PAST comp|that pro:sub|he coord|and
+	det:poss|his n|movement mod|could v|pick pro:obj|them prep|off
+	det:num|one prep|at det:art|a n|time .
+%gra:	1|14|LINK 2|3|DET 3|14|SUBJ 4|8|LINK 5|7|DET 6|7|MOD 7|8|SUBJ 8|3|CMOD
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|3|NJCT 13|12|POBJ 14|0|ROOT 15|21|LINK
+	16|21|SUBJ 17|21|LINK 18|19|DET 19|21|SUBJ 20|21|AUX 21|14|COMP 22|21|OBJ
+	23|21|JCT 24|23|POBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|14|PUNCT
+%trn:	coord|and det:art|the n|fact pro:rel|that det:dem|these n|city
+	n|state-PL cop|be&PAST adv|already prep|at n:adj|odd-PL prep|with
+	pro:refl|each_other v|mean&PAST comp|that pro:sub|he coord|and
+	det:poss|his n|movement mod|could v|pick pro:obj|them adv|off
+	det:num|one prep|at det:art|a n|time .
+%grt:	1|14|LINK 2|3|DET 3|14|SUBJ 4|8|LINK 5|7|DET 6|7|MOD 7|8|SUBJ
+	8|3|CMOD 9|8|JCT 10|8|JCT 11|10|POBJ 12|11|NJCT 13|12|POBJ 14|0|ROOT
+	15|21|LINK 16|21|SUBJ 17|16|CONJ 18|19|DET 19|17|COORD 20|21|AUX
+	21|14|COMP 22|21|OBJ 23|21|JCT 24|21|JCT 25|24|NJCT 26|27|DET
+	27|25|POBJ 28|14|PUNCT
+*PAR:	and he established in each city state an emirate .
+%mor:	coord|and pro:sub|he v|establish-PAST prep|in qn|each n|city
+	n|state det:art|a n|emirate .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|7|MOD 7|4|POBJ 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+%trn:	coord|and pro:sub|he v|establish-PAST prep|in qn|each n|city
+	n|state det:art|a n|emirate .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|MOD 7|4|POBJ 8|9|DET
+	9|3|OBJ 10|3|PUNCT
+*PAR:	an [//] &e each [/] each city state was led by an emir under what
+	was the caliphate of +...
+%mor:	qn|each n|city n|state aux|be&PAST&13S part|lead&PASTP prep|by
+	det:art|a n|emir prep|under pro:int|what cop|be&PAST&13S det:art|the
+	n|caliphate prep|of +...
+%gra:	1|2|QUANT 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|11|SUBJ 11|9|CPOBJ 12|13|DET 13|11|PRED 14|13|NJCT 15|5|PUNCT
+%trn:	qn|each n|city n|state aux|be&PAST&13S part|lead&PASTP prep|by
+	det:art|a n|emir prep|under pro:int|what cop|be&PAST&13S det:art|the
+	n|caliphate prep|of +...
+%grt:	1|3|QUANT 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|SUBJ 11|9|CPOBJ 12|13|DET 13|11|PRED 14|13|NJCT
+	15|5|PUNCT
+*PAR:	&=writing:board there were fourteen emirs which correspond to
+	pretty much the fourteen districts of northern Nigeria that the
+	British established in the early twentieth century when they
+	established a protectorate over northern Nigeria .
+%mor:	pro:exist|there cop|be&PAST det:num|fourteen n|emir-PL
+	pro:rel|which v|correspond inf|to adv|pretty adv|much det:art|the
+	det:num|fourteen n|district-PL prep|of adj|northern n:prop|Nigeria
+	pro:rel|that det:art|the n:prop|British v|establish-PAST prep|in
+	det:art|the adj|early adj|twentieth n|century conj|when pro:sub|they
+	v|establish-PAST det:art|a n|protectorate prep|over adj|northern
+	n:prop|Nigeria .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|6|LINK 6|4|CMOD 7|8|INF 8|9|JCT
+	9|6|JCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|19|LINK 17|18|DET 18|19|SUBJ 19|15|CMOD 20|19|JCT 21|24|DET 22|24|MOD
+	23|24|MOD 24|20|POBJ 25|27|LINK 26|27|SUBJ 27|6|CJCT 28|29|DET
+	29|27|OBJ 30|27|JCT 31|32|MOD 32|30|POBJ 33|2|PUNCT
+%trn:	pro:exist|there cop|be&PAST det:num|fourteen n|emir-PL
+	pro:rel|which v|correspond prep|to adv|pretty adv|much det:art|the
+	det:num|fourteen n|district-PL prep|of adj|northern n:prop|Nigeria
+	pro:rel|that det:art|the n:prop|British v|establish-PAST prep|in
+	det:art|the adj|early adj|twentieth n|century conj|when pro:sub|they
+	v|establish-PAST det:art|a n|protectorate prep|over adj|northern
+	n:prop|Nigeria .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|6|LINK 6|4|CMOD 7|6|JCT
+	8|9|JCT 9|12|NJCT 10|12|DET 11|12|QUANT 12|7|POBJ 13|12|NJCT
+	14|15|MOD 15|13|POBJ 16|19|LINK 17|18|DET 18|19|SUBJ 19|12|CMOD
+	20|19|JCT 21|24|DET 22|24|MOD 23|24|MOD 24|20|POBJ 25|27|LINK
+	26|27|SUBJ 27|19|CJCT 28|29|DET 29|27|OBJ 30|29|NJCT 31|32|MOD
+	32|30|POBJ 33|2|PUNCT
+*PAR:	and then Uthman said +"/.
+%mor:	coord|and adv:tem|then n:prop|Uthman v|say&PAST +"/.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	coord|and adv:tem|then n:prop|Uthman v|say&PAST +"/.
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	+" I have done my work .
+%mor:	pro:sub|I aux|have part|do&PASTP det:poss|my n|work .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%trn:	pro:sub|I aux|have part|do&PASTP det:poss|my n|work .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	+" it's taken twenty seven years .
+%mor:	pro:per|it~aux|be&3S part|take&PASTP det:num|twenty det:num|seven
+	n|year-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|QUANT 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+%trn:	pro:per|it~aux|be&3S part|take&PASTP det:num|twenty det:num|seven
+	n|year-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|ENUM 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+*PAR:	+" I've done this .
+%mor:	pro:sub|I~aux|have part|do&PASTP pro:dem|this .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%trn:	pro:sub|I~aux|have part|do&PASTP pro:dem|this .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	+" I've established a caliphate , a holy Islamic state in [/] &th
+	<in this> [/] &gr in this region .
+%mor:	pro:sub|I~aux|have part|establish-PASTP det:art|a n|caliphate cm|cm
+	det:art|a adj|holy n:prop|Islamic n|state prep|in det:dem|this
+	n|region .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|LP 7|10|DET 8|10|MOD
+	9|10|MOD 10|3|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+%trn:	pro:sub|I~aux|have part|establish-PASTP det:art|a n|caliphate cm|cm
+	det:art|a adj|holy n:prop|Islamic n|state prep|in det:dem|this
+	n|region .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|LP 7|10|DET 8|10|MOD
+	9|10|MOD 10|5|APP 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	+" we have converted the people of this region .
+%mor:	pro:sub|we aux|have part|convert-PASTP det:art|the n|person&PL
+	prep|of det:dem|this n|region .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+%trn:	pro:sub|we aux|have part|convert-PASTP det:art|the n|person&PL
+	prep|of det:dem|this n|region .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	I_mean substantially he was correct that from there being a very
+	small percentage of people who were actually practicing Islam it
+	came to be a very large percentage of the population after this
+	twenty seven year period .
+%mor:	co|I_mean adv|substantial&dadj-LY pro:sub|he cop|be&PAST&13S
+	adj|correct pro:dem|that prep|from n|there n|being det:art|a
+	adv|very adj|small n|percentage prep|of n|person&PL pro:rel|who
+	aux|be&PAST adv|actual&dadj-LY part|practice-PRESP n:prop|Islam
+	pro:per|it v|come&PAST inf|to cop|be det:art|a adv|very adj|large
+	n|percentage prep|of det:art|the n|populate&dv-TION prep|after
+	det:dem|this det:num|twenty det:num|seven n|year n|period .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|13|DET 11|12|JCT 12|13|MOD 13|7|POBJ 14|13|NJCT 15|14|POBJ
+	16|19|LINK 17|19|AUX 18|19|JCT 19|15|CMOD 20|19|OBJ 21|22|SUBJ 22|13|CMOD
+	23|24|INF 24|22|COMP 25|28|DET 26|27|JCT 27|28|MOD 28|24|PRED 29|28|NJCT
+	30|31|DET 31|29|POBJ 32|28|NJCT 33|37|DET 34|36|QUANT 35|36|QUANT
+	36|37|MOD 37|32|POBJ 38|4|PUNCT
+%trn:	co|I_mean adv|substantial&dadj-LY pro:sub|he cop|be&PAST&13S
+	adj|correct pro:rel|that prep|from pro:exist|there part|be-PRESP
+	det:art|a adv|very adj|small n|percentage prep|of n|person&PL
+	pro:rel|who aux|be&PAST adv|actual&dadj-LY part|practice-PRESP
+	n:prop|Islam pro:per|it v|come&PAST inf|to cop|be det:art|a adv|very
+	adj|large n|percentage prep|of det:art|the n|populate&dv-TION
+	prep|after det:dem|this det:num|twenty det:num|seven n|year n|period
+	.
+%grt:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|22|LINK 7|22|JCT
+	8|9|SUBJ 9|7|CPOBJ 10|13|DET 11|12|JCT 12|13|MOD 13|9|PRED
+	14|13|NJCT 15|14|POBJ 16|19|LINK 17|19|AUX 18|19|JCT 19|15|CMOD
+	20|19|OBJ 21|22|SUBJ 22|5|CMOD 23|24|INF 24|22|COMP 25|28|DET
+	26|27|JCT 27|28|MOD 28|24|PRED 29|28|NJCT 30|31|DET 31|29|POBJ
+	32|22|JCT 33|37|DET 34|35|ENUM 35|36|QUANT 36|37|MOD 37|32|POBJ
+	38|4|PUNCT
+*PAR:	he had in a way created a revolution a massive change in law social
+	life and so forth .
+%mor:	pro:sub|he v|have&PAST prep|in det:art|a n|way part|create-PASTP
+	det:art|a n|revolution det:art|a adj|massive n|change prep|in n|law
+	adj|social n|life coord|and adv|so adv|forth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|XJCT 7|8|DET 8|6|OBJ
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|NJCT 13|15|MOD 14|15|MOD 15|12|POBJ
+	16|11|CONJ 17|18|JCT 18|16|COORD 19|2|PUNCT
+%trn:	pro:sub|he aux|have&PAST prep|in det:art|a n|way part|create-PASTP
+	det:art|a n|revolution det:art|a adj|massive n|change prep|in n|law
+	adj|social n|life coord|and adv|so adv|forth .
+%grt:	1|6|SUBJ 2|6|AUX 3|6|JCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|11|DET 10|11|MOD 11|8|APP 12|11|NJCT 13|12|POBJ 14|15|MOD
+	15|13|ENUM 16|15|CONJ 17|18|JCT 18|16|COORD 19|6|PUNCT
+*PAR:	but he then retired and left everything in the control of the
+	fourteen emirs and of his son who went on to allow the emirs to each
+	develop their own administration .
+%mor:	conj|but pro:sub|he adv:tem|then v|retire-PAST coord|and
+	v|leave&PAST pro:indef|everything prep|in det:art|the n|control
+	prep|of det:art|the det:num|fourteen n|emir-PL coord|and prep|of
+	det:poss|his n|son pro:rel|who v|go&PAST adv|on inf|to v|allow
+	det:art|the n|emir-PL inf|to post|each v|develop det:poss|their
+	adj|own n|administrate&dv-TION .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|14|DET 13|14|QUANT 14|11|POBJ 15|6|CONJ
+	16|15|COORD 17|18|DET 18|16|POBJ 19|20|LINK 20|18|CMOD 21|20|JCT
+	22|23|INF 23|20|XJCT 24|25|DET 25|28|SUBJ 26|28|INF 27|26|PQ 28|23|COMP
+	29|31|DET 30|31|MOD 31|28|OBJ 32|4|PUNCT
+%trn:	conj|but pro:sub|he adv:tem|then v|retire-PAST coord|and
+	v|leave&PAST pro:indef|everything prep|in det:art|the n|control
+	prep|of det:art|the det:num|fourteen n|emir-PL coord|and prep|of
+	det:poss|his n|son pro:rel|who v|go&PAST adv|on inf|to v|allow
+	det:art|the n|emir-PL inf|to post|each v|develop det:poss|their
+	adj|own n|administrate&dv-TION .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|14|DET 13|14|QUANT 14|11|POBJ
+	15|11|CONJ 16|15|COORD 17|18|DET 18|16|POBJ 19|20|LINK 20|18|CMOD
+	21|20|JCT 22|23|INF 23|20|COMP 24|25|DET 25|23|OBJ 26|28|INF
+	27|25|PQ 28|23|COMP 29|31|DET 30|31|MOD 31|28|OBJ 32|4|PUNCT
+*PAR:	and each of them in_order_to develop the resources of their own
+	emirate or their own city state started to adopt the original Hausa
+	titles , to incorporate some of the old Hausa leadership into their
+	governments , to recognize Hausa law as [/] as operative in their
+	emirates , and to slowly steadily yield the perfect ideal Islamic
+	state in [/] in their own areas .
+%mor:	coord|and qn|each prep|of pro:obj|them inf|in_order_to v|develop
+	det:art|the n|resource-PL prep|of det:poss|their adj|own n|emirate
+	coord|or det:poss|their adj|own n|city n|state v|start-PAST inf|to
+	v|adopt det:art|the adj|origin&dn-AL n:prop|Hausa n|title-PL cm|cm
+	inf|to v|incorporate pro:indef|some prep|of det:art|the adj|old
+	n:prop|Hausa n|lead&dv-AGT-SHIP prep|into det:poss|their
+	n|govern&dv-MENT-PL cm|cm inf|to v|recognize n:prop|Hausa n|law
+	prep|as adj|operative prep|in det:poss|their n|emirate-PL cm|cm
+	coord|and inf|to adv|slow&dadj-LY adv|steady&dadj-LY v|yield
+	det:art|the adj|perfect n|ideal n:prop|Islamic n|state prep|in
+	det:poss|their adj|own n|area-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|6|INF 6|2|XJCT 7|8|DET
+	8|6|OBJ 9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|18|LINK 14|17|DET 15|17|MOD
+	16|17|MOD 17|18|SUBJ 18|6|CJCT 19|20|INF 20|18|COMP 21|24|DET 22|24|MOD
+	23|24|MOD 24|20|OBJ 25|18|LP 26|27|INF 27|18|XJCT 28|27|OBJ 29|28|NJCT
+	30|33|DET 31|33|MOD 32|33|MOD 33|29|POBJ 34|27|JCT 35|36|DET 36|34|POBJ
+	37|27|LP 38|39|INF 39|27|COMP 40|41|MOD 41|39|OBJ 42|43|COORD 43|41|ENUM
+	44|43|JCT 45|46|DET 46|44|POBJ 47|43|LP 48|52|LINK 49|50|INF 50|52|JCT
+	51|52|JCT 52|41|CJCT 53|55|DET 54|55|MOD 55|57|MOD 56|57|MOD 57|52|OBJ
+	58|57|NJCT 59|61|DET 60|61|MOD 61|58|POBJ 62|1|PUNCT
+%trn:	coord|and qn|each prep|of pro:obj|them inf|in_order_to v|develop
+	det:art|the n|resource-PL prep|of det:poss|their adj|own n|emirate
+	coord|or det:poss|their adj|own n|city n|state v|start-PAST inf|to
+	v|adopt det:art|the adj|origin&dn-AL n:prop|Hausa n|title-PL cm|cm
+	inf|to v|incorporate pro:indef|some prep|of det:art|the adj|old
+	n:prop|Hausa n|lead&dv-AGT-SHIP prep|into det:poss|their
+	n|govern&dv-MENT-PL cm|cm inf|to v|recognize n:prop|Hausa n|law
+	prep|as adj|operative prep|in det:poss|their n|emirate-PL cm|cm
+	coord|and inf|to adv|slow&dadj-LY adv|steady&dadj-LY v|yield
+	det:art|the adj|perfect adj|ideal n:prop|Islamic n|state prep|in
+	det:poss|their adj|own n|area-PL .
+%grt:	1|18|LINK 2|18|SUBJ 3|2|NJCT 4|3|POBJ 5|6|INF 6|18|XJCT 7|8|DET
+	8|6|OBJ 9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|CONJ 14|17|DET
+	15|17|MOD 16|17|MOD 17|13|POBJ 18|0|ROOT 19|20|INF 20|18|COMP
+	21|24|DET 22|24|MOD 23|24|MOD 24|20|OBJ 25|20|LP 26|27|INF
+	27|20|ENUM 28|27|OBJ 29|28|NJCT 30|33|DET 31|33|MOD 32|33|MOD
+	33|29|POBJ 34|27|JCT 35|36|DET 36|34|POBJ 37|27|LP 38|39|INF
+	39|27|ENUM 40|41|MOD 41|39|OBJ 42|39|JCT 43|42|POBJ 44|43|JCT
+	45|46|DET 46|44|POBJ 47|39|LP 48|39|CONJ 49|52|INF 50|52|JCT
+	51|52|JCT 52|48|COORD 53|57|DET 54|57|MOD 55|57|MOD 56|57|MOD
+	57|52|OBJ 58|52|JCT 59|61|DET 60|61|MOD 61|58|POBJ 62|18|PUNCT
+*PAR:	and I think <what the story> [//] you_know it's an old story of
+	very hard to sustain a revolution , the ideals of a revolution .
+%mor:	coord|and pro:sub|I v|think co|you_know pro:per|it~cop|be&3S
+	det:art|a adj|old n|story prep|of adv|very adj|hard inf|to v|sustain
+	det:art|a n|revolution cm|cm det:art|the n|ideal-PL prep|of
+	det:art|a n|revolution .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|SUBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|12|JCT 12|10|POBJ 13|14|INF 14|12|XMOD 15|16|DET
+	16|14|OBJ 17|16|LP 18|19|DET 19|16|ENUM 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|3|PUNCT
+%trn:	coord|and pro:sub|I v|think co|you_know pro:per|it~cop|be&3S
+	det:art|a adj|old n|story prep|of adv|very adj|hard inf|to v|sustain
+	det:art|a n|revolution cm|cm det:art|the n|ideal-PL prep|of
+	det:art|a n|revolution .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|SUBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|12|JCT 12|10|POBJ 13|14|INF 14|12|XMOD 15|16|DET
+	16|14|OBJ 17|16|LP 18|19|DET 19|16|ENUM 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|3|PUNCT
+*PAR:	it's [/] it's possible to win a victory but sustaining it over a
+	long period of time creating a permanent structure is [/] is really
+	testing .
+%mor:	pro:per|it~cop|be&3S adj|possible inf|to v|win det:art|a n|victory
+	conj|but n:gerund|sustain-PRESP pro:per|it prep|over det:art|a
+	adj|long n|period prep|of n|time part|create-PRESP det:art|a
+	adj|permanent n|structure aux|be&3S adv|real&dadj-LY part|test-PRESP
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|7|DET 7|5|OBJ 8|2|CONJ
+	9|8|COORD 10|9|OBJ 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|14|NJCT
+	16|15|POBJ 17|14|XMOD 18|20|DET 19|20|MOD 20|23|SUBJ 21|23|AUX 22|23|JCT
+	23|17|COMP 24|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adj|possible inf|to v|win det:art|a n|victory
+	conj|but n:gerund|sustain-PRESP pro:per|it prep|over det:art|a
+	adj|long n|period prep|of n|time n:gerund|create-PRESP det:art|a
+	adj|permanent n|structure aux|be&3S adv|real&dadj-LY part|test-PRESP
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|7|DET 7|5|OBJ 8|23|LINK
+	9|23|SUBJ 10|9|OBJ 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|14|NJCT
+	16|15|POBJ 17|9|ENUM 18|20|DET 19|20|MOD 20|17|OBJ 21|23|AUX
+	22|23|JCT 23|2|CJCT 24|2|PUNCT
+*PAR:	and you_know one sees this in [/] in Iran .
+%mor:	coord|and co|you_know pro:indef|one v|see-3S pro:dem|this prep|in
+	n:prop|Iran .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%trn:	coord|and co|you_know pro:indef|one v|see-3S pro:dem|this prep|in
+	n:prop|Iran .
+%grt:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	Iran you_know in our lifetimes has had a very important Islamic
+	revolution and it is having difficulty now sustaining it .
+%mor:	n:prop|Iran co|you_know prep|in det:poss|our n|lifetime-PL
+	aux|have&3S part|have&PASTP det:art|a adv|very adj|important
+	n:prop|Islamic n|revolution coord|and pro:per|it aux|be&3S
+	part|have-PRESP n|difficulty adv:tem|now part|sustain-PRESP pro:per|it .
+%gra:	1|7|SUBJ 2|1|COM 3|1|JCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT 8|12|DET
+	9|10|JCT 10|12|MOD 11|12|MOD 12|7|OBJ 13|7|CONJ 14|16|SUBJ 15|16|AUX
+	16|13|COORD 17|16|OBJ 18|16|JCT 19|16|XJCT 20|19|OBJ 21|7|PUNCT
+%trn:	n:prop|Iran co|you_know prep|in det:poss|our n|lifetime-PL
+	aux|have&3S part|have&PASTP det:art|a adv|very adj|important
+	n:prop|Islamic n|revolution coord|and pro:per|it aux|be&3S
+	part|have-PRESP n|difficulty adv:tem|now part|sustain-PRESP pro:per|it .
+%grt:	1|7|SUBJ 2|7|COM 3|7|JCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT 8|12|DET
+	9|10|JCT 10|12|MOD 11|12|MOD 12|7|OBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|7|CJCT 17|16|OBJ 18|16|JCT 19|16|XJCT 20|19|OBJ 21|7|PUNCT
+*PAR:	it has all kinds of other issues that the &is Islamic theory ,
+	Islamic law in its orthodox form cannot work out .
+%mor:	pro:per|it v|have&3S qn|all n|kind-PL prep|of qn|other n|issue-PL
+	pro:rel|that det:art|the n:prop|Islamic n|theory cm|cm
+	n:prop|Islamic n|law prep|in det:poss|its adj|orthodox n|form
+	mod|can~neg|not v|work adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|7|QUANT 7|5|POBJ
+	8|11|LINK 9|11|DET 10|11|MOD 11|7|CMOD 12|11|LP 13|14|MOD 14|11|ENUM 15|21|LINK
+	16|18|DET 17|18|MOD 18|21|SUBJ 19|21|AUX 20|19|NEG 21|14|CMOD 22|21|JCT
+	23|2|PUNCT
+%trn:	pro:per|it v|have&3S qn|all n|kind-PL prep|of qn|other n|issue-PL
+	pro:rel|that det:art|the n:prop|Islamic n|theory cm|cm n:prop|Islamic
+	n|law prep|in det:poss|its adj|orthodox n|form mod|can~neg|not
+	v|work adv|out .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|7|QUANT 7|5|POBJ
+	8|21|LINK 9|11|DET 10|11|MOD 11|21|SUBJ 12|11|LP 13|14|MOD 14|11|APP
+	15|14|NJCT 16|18|DET 17|18|MOD 18|15|POBJ 19|21|AUX 20|19|NEG 21|7|CMOD
+	22|21|JCT 23|2|PUNCT
+*PAR:	are [/] are being exercised by people who sought to exercise &oth
+	other interests in other ways .
+%mor:	aux|be&PRES aux|be-PRESP part|exercise-PASTP prep|by n|person&PL
+	pro:rel|who v|seek&PAST inf|to v|exercise qn|other n|interest-PL
+	prep|in qn|other n|way-PL .
+%gra:	1|3|AUX 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|LINK 7|5|CMOD 8|9|INF
+	9|7|COMP 10|11|QUANT 11|9|OBJ 12|9|JCT 13|14|QUANT 14|12|POBJ 15|3|PUNCT
+%trn:	aux|be&PRES aux|be-PRESP part|exercise-PASTP prep|by n|person&PL
+	pro:rel|who v|seek&PAST inf|to v|exercise qn|other n|interest-PL
+	prep|in qn|other n|way-PL .
+%grt:	1|3|AUX 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|LINK 7|5|CMOD 8|9|INF
+	9|7|COMP 10|11|QUANT 11|9|OBJ 12|9|JCT 13|14|QUANT 14|12|POBJ 15|3|PUNCT
+*PAR:	and the momentum of the revolution , the original Islamic
+	revolution , just can't be sustained forever .
+%mor:	coord|and det:art|the n|momentum prep|of det:art|the n|revolution
+	cm|cm det:art|the adj|origin&dn-AL n:prop|Islamic n|revolution cm|cm
+	adv|just mod|can~neg|not aux|be part|sustain-PASTP adv:tem|forever .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|LP 8|11|DET
+	9|11|MOD 10|11|MOD 11|3|APP 12|11|LP 13|17|JCT 14|17|AUX 15|14|NEG
+	16|17|AUX 17|3|XMOD 18|17|JCT 19|3|PUNCT
+%trn:	coord|and det:art|the n|momentum prep|of det:art|the n|revolution
+	cm|cm det:art|the adj|origin&dn-AL n:prop|Islamic n|revolution cm|cm
+	adv|just mod|can~neg|not aux|be part|sustain-PASTP adv:tem|forever .
+%grt:	1|17|LINK 2|3|DET 3|17|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|LP
+	8|11|DET 9|11|MOD 10|11|MOD 11|6|APP 12|11|LP 13|17|JCT 14|17|AUX
+	15|14|NEG 16|17|AUX 17|0|ROOT 18|17|JCT 19|17|PUNCT
+@End

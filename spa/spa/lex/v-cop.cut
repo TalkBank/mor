@@ -1,0 +1,36 @@
+@UTF8
+@Window:	85_1361_1163_779_-1_-1_424_0_424_0
+era {[scat cop][allo irr]} "se-13S&PAS" =be=
+erais {[scat cop][allo irr]} "se-2P&PAS" =be=
+eran {[scat cop][allo irr]} "se-3P&PAS" =be=
+eras {[scat cop][allo irr]} "se-2S&PAS" =be=
+érase {[scat cop][allo irr]} "se-3S&PAS" =be=
+eres {[scat cop][allo irr]} "se-2S&PRES" =be=
+es {[scat cop][allo irr]} "se-3S&PRES" =be=
+éramos {[scat cop][allo irr]} "se-1P&PAS" =be=
+érase {[scat cop][allo irr]} "se-3S&PAS" =be=
+ser {[scat inf][allo irr]} "se-INF" =be=
+sois {[scat cop][allo irr]} "se-2P&PRES" =be=
+sos {[scat cop][allo irr]} "se-3S&PRES" =be=
+somos {[scat cop][allo irr]} "se-1P&PRES" =be=
+son {[scat cop][allo irr]} "se-3P&PRES" =be=
+soy {[scat cop][allo irr]} "se-1S&PRES" =be=
+fui {[scat cop][allo irr]} "se-1S&PRET" =be=
+fuiste {[scat cop][allo irr]} "se-2S&PRET" =be=
+fue {[scat cop][allo irr]} "se-3S&PRET" =be=
+fuimos {[scat cop][allo irr]} "se-1P&PRET" =be=
+fuisteis {[scat cop][allo irr]} "se-2P&PRET" =be=
+fueron {[scat cop][allo irr]} "se-3P&PRET" =be=
+sido {[scat part][allo irr]} "se-PPART" =be=
+se {[scat cop]} =be=
+esta {[scat cop]} =be=
+estate {[scat imp][allo irr]} "esta-2S&IMP~pro:clit|2S" =be=
+esté {[scat cop][allo irr]} "esta-3S&IMP" =be=
+esté {[scat cop][allo irr]} "esta-13S&SUB&PRES" =be=
+estén {[scat cop][allo irr]} "esta-3P&IMP" =be=
+estén {[scat cop][allo irr]} "esta-3P&SUB&PRES" =be=
+estés {[scat cop][allo irr]} "esta-2S&SUB&PRES" =be=
+está {[scat cop][allo irr]} "esta-3S&PRES" =be=
+están {[scat cop][allo irr]} "esta-3P&PRES" =be=
+estás {[scat cop][allo irr]} "esta-2S&PRES" =be=
+estoy {[scat cop][allo irr]} "esta-1S&PRES" =be=

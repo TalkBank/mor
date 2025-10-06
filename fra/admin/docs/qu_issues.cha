@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	CHI Marie Target_Child
+@ID:
+@Transcriber:	Tony
+@Date:	28-APR-2015
+*CHI:	l'on.
+*CHI:	parce_qu'alors .
+*CHI:	qu'alors .
+*CHI:	est_ce qu'alors .
+*CHI:	qu'est_ce qu'il .
+*CHI:	n'y .
+*CHI:	qu'y .
+*CHI:	va-t-il .
+*CHI:	a-t-elle .
+*CHI:	parle-t-on .
+*CHI:	que  .
+%mor:	pro:int|que .
+*CHI:	qu'il .
+%mor:	pro:rel|que$pro:sub|il .
+*CHI:	qu'elle  .
+%mor:	pro:rel|que$pro:sub|elle .
+*CHI:	qu'est  .
+%mor:	pro:int|que$v:aux|être&PRES&3SV .
+*CHI:	qu'est_ce .
+*CHI:	ce_qui .
+*CHI:	qu'on .
+%mor:	pro:rel|que$pro:sub|on .
+*CHI:	qu'ils .
+%mor:	pro:rel|que$pro:sub|ils .
+*CHI:	qu'ils mangent de la brioche .
+%mor:	pro:rel|que$pro:sub|ils v|manger-PRES&3PV prep|de det|la&fem&sg
+	n|brioche&fem .
+*CHI:	la question qu'ils posent .
+%mor:	det|la&fem&sg n|question&fem pro:rel|que$pro:sub|ils
+	v|poser-PRES&3PV .
+*CHI:	qu'un.
+%mor:	pro:rel|que$det|un&masc&sg .
+*CHI:	qu'à .
+%mor:	pro:rel|que$prep|à .
+*CHI:	qu'avec .
+%mor:	pro:rel|que$prep|avec .
+*CHI:	quelqu'un  .
+%mor:	det:gen|quelque$det|un&masc&sg .
+*CHI:	jusqu'à   .
+%mor:	prep|jusque$prep|à .
+*CHI:	jusqu'au   .
+%mor:	prep|jusque$prep|à&le .
+*CHI:	jusqu'aux .
+%mor:	prep|jusque$prep|à&les .
+*CHI:	est_ce que .
+%mor:	v:int|est_ce_que .
+*CHI:	parce_que   .
+%mor:	conj|parce_que .
+*CHI:	à_moins_que .
+%mor:	conj|à_moins_que .
+*CHI:	est_ce qu'on .
+%mor:	v:exist|est_ce_que$pro:sub|on .
+*CHI:	parce_qu'ils  .
+%mor:	conj|parce_que$pro:sub|ils .
+*CHI:	est_ce qu'il_y_a .
+%mor:	v:exist|est_ce_que$v:exist|il_y_a .
+*CHI:	qu'est_ce que .
+%mor:	pro:int|que$v:int|est_ce_que .
+*CHI:	qu'il_y_a .
+%mor:	pro:rel|que$v:exist|il_y_a .
+*CHI:	qu'y_en_a .
+%mor:	pro:rel|que$v:exist|y_en_a .
+*CHI:	qu'est_ce que George fait .
+%mor:	pro:int|que$v:int|est_ce_que n:prop|George v:mdl|faire-PP&MASC .
+*CHI:	qu'est_ce qui .
+%mor:	pro:int|que$v:int|est_ce_qui .
+*CHI:	qu'il_y_a un meilleur prix ou pas je ne sais pas .
+%mor:	pro:rel|que$v:exist|il_y_a det|un&masc&sg n|meilleur-MASC
+	n|prix&masc conj|ou neg|pas pro:sub|je neg|ne
+	v:mdl|savoir&PRES&12SV neg|pas .
+*CHI:	qu'y_en_a un ou deux je ne sais pas .
+%mor:	pro:rel|que$v:exist|y_en_a det|un&masc&sg conj|ou num|deux
+	pro:sub|je neg|ne v:mdl|savoir&PRES&12SV neg|pas .
+*CHI:	qu'est_ce qui arrive avec Jean .
+%mor:	pro:int|que$v:int|est_ce_qui v|arriver-PRES&SUB&13SV prep|avec
+	n:prop|Jean .
+@Comment:	the ones below are not right!  should be qu'
+*CHI:	qu(e) il .
+%mor:	pro:int|que pro:sub|il .
+*CHI:	qu(e) elle .
+%mor:	pro:int|que pro:sub|elle .
+*CHI:	qu(e) un .
+%mor:	pro:int|que det|un&masc&sg .
+*CHI:	qu(e) à .
+%mor:	pro:int|que prep|à .
+*CHI:	qu(e) est_ce que .
+%mor:	pro:int|que v:int|est_ce_que .
+*CHI:	qu(e) est_ce qu(e) il_y_a .
+%mor:	pro:int|que v:int|est_ce_que v:exist|il_y_a=there_is .
+@End

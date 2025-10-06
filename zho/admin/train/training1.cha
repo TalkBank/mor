@@ -1,0 +1,1176 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	TEA Teacher, CHI Chen_Jiaxuan Child
+@ID:	zho|zhou|TEA|||||Teacher|||
+@ID:	zho|zhou|CHI|5;10.|female|FUZHOU||Child|||
+@Date:	23-OCT-2017
+*CHI:	有 一 天 .
+%mor:	v|you3=have num|yi1=one cl|tian1 .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%trn:	v|you3=have num|yi1=one cl|tian1 .
+%grt:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*CHI:	一 缕 阳光 照 在 这 座 美丽的 房子 里 .
+%mor:	num|yi1=one cl|lv3 n|yang2guang1=sunlight v|zhao4=shine
+	prep|zai4=at pro:dem|zhe4=this cl|zuo4 adj|mei3li4-ISH=beautiful
+	n|fang2zi=house post|li3=inside .
+%gra:	1|2|QUANT 2|3|CLASS 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|10|DET 7|10|CLASS
+	8|9|MOD 9|10|POSTO 10|5|PREPO 11|4|PUNCT
+%trn:	num|yi1=one cl|lv3 n|yang2guang1=sunlight v|zhao4=shine
+	prep|zai4=at det|zhe4=this cl|zuo4 adj|mei3li4-ISH=beautiful
+	n|fang2zi=house post|li3=inside .
+%grt:	1|2|QUANT 2|3|CLASS 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|10|DET
+	7|10|CLASS 8|9|MOD 9|10|POSTO 10|5|PREPO 11|4|PUNCT
+*CHI:	有 一 家 可爱的 小 猪 在 一旁 .
+%mor:	v|you3=have num|yi1=one cl|jia1 adj|ke3ai4-ISH=lovable
+	adj|xiao3=small n|zhu1=pig prep|zai4=at n|yi1pang2=one_side .
+%gra:	1|0|ROOT 2|3|QUANT 3|6|CLASS 4|6|MOD 5|6|MOD 6|1|OBJ 7|1|JCT 8|7|PREPO
+	9|1|PUNCT
+%trn:	v|you3=have num|yi1=one cl|jia1 adj|ke3ai4-ISH=lovable
+	adj|xiao3=small n|zhu1=pig prep|zai4=at n|yi1pang2=one_side .
+%grt:	1|0|ROOT 2|3|QUANT 3|6|CLASS 4|6|MOD 5|6|MOD 6|1|OBJ 7|1|JCT
+	8|7|PREPO 9|1|PUNCT
+*CHI:	猪 妈妈 说 +"/.
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" 今天 我们 要 在 我们 家 参观 一下 .
+%mor:	n:tm|jin1tian1=today pro:per|wo3-PL=I v:aux|yao4=should
+	prep|zai4=at pro:per|wo3-PL=I n|jia1=family v|can1guan1=visit
+	adv|yi1xia4=suddenly .
+%gra:	1|7|JCT 2|7|SUBJ 3|7|AUX 4|7|JCT 5|6|MOD 6|4|PREPO 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+%trn:	n:tm|jin1tian1=today pro:per|wo3-PL=I v:aux|yao4=should prep|zai4=at
+	pro:per|wo3-PL=I n|jia1=family v|can1guan1=visit
+	adv|yi1xia4=suddenly .
+%grt:	1|7|JCT 2|7|SUBJ 3|7|AUX 4|7|JCT 5|6|MOD 6|4|PREPO 7|0|ROOT
+	8|7|JCT 9|7|PUNCT
+*CHI:	而且 今天 会 有 猫 妈妈 跟 我们 一起 来 做 游戏 .
+%mor:	conj|er2qie3=furthermore n:tm|jin1tian1=today v:aux|hui4=will
+	v|you3=have n|mao1=pussycat n:relat|ma1&DIM=mother prep|gen1=with
+	pro:per|wo3-PL=I adv|yi1qi3=together v:dirc|lai2=come v|zuo4=make
+	n|you2xi4=game .
+%gra:	1|4|LINK 2|4|JCT 3|4|AUX 4|0|ROOT 5|6|MOD 6|10|SUBJ 7|10|JCT 8|7|PREPO
+	9|10|JCT 10|4|COMP 11|10|SRL 12|11|OBJ 13|4|PUNCT
+%trn:	conj|er2qie3=furthermore n:tm|jin1tian1=today v:aux|hui4=will
+	v|you3=have n|mao1=pussycat n:relat|ma1&DIM=mother prep|gen1=with
+	pro:per|wo3-PL=I adv|yi1qi3=together v:dirc|lai2=come v|zuo4=make
+	n|you2xi4=game .
+%grt:	1|4|LINK 2|4|JCT 3|4|AUX 4|0|ROOT 5|6|MOD 6|10|SUBJ 7|10|JCT
+	8|7|PREPO 9|10|JCT 10|4|COMP 11|10|SRL 12|11|OBJ 13|4|PUNCT
+*CHI:	有 一 天 小 猪 说 +"/.
+%mor:	v|you3=have num|yi1=one cl|tian1 adj|xiao3=small n|zhu1=pig
+	v|shuo1=say +"/.
+%gra:	1|6|CJCT 2|3|QUANT 3|1|OBJ 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%trn:	v|you3=have num|yi1=one cl|tian1 adj|xiao3=small n|zhu1=pig
+	v|shuo1=say +"/.
+%grt:	1|6|CJCT 2|3|QUANT 3|1|OBJ 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	+" 妈妈 ‡ 猫 妈妈 是 谁 呀 ?
+%mor:	n:relat|ma1&DIM=mother beg|beg n|mao1=pussycat
+	n:relat|ma1&DIM=mother v:cop|shi4=is pro:wh|shei2=who sfp|ya ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|SFP 8|5|PUNCT
+%trn:	n:relat|ma1&DIM=mother beg|beg n|mao1=pussycat
+	n:relat|ma1&DIM=mother v:cop|shi4=is pro:wh|shei2=who sfp|ya ?
+%grt:	1|0|BEG 2|1|BEGP 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|SFP
+	8|5|PUNCT
+*CHI:	猪 妈妈 说 +"/.
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" 猫 妈妈 是 一 位 善良 而且 亲切的 小 猫 的 妈妈 .
+%mor:	n|mao1=pussycat n:relat|ma1&DIM=mother v:cop|shi4=is num|yi1=one
+	cl|wei4 adj|shan4liang2=good_and_kind conj|er2qie3=furthermore
+	adj|qin1qie4-ISH=cordial adj|xiao3=small n|mao1=pussycat poss|de
+	n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|12|CLASS 6|12|MOD 7|6|CONJ
+	8|7|COORD 9|10|MOD 10|12|MOD 11|10|POSS 12|3|PRED 13|3|PUNCT
+%trn:	n|mao1=pussycat n:relat|ma1&DIM=mother v:cop|shi4=is num|yi1=one
+	cl|wei4 adj|shan4liang2=good_and_kind conj|er2qie3=furthermore
+	adj|qin1qie4-ISH=cordial adj|xiao3=small n|mao1=pussycat
+	poss|de n:relat|ma1&DIM=mother .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|12|CLASS 6|12|MOD 7|6|CONJ
+	8|7|COORD 9|10|MOD 10|12|MOD 11|10|POSS 12|3|PRED 13|3|PUNCT
+*CHI:	+" 小 猫 是 我们 房子 里 的 一 部分 .
+%mor:	adj|xiao3=small n|mao1=pussycat v:cop|shi4=is pro:per|wo3-PL=I
+	n|fang2zi=house post|li3=inside nom|de num|yi1=one n|bu4fen4=part .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|6|POSTO 6|9|JCT 7|6|LINK 8|9|QUANT
+	9|3|PRED 10|3|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat v:cop|shi4=is pro:per|wo3-PL=I
+	n|fang2zi=house post|li3=inside nom|de num|yi1=one
+	n|bu4fen4=part .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|6|POSTO 6|9|JCT 7|6|LINK
+	8|9|QUANT 9|3|PRED 10|3|PUNCT
+*CHI:	+" 小小的 房子 是 小 猫 的 .
+%mor:	adj|xiao3&DIM-ISH=small n|fang2zi=house v:cop|shi4=is
+	adj|xiao3=small n|mao1=pussycat poss|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|5|POSS 7|3|PUNCT
+%trn:	adj|xiao3&DIM-ISH=small n|fang2zi=house
+	v:cop|shi4=is adj|xiao3=small n|mao1=pussycat poss|de .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|5|POSS 7|3|PUNCT
+*CHI:	而且 小 猫 跟 我 是 在 一 个 学校 上课 .
+%mor:	conj|er2qie3=furthermore adj|xiao3=small n|mao1=pussycat
+	prep|gen1=with pro:per|wo3=I v:cop|shi4=is prep|zai4=at num|yi1=one
+	cl|ge4 n|xue2xiao4=school v|shang4ke4=go_to_classes .
+%gra:	1|6|LINK 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|11|JCT 8|9|QUANT
+	9|10|CLASS 10|7|PREPO 11|6|CPRED 12|6|PUNCT
+%trn:	conj|er2qie3=furthermore adj|xiao3=small n|mao1=pussycat
+	prep|gen1=with pro:per|wo3=I v:cop|shi4=is prep|zai4=at num|yi1=one
+	cl|ge4 n|xue2xiao4=school v|shang4ke4=go_to_classes .
+%grt:	1|6|LINK 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|11|JCT
+	8|9|QUANT 9|10|CLASS 10|7|PREPO 11|6|CPRED 12|6|PUNCT
+*CHI:	+" 每 一 天 我们 早上 都 会 一起 去 上学 .
+%mor:	adv|mei3=every num|yi1=one cl|tian1 pro:per|wo3-PL=I
+	n|zao3shang4=morning adv|dou1=all v:aux|hui4=will
+	adv|yi1qi3=together v:dirc|qu4=go v|shang4xue2=attend_school .
+%gra:	1|3|JCT 2|3|QUANT 3|9|JCT 4|9|SUBJ 5|9|JCT 6|9|JCT 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|9|SRL 11|9|PUNCT
+%trn:	adv|mei3=every num|yi1=one cl|tian1 pro:per|wo3-PL=I
+	n|zao3shang4=morning adv|dou1=all v:aux|hui4=will adv|yi1qi3=together
+	v:dirc|qu4=go v|shang4xue2=attend_school .
+%grt:	1|3|JCT 2|3|QUANT 3|9|JCT 4|9|SUBJ 5|9|JCT 6|9|JCT 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|9|SRL 11|9|PUNCT
+*CHI:	一 天 早晨 我 跟 妈妈 说 +"/.
+%mor:	num|yi1=one cl|tian1 n:tm|zao3chen2=in_the_morning pro:per|wo3=I
+	prep|gen1=with n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|QUANT 2|7|JCT 3|7|JCT 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|PUNCT
+%trn:	num|yi1=one cl|tian1 n:tm|zao3chen2=in_the_morning pro:per|wo3=I
+	prep|gen1=with n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|QUANT 2|7|JCT 3|7|JCT 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|0|ROOT
+	8|7|PUNCT
+*CHI:	+" 妈妈 ‡ 我 长大 了 .[+ sub][+ bln]
+%mor:	n:relat|ma1&DIM=mother beg|beg pro:per|wo3=I v|zhang3da4=grow_up
+	asp|le .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%trn:	n:relat|ma1&DIM=mother beg|beg pro:per|wo3=I v|zhang3da4=grow_up asp|le
+	.
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	+" 我 想 要 自己 跟 小 猫 一起 去 上学 .
+%mor:	pro:per|wo3=I v|xiang3=think v:aux|yao4=should pro:per|zi4ji3=self
+	prep|gen1=with adj|xiao3=small n|mao1=pussycat adv|yi1qi3=together
+	v:dirc|qu4=go v|shang4xue2=attend_school .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|9|SUBJ 5|9|JCT 6|7|MOD 7|5|PREPO 8|9|JCT
+	9|3|COMP 10|9|SRL 11|2|PUNCT
+%trn:	pro:per|wo3=I v|xiang3=think v:aux|yao4=should pro:per|zi4ji3=self
+	prep|gen1=with adj|xiao3=small n|mao1=pussycat adv|yi1qi3=together
+	v:dirc|qu4=go v|shang4xue2=attend_school .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|9|SUBJ 5|9|JCT 6|7|MOD 7|5|PREPO
+	8|9|JCT 9|3|COMP 10|9|SRL 11|2|PUNCT
+*CHI:	猪 妈妈 说 +"/.
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" 好 啊 .
+%mor:	adj|hao3=good sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%trn:	adj|hao3=good sfp|a1 .
+%grt:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*TEA:	+" 那 你 就 一起 跟 小 猫 去 上学 吧 !
+%mor:	conj|na4=so pro:per|ni3=you adv|jiu4=just adv|yi1qi3=together
+	prep|gen1=with adj|xiao3=small n|mao1=pussycat v:dirc|qu4=go
+	v|shang4xue2=attend_school sfp|ba !
+%gra:	1|8|LINK 2|8|SUBJ 3|8|JCT 4|8|JCT 5|8|JCT 6|7|MOD 7|5|PREPO 8|0|ROOT
+	9|8|SRL 10|8|SFP 11|8|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you adv|jiu4=just adv|yi1qi3=together
+	prep|gen1=with adj|xiao3=small n|mao1=pussycat v:dirc|qu4=go
+	v|shang4xue2=attend_school sfp|ba !
+%grt:	1|8|LINK 2|8|SUBJ 3|8|JCT 4|8|JCT 5|8|JCT 6|7|MOD 7|5|PREPO 8|0|ROOT
+	9|8|SRL 10|8|SFP 11|8|PUNCT
+*CHI:	小 猪 佩奇 兴高采烈地 拉 着 小 猫 的 手 一起 去 上学 .
+%mor:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	adv|xing4gao1cai3lie4-LY=happy v|la1=pull asp|zhe adj|xiao3=small
+	n|mao1=pussycat poss|de n|shou3=hand adv|yi1qi3=together
+	v:dirc|qu4=go v|shang4xue2=attend_school .
+%gra:	1|2|MOD 2|5|SUBJ 3|2|APP 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|MOD 8|10|MOD
+	9|8|POSS 10|5|OBJ 11|12|JCT 12|5|SRL 13|12|SRL 14|5|PUNCT
+%trn:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	adv|xing4gao1cai3lie4-LY=walk_on_air v|la1=pull asp|zhe
+	adj|xiao3=small n|mao1=pussycat poss|de n|shou3=hand
+	adv|yi1qi3=together v:dirc|qu4=go v|shang4xue2=attend_school .
+%grt:	1|2|MOD 2|5|SUBJ 3|2|APP 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|MOD 8|10|MOD
+	9|8|POSS 10|5|OBJ 11|12|JCT 12|5|SRL 13|12|SRL 14|5|PUNCT
+*CHI:	好 了 .
+%mor:	adj|hao3=good asp|le .
+%gra:	1|0|INCROOT 2|1|ASP 3|1|PUNCT
+%trn:	adj|hao3=good asp|le .
+%grt:	1|0|INCROOT 2|1|ASP 3|1|PUNCT
+*CHI:	它们 回 到 了 小 猪 佩奇 的 家 一起 吃 晚餐 .
+%mor:	pro:per|ta1-PL=it v:dirc|hui2=back v:resc|dao4=arrive asp|le
+	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig poss|de
+	n|jia1=family adv|yi1qi3=together v|chi1=eat n|wan3can1=dinner .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|JCT 5|6|MOD 6|9|MOD 7|6|APP 8|6|POSS
+	9|2|OBJ 10|11|JCT 11|2|SRL 12|11|OBJ 13|2|PUNCT
+%trn:	pro:per|ta1-PL=it v:dirc|hui2=back v:resc|dao4=arrive asp|le
+	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig poss|de n|jia1=family
+	adv|yi1qi3=together v|chi1=eat n|wan3can1=dinner .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|JCT 5|6|MOD 6|9|MOD 7|6|APP 8|6|POSS
+	9|2|OBJ 10|11|JCT 11|2|SRL 12|11|OBJ 13|2|PUNCT
+*CHI:	有 青菜 , 南瓜 .
+%mor:	v|you3=have n|qing1cai4=chinese_cabbage cm|cm n|nan2gua1=pumpkin .
+%gra:	1|0|ROOT 2|4|MOD 3|4|LP 4|1|OBJ 5|1|PUNCT
+%trn:	v|you3=have n|qing1cai4=chinese_cabbage cm|cm n|nan2gua1=pumpkin .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|LP 4|2|ENUM 5|1|PUNCT
+*CHI:	没 有 .
+%mor:	adv|mei2=not v|you3=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%trn:	adv|mei2=not v|you3=have .
+%grt:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|en1=okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	猫 妈妈 对 小 猫咪 说 +"/.
+%mor:	n|mao1=pussycat n:relat|ma1&DIM=mother prep|dui4=toward
+	adj|xiao3=small n|mao1mi1=kitty v|shuo1=say +"/.
+%gra:	1|2|MOD 2|6|SUBJ 3|6|JCT 4|5|MOD 5|3|PREPO 6|0|ROOT 7|6|PUNCT
+%trn:	n|mao1=pussycat n:relat|ma1&DIM=mother prep|dui4=toward
+	adj|xiao3=small n|mao1mi1=kitty v|shuo1=say +"/.
+%grt:	1|2|MOD 2|6|SUBJ 3|6|JCT 4|5|MOD 5|3|PREPO 6|0|ROOT 7|6|PUNCT
+*CHI:	+" 你 不 喜欢 吃 的话 , 那 你 就 回 自己 的 家 里 吃 .
+%mor:	pro:per|ni3=you adv|bu4=not v|xi3huan1=like v|chi1=eat
+	post|de4hua4=if cm|cm conj|na4=so pro:per|ni3=you adv|jiu4=just
+	v:dirc|hui2=back pro:per|zi4ji3=self poss|de n|jia1=family
+	post|li3=inside v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|10|CJCT 4|3|COBJ 5|6|JCT 6|10|LP 7|10|LINK 8|10|SUBJ
+	9|10|JCT 10|0|ROOT 11|13|MOD 12|11|POSS 13|14|POSTO 14|10|JCT 15|10|SRL
+	16|10|PUNCT
+%trn:	pro:per|ni3=you adv|bu4=not v|xi3huan1=like v|chi1=eat
+	post|de4hua4=if cm|cm conj|na4=so pro:per|ni3=you adv|jiu4=just
+	v:dirc|hui2=back pro:per|zi4ji3=self poss|de n|jia1=family
+	post|li3=inside v|chi1=eat .
+%grt:	1|3|SUBJ 2|3|JCT 3|10|CJCT 4|3|COBJ 5|6|JCT 6|10|LP 7|10|LINK
+	8|10|SUBJ 9|10|JCT 10|0|ROOT 11|13|MOD 12|11|POSS 13|14|POSTO
+	14|10|JCT 15|10|SRL 16|10|PUNCT
+*CHI:	小 猫 说 +"/.
+%mor:	adj|xiao3=small n|mao1=pussycat v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" 那 可 不 行 .
+%mor:	pro:dem|na4=that adv|ke3=on_the_contrary adv|bu4=not
+	v|xing2=be_all_right .
+%gra:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%trn:	pro:dem|na4=that adv|ke3=on_the_contrary adv|bu4=not
+	v|xing2=be_all_right .
+%grt:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	我 就 要 在 它 家 吃 .
+%mor:	pro:per|wo3=I adv|jiu4=just v:aux|yao4=should prep|zai4=at
+	pro:per|ta1=it n|jia1=family v|chi1=eat .
+%gra:	1|7|SUBJ 2|7|JCT 3|7|AUX 4|7|JCT 5|6|MOD 6|4|PREPO 7|0|ROOT 8|7|PUNCT
+%trn:	pro:per|wo3=I adv|jiu4=just v:aux|yao4=should prep|zai4=at
+	pro:per|ta1=it n|jia1=family v|chi1=eat .
+%grt:	1|7|SUBJ 2|7|JCT 3|7|AUX 4|7|JCT 5|6|MOD 6|4|PREPO 7|0|ROOT
+	8|7|PUNCT
+*CHI:	猫 妈妈 说 +"/.
+%mor:	n|mao1=pussycat n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	n|mao1=pussycat n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" 那 你 就 听 它们 的 安排 .
+%mor:	conj|na4=so pro:per|ni3=you adv|jiu4=just v|ting1=listen
+	pro:per|ta1-PL=it poss|de v|an1pai2=arrange .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|MOD 6|5|POSS 7|4|OBJ 8|4|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you adv|jiu4=just v|ting1=listen pro:per|ta1-PL=it
+	poss|de v|an1pai2=arrange .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|MOD 6|5|POSS 7|4|OBJ 8|4|PUNCT
+*CHI:	小 猫咪 想了想 .
+%mor:	adj|xiao3=small n|mao1mi1=kitty v|xiang3&ASP=think .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	adj|xiao3=small n|mao1mi1=kitty v|xiang3&ASP=think .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	说 +"/.
+%mor:	v|shuo1=say +"/.
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|shuo1=say +"/.
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" 那 好 吧 !
+%mor:	pro:dem|na4=that adj|hao3=good sfp|ba !
+%gra:	1|2|JCT 2|0|PROOT 3|2|SFP 4|2|PUNCT
+%trn:	pro:dem|na4=that adj|hao3=good sfp|ba !
+%grt:	1|2|JCT 2|0|PROOT 3|2|SFP 4|2|PUNCT
+*CHI:	小 猫咪 又 兴高采烈地 回 到 了 小 猪 佩奇 的 家 吃 晚餐 .
+%mor:	adj|xiao3=small n|mao1mi1=kitty adv|you4=again
+	adv|xing4gao1cai3lie4-LY=happy v:dirc|hui2=back v:resc|dao4=arrive
+	asp|le adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig poss|de
+	n|jia1=family v|chi1=eat n|wan3can1=dinner .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|VR 7|5|JCT 8|9|MOD
+	9|12|MOD 10|9|APP 11|9|POSS 12|5|OBJ 13|5|SRL 14|13|OBJ 15|5|PUNCT
+%trn:	adj|xiao3=small n|mao1mi1=kitty adv|you4=again
+	adv|xing4gao1cai3lie4-LY=walk_on_air v:dirc|hui2=back
+	v:resc|dao4=arrive asp|le adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	poss|de n|jia1=family v|chi1=eat n|wan3can1=dinner .
+%grt:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|VR 7|5|JCT 8|9|MOD
+	9|12|MOD 10|9|APP 11|9|POSS 12|5|OBJ 13|5|SRL 14|13|OBJ 15|5|PUNCT
+*CHI:	嗯 ‡ (...) 它 会 回 家 跟 妈妈 说 +/.
+%mor:	co|en1=okay beg|beg pro:per|ta1=it v:aux|hui4=will v:dirc|hui2=back
+	n|jia1=family prep|gen1=with n:relat|ma1&DIM=mother v|shuo1=say +/.
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|9|JCT 8|7|PREPO
+	9|5|SRL 10|5|PUNCT
+%trn:	co|en1=okay beg|beg pro:per|ta1=it v:aux|hui4=will v:dirc|hui2=back
+	n|jia1=family prep|gen1=with n:relat|ma1&DIM=mother v|shuo1=say +/.
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|9|JCT 8|7|PREPO
+	9|5|SRL 10|5|PUNCT
+*CHI:	+" 可是 它 的 菜 我 真的 不 喜欢 .
+%mor:	conj|ke3shi4=but pro:per|ta1=it poss|de n|cai4=food pro:per|wo3=I
+	adv|zhen1de=really adv|bu4=not v|xi3huan1=like .
+%gra:	1|8|JCT 2|4|MOD 3|2|POSS 4|8|TOP 5|8|SUBJ 6|8|JCT 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+%trn:	conj|ke3shi4=but pro:per|ta1=it poss|de n|cai4=food pro:per|wo3=I
+	adv|zhen1de=really adv|bu4=not v|xi3huan1=like .
+%grt:	1|8|JCT 2|4|MOD 3|2|POSS 4|8|TOP 5|8|SUBJ 6|8|JCT 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*CHI:	+" 那 你 就 回来 吃 .[+ sub][+ cjn]
+%mor:	conj|na4=so pro:per|ni3=you adv|jiu4=just v|hui2lai2=come_back
+	v|chi1=eat .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|SRL 6|4|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you adv|jiu4=just v|hui2lai2=come_back
+	v|chi1=eat .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|SRL 6|4|PUNCT
+*CHI:	+" 你 就 不 要 再 去 小 猪 佩奇 的 家 里 吃 .
+%mor:	pro:per|ni3=you adv|jiu4=just adv|bu4=not v:aux|yao4=should
+	adv|zai4=again v:dirc|qu4=go adj|xiao3=small n|zhu1=pig
+	n:prop|pei4qi2=Peppa_pig poss|de n|jia1=family post|li3=inside
+	v|chi1=eat .
+%gra:	1|6|SUBJ 2|6|JCT 3|4|JCT 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|MOD 8|11|MOD
+	9|8|APP 10|8|POSS 11|12|POSTO 12|13|JCT 13|6|SRL 14|6|PUNCT
+%trn:	pro:per|ni3=you adv|jiu4=just adv|bu4=not v:aux|yao4=should
+	adv|zai4=again v:dirc|qu4=go adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	poss|de n|jia1=family post|li3=inside v|chi1=eat .
+%grt:	1|6|SUBJ 2|6|JCT 3|4|JCT 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|MOD 8|11|MOD
+	9|8|APP 10|8|POSS 11|12|POSTO 12|13|JCT 13|6|SRL 14|6|PUNCT
+*CHI:	因为 你 在 它 家 都 不 喜欢 吃 它 的 菜 . [+ ygm]
+%mor:	conj|yin1wei4=because pro:per|ni3=you prep|zai4=at pro:per|ta1=it
+	n|jia1=family adv|dou1=all adv|bu4=not v|xi3huan1=like v|chi1=eat
+	pro:per|ta1=it poss|de n|cai4=food .
+%gra:	1|8|LINK 2|8|SUBJ 3|8|JCT 4|5|MOD 5|3|PREPO 6|8|JCT 7|8|JCT 8|0|ROOT
+	9|8|COBJ 10|12|MOD 11|10|POSS 12|9|OBJ 13|8|PUNCT
+%trn:	conj|yin1wei4=because pro:per|ni3=you prep|zai4=at pro:per|ta1=it
+	n|jia1=family adv|dou1=all adv|bu4=not v|xi3huan1=like v|chi1=eat
+	pro:per|ta1=it poss|de n|cai4=food .
+%grt:	1|8|LINK 2|8|SUBJ 3|8|JCT 4|5|MOD 5|3|PREPO 6|8|JCT 7|8|JCT 8|0|ROOT
+	9|8|COBJ 10|12|MOD 11|10|POSS 12|9|OBJ 13|8|PUNCT
+*CHI:	是 .
+%mor:	v:cop|shi4=is .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v:cop|shi4=is .
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	不 [/] 不 想 .
+%mor:	adv|bu4=not v|xiang3=think .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%trn:	adv|bu4=not v|xiang3=think .
+%grt:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	因为 小 猪 佩奇 说 每次 它 来 都 不 喜欢 吃 我们 家 的 东西 .
+%mor:	conj|yin1wei4=because adj|xiao3=small n|zhu1=pig
+	n:prop|pei4qi2=Peppa_pig v|shuo1=say adv|meici4=everytime
+	pro:per|ta1=it v:dirc|lai2=come adv|dou1=all adv|bu4=not
+	v|xi3huan1=like v|chi1=eat pro:per|wo3-PL=I n|jia1=family poss|de
+	n|dong1xi=thing .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|3|APP 5|0|ROOT 6|11|JCT 7|8|SUBJ 8|11|CJCT
+	9|11|JCT 10|11|JCT 11|5|COBJ 12|11|COBJ 13|14|MOD 14|16|MOD 15|14|POSS
+	16|12|OBJ 17|5|PUNCT
+%trn:	conj|yin1wei4=because adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	v|shuo1=say adv|meici4=everytime pro:per|ta1=it v:dirc|lai2=come
+	adv|dou1=all adv|bu4=not v|xi3huan1=like v|chi1=eat pro:per|wo3-PL=I
+	n|jia1=family poss|de n|dong1xi=thing .
+%grt:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|3|APP 5|0|ROOT 6|11|JCT 7|8|SUBJ
+	8|11|CJCT 9|11|JCT 10|11|JCT 11|5|COBJ 12|11|COBJ 13|14|MOD 14|16|MOD
+	15|14|POSS 16|12|OBJ 17|5|PUNCT
+*CHI:	索性 我 就 不 请 它 了 .
+%mor:	adv|suo3xing4=might_as_well pro:per|wo3=I adv|jiu4=just adv|bu4=not
+	v|qing3=request pro:per|ta1=it asp|le .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|ASP 8|5|PUNCT
+%trn:	adv|suo3xing4=might_as_well pro:per|wo3=I adv|jiu4=just adv|bu4=not
+	v|qing3=request pro:per|ta1=it asp|le .
+%grt:	1|5|JCT 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|ASP 8|5|PUNCT
+*CHI:	想 要 请 猫 妈妈 .
+%mor:	v|xiang3=think v:aux|yao4=should v|qing3=request n|mao1=pussycat
+	n:relat|ma1&DIM=mother .
+%gra:	1|0|ROOT 2|3|AUX 3|1|COBJ 4|5|MOD 5|3|OBJ 6|1|PUNCT
+%trn:	v|xiang3=think v:aux|yao4=should v|qing3=request n|mao1=pussycat
+	n:relat|ma1&DIM=mother .
+%grt:	1|0|ROOT 2|3|AUX 3|1|COBJ 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*CHI:	一 天 小 猪 佩奇 从 床 上 起 来 说 +"/.
+%mor:	num|yi1=one cl|tian1 adj|xiao3=small n|zhu1=pig
+	n:prop|pei4qi2=Peppa_pig prep|cong2=from n|chuang2=bed
+	post|shang4=above v:dirc|qi3=go_up v:dirc|lai2=come v|shuo1=say +"/.
+%gra:	1|2|QUANT 2|9|JCT 3|4|MOD 4|9|SUBJ 5|4|APP 6|9|JCT 7|8|POSTO 8|6|JCT
+	9|0|ROOT 10|9|VD 11|9|SRL 12|9|PUNCT
+%trn:	num|yi1=one cl|tian1 adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	prep|cong2=from n|chuang2=bed post|shang4=above v:dirc|qi3=go_up
+	v:dirc|lai2=come v|shuo1=say +"/.
+%grt:	1|2|QUANT 2|9|JCT 3|4|MOD 4|9|SUBJ 5|4|APP 6|9|JCT 7|8|POSTO 8|6|JCT
+	9|0|ROOT 10|9|VD 11|9|SRL 12|9|PUNCT
+*CHI:	+" 妈妈 ‡ 我 不 想 再 请 小 猫咪 来 吃 饭 了 .[+ sub][+ bln]
+%mor:	n:relat|ma1&DIM=mother beg|beg pro:per|wo3=I adv|bu4=not
+	v|xiang3=think adv|zai4=again v|qing3=request adj|xiao3=small
+	n|mao1mi1=kitty v:dirc|lai2=come v|chi1=eat n|fan4=food asp|le .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|COBJ 8|9|MOD
+	9|10|SUBJ 10|7|COMP 11|10|SRL 12|11|OBJ 13|5|JCT 14|5|PUNCT
+%trn:	n:relat|ma1&DIM=mother beg|beg pro:per|wo3=I adv|bu4=not
+	v|xiang3=think adv|zai4=again v|qing3=request adj|xiao3=small
+	n|mao1mi1=kitty v:dirc|lai2=come v|chi1=eat n|fan4=food asp|le .
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|COBJ 8|9|MOD
+	9|10|SUBJ 10|7|COMP 11|10|SRL 12|11|OBJ 13|5|JCT 14|5|PUNCT
+*CHI:	+" 我 想 请 猫 妈妈 来 .
+%mor:	pro:per|wo3=I v|xiang3=think v|qing3=request n|mao1=pussycat
+	n:relat|ma1&DIM=mother v:dirc|lai2=come .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|5|MOD 5|6|SUBJ 6|3|COMP 7|2|PUNCT
+%trn:	pro:per|wo3=I v|xiang3=think v|qing3=request n|mao1=pussycat
+	n:relat|ma1&DIM=mother v:dirc|lai2=come .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|5|MOD 5|6|SUBJ 6|3|COMP 7|2|PUNCT
+*CHI:	接着 猪 妈妈 说 +"/.
+%mor:	conj|jie1zhe=then n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say
+	+"/.
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	conj|jie1zhe=then n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say
+	+"/.
+%grt:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	可是 你 不 是 很 喜欢 跟 小 猫咪 一起 吃 饭 吗 ?
+%mor:	conj|ke3shi4=but pro:per|ni3=you adv|bu4=not v:cop|shi4=is
+	adv|hen3=much v|xi3huan1=like prep|gen1=with adj|xiao3=small
+	n|mao1mi1=kitty adv|yi1qi3=together v|chi1=eat n|fan4=food sfp|ma ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|JCT 6|4|CPRED 7|11|JCT 8|9|MOD
+	9|7|PREPO 10|11|JCT 11|6|COBJ 12|11|OBJ 13|4|SFP 14|4|PUNCT
+%trn:	conj|ke3shi4=but pro:per|ni3=you adv|bu4=not v:cop|shi4=is
+	adv|hen3=much v|xi3huan1=like prep|gen1=with adj|xiao3=small
+	n|mao1mi1=kitty adv|yi1qi3=together v|chi1=eat n|fan4=food sfp|ma ?
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|JCT 6|4|CPRED 7|11|JCT 8|9|MOD
+	9|7|PREPO 10|11|JCT 11|6|COBJ 12|11|OBJ 13|4|SFP 14|4|PUNCT
+*CHI:	小 猪 佩奇 说 +"/.
+%mor:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig v|shuo1=say
+	+"/.
+%gra:	1|2|MOD 2|4|SUBJ 3|2|APP 4|0|ROOT 5|4|PUNCT
+%trn:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig v|shuo1=say +"/.
+%grt:	1|2|MOD 2|4|SUBJ 3|2|APP 4|0|ROOT 5|4|PUNCT
+*CHI:	+" 可是 小 猫咪 都 不 喜欢 吃 我们 的 菜 .
+%mor:	conj|ke3shi4=but adj|xiao3=small n|mao1mi1=kitty adv|dou1=all
+	adv|bu4=not v|xi3huan1=like v|chi1=eat pro:per|wo3-PL=I poss|de
+	n|cai4=food .
+%gra:	1|6|LINK 2|3|MOD 3|6|SUBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|COBJ 8|10|MOD
+	9|8|POSS 10|7|OBJ 11|6|PUNCT
+%trn:	conj|ke3shi4=but adj|xiao3=small n|mao1mi1=kitty adv|dou1=all
+	adv|bu4=not v|xi3huan1=like v|chi1=eat pro:per|wo3-PL=I poss|de
+	n|cai4=food .
+%grt:	1|6|LINK 2|3|MOD 3|6|SUBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|COBJ 8|10|MOD
+	9|8|POSS 10|7|OBJ 11|6|PUNCT
+*CHI:	我 当然 不 请 它 了 .
+%mor:	pro:per|wo3=I adv|dang1ran2=naturally adv|bu4=not v|qing3=request
+	pro:per|ta1=it asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%trn:	pro:per|wo3=I adv|dang1ran2=naturally adv|bu4=not v|qing3=request
+	pro:per|ta1=it asp|le .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	每次 它 来 都 说 +"/.
+%mor:	adv|meici4=everytime pro:per|ta1=it v:dirc|lai2=come adv|dou1=all
+	v|shuo1=say +"/.
+%gra:	1|5|JCT 2|3|SUBJ 3|5|CJCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	adv|meici4=everytime pro:per|ta1=it v:dirc|lai2=come adv|dou1=all
+	v|shuo1=say +"/.
+%grt:	1|5|JCT 2|3|SUBJ 3|5|CJCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	+" 我 不 喜欢 吃 .
+%mor:	pro:per|wo3=I adv|bu4=not v|xi3huan1=like v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COBJ 5|3|PUNCT
+%trn:	pro:per|wo3=I adv|bu4=not v|xi3huan1=like v|chi1=eat .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COBJ 5|3|PUNCT
+*CHI:	那 我 请 它 还 来 干吗 呢 ?
+%mor:	conj|na4=so pro:per|wo3=I v|qing3=request pro:per|ta1=it
+	adv|hai2=still v:dirc|lai2=come v|gan4ma2=do_what sfp|ne ?
+%gra:	1|7|JCT 2|3|SUBJ 3|7|CSUBJ 4|6|SUBJ 5|6|JCT 6|3|COMP 7|0|INCROOT
+	8|7|SFP 9|7|PUNCT
+%trn:	conj|na4=so pro:per|wo3=I v|qing3=request pro:per|ta1=it adv|hai2=still
+	v:dirc|lai2=come v|gan4ma2=do_what sfp|ne ?
+%grt:	1|7|JCT 2|3|SUBJ 3|7|CSUBJ 4|6|SUBJ 5|6|JCT 6|3|COMP 7|0|INCROOT
+	8|7|SFP 9|7|PUNCT
+*CHI:	猪 妈妈 想了想 .
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|xiang3&ASP=think .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	n|zhu1=pig n:relat|ma1&DIM=mother v|xiang3&ASP=think .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	说  +"/.
+%mor:	v|shuo1=say +"/.
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|shuo1=say +"/.
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" 那 你 要 邀请 谁 来 我们 家 吃 饭 呢 ?
+%mor:	conj|na4=so pro:per|ni3=you v:aux|yao4=should v|yao1qing3=invite
+	pro:wh|shei2=who v:dirc|lai2=come pro:per|wo3-PL=I n|jia1=family
+	v|chi1=eat n|fan4=food sfp|ne ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|MOD 8|6|OBJ
+	9|6|SRL 10|9|OBJ 11|4|SFP 12|4|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you v:aux|yao4=should v|yao1qing3=invite
+	pro:wh|shei2=who v:dirc|lai2=come pro:per|wo3-PL=I n|jia1=family
+	v|chi1=eat n|fan4=food sfp|ne ?
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|MOD
+	8|6|OBJ 9|6|SRL 10|9|OBJ 11|4|SFP 12|4|PUNCT
+*CHI:	小 猪 佩奇 又 想了想 .
+%mor:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig adv|you4=again
+	v|xiang3&ASP=think .
+%gra:	1|2|MOD 2|5|SUBJ 3|2|APP 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig adv|you4=again
+	v|xiang3&ASP=think .
+%grt:	1|2|MOD 2|5|SUBJ 3|2|APP 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	说 +"/.
+%mor:	v|shuo1=say +"/.
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|shuo1=say +"/.
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	我 要 请 猫 妈妈 来 我们 家 做客 .
+%mor:	pro:per|wo3=I v:aux|yao4=should v|qing3=request n|mao1=pussycat
+	n:relat|ma1&DIM=mother v:dirc|lai2=come pro:per|wo3-PL=I
+	n|jia1=family v|zuo4ke4=visit .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|6|SUBJ 6|3|COMP 7|8|MOD 8|6|OBJ
+	9|6|SRL 10|3|PUNCT
+%trn:	pro:per|wo3=I v:aux|yao4=should v|qing3=request n|mao1=pussycat
+	n:relat|ma1&DIM=mother v:dirc|lai2=come pro:per|wo3-PL=I n|jia1=family
+	v|zuo4ke4=visit .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|6|SUBJ 6|3|COMP 7|8|MOD 8|6|OBJ
+	9|6|SRL 10|3|PUNCT
+*CHI:	小 猪 妈妈 说 +"/.
+%mor:	adj|xiao3=small n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	adj|xiao3=small n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	+" 那 猫 妈妈 来 .
+%mor:	pro:dem|na4=that n|mao1=pussycat n:relat|ma1&DIM=mother
+	v:dirc|lai2=come .
+%gra:	1|4|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	pro:dem|na4=that n|mao1=pussycat n:relat|ma1&DIM=mother
+	v:dirc|lai2=come .
+%grt:	1|4|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	我们 要 给 它 准备 什么 东西 呢 ?
+%mor:	pro:per|wo3-PL=I v:aux|yao4=should prep|gei3=for pro:per|ta1=it
+	v|zhun3bei4=prepare pro:wh|shen2me=what n|dong1xi=thing sfp|ne ?
+%gra:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|3|PREPO 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|SFP
+	9|5|PUNCT
+%trn:	pro:per|wo3-PL=I v:aux|yao4=should prep|gei3=for pro:per|ta1=it
+	v|zhun3bei4=prepare pro:wh|shen2me=what n|dong1xi=thing sfp|ne ?
+%grt:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|3|PREPO 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|SFP
+	9|5|PUNCT
+*CHI:	小 猪 佩奇 又 说 +"/.
+%mor:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig adv|you4=again
+	v|shuo1=say +"/.
+%gra:	1|2|MOD 2|5|SUBJ 3|2|APP 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig adv|you4=again v|shuo1=say
+	+"/.
+%grt:	1|2|MOD 2|5|SUBJ 3|2|APP 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	我们 给 它 准备 南瓜 和 青菜 .
+%mor:	pro:per|wo3-PL=I prep|gei3=for pro:per|ta1=it v|zhun3bei4=prepare
+	n|nan2gua1=pumpkin conj|he2=and n|qing1cai4=chinese_cabbage .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|6|COORD
+	8|4|PUNCT
+%trn:	pro:per|wo3-PL=I prep|gei3=for pro:per|ta1=it v|zhun3bei4=prepare
+	n|nan2gua1=pumpkin conj|he2=and n|qing1cai4=chinese_cabbage .
+%grt:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|6|COORD
+	8|4|PUNCT
+*CHI:	还 有 包菜 和 胡萝卜 .
+%mor:	adv|hai2=still v|you3=have n|bao1cai4=cabbage conj|he2=and
+	n|hu2luo2bo=carrot .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|2|PUNCT
+%trn:	adv|hai2=still v|you3=have n|bao1cai4=cabbage conj|he2=and
+	n|hu2luo2bo=carrot .
+%grt:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*CHI:	小 猪 妈妈 说 +"/.
+%mor:	adj|xiao3=small n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	adj|xiao3=small n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	+" 那 你 去 邀请 小 猫咪 的 妈妈 来 我们 家 吃 饭 吧 !
+%mor:	conj|na4=so pro:per|ni3=you v:dirc|qu4=go v|yao1qing3=invite
+	adj|xiao3=small n|mao1mi1=kitty poss|de n:relat|ma1&DIM=mother
+	v:dirc|lai2=come pro:per|wo3-PL=I n|jia1=family v|chi1=eat
+	n|fan4=food sfp|ba !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|SRL 5|6|MOD 6|8|MOD 7|6|POSS 8|9|SUBJ
+	9|4|COMP 10|11|MOD 11|9|OBJ 12|9|SRL 13|12|OBJ 14|3|SFP 15|3|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you v:dirc|qu4=go v|yao1qing3=invite
+	adj|xiao3=small n|mao1mi1=kitty poss|de n:relat|ma1&DIM=mother
+	v:dirc|lai2=come pro:per|wo3-PL=I n|jia1=family v|chi1=eat n|fan4=food
+	sfp|ba !
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|SRL 5|6|MOD 6|8|MOD 7|6|POSS 8|9|SUBJ
+	9|4|COMP 10|11|MOD 11|9|OBJ 12|9|SRL 13|12|OBJ 14|3|SFP
+	15|3|PUNCT
+*CHI:	小 猫咪 的 妈妈 这 一 次 来 到 了 小 猪 佩奇 的 家 .
+%mor:	adj|xiao3=small n|mao1mi1=kitty poss|de n:relat|ma1&DIM=mother
+	det|zhe4=this adv|yi1=just_as adj|ci4=inferior co|lai2=come_on
+	v:resc|dao4=arrive asp|le adj|xiao3=small n|zhu1=pig
+	n:prop|pei4qi2=Peppa_pig poss|de n|jia1=family .
+%gra:	1|2|MOD 2|4|MOD 3|2|POSS 4|8|SUBJ 5|7|DET 6|7|QUANT 7|8|JCT 8|0|ROOT
+	9|8|VR 10|8|JCT 11|12|MOD 12|15|MOD 13|12|APP 14|12|LINK 15|8|OBJ
+	16|8|PUNCT
+%trn:	adj|xiao3=small n|mao1mi1=kitty poss|de n:relat|ma1&DIM=mother
+	det|zhe4=this adv|yi1=just_as adj|ci4=inferior co|lai2=come_on
+	v:resc|dao4=arrive asp|le adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	poss|de n|jia1=family .
+%grt:	1|2|MOD 2|4|MOD 3|2|POSS 4|8|SUBJ 5|7|DET 6|7|QUANT 7|8|JCT
+	8|0|ROOT 9|8|VR 10|8|JCT 11|12|MOD 12|15|MOD 13|12|APP 14|12|LINK
+	15|8|OBJ 16|8|PUNCT
+*CHI:	可是 它 把 小 猫 也 带 上 了 .
+%mor:	conj|ke3shi4=but pro:per|ta1=it prep|ba3=object_marker
+	adj|xiao3=small n|mao1=pussycat adv|ye3=also v|dai4=bring
+	v:dirc|shang4=go_up asp|le .
+%gra:	1|7|LINK 2|7|SUBJ 3|7|JCT 4|5|MOD 5|3|PREPO 6|7|JCT 7|0|ROOT 8|7|VD
+	9|7|ASP 10|7|PUNCT
+%trn:	conj|ke3shi4=but pro:per|ta1=it prep|ba3=object_marker adj|xiao3=small
+	n|mao1=pussycat adv|ye3=also v|dai4=bring v:dirc|shang4=go_up asp|le
+	.
+%grt:	1|7|LINK 2|7|SUBJ 3|7|JCT 4|5|MOD 5|3|PREPO 6|7|JCT 7|0|ROOT
+	8|7|VD 9|7|ASP 10|7|PUNCT
+*CHI:	因为 猫 妈妈 觉得 自己 来 太 不 好意思 了 .
+%mor:	conj|yin1wei4=because n|mao1=pussycat n:relat|ma1&DIM=mother
+	v|jue2de=think pro:per|zi4ji3=self v:dirc|lai2=come adv|tai4=very
+	adv|bu4=not v|hao3yi4si1=have_the_nerve_to asp|le .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|9|CSUBJ 7|9|JCT 8|9|JCT
+	9|4|COBJ 10|9|JCT 11|4|PUNCT
+%trn:	conj|yin1wei4=because n|mao1=pussycat n:relat|ma1&DIM=mother
+	v|jue2de=think pro:per|zi4ji3=self v:dirc|lai2=come adv|tai4=very
+	adv|bu4=not v|hao3yi4si1=have_the_nerve_to asp|le .
+%grt:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|9|CSUBJ 7|9|JCT 8|9|JCT
+	9|4|COBJ 10|9|JCT 11|4|PUNCT
+*CHI:	要 带 自己 的 小 猫咪 一起 来 .
+%mor:	v:aux|yao4=should v|dai4=bring pro:per|zi4ji3=self poss|de
+	adj|xiao3=small n|mao1mi1=kitty adv|yi1qi3=together v:dirc|lai2=come
+	.
+%gra:	1|2|AUX 2|0|ROOT 3|6|MOD 4|3|POSS 5|6|MOD 6|2|OBJ 7|8|JCT 8|2|SRL
+	9|2|PUNCT
+%trn:	v:aux|yao4=should v|dai4=bring pro:per|zi4ji3=self poss|de adj|xiao3=small
+	n|mao1mi1=kitty adv|yi1qi3=together v:dirc|lai2=come .
+%grt:	1|2|AUX 2|0|ROOT 3|6|MOD 4|3|POSS 5|6|MOD 6|2|OBJ 7|8|JCT 8|2|SRL
+	9|2|PUNCT
+*CHI:	对 .
+%mor:	adj|dui4=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adj|dui4=correct .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	一 天 晚上 猫 妈妈 来 到 了 小 猪 佩奇 的 家 .[+ sub][+ bln]
+%mor:	num|yi1=one cl|tian1 n|wan3shang4=evening n|mao1=pussycat
+	n:relat|ma1&DIM=mother v:dirc|lai2=come v:resc|dao4=arrive asp|le
+	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig poss|de
+	n|jia1=family .
+%gra:	1|2|QUANT 2|3|MOD 3|6|JCT 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|VR 8|6|JCT
+	9|10|MOD 10|13|MOD 11|10|APP 12|10|POSS 13|6|OBJ 14|6|PUNCT
+%trn:	num|yi1=one cl|tian1 n|wan3shang4=evening n|mao1=pussycat
+	n:relat|ma1&DIM=mother v:dirc|lai2=come v:resc|dao4=arrive asp|le
+	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig poss|de n|jia1=family .
+%grt:	1|2|QUANT 2|3|MOD 3|6|JCT 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|VR 8|6|JCT
+	9|10|MOD 10|13|MOD 11|10|APP 12|10|POSS 13|6|OBJ
+	14|6|PUNCT
+*CHI:	它 带 着 小 猫咪 .
+%mor:	pro:per|ta1=it v|dai4=bring asp|zhe adj|xiao3=small n|mao1mi1=kitty
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%trn:	pro:per|ta1=it v|dai4=bring asp|zhe adj|xiao3=small n|mao1mi1=kitty .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	小 猪 佩奇 说 +"/.
+%mor:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig v|shuo1=say
+	+"/.
+%gra:	1|2|MOD 2|4|SUBJ 3|2|APP 4|0|ROOT 5|4|PUNCT
+%trn:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig v|shuo1=say +"/.
+%grt:	1|2|MOD 2|4|SUBJ 3|2|APP 4|0|ROOT 5|4|PUNCT
+*CHI:	+" 我 没 有 邀请 小 猫咪 来 啊 !
+%mor:	pro:per|wo3=I adv|mei2=not v|you3=have v|yao1qing3=invite
+	adj|xiao3=small n|mao1mi1=kitty v:dirc|lai2=come sfp|a1 !
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COBJ 5|6|MOD 6|7|SUBJ 7|4|COMP 8|3|SFP
+	9|3|PUNCT
+%trn:	pro:per|wo3=I adv|mei2=not v|you3=have v|yao1qing3=invite
+	adj|xiao3=small n|mao1mi1=kitty v:dirc|lai2=come sfp|a1 !
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COBJ 5|6|MOD 6|7|SUBJ 7|4|COMP 8|3|SFP
+	9|3|PUNCT
+*CHI:	猫 妈妈 说 +"/.
+%mor:	n|mao1=pussycat n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	n|mao1=pussycat n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" 我 这 次 只是 想 带 小 猫咪 来 跟 你们 说 些 事情 .
+%mor:	pro:per|wo3=I det|zhe4=this cl|ci4=activity adv|zhi3shi4=only_be
+	v|xiang3=think v|dai4=bring adj|xiao3=small n|mao1mi1=kitty
+	v:dirc|lai2=come prep|gen1=with pro:per|ni3-PL=you v|shuo1=say
+	quant|xie1=proximation n|shi4qing2=matter .
+%gra:	1|5|SUBJ 2|3|DET 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|COBJ 7|8|MOD 8|6|OBJ
+	9|6|SRL 10|12|JCT 11|10|PREPO 12|9|SRL 13|14|CLASS 14|12|OBJ 15|5|PUNCT
+%trn:	pro:per|wo3=I det|zhe4=this cl|ci4=activity adv|zhi3shi4=only_be
+	v|xiang3=think v|dai4=bring adj|xiao3=small n|mao1mi1=kitty
+	v:dirc|lai2=come prep|gen1=with pro:per|ni3-PL=you v|shuo1=say
+	quant|xie1=proximation n|shi4qing2=matter .
+%grt:	1|5|SUBJ 2|3|DET 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|COBJ 7|8|MOD 8|6|OBJ
+	9|6|SRL 10|12|JCT 11|10|PREPO 12|9|SRL 13|14|CLASS 14|12|OBJ
+	15|5|PUNCT
+*CHI:	接着 小 猫 的 妈妈 就 走 到 前面 来 说 +"/.
+%mor:	conj|jie1zhe=then adj|xiao3=small n|mao1=pussycat poss|de
+	n:relat|ma1&DIM=mother adv|jiu4=just v:dirc|zou3=go_away
+	v:resc|dao4=arrive post|qian2mian4=front_end v:dirc|lai2=come
+	v|shuo1=say +"/.
+%gra:	1|7|LINK 2|3|MOD 3|5|MOD 4|3|POSS 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|VR
+	9|8|OBJ 10|7|SRL 11|7|SRL 12|7|PUNCT
+%trn:	conj|jie1zhe=then adj|xiao3=small n|mao1=pussycat poss|de
+	n:relat|ma1&DIM=mother adv|jiu4=just v:dirc|zou3=go_away
+	v:resc|dao4=arrive post|qian2mian4=front_end v:dirc|lai2=come
+	v|shuo1=say +"/.
+%grt:	1|7|LINK 2|3|MOD 3|5|MOD 4|3|POSS 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|VR
+	9|8|OBJ 10|7|SRL 11|7|SRL 12|7|PUNCT
+*CHI:	+" 小 猫 ‡ 每 一 种 食物 都 很 好吃 .
+%mor:	adj|xiao3=small n|mao1=pussycat beg|beg adv|mei3=every num|yi1=one
+	cl|zhong3=kind n|shi2wu4=food adv|dou1=all adv|hen3=much
+	adj|hao3chi1=delicious .
+%gra:	1|2|MOD 2|0|BEG 3|2|BEGP 4|7|JCT 5|6|QUANT 6|7|CLASS 7|10|SUBJ 8|10|JCT
+	9|10|JCT 10|0|PROOT 11|10|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat beg|beg adv|mei3=every
+	num|yi1=one cl|zhong3=kind n|shi2wu4=food adv|dou1=all
+	adv|hen3=much adj|hao3chi1=delicious .
+%grt:	1|2|MOD 2|0|BEG 3|2|BEGP 4|7|JCT 5|6|QUANT 6|7|CLASS 7|10|SUBJ
+	8|10|JCT 9|10|JCT 10|0|PROOT 11|10|PUNCT
+*CHI:	+" 不止 是 鱼 .
+%mor:	adv|bu4zhi3=incessantly_or_more_than v:cop|shi4=is n|yu2=fish .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%trn:	adv|bu4zhi3=incessantly_or_more_than v:cop|shi4=is n|yu2=fish .
+%grt:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	小 猫 说 +"/.
+%mor:	adj|xiao3=small n|mao1=pussycat v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" 可是 <我 不> [/] 我 不 喜欢 吃 别的 菜 .
+%mor:	conj|ke3shi4=but pro:per|wo3=I adv|bu4=not v|xi3huan1=like
+	v|chi1=eat adj|bie2de=other n|cai4=food .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|COBJ 6|7|MOD 7|5|OBJ 8|4|PUNCT
+%trn:	conj|ke3shi4=but pro:per|wo3=I adv|bu4=not v|xi3huan1=like v|chi1=eat
+	adj|bie2de=other n|cai4=food .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|COBJ 6|7|MOD 7|5|OBJ 8|4|PUNCT
+*CHI:	没 有 鱼 好吃 .
+%mor:	adv|mei2=not v|you3=have n|yu2=fish adj|hao3chi1=delicious .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+%trn:	adv|mei2=not v|you3=have n|yu2=fish adj|hao3chi1=delicious .
+%grt:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*CHI:	可是 在 别人 家 , 别人 想 吃 这 些 东西 .
+%mor:	conj|ke3shi4=but prep|zai4=at pro:per|bie2ren2=others n|jia1=family
+	cm|cm pro:per|bie2ren2=others v|xiang3=think v|chi1=eat
+	pro:dem|zhe4=this quant|xie1=proximation n|dong1xi=thing .
+%gra:	1|7|LINK 2|7|JCT 3|4|MOD 4|2|PREPO 5|7|LP 6|7|SUBJ 7|0|ROOT 8|7|COBJ
+	9|11|DET 10|11|CLASS 11|8|OBJ 12|7|PUNCT
+%trn:	conj|ke3shi4=but prep|zai4=at pro:per|bie2ren2=others n|jia1=family
+	cm|cm pro:per|bie2ren2=others v|xiang3=think v|chi1=eat det|zhe4=this
+	quant|xie1=proximation n|dong1xi=thing .
+%grt:	1|7|LINK 2|7|JCT 3|4|MOD 4|2|PREPO 5|7|LP 6|7|SUBJ 7|0|ROOT
+	8|7|COBJ 9|11|DET 10|11|CLASS 11|8|OBJ 12|7|PUNCT
+*CHI:	那 你 索性 在 我们 自己 家 吃 .
+%mor:	conj|na4=so pro:per|ni3=you adv|suo3xing4=might_as_well
+	prep|zai4=at pro:per|wo3-PL=I pro:per|zi4ji3=self n|jia1=family
+	v|chi1=eat .
+%gra:	1|8|LINK 2|8|SUBJ 3|8|JCT 4|8|JCT 5|7|MOD 6|5|APP 7|4|PREPO 8|0|ROOT
+	9|8|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you adv|suo3xing4=might_as_well prep|zai4=at
+	pro:per|wo3-PL=I pro:per|zi4ji3=self n|jia1=family v|chi1=eat .
+%grt:	1|8|LINK 2|8|SUBJ 3|8|JCT 4|8|JCT 5|7|MOD 6|5|APP 7|4|PREPO
+	8|0|ROOT 9|8|PUNCT
+*CHI:	那 如果 你 不 要 在 自己 家 吃 . [+ tjm]
+%mor:	conj|na4=so conj|ru2guo3=if pro:per|ni3=you adv|bu4=not
+	v:aux|yao4=should prep|zai4=at pro:per|zi4ji3=self n|jia1=family
+	v|chi1=eat .
+%gra:	1|9|JCT 2|9|LINK 3|9|SUBJ 4|5|JCT 5|9|AUX 6|9|JCT 7|8|MOD 8|6|PREPO
+	9|0|ROOT 10|9|PUNCT
+%trn:	conj|na4=so conj|ru2guo3=if pro:per|ni3=you adv|bu4=not
+	v:aux|yao4=should prep|zai4=at pro:per|zi4ji3=self n|jia1=family
+	v|chi1=eat .
+%grt:	1|9|JCT 2|9|LINK 3|9|SUBJ 4|5|JCT 5|9|AUX 6|9|JCT 7|8|MOD 8|6|PREPO
+	9|0|ROOT 10|9|PUNCT
+*CHI:	那 你 就 别 想 吃 .
+%mor:	conj|na4=so pro:per|ni3=you adv|jiu4=just adv|bie2=dont
+	v|xiang3=think v|chi1=eat .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|COBJ 7|5|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you adv|jiu4=just adv|bie2=dont v|xiang3=think
+	v|chi1=eat .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|COBJ 7|5|PUNCT
+*CHI:	小 猫 想了想 .
+%mor:	adj|xiao3=small n|mao1=pussycat v|xiang3&ASP=think .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat v|xiang3&ASP=think .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	说 +"/.
+%mor:	v|shuo1=say +"/.
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|shuo1=say +"/.
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" 那 如果 我 还是 不 喜欢 吃 别的 菜 怎么 办 ?
+%mor:	conj|na4=so conj|ru2guo3=if pro:per|wo3=I adv|hai2shi4=still_be
+	adv|bu4=not v|xi3huan1=like v|chi1=eat adj|bie2de=other n|cai4=food
+	adv:wh|zen3me=how v|ban4=handle ?
+%gra:	1|11|JCT 2|6|LINK 3|6|SUBJ 4|6|JCT 5|6|JCT 6|11|CJCT 7|6|COBJ 8|9|DET
+	9|7|OBJ 10|11|JCT 11|0|ROOT 12|11|PUNCT
+%trn:	conj|na4=so conj|ru2guo3=if pro:per|wo3=I adv|hai2shi4=still_be
+	adv|bu4=not v|xi3huan1=like v|chi1=eat adj|bie2de=other
+	n|cai4=food adv:wh|zen3me=how v|ban4=handle ?
+%grt:	1|11|JCT 2|6|LINK 3|6|SUBJ 4|6|JCT 5|6|JCT 6|11|CJCT 7|6|COBJ
+	8|9|DET 9|7|OBJ 10|11|JCT 11|0|ROOT 12|11|PUNCT
+*CHI:	小 猫 妈妈 说 +"/.
+%mor:	adj|xiao3=small n|mao1=pussycat n:relat|ma1&DIM=mother v|shuo1=say
+	+"/.
+%gra:	1|2|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat n:relat|ma1&DIM=mother v|shuo1=say
+	+"/.
+%grt:	1|2|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	+" 那 你 等 喜欢 吃 它们 家 的 东西 的时候 , 再 来 它们 家 吃 饭 .
+%mor:	conj|na4=so pro:per|ni3=you v|deng3=wait v|xi3huan1=like v|chi1=eat
+	pro:per|ta1-PL=it n|jia1=family poss|de n|dong1xi=thing
+	post|de4shi2hou4=during cm|cm adv|zai4=again v:dirc|lai2=come
+	pro:per|ta1-PL=it n|jia1=family v|chi1=eat n|fan4=food .
+%gra:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|SRL 5|4|COBJ 6|7|MOD 7|9|MOD 8|7|POSS
+	9|5|OBJ 10|5|JCT 11|13|LP 12|13|JCT 13|0|ROOT 14|15|MOD 15|13|OBJ
+	16|13|SRL 17|16|OBJ 18|13|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you v|deng3=wait v|xi3huan1=like v|chi1=eat
+	pro:per|ta1-PL=it n|jia1=family poss|de n|dong1xi=thing
+	post|de4shi2hou4=during cm|cm adv|zai4=again v:dirc|lai2=come
+	pro:per|ta1-PL=it n|jia1=family v|chi1=eat n|fan4=food .
+%grt:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|SRL 5|4|COBJ 6|7|MOD 7|9|MOD 8|7|POSS
+	9|5|OBJ 10|5|JCT 11|13|LP 12|13|JCT 13|0|ROOT 14|15|MOD 15|13|OBJ
+	16|13|SRL 17|16|OBJ 18|13|PUNCT
+*CHI:	+" 然后 如果 你 不 喜欢 吃 它们 家 的 饭 的话 , 就 回 自己 家 吃 .[+ tjm]
+%mor:	conj|ran2hou4=thereupon conj|ru2guo3=if pro:per|ni3=you adv|bu4=not
+	v|xi3huan1=like v|chi1=eat pro:per|ta1-PL=it n|jia1=family poss|de
+	n|fan4=food post|de4hua4=if cm|cm adv|jiu4=just v:dirc|hui2=back
+	pro:per|zi4ji3=self n|jia1=family v|chi1=eat .
+%gra:	1|14|JCT 2|5|LINK 3|5|SUBJ 4|5|JCT 5|14|CJCT 6|5|COBJ 7|8|MOD 8|10|MOD
+	9|8|POSS 10|6|OBJ 11|5|LINK 12|14|LP 13|14|JCT 14|0|ROOT 15|16|MOD
+	16|14|OBJ 17|14|SRL 18|14|PUNCT
+%trn:	conj|ran2hou4=thereupon conj|ru2guo3=if pro:per|ni3=you adv|bu4=not
+	v|xi3huan1=like v|chi1=eat pro:per|ta1-PL=it n|jia1=family poss|de
+	n|fan4=food post|de4hua4=if cm|cm adv|jiu4=just v:dirc|hui2=back
+	pro:per|zi4ji3=self n|jia1=family v|chi1=eat .
+%grt:	1|14|JCT 2|5|LINK 3|5|SUBJ 4|5|JCT 5|14|CJCT 6|5|COBJ 7|8|MOD
+	8|10|MOD 9|8|POSS 10|6|OBJ 11|5|LINK 12|14|LP 13|14|JCT 14|0|ROOT
+	15|16|MOD 16|14|OBJ 17|14|SRL 18|14|PUNCT
+*CHI:	是 .
+%mor:	v:cop|shi4=is .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v:cop|shi4=is .
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	更 多的 新 食物 .
+%mor:	adv|geng4=more adj|duo1-ISH=lots adj|xin1=new n|shi2wu4=food .
+%gra:	1|2|JCT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%trn:	adv|geng4=more adj|duo1-ISH=lots adj|xin1=new n|shi2wu4=food .
+%grt:	1|2|JCT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	有 .
+%mor:	v|you3=have .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|you3=have .
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	一 天 晚上 , 猫 妈妈 跟 小 猫咪 说 +"/.
+%mor:	num|yi1=one cl|tian1 n|wan3shang4=evening cm|cm n|mao1=pussycat
+	n:relat|ma1&DIM=mother prep|gen1=with adj|xiao3=small
+	n|mao1mi1=kitty v|shuo1=say +"/.
+%gra:	1|2|QUANT 2|3|CLASS 3|10|JCT 4|10|LP 5|6|MOD 6|10|SUBJ 7|10|JCT 8|9|MOD
+	9|7|PREPO 10|0|ROOT 11|10|PUNCT
+%trn:	num|yi1=one cl|tian1 n|wan3shang4=evening cm|cm n|mao1=pussycat
+	n:relat|ma1&DIM=mother prep|gen1=with adj|xiao3=small
+	n|mao1mi1=kitty v|shuo1=say +"/.
+%grt:	1|2|QUANT 2|3|CLASS 3|10|JCT 4|10|LP 5|6|MOD 6|10|SUBJ 7|10|JCT
+	8|9|MOD 9|7|PREPO 10|0|ROOT 11|10|PUNCT
+*CHI:	+" 你 如果 不 吃 新的 食物 , 那 你 今天 就 不 要 吃 饭 .
+%mor:	pro:per|ni3=you conj|ru2guo3=if adv|bu4=not v|chi1=eat
+	adj|xin1-ISH=new n|shi2wu4=food cm|cm conj|na4=so pro:per|ni3=you
+	n:tm|jin1tian1=today adv|jiu4=just adv|bu4=not v:aux|yao4=should
+	v|chi1=eat n|fan4=food .
+%gra:	1|4|SUBJ 2|4|LINK 3|4|JCT 4|14|CJCT 5|6|MOD 6|4|OBJ 7|14|LP 8|14|LINK
+	9|14|SUBJ 10|14|JCT 11|14|JCT 12|13|JCT 13|14|AUX 14|0|ROOT 15|14|OBJ
+	16|14|PUNCT
+%trn:	pro:per|ni3=you conj|ru2guo3=if adv|bu4=not v|chi1=eat
+	adj|xin1-ISH=new n|shi2wu4=food cm|cm conj|na4=so pro:per|ni3=you
+	n:tm|jin1tian1=today adv|jiu4=just adv|bu4=not v:aux|yao4=should
+	v|chi1=eat n|fan4=food .
+%grt:	1|4|SUBJ 2|4|LINK 3|4|JCT 4|14|CJCT 5|6|MOD 6|4|OBJ 7|14|LP 8|14|LINK
+	9|14|SUBJ 10|14|JCT 11|14|JCT 12|13|JCT 13|14|AUX 14|0|ROOT
+	15|14|OBJ 16|14|PUNCT
+*CHI:	那 (..) 小 猫 就 说 +"/.
+%mor:	det|na4=that adj|xiao3=small n|mao1=pussycat adv|jiu4=just
+	v|shuo1=say +"/.
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	det|na4=that adj|xiao3=small n|mao1=pussycat adv|jiu4=just
+	v|shuo1=say +"/.
+%grt:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	+" 那 [//] 可是 这 是 我 的 家 .
+%mor:	conj|ke3shi4=but pro:dem|zhe4=this v:cop|shi4=is pro:per|wo3=I
+	poss|de n|jia1=family .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|PRED 7|3|PUNCT
+%trn:	conj|ke3shi4=but pro:dem|zhe4=this v:cop|shi4=is pro:per|wo3=I poss|de
+	n|jia1=family .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|PRED 7|3|PUNCT
+*CHI:	+" 我 想 怎么样 就 怎么样 .
+%mor:	pro:per|wo3=I v|xiang3=think adv:wh|zen2meyang4=how adv|jiu4=just
+	adv:wh|zen2meyang4=how .
+%gra:	1|2|SUBJ 2|5|CJCT 3|2|COBJ 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+%trn:	pro:per|wo3=I v|xiang3=think adv:wh|zen2meyang4=how adv|jiu4=just
+	adv:wh|zen2meyang4=how .
+%grt:	1|2|SUBJ 2|5|CJCT 3|2|COBJ 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+*CHI:	是 .
+%mor:	v:cop|shi4=is .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v:cop|shi4=is .
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	就 像 小 猪 佩奇 家 .
+%mor:	adv|jiu4=just v|xiang4=be_like adj|xiao3=small n|zhu1=pig
+	n:prop|pei4qi2=Peppa_pig n|jia1=family .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|6|MOD 5|4|APP 6|2|OBJ 7|2|PUNCT
+%trn:	adv|jiu4=just v|xiang4=be_like adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	n|jia1=family .
+%grt:	1|2|JCT 2|0|ROOT 3|4|MOD 4|6|MOD 5|4|APP 6|2|OBJ 7|2|PUNCT
+*CHI:	别人 不 一定 会 按照 你 喜欢 的 方式 来 做 .
+%mor:	pro:per|bie2ren2=others adv|bu4=not adv|yi1ding4=definitely
+	v:aux|hui4=will prep|an4zhao4=according_to pro:per|ni3=you
+	v|xi3huan1=like cleft|de n|fang1shi4=fashion v:dirc|lai2=come
+	v|zuo4=make .
+%gra:	1|10|SUBJ 2|3|JCT 3|10|JCT 4|10|AUX 5|10|JCT 6|7|SUBJ 7|9|CMOD 8|7|LINK
+	9|5|PREPO 10|0|ROOT 11|10|SRL 12|10|PUNCT
+%trn:	pro:per|bie2ren2=others adv|bu4=not adv|yi1ding4=definitely
+	v:aux|hui4=will prep|an4zhao4=according_to pro:per|ni3=you
+	v|xi3huan1=like cleft|de n|fang1shi4=fashion v:dirc|lai2=come
+	v|zuo4=make .
+%grt:	1|10|SUBJ 2|3|JCT 3|10|JCT 4|10|AUX 5|10|JCT 6|7|SUBJ 7|9|CMOD
+	8|7|LINK 9|5|PREPO 10|0|ROOT 11|10|SRL 12|10|PUNCT
+*CHI:	那 难道 自己 就 不 应该 改变 一下 吗 ?
+%mor:	conj|na4=so adv|nan2dao4=surely_you_dont_think_that
+	pro:per|zi4ji3=self adv|jiu4=just adv|bu4=not v:aux|ying1gai1=should
+	v|gai3bian4=change adv|yi1xia4=suddenly sfp|ma ?
+%gra:	1|7|JCT 2|7|JCT 3|7|SUBJ 4|7|JCT 5|6|JCT 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|SFP 10|7|PUNCT
+%trn:	conj|na4=so adv|nan2dao4=surely_you_dont_think_that
+	pro:per|zi4ji3=self adv|jiu4=just adv|bu4=not v:aux|ying1gai1=should
+	v|gai3bian4=change adv|yi1xia4=suddenly sfp|ma ?
+%grt:	1|7|JCT 2|7|JCT 3|7|SUBJ 4|7|JCT 5|6|JCT 6|7|AUX 7|0|ROOT
+	8|7|JCT 9|7|SFP 10|7|PUNCT
+*CHI:	小 猫 觉得 别人 是 应该 给 它 煮 它 自己 喜欢 吃 的 .
+%mor:	adj|xiao3=small n|mao1=pussycat v|jue2de=think
+	pro:per|bie2ren2=others v:cop|shi4=is v:aux|ying1gai1=should
+	prep|gei3=for pro:per|ta1=it v|zhu3=boil pro:per|ta1=it
+	pro:per|zi4ji3=self v|xi3huan1=like v|chi1=eat cleft|de .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|9|AUX 7|9|JCT 8|7|PREPO
+	9|5|CPRED 10|12|SUBJ 11|10|APP 12|9|COBJ 13|12|COBJ 14|12|LINK 15|3|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat v|jue2de=think
+	pro:per|bie2ren2=others v:cop|shi4=is v:aux|ying1gai1=should
+	prep|gei3=for pro:per|ta1=it v|zhu3=boil pro:per|ta1=it pro:per|zi4ji3=self
+	v|xi3huan1=like v|chi1=eat cleft|de .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|9|AUX 7|9|JCT
+	8|7|PREPO 9|5|CPRED 10|12|SUBJ 11|10|APP 12|9|COBJ 13|12|COBJ
+	14|12|LINK 15|3|PUNCT
+*CHI:	有 一 天 .
+%mor:	v|you3=have num|yi1=one cl|tian1 .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%trn:	v|you3=have num|yi1=one cl|tian1 .
+%grt:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*CHI:	猪 妈妈 说 +"/.
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" 小 猪 佩奇 ‡ 你 今天 要 过 生日 了 .
+%mor:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig beg|beg
+	pro:per|ni3=you n:tm|jin1tian1=today v:aux|yao4=should
+	v:dirc|guo4=pass n|sheng1ri4=birthday asp|le .
+%gra:	1|2|MOD 2|0|BEG 3|2|APP 4|2|BEGP 5|8|SUBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|8|PUNCT
+%trn:	adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig beg|beg pro:per|ni3=you
+	n:tm|jin1tian1=today v:aux|yao4=should v:dirc|guo4=pass
+	n|sheng1ri4=birthday asp|le .
+%grt:	1|2|MOD 2|0|BEG 3|2|APP 4|2|BEGP 5|8|SUBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|8|PUNCT
+*CHI:	要 买 一 个 完美的 蛋糕 .
+%mor:	v:aux|yao4=should v|mai3=buy num|yi1=one cl|ge4
+	adj|wan2mei3-ISH=perfect n|dan4gao1=cake .
+%gra:	1|2|AUX 2|0|ROOT 3|4|QUANT 4|6|CLASS 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%trn:	v:aux|yao4=should v|mai3=buy num|yi1=one cl|ge4
+	adj|wan2mei3-ISH=perfect n|dan4gao1=cake .
+%grt:	1|2|AUX 2|0|ROOT 3|4|QUANT 4|6|CLASS 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*CHI:	+" 你 要不要 请 小 猫 啊 ?
+%mor:	pro:per|ni3=you v:aux|yao4&DIM=should v|qing3=request
+	adj|xiao3=small n|mao1=pussycat sfp|a1 ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|SFP 7|3|PUNCT
+%trn:	pro:per|ni3=you v:aux|yao4&DIM=should v|qing3=request
+	adj|xiao3=small n|mao1=pussycat sfp|a1 ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|SFP 7|3|PUNCT
+*CHI:	猪 妈妈 说 +"/.
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	n|zhu1=pig n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	如果 你 请 了 小 猫 , 我 觉得 它 就 会 吃 新的 食物 .
+%mor:	conj|ru2guo3=if pro:per|ni3=you v|qing3=request asp|le
+	adj|xiao3=small n|mao1=pussycat cm|cm pro:per|wo3=I v|jue2de=think
+	pro:per|ta1=it adv|jiu4=just v:aux|hui4=will v|chi1=eat
+	adj|xin1-ISH=new n|shi2wu4=food .
+%gra:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|3|JCT 5|6|MOD 6|3|OBJ 7|9|LP 8|9|SUBJ
+	9|0|ROOT 10|13|SUBJ 11|13|JCT 12|13|AUX 13|9|COBJ 14|15|MOD 15|13|OBJ
+	16|9|PUNCT
+%trn:	conj|ru2guo3=if pro:per|ni3=you v|qing3=request asp|le adj|xiao3=small
+	n|mao1=pussycat cm|cm pro:per|wo3=I v|jue2de=think pro:per|ta1=it
+	adv|jiu4=just v:aux|hui4=will v|chi1=eat adj|xin1-ISH=new
+	n|shi2wu4=food .
+%grt:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|3|JCT 5|6|MOD 6|3|OBJ 7|9|LP 8|9|SUBJ
+	9|0|ROOT 10|13|SUBJ 11|13|JCT 12|13|AUX 13|9|COBJ 14|15|MOD
+	15|13|OBJ 16|9|PUNCT
+*CHI:	一 天 晚上 猪 妈妈 邀请 了 小 猫 和 它 的 妈妈 一起 来 到 了 小 猪 佩奇 的 家 .
+%mor:	num|yi1=one cl|tian1 n|wan3shang4=evening n|zhu1=pig
+	n:relat|ma1&DIM=mother v|yao1qing3=invite asp|le adj|xiao3=small
+	n|mao1=pussycat conj|he2=and pro:per|ta1=it poss|de
+	n:relat|ma1&DIM=mother adv|yi1qi3=together v:dirc|lai2=come
+	v:resc|dao4=arrive asp|le adj|xiao3=small n|zhu1=pig
+	n:prop|pei4qi2=Peppa_pig poss|de n|jia1=family .
+%gra:	1|2|QUANT 2|6|JCT 3|6|JCT 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|6|OBJ 10|9|CONJ 11|13|MOD 12|11|POSS 13|10|COORD 14|15|JCT 15|6|SRL
+	16|15|VR 17|15|JCT 18|19|MOD 19|22|MOD 20|19|APP 21|19|POSS 22|15|OBJ
+	23|6|PUNCT
+%trn:	num|yi1=one cl|tian1 n|wan3shang4=evening n|zhu1=pig
+	n:relat|ma1&DIM=mother v|yao1qing3=invite asp|le adj|xiao3=small
+	n|mao1=pussycat conj|he2=and pro:per|ta1=it poss|de
+	n:relat|ma1&DIM=mother adv|yi1qi3=together v:dirc|lai2=come
+	v:resc|dao4=arrive asp|le adj|xiao3=small n|zhu1=pig n:prop|pei4qi2=Peppa_pig
+	poss|de n|jia1=family .
+%grt:	1|2|QUANT 2|6|JCT 3|6|JCT 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|JCT
+	8|9|MOD 9|6|OBJ 10|9|CONJ 11|13|MOD 12|11|POSS 13|10|COORD
+	14|15|JCT 15|6|SRL 16|15|VR 17|15|JCT 18|19|MOD 19|22|MOD
+	20|19|APP 21|19|POSS 22|15|OBJ 23|6|PUNCT
+*CHI:	小 猫 说 +"/.
+%mor:	adj|xiao3=small n|mao1=pussycat v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	你们 家 虽然 没 有 鱼 , 我 可以 吃 别的 菜 .
+%mor:	pro:per|ni3-PL=you cl|jia1 conj|sui1ran2=though adv|mei2=not
+	v|you3=have n|yu2=fish cm|cm pro:per|wo3=I v:aux|ke3yi3=may
+	v|chi1=eat adj|bie2de=other n|cai4=food .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|LINK 4|5|JCT 5|10|CJCT 6|5|OBJ 7|10|LP 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|12|MOD 12|10|OBJ 13|10|PUNCT
+%trn:	pro:per|ni3-PL=you cl|jia1 conj|sui1ran2=though adv|mei2=not
+	v|you3=have n|yu2=fish cm|cm pro:per|wo3=I v:aux|ke3yi3=may v|chi1=eat
+	adj|bie2de=other n|cai4=food .
+%grt:	1|2|MOD 2|5|SUBJ 3|5|LINK 4|5|JCT 5|10|CJCT 6|5|OBJ 7|10|LP
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|12|MOD 12|10|OBJ 13|10|PUNCT
+*CHI:	胡萝卜 .
+%mor:	n|hu2luo2bo=carrot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	n|hu2luo2bo=carrot .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	很 好 .
+%mor:	adv|hen3=much adj|hao3=good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adv|hen3=much adj|hao3=good .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	吃 别的 菜 也 是 挺 好 .
+%mor:	v|chi1=eat adj|bie2de=other n|cai4=food adv|ye3=also v:cop|shi4=is
+	adv|ting3=very adj|hao3=good .
+%gra:	1|5|CSUBJ 2|3|MOD 3|1|OBJ 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+%trn:	v|chi1=eat adj|bie2de=other n|cai4=food adv|ye3=also
+	v:cop|shi4=is adv|ting3=very adj|hao3=good .
+%grt:	1|5|CSUBJ 2|3|MOD 3|1|OBJ 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*CHI:	更 好 .
+%mor:	adv|geng4=more adj|hao3=good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adv|geng4=more adj|hao3=good .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	小 猫 回 家 跟 妈妈 说 +"/.
+%mor:	adj|xiao3=small n|mao1=pussycat v:dirc|hui2=back n|jia1=family
+	prep|gen1=with n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|JCT 6|5|PREPO 7|3|SRL 8|3|PUNCT
+%trn:	adj|xiao3=small n|mao1=pussycat v:dirc|hui2=back n|jia1=family
+	prep|gen1=with n:relat|ma1&DIM=mother v|shuo1=say +"/.
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|JCT 6|5|PREPO 7|3|SRL
+	8|3|PUNCT
+*CHI:	妈妈 ‡ 我 以后 不 要 经常 吃 鱼 .[+ sub][+ bln]
+%mor:	n:relat|ma1&DIM=mother beg|beg pro:per|wo3=I
+	post|yi3hou4=afterwards adv|bu4=not v:aux|yao4=should
+	adv|jing1chang2=daily v|chi1=eat n|yu2=fish .
+%gra:	1|0|BEG 2|1|BEGP 3|8|SUBJ 4|8|JCT 5|6|JCT 6|8|AUX 7|8|JCT 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+%trn:	n:relat|ma1&DIM=mother beg|beg pro:per|wo3=I post|yi3hou4=afterwards
+	adv|bu4=not v:aux|yao4=should adv|jing1chang2=daily v|chi1=eat
+	n|yu2=fish .
+%grt:	1|0|BEG 2|1|BEGP 3|8|SUBJ 4|8|JCT 5|6|JCT 6|8|AUX 7|8|JCT 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*CHI:	我 要 经常 吃 别的 菜 .
+%mor:	pro:per|wo3=I v:aux|yao4=should adv|jing1chang2=daily v|chi1=eat
+	adj|bie2de=other n|cai4=food .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%trn:	pro:per|wo3=I v:aux|yao4=should adv|jing1chang2=daily v|chi1=eat
+	adj|bie2de=other n|cai4=food .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*CHI:	更 好 .
+%mor:	adv|geng4=more adj|hao3=good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adv|geng4=more adj|hao3=good .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	更加的 强壮 .
+%mor:	adj|geng4jia1-ISH=more adj|qiang2zhuang4=strong .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adj|geng4jia1-ISH=more adj|qiang2zhuang4=strong .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	嗯 .
+%mor:	co|en1=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|en1=okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	就 更 快 .
+%mor:	adv|jiu4=just adv|geng4=more adj|kuai4=quick .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%trn:	adv|jiu4=just adv|geng4=more adj|kuai4=quick .
+%grt:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	老鼠 .
+%mor:	n|lao3shu3=mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	n|lao3shu3=mouse .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	更 亮 .
+%mor:	adv|geng4=more adj|liang4=bright .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adv|geng4=more adj|liang4=bright .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	最 强壮 .
+%mor:	adv|zui4=most adj|qiang2zhuang4=strong .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adv|zui4=most adj|qiang2zhuang4=strong .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	最 会 抓 老鼠 .
+%mor:	adv|zui4=most v:aux|hui4=will v|zhua1=catch n|lao3shu3=mouse .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%trn:	adv|zui4=most v:aux|hui4=will v|zhua1=catch n|lao3shu3=mouse .
+%grt:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	小 猫咪 .
+%mor:	adj|xiao3=small n|mao1mi1=kitty .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%trn:	adj|xiao3=small n|mao1mi1=kitty .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	愿望 .
+%mor:	n|yuan4wang4=wish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	n|yuan4wang4=wish .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	对不起 ‡ 我 以前 不 知道 在 别人 家 里 就 要 吃 别人 煮 的 东西 .
+%mor:	co:int|dui4bu4qi3=sorry beg|beg pro:per|wo3=I
+	post|yi3qian2=formerly adv|bu4=not v|zhi1dao4=know prep|zai4=at
+	pro:per|bie2ren2=others n|jia1=family post|li3=inside adv|jiu4=just
+	v:aux|yao4=should v|chi1=eat pro:per|bie2ren2=others v|zhu3=boil
+	cleft|de n|dong1xi=thing .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|13|JCT 8|9|MOD
+	9|10|POSTO 10|7|JCT 11|13|JCT 12|13|AUX 13|6|COBJ 14|15|SUBJ 15|17|CMOD
+	16|15|LINK 17|13|OBJ 18|6|PUNCT
+%trn:	co:int|dui4bu4qi3=sorry beg|beg pro:per|wo3=I post|yi3qian2=formerly
+	adv|bu4=not v|zhi1dao4=know prep|zai4=at pro:per|bie2ren2=others
+	n|jia1=family post|li3=inside adv|jiu4=just v:aux|yao4=should
+	v|chi1=eat pro:per|bie2ren2=others v|zhu3=boil cleft|de
+	n|dong1xi=thing .
+%grt:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|13|JCT 8|9|MOD
+	9|10|POSTO 10|7|JCT 11|13|JCT 12|13|AUX 13|6|COBJ 14|15|SUBJ
+	15|17|CMOD 16|15|LINK 17|13|OBJ 18|6|PUNCT
+*CHI:	尝试 新的 口味 .
+%mor:	v|chang2shi4=attempt adj|xin1-ISH=new n|kou3wei4=taste .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%trn:	v|chang2shi4=attempt adj|xin1-ISH=new n|kou3wei4=taste .
+%grt:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	更 开心 .
+%mor:	adv|geng4=more adj|kai1xin1=happy .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adv|geng4=more adj|kai1xin1=happy .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	讲 完 了 .
+%mor:	v|jiang3=say v:resc|wan2=finish asp|le .
+%gra:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|PUNCT
+%trn:	v|jiang3=say v:resc|wan2=finish asp|le .
+%grt:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|PUNCT
+@End

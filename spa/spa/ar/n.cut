@@ -1,0 +1,721 @@
+@UTF8
+@Window:	0_1206_770_1024_-1_-1_16297_0_16297_0
+% ****************
+% JUST ONE RULE FOR ON
+% ****************
+
+RULENAME:	on-duplication
+LEX-ENTRY:
+LEXSURF = $X
+LEXCAT = [scat on]
+ALLO:
+ALLOSURF = $X
+ALLOCAT = LEXCAT, ADD [allo n0]
+ALLO:
+ALLOSURF = $X_$X
+ALLOCAT = LEXCAT, ADD [allo n0], ADD [gen DUP]
+
+% ****************
+% GENDER DERIVATION FOR ANIM NOUNS
+% ****************
+
+RULENAME:  n-foreign
+LEX-ENTRY:
+LEXSURF =  $X	  				  % gay
+LEXCAT = [scat n], [pl s]
+ALLO:
+ALLOSURF = $X					% gay
+ALLOCAT = LEXCAT
+ALLO:
+ALLOSURF = $X					% gays
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [a 0]
+
+RULENAME:  n-anim-go
+LEX-ENTRY:
+LEXSURF =  $Xgo					% amigo
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = $Xg					% amigo
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xg					% amiga
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xgu					% amiguito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xgu					% amiguita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen f], ADD [a 0]
+
+RULENAME:  n-anim-co
+LEX-ENTRY:
+LEXSURF =  $Xco					% muñeco
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = $Xc					% muñeco
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xc					% muñeca
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xqu					% muñequito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xqu					% muñequita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xc					% muñecoto
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xc					% muñecota
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen f], ADD [a 0]
+
+RULENAME:  n-anim-uo
+LEX-ENTRY:
+LEXSURF =  $Xuo					% monstruo
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = $Xu					% monstruo
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xu					% monstrua
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xu					% monstruito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xu					% monstruita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen f], ADD [a 0]
+
+RULENAME:  n-anim-io
+LEX-ENTRY:
+LEXSURF =  $Xio					  % rubio
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = $Xi					% rubio
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xi			 		% rubia
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X					% rubita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X			 		% rubios
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen m], ADD [a 0]
+
+RULENAME:  n-anim-o-long
+LEX-ENTRY:
+LEXSURF =  $X$L$Yo				% pájaro
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = $X$L$Y				% pájaro
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X$L$Y				% pájara
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<L$Y				% pajarito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<L$Y				% pajarita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen f], ADD [a 0]
+
+RULENAME:  n-anim-other-o
+LEX-ENTRY:
+LEXSURF =  $Xo					% gato
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = $X			 		% gato
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X				     % gata
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X					% gatito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X					% gatita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [gen f], ADD [a 0]
+
+RULENAME:  n-anim-és
+LEX-ENTRY:
+LEXSURF =  $Xés					% francés
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF			 % francés
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xes					% franceses
+ALLOCAT = LEXCAT, ADD [allo pl-es], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xesa				% francesa
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f]
+
+RULENAME:  n-anim-long-n
+LEX-ENTRY:
+LEXSURF =  $X$Ln					% tragón
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF				% tragón
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $X$S<Lnc				% tragoncillo
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF =  $X$S<Ln				% tragones
+ALLOCAT = LEXCAT, ADD [allo pl-es], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<Ln 				% tragona
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f], ADD [a 0]
+
+RULENAME:  n-anim-te
+LEX-ENTRY:
+LEXSURF =  $Xte						% elefante elefanta  cliente clienta
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF				% elefante
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xta						% elefanta
+ALLOCAT = LEXCAT, ADD [gen f]
+ALLO:
+ALLOSURF = $Xt						% elefantito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo dim], ADD [a 0]
+
+RULENAME:  n-anim-default
+LEX-ENTRY:
+LEXSURF =  $X					% registrador
+LEXCAT = [scat n], [anim yes]
+ALLO:
+ALLOSURF = LEXSURF				% registrador
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = LEXSURF					% registradores
+ALLOCAT = LEXCAT, ADD [allo pl-es], ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF				% registradora
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [gen f], ADD [a 0]
+
+
+% ****************
+% REGULAR NOUNS  /  MASC FIRST  / FEM SECOND
+% ****************
+
+RULENAME:   n-masc-foreign
+LEX-ENTRY:
+LEXSURF =  $X			% jersey
+LEXCAT = [scat n], [gen m], [allo for]
+ALLO:
+ALLOSURF = $X			% jerseys
+ALLOCAT = LEXCAT, ADD [allo pl-s], DEL [allo], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% jersey
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-co
+LEX-ENTRY:
+LEXSURF =  $Xco				% taco
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $Xqu				% taquito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% tacos
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% taco
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-io
+LEX-ENTRY:
+LEXSURF =  $Xio				% columpio
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X     			% columpito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $Xi    			% columpión
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% columpios
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% columpio
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-zo
+LEX-ENTRY:
+LEXSURF =  $Xz$S
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $Xc			% bracito
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo dim], DEL [dim no]
+ALLO:
+ALLOSURF = LEXSURF		% brazos
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-camión
+LEX-ENTRY:
+LEXSURF =  $X$Ln			% camión, billón, balón
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X$S<Ln		  % camiones
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es]
+ALLO:
+ALLOSURF = $X$S<Ln		  % balonazo
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo dim]
+ALLO:
+ALLOSURF = $X$S<Lnc			% camioncito
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo dim]
+ALLO:
+ALLOSURF = LEXSURF		% camión
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-go
+LEX-ENTRY:
+LEXSURF =  $Xgo					% jugo
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $Xgo					% jugo
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xgu					% juguito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% hombre
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-e
+LEX-ENTRY:
+LEXSURF =  $Xe			% hombre
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X			% hombrito, hombrón
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% hombres
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% hombre
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-long-z1
+LEX-ENTRY:
+LEXSURF =  $X$L$C$Sz 		% lápiz
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X$S<L$C$Sc		% lapic-ito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<L$C$Sc		% lápiz
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es]
+ALLO:
+ALLOSURF = LEXSURF			% lápiz
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-long-z2
+LEX-ENTRY:
+LEXSURF =  $X$Lz 		% maíz
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X$S<Lc		% maic-ito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<Lc		% maices
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es]
+ALLO:
+ALLOSURF = LEXSURF			% maíz
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-short-z
+LEX-ENTRY:
+LEXSURF =  $X$Sz 			% avestruz, coz
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X$Sc			% avestrucito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $X$Sc			% avestruces
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es], ADD [no ngen]
+ALLO:
+ALLOSURF = LEXSURF			% avestruz
+ALLOCAT = LEXCAT
+
+RULENAME:   n-underscore
+LEX-ENTRY:
+LEXSURF = $X_$Y
+LEXCAT = [scat n]
+ALLO:
+ALLOSURF = $X_$Y
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+
+RULENAME:   n-masc-long-consonant
+LEX-ENTRY:
+LEXSURF =  $X$L$C		% calcetín
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X$S<L$Cc	% calcetincito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<L$C	% calcetines
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es]
+ALLO:
+ALLOSURF = LEXSURF		% calcetín
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-long-o
+LEX-ENTRY:
+LEXSURF =  $X$L$Yo		% pájaro
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X$S<L$Y		% pajarito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% pájaros
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% pájaro
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-long-final-i
+LEX-ENTRY:
+LEXSURF =  $Xí			% esquí, mocoví
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $Xi			% esquicito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% esquís
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% esquí
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-long-final-vowel
+LEX-ENTRY:
+LEXSURF =  $X$L			% papá, bebé
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X$S<L		% papacito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% papás
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% papá
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-a
+LEX-ENTRY:
+LEXSURF =  $Xa				% gorila
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X				% gorilón
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% días
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% día
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-long-u
+LEX-ENTRY:
+LEXSURF =  $X$L$Yu 		% espíritu
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = LEXSURF		% espiritus
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% espíritu
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-long-other
+LEX-ENTRY:
+LEXSURF =  $X$L$Y		% árbol
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X$S<L$Y		% arbol-ito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $X$L$Ye		% árboles
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% árbol
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-vowel
+LEX-ENTRY:
+LEXSURF =  $X$S			% gato
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = $X			% gatito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% gatos
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% gato
+ALLOCAT = LEXCAT
+
+RULENAME:   n-masc-consonant-shift
+LEX-ENTRY:
+LEXSURF =  $X$S$Cen			% aborigen
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = LEXSURF		% aborigenito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $X$L<S$Cen		% aborígenes
+ALLOCAT = LEXCAT, ADD [allo pl-es], ADD [a 0], ADD [no ngen]
+ALLO:
+ALLOSURF = LEXSURF	      % aborigen
+ALLOCAT = LEXCAT, ADD [no ngen]
+
+RULENAME:   n-masc-consonant
+LEX-ENTRY:
+LEXSURF =  $X$C			% pañal, pin
+LEXCAT = [scat n], [gen m]
+ALLO:
+ALLOSURF = LEXSURF		% pañalito
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [no ngena 0]
+ALLO:
+ALLOSURF = LEXSURF		% pañales
+ALLOCAT = LEXCAT, ADD [allo pl-es], ADD [a 0], ADD [no ngen]
+ALLO:
+ALLOSURF = LEXSURF	      % pañal
+ALLOCAT = LEXCAT, ADD [no ngen]
+
+%%%%%%%%%
+%   FEMININES
+%%%%%%%%%
+
+RULENAME:   n-fem-o
+LEX-ENTRY:
+LEXSURF =  $Xo			% mano
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $X			% manitas
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% manos
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% mano
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-gua
+LEX-ENTRY:
+LEXSURF =  $Xgua		% agua
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $Xgü			% agüita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $Xgua		% aguas
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF			% agua
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-música
+LEX-ENTRY:
+LEXSURF =  $X$L$Yca			% música
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $X$S<L$Yqu			% musiquita
+ALLOCAT = LEXCAT, ADD [allo dim],  ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF			% músicas
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+
+RULENAME:   n-fem-lágrima
+LEX-ENTRY:
+LEXSURF =  $X$L$Ya		% lágrima
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $X$S<L$Y		% lagrimita
+ALLOCAT = LEXCAT, ADD [allo dim],  ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% lágrimas
+ALLOCAT = LEXCAT, ADD [allo pl-s], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% lágrima
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-canción
+LEX-ENTRY:
+LEXSURF =  $Xón			 % canción
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $Xonc		% cancioncita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $Xon			%  canciones
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es]
+ALLO:
+ALLOSURF = LEXSURF		% canción
+
+RULENAME:   n-fem-final-z
+LEX-ENTRY:
+LEXSURF =  $X$Vz 		% nariz, raíz
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $X$Vc		% naricita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF	  % narizota
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $X$Vc		% narices
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es]
+ALLO:
+ALLOSURF = LEXSURF		% nariz
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-ca
+LEX-ENTRY:
+LEXSURF =  $Xca			% boca
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $Xqu			% boquita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $Xc			% roscón
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% bocas
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+
+RULENAME:   n-fem-ga
+LEX-ENTRY:
+LEXSURF =  $X$Sga					% barriga, tortuga
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $X$Sgu				% barriguita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = $X$Sg				% tortugona
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF   			% barrigas
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		  	    % barriga
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-za
+LEX-ENTRY:
+LEXSURF =  $Xza		% cabeza, pieza
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $Xc		% cabecita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [block on], ADD [a 0]
+ALLO:
+ALLOSURF = $Xz		% cabezón
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% cabezas
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% cabeza
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-a
+LEX-ENTRY:
+LEXSURF =  $Xa			% gata
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $X			% gatita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% gatas
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% gata
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-á
+LEX-ENTRY:
+LEXSURF =  $X$V			% mamá
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $X			 % mamita
+ALLOCAT = LEXCAT, ADD [allo dim], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF	  % mamás
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% mamá
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-long-penultimate
+LEX-ENTRY:
+LEXSURF =  $X$L$Y		% cárcel
+LEXCAT = [scat n], [gen f], [long pen]
+ALLO:
+ALLOSURF = $X$L$Y		% cárceles
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es]
+ALLO:
+ALLOSURF = LEXSURF		% cárcel
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-long-final
+LEX-ENTRY:
+LEXSURF =  $X$L$Y		% sartén
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = $X$S<L$Y		% sartenes
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es]
+ALLO:
+ALLOSURF = LEXSURF		% sartén
+ALLOCAT = LEXCAT
+
+RULENAME:   n-fem-consonant
+LEX-ENTRY:
+LEXSURF =  $X$C			% señal, tos, sal
+LEXCAT = [scat n], [gen f]
+ALLO:
+ALLOSURF = LEXSURF		% señales
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo pl-es], ADD [no ngen]
+ALLO:
+ALLOSURF = LEXSURF		% tosecito
+ALLOCAT = LEXCAT, ADD [a 0], ADD [allo dim]
+ALLO:
+ALLOSURF = LEXSURF		% señal
+ALLOCAT = LEXCAT, ADD [no ngen]
+
+RULENAME:   n-com
+LEX-ENTRY:
+LEXSURF =  $X 			    		% accionista
+LEXCAT = [scat n], [gen com]
+ALLO:
+ALLOSURF = LEXSURF			   % accionista
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+
+RULENAME:	on-duplication
+LEX-ENTRY:
+LEXSURF = $X
+LEXCAT = [scat on]
+ALLO:
+ALLOSURF = $X
+ALLOCAT = LEXCAT, ADD [allo n0]
+ALLO:
+ALLOSURF = $X_$X
+ALLOCAT = LEXCAT, ADD [allo n0], ADD [gen DUP]
+
+RULENAME:	n-duplication
+LEX-ENTRY:
+LEXSURF = $X
+LEXCAT = [scat OR adj n], [allo dup]
+ALLO:
+ALLOSURF = $X
+ALLOCAT = LEXCAT, ADD [allo n0]
+ALLO:
+ALLOSURF = $X_$X
+ALLOCAT = LEXCAT, ADD [allo n0], ADD [gen DUP]
+

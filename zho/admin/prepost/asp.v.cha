@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+*INV:	没 了 哦 .
+%mor:	adv|mei2=not asp|le sfp|o1 .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|SFP 4|1|PUNCT
+*INV:	他们 最后 找 到 小 青蛙 了 吗 ? 185104_188842
+%mor:	pro:per|ta1-PL=he adv|zui4hou4=finally v|zhao3=search
+	v:resc|dao4=arrive adj|xiao3=small n|qing1wa1=frog asp|le sfp|ma ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|VR 5|6|MOD 6|3|OBJ 7|3|JCT 8|3|SFP
+	9|3|PUNCT
+*CHI:	这 件 事 就 这么 了 了 .
+%mor:	pro:dem|zhe4=this cl|jian4 n|shi4=thing adv|jiu4=just
+	adv|zhe4me=like_this v|liao3=finish asp|le .
+%gra:	1|3|DET 2|3|CLASS 3|6|SUBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|JCT 8|6|PUNCT

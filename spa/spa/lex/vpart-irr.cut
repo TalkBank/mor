@@ -1,0 +1,17 @@
+@UTF8
+@Window:	85_1361_1163_779_-1_-1_725_0_725_0
+abierto {[scat part][allo irr]} "abri-PPART" =open=
+descubierto {[scat part][allo irr]} "descubri-PPART" =open=
+dicho {[scat part][allo irr]} "deci-PPART" =say=
+escrito {[scat part][allo irr]} "hace-PPART" =write=
+prescrito {[scat part][allo irr]} "prescribi-PPART" =prescribed=
+frito {[scat part][allo irr]} "hace-PPART" =fry=
+ido {[scat part][allo irr]} "i-PPART" =go=
+hecho {[scat part][allo irr]} "hace-PPART" =do=
+puesto {[scat part][allo irr]} "pone-PPART" =put=
+muerto {[scat part][allo irr]} "mori-PPART" =die=
+roto {[scat part][allo irr]} "rompe-PPART" =break=
+visto {[scat part][allo irr]} "ve-PPART" =see=
+vuelto {[scat part][allo irr]} "volve-PPART" =turn=
+riñendo {[scat part][allo irr]} "reñi-PRPART" =quarrel=
+

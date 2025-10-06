@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	leo .
+%mor:	v|lee-1S&PRES=read .
+*T:	lees .
+%mor:	v|lee-2S&PRES=read .
+*T:	lee .
+%mor:	imp|lee-2S&IMP=read .
+*T:	leemos .
+%mor:	v|lee-1P&PRES=read .
+*T:	leéis .
+%mor:	v|lee-2P&PRES=read .
+*T:	leen .
+%mor:	v|lee-3P&PRES=read .
+@Blank
+*T:	leía .
+%mor:	v|lee-13S&PAS=read .
+*T:	leías .
+%mor:	v|lee-2S&PAS=read .
+*T:	leía .
+%mor:	v|lee-13S&PAS=read .
+*T:	leíamos .
+%mor:	v|lee-1P&PAS=read .
+*T:	leíais .
+%mor:	v|lee-2P&PAS=read .
+*T:	leían .
+%mor:	v|lee-3P&PAS=read .
+@Blank
+*T:	leí .
+%mor:	v|lee-1S&PRET=read .
+*T:	leíste .
+%mor:	v|lee-2S&PRET=read .
+*T:	leyó .
+%mor:	v|lee-3S&PRET=read .
+*T:	leímos .
+%mor:	v|lee-1P&PRES=read .
+*T:	leísteis .
+%mor:	v|lee-2P&PRET=read .
+*T:	leyeron .
+%mor:	v|lee-3P&PRET=read .
+@Blank
+*T:	leeré .
+%mor:	v|lee-1S&FUT=read .
+*T:	leerás .
+%mor:	v|lee-2S&FUT=read .
+*T:	leerá .
+%mor:	v|lee-3S&FUT=read .
+*T:	leeremos .
+%mor:	v|lee-1P&FUT=read .
+*T:	leeréis .
+%mor:	v|lee-2P&FUT=read .
+*T:	leerán .
+%mor:	v|lee-3P&FUT=read .
+@Blank
+*T:	lea .
+%mor:	imp|lee-3S&IMP=read .
+*T:	leas .
+%mor:	v|lee-2S&SUB&PRES=read .
+*T:	lea .
+%mor:	imp|lee-3S&IMP=read .
+*T:	leamos .
+%mor:	imp|lee-1P&IMP=read .
+*T:	leáis .
+%mor:	v|lee-2P&SUB&PRES=read .
+*T:	lean .
+%mor:	imp|lee-3P&IMP=read .
+@Blank
+*T:	leyera .
+%mor:	v|lee-13S&SUB&PAS=read .
+*T:	leyeras .
+%mor:	v|lee-2S&SUB&PAS=read .
+*T:	leyera .
+%mor:	v|lee-13S&SUB&PAS=read .
+*T:	leyéramos .
+%mor:	v|lee-1P&SUB&PAS=read .
+*T:	leyerais .
+%mor:	v|lee-2P&SUB&PAS=read .
+*T:	leyeran .
+%mor:	v|lee-3P&SUB&PAS=read .
+@Blank
+*T:	leyendo .
+%mor:	ger|lee-PROG=read .
+*T:	leído .
+%mor:	part|lee-PPART-MASC=read .
+*T:	lee .
+%mor:	imp|lee-2S&IMP=read .
+*T:	lea .
+%mor:	imp|lee-3S&IMP=read .
+*T:	leed .
+%mor:	imp|lee-2P&IMP=read .
+*T:	lean .
+%mor:	imp|lee-3P&IMP=read .
+@End

@@ -1,0 +1,11 @@
+@UTF8
+como {[scat pro:rel]} =as=
+donde {[scat pro:rel]} =where=
+adonde {[scat pro:rel]} =where=
+cuando {[scat pro:rel]} =when=
+cual {[scat pro:rel]} =which=
+cuales {[scat pro:rel]} "cual-PL" =which=
+cuyo {[scat pro:rel]} =whose=
+que {[scat pro:rel]} =that=
+quien {[scat pro:rel]} =who=
+quienes {[scat pro:rel]} "quien-PL" =who=

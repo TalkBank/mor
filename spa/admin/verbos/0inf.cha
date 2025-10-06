@@ -1,0 +1,66 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	comer .
+%mor:	inf|come-INF=eat .
+*T:	comérselo .
+%mor:	inf|come-INF~pro:clit|3S&REFL~pro:clit|OBJ&MASC .
+*T:	comámoslo .
+%mor:	imp|come-1P&IMP~pro:clit|OBJ&MASC .
+*T:	sígueme .
+%mor:	imp|segui-2S&IMP~pro:clit|1S .
+*T:	sígame .
+%mor:	imp|segui-3S&IMP~pro:clit|1S .
+*T:	búsquelo .
+%mor:	imp|busca-3S&IMP~pro:clit|OBJ&MASC .
+*T:	hagámoslo .
+%mor:	imp|hace-1P&IMP~pro:clit|OBJ&MASC .
+*T:	dar .
+%mor:	inf|da-INF=give .
+*T:	dárselo .
+%mor:	inf|da-INF~pro:clit|3S&REFL~pro:clit|OBJ&MASC .
+*T:	pregunta .
+%mor:	v|pregunta-3S&PRES=ask .
+*T:	pregúntame .
+%mor:	imp|pregunta-2S&IMP~pro:clit|1S .
+*T:	pregúntamelo .
+%mor:	imp|pregunta-2S&IMP~pro:clit|1S~pro:clit|OBJ&MASC .
+*T:	come .
+%mor:	imp|come-2S&IMP=eat .
+*T:	cómelo .
+%mor:	imp|come-2S&IMP~pro:clit|OBJ&MASC .
+*T:	cómetelo .
+%mor:	imp|come-2S&IMP~pro:clit|2S~pro:clit|OBJ&MASC .
+*T:	da .
+%mor:	imp|da-2S&IMP=give .
+*T:	dame .
+%mor:	imp|da-2S&IMP~pro:clit|1S .
+*T:	dámelo .
+%mor:	imp|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&MASC .
+*T:	dando .
+%mor:	ger|da-PROG=give .
+*T:	dándolo .
+%mor:	ger|da-PROG~pro:clit|OBJ&MASC .
+*T:	dándoselo .
+%mor:	ger|da-PROG~pro:clit|3S&REFL~pro:clit|OBJ&MASC .
+*T:	escribídselo .
+%mor:	imp|escribi-2P&IMP~pro:clit|3S&REFL~pro:clit|OBJ&MASC .
+*T:	escribírmelo .
+%mor:	inf|escribi-INF~pro:clit|1S~pro:clit|OBJ&MASC .
+*T:	escribirme .
+%mor:	inf|escribi-INF~pro:clit|1S .
+*T:	callad .
+%mor:	imp|calla-2P&IMP=silence .
+*T:	callaos .
+%mor:	imp|calla-2S&IMP~pro:clit|2P .
+*T:	escribimos .
+%mor:	v|escribi-1P&PRES&PRET=write .
+*T:	escribímonos .
+%mor:	imp|escribi-1P&IMP&REFL=write .
+*T:	vámonos .
+%mor:	imp|i-1P&IMP=go .
+*T:	ir .
+%mor:	inf|i-INF=go .
+@End

@@ -1,0 +1,10 @@
+@UTF8
+@Window:	221_105_677_700_-1_-1_386_0_386_0
+ras+le+bol {[scat n][comp n+det+n]} ==
+cessez+le+feu {[scat n][gen m][comp n+det+n]} ==
+cessez+le+feux {[scat n][gen m][num pl][comp n+det+n]} ==
+crève+la+faim {[scat n][gen m][comp n+det+n]} ==
+sans+le+sou {[scat n][comp n+det+n]} ==
+haut+le+coeur {[scat n][gen m][comp n+det+n]} ==
+haut+le+corps {[scat n][gen m][comp n+det+n]} ==
+mise+à+jour {[scat n][gen m][comp n+prep+n]} =update=

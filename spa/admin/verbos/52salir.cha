@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	salgo .
+%mor:	v|sali-1S&PRES=leave .
+*T:	sales .
+%mor:	v|sali-2S&PRES=leave .
+*T:	sale .
+%mor:	v|sali-3S&PRES=leave .
+*T:	salimos .
+%mor:	v|sali-1P&PRES&PRET=leave .
+*T:	salís .
+%mor:	v|sali-2P&PRES=leave .
+*T:	salen .
+%mor:	v|sali-3P&PRES=leave .
+@Blank
+*T:	salía .
+%mor:	v|sali-13S&PAS=leave .
+*T:	salías .
+%mor:	v|sali-2S&PAS=leave .
+*T:	salía .
+%mor:	v|sali-13S&PAS=leave .
+*T:	salíamos .
+%mor:	v|sali-1P&PAS=leave .
+*T:	salíais .
+%mor:	v|sali-2P&PAS=leave .
+*T:	salían .
+%mor:	v|sali-3P&PAS=leave .
+@Blank
+*T:	salí .
+%mor:	imp|sali-2S&IMP=leave .
+*T:	saliste .
+%mor:	v|sali-2S&PRET=leave .
+*T:	salió .
+%mor:	v|sali-3S&PRET=leave .
+*T:	salimos .
+%mor:	v|sali-1P&PRES&PRET=leave .
+*T:	salisteis .
+%mor:	v|sali-2P&PRET=leave .
+*T:	salieron .
+%mor:	v|sali-3P&PRET=leave .
+@Blank
+*T:	saldré .
+%mor:	v|sali-1S&FUT=leave .
+*T:	saldrás .
+%mor:	v|sali-2S&FUT=leave .
+*T:	saldrá .
+%mor:	v|sali-3S&FUT=leave .
+*T:	saldremos .
+%mor:	v|sali-1P&FUT=leave .
+*T:	saldréis .
+%mor:	v|sali-2P&FUT=leave .
+*T:	saldrán .
+%mor:	v|sali-3P&FUT=leave .
+@Blank
+*T:	salga .
+%mor:	v|sali-13S&SUB&PRES=leave .
+*T:	salgas .
+%mor:	v|sali-2S&SUB&PRES=leave .
+*T:	salga .
+%mor:	v|sali-13S&SUB&PRES=leave .
+*T:	salgamos .
+%mor:	v|sali-1P&SUB&PRES=leave .
+*T:	salgáis .
+%mor:	v|sali-2P&SUB&PRES=leave .
+*T:	salgan .
+%mor:	v|sali-3P&SUB&PRES=leave .
+@Blank
+*T:	saliera .
+%mor:	v|sali-13S&SUB&PAS=leave .
+*T:	salieras .
+%mor:	v|sali-2S&SUB&PAS=leave .
+*T:	saliera .
+%mor:	v|sali-13S&SUB&PAS=leave .
+*T:	saliéramos .
+%mor:	v|sali-1P&SUB&PAS=leave .
+*T:	salierais .
+%mor:	v|sali-2P&SUB&PAS=leave .
+*T:	salieran .
+%mor:	v|sali-3P&SUB&PAS=leave .
+@Blank
+*T:	saliendo .
+%mor:	ger|sali-PROG=leave .
+*T:	salido .
+%mor:	part|sali-PPART-MASC=leave .
+*T:	sal .
+%mor:	n|sal&f=salt .
+*T:	salga .
+%mor:	v|sali-13S&SUB&PRES=leave .
+*T:	salid .
+%mor:	imp|sali-2P&IMP=leave .
+*T:	salgan .
+%mor:	v|sali-3P&SUB&PRES=leave .
+@Blank
+@End

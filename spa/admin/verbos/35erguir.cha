@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	yergo .
+%mor:	v|ergui-1S&PRES=raise .
+*T:	yergues .
+%mor:	v|ergui-2S&PRES=raise .
+*T:	yergue .
+%mor:	v|ergui-3S&PRES=raise .
+*T:	erguimos .
+%mor:	v|ergui-1P&PRES&PRET=raise .
+*T:	erguís .
+%mor:	v|ergui-2P&PRES=raise .
+*T:	yerguen .
+%mor:	v|ergui-3P&PRES=raise .
+@Blank
+*T:	erguía .
+%mor:	v|ergui-13S&PAS=raise .
+*T:	erguías .
+%mor:	v|ergui-2S&PAS=raise .
+*T:	erguía .
+%mor:	v|ergui-13S&PAS=raise .
+*T:	erguíamos .
+%mor:	v|ergui-1P&PAS=raise .
+*T:	erguíais .
+%mor:	v|ergui-2P&PAS=raise .
+*T:	erguían .
+%mor:	v|ergui-3P&PAS=raise .
+@Blank
+*T:	erguí .
+%mor:	imp|ergui-2S&IMP=raise .
+*T:	erguiste .
+%mor:	v|ergui-2S&PRET=raise .
+*T:	irguió .
+%mor:	v|ergui-3S&PRET=raise .
+*T:	erguimos .
+%mor:	v|ergui-1P&PRES&PRET=raise .
+*T:	erguisteis .
+%mor:	v|ergui-2P&PRET=raise .
+*T:	irguieron .
+%mor:	v|ergui-3P&PRET=raise .
+@Blank
+*T:	erguiré .
+%mor:	v|ergui-1S&FUT=raise .
+*T:	erguirás .
+%mor:	v|ergui-2S&FUT=raise .
+*T:	erguirá .
+%mor:	v|ergui-3S&FUT=raise .
+*T:	erguiremos .
+%mor:	v|ergui-1P&FUT=raise .
+*T:	erguiréis .
+%mor:	v|ergui-2P&FUT=raise .
+*T:	erguirán .
+%mor:	v|ergui-3P&FUT=raise .
+@Blank
+*T:	yerga .
+%mor:	v|ergui-13S&SUB&PRES=raise .
+*T:	yergas .
+%mor:	v|ergui-2S&SUB&PRES=raise .
+*T:	yerga .
+%mor:	v|ergui-13S&SUB&PRES=raise .
+*T:	yergamos .
+%mor:	v|ergui-1P&SUB&PRES=raise .
+*T:	yergáis .
+%mor:	v|ergui-2P&SUB&PRES=raise .
+*T:	yergan .
+%mor:	v|ergui-3P&SUB&PRES=raise .
+@Blank
+*T:	irguiera .
+%mor:	v|ergui-13S&SUB&PAS=raise .
+*T:	irguieras .
+%mor:	v|ergui-2S&SUB&PAS=raise .
+*T:	irguiera .
+%mor:	v|ergui-13S&SUB&PAS=raise .
+*T:	irguiéramos .
+%mor:	v|ergui-1P&SUB&PAS=raise .
+*T:	irguierais .
+%mor:	v|ergui-2P&SUB&PAS=raise .
+*T:	irguieran .
+%mor:	v|ergui-3P&SUB&PAS=raise .
+@Blank
+*T:	irguendo .
+%mor:	ger|ergui-PROG=raise .
+*T:	erguido .
+%mor:	part|ergui-PPART-MASC=raise .
+*T:	irgue .
+%mor:	v|ergui-3S&PRES=raise .
+*T:	yerga .
+%mor:	v|ergui-13S&SUB&PRES=raise .
+*T:	erguid .
+%mor:	imp|ergui-2P&IMP=raise .
+*T:	yergan .
+%mor:	v|ergui-3P&SUB&PRES=raise .
+@Blank
+@End

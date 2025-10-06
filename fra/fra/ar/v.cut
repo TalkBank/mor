@@ -1,0 +1,409 @@
+@UTF8
+@Window:	109_618_662_685_-1_-1_0_0_0_0
+% ****************
+% VERB
+% ****************
+
+RULENAME:  v3-lire		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xire
+LEXCAT = [scat v],  [special lire]
+ALLO:
+ALLOSURF = $X		% l
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-écrire
+LEX-ENTRY:
+LEXSURF =  $Xcrire
+LEXCAT = [scat v],  [special écrire]
+ALLO:
+ALLOSURF = $Xcri	% écri
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-extraire
+LEX-ENTRY:
+LEXSURF =  $Xraire
+LEXCAT = [scat v],  [special extraire]
+ALLO:
+ALLOSURF = $Xra 	% extra
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-faire	%can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xaire
+LEXCAT = [scat OR v v:mdl v:mdllex],  [special faire]
+ALLO:
+ALLOSURF = $X		% f
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-taire	% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xaire
+LEXCAT = [scat v],  [special taire]
+ALLO:
+ALLOSURF = $X		% t
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-dire	% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xire
+LEXCAT = [scat v],  [special dire]
+ALLO:
+ALLOSURF = $X		% d
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-conduire
+LEX-ENTRY:
+LEXSURF =  $Xuire
+LEXCAT = [scat v],  [special conduire]
+ALLO:
+ALLOSURF = $Xu		% condu
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-conclure
+LEX-ENTRY:
+LEXSURF =  $Xlure
+LEXCAT = [scat v],  [special conclure]
+ALLO:
+ALLOSURF = $Xl		% concl
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-croître
+LEX-ENTRY:
+LEXSURF =  $Xroître
+LEXCAT = [scat v],  [special croître]
+ALLO:
+ALLOSURF = $Xr		% cr
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-paraître		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xaître
+LEXCAT = [scat OR v v:mdl v:mdllex],  [special paraître]
+ALLO:
+ALLOSURF = $X		% par
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-suivre
+LEX-ENTRY:
+LEXSURF =  $Xuivre
+LEXCAT = [scat v],  [special suivre]
+ALLO:
+ALLOSURF = $Xui		% sui
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-vivre		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xivre
+LEXCAT = [scat v],  [special vivre]
+ALLO:
+ALLOSURF = $X		% v
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-craindre
+LEX-ENTRY:
+LEXSURF =  $Xindre
+LEXCAT = [scat v],  [special craindre]
+ALLO:
+ALLOSURF = $Xi		% crai
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-coudre
+LEX-ENTRY:
+LEXSURF =  $Xoudre
+LEXCAT = [scat v],  [special coudre]
+ALLO:
+ALLOSURF = $Xou		% cou
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-mettre		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xettre
+LEXCAT = [scat v],  [special mettre]
+ALLO:
+ALLOSURF = $X		% m
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-battre
+LEX-ENTRY:
+LEXSURF =  $Xattre
+LEXCAT = [scat v],  [special battre]
+ALLO:
+ALLOSURF = $Xa		% ba
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-rompre
+LEX-ENTRY:
+LEXSURF =  $Xmpre
+LEXCAT = [scat v],  [special rompre]
+ALLO:
+ALLOSURF = $Xmp		% romp
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-prendre		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xendre
+LEXCAT = [scat v],  [special prendre]
+ALLO:
+ALLOSURF = $X		% pr
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-tendre		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xdre
+LEXCAT = [scat v],  [special tendre]
+ALLO:
+ALLOSURF = $X			% tend
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-valoir
+LEX-ENTRY:
+LEXSURF =  $Xaloir
+LEXCAT = [scat v],  [special valoir]
+ALLO:
+ALLOSURF = $Xa		% va
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-mouvoir		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xouvoir
+LEXCAT = [scat v],  [special mouvoir]
+ALLO:
+ALLOSURF = $X		% m
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-décevoir		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xcevoir	% décevoir
+LEXCAT = [scat v],  [special décevoir]
+ALLO:
+ALLOSURF = $X		% dé
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-ouvrir		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xrir
+LEXCAT = [scat v],  [special ouvrir]
+ALLO:
+ALLOSURF = $X		% ouv
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-tenir		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xenir	% tenir, venir, etc.
+LEXCAT = [scat OR v v:mdl v:mdllex],  [special tenir]
+ALLO:
+ALLOSURF = $X		% t, v
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-vêtir
+LEX-ENTRY:
+LEXSURF =  $Xêtir
+LEXCAT = [scat v],  [special vêtir]
+ALLO:
+ALLOSURF = $Xê		% vê
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-dormir
+LEX-ENTRY:
+LEXSURF =  $Xormir
+LEXCAT = [scat v],  [special dormir]
+ALLO:
+ALLOSURF = $Xor			% dor
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-partir
+LEX-ENTRY:
+LEXSURF =  $Xartir
+LEXCAT = [scat v],  [special partir]
+ALLO:
+ALLOSURF = $Xar			% par
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-courir
+LEX-ENTRY:
+LEXSURF =  $Xourir
+LEXCAT = [scat v],  [special courir]
+ALLO:
+ALLOSURF = $Xour		% cour
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-cueillir
+LEX-ENTRY:
+LEXSURF =  $Xueillir
+LEXCAT = [scat v],  [special cueillir]
+ALLO:
+ALLOSURF = $Xueill		% cueill
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-mentir
+LEX-ENTRY:
+LEXSURF =  $Xentir
+LEXCAT = [scat v],  [special mentir]
+ALLO:
+ALLOSURF = $Xen			% men
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-servir		% can't reduce
+LEX-ENTRY:
+LEXSURF =  $Xvir
+LEXCAT = [scat v],  [special servir]
+ALLO:
+ALLOSURF = $X		% sert
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-assaillir
+LEX-ENTRY:
+LEXSURF =  $Xaillir
+LEXCAT = [scat v],  [special assaillir]
+ALLO:
+ALLOSURF = $Xaill		% assaill
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v3-acquérir
+LEX-ENTRY:
+LEXSURF =  $Xquérir
+LEXCAT = [scat v],  [special acquérir]
+ALLO:
+ALLOSURF = $Xqu		% acqu
+ALLOCAT = LEXCAT, ADD [bare no]
+
+RULENAME:  v1-éXer
+LEX-ENTRY:
+LEXSURF =  $Xé$Ker	% révéler
+LEXCAT = [scat v], ![special uniq]
+ALLO:
+ALLOSURF = $Xé$K	% révélons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xè$K	% révèle
+ALLOCAT = LEXCAT, ADD [allo v1mute], ADD [bare no]
+
+RULENAME:  v1-éXXer
+LEX-ENTRY:
+LEXSURF =  $Xé$K$Ler	% sécher
+LEXCAT = [scat v], ![special uniq]
+ALLO:
+ALLOSURF = $Xé$K$L	% révélons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xè$K$L	% révèle
+ALLOCAT = LEXCAT, ADD [allo v1mute], ADD [bare no]
+
+RULENAME:  v1-cer
+LEX-ENTRY:
+LEXSURF =  $Xcer	% placer
+LEXCAT = [scat v], ![special uniq]
+ALLO:
+ALLOSURF = $Xc		% place
+ALLOCAT = LEXCAT, ADD [allo v1ao+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xç		% plaçait
+ALLOCAT = LEXCAT, ADD [allo v1ao], ADD [bare no]
+
+RULENAME:  v1-ayer
+LEX-ENTRY:
+LEXSURF =  $Xayer	% payer
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xay		% payons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xai		% paie
+ALLOCAT = LEXCAT, ADD [allo v1mute], ADD [bare no]
+ALLO:
+ALLOSURF = $Xay		% paye
+ALLOCAT = LEXCAT, ADD [allo v1mute], ADD [bare no]
+
+RULENAME:  v1-yer
+LEX-ENTRY:
+LEXSURF =  $Xyer	% nettoyer
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xy		% nettoyons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xi		% nettoie
+ALLOCAT = LEXCAT, ADD [allo v1mute], ADD [bare no]
+
+RULENAME:  v1-ger
+LEX-ENTRY:
+LEXSURF =  $Xger	% manger
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xg		% mange
+ALLOCAT = LEXCAT, ADD [allo v1ao+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xge		% mangeait
+ALLOCAT = LEXCAT, ADD [allo v1ao], ADD [bare no]
+
+RULENAME:  v1-eler-special
+LEX-ENTRY:
+LEXSURF =  $Xeler
+LEXCAT = [scat v], [special eler]
+ALLO:
+ALLOSURF = $Xel		% pelons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], DEL [special], ADD [bare no]
+ALLO:
+ALLOSURF = $Xèl		% pèle
+ALLOCAT = LEXCAT, ADD [allo v1mute], DEL [special], ADD [bare no]
+
+RULENAME:  v1-eler
+LEX-ENTRY:
+LEXSURF =  $Xeler	% appeler
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xel		% appelons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xell	% appelle
+ALLOCAT = LEXCAT, ADD [allo v1mute], ADD [bare no]
+
+RULENAME:  v1-eter
+LEX-ENTRY:
+LEXSURF =  $Xeter
+LEXCAT = [scat v], [special eter]
+ALLO:
+ALLOSURF = $Xet		% achetons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], DEL [special], ADD [bare no]
+ALLO:
+ALLOSURF = $Xèt		% achète
+ALLOCAT = LEXCAT, ADD [allo v1mute], DEL [special], ADD [bare no]
+
+RULENAME:  v1-eter
+LEX-ENTRY:
+LEXSURF =  $Xeter	% jeter
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xet		% jetons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xett	% jette
+ALLOCAT = LEXCAT, ADD [allo v1mute], ADD [bare no]
+
+RULENAME:  v1-eXer
+LEX-ENTRY:
+LEXSURF =  $Xe$Mer	% semer, not clear what other consonants
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xe$M	% semons
+ALLOCAT = LEXCAT, ADD [allo v1mute+], ADD [bare no]
+ALLO:
+ALLOSURF = $Xè$M	% sème
+ALLOCAT = LEXCAT, ADD [allo v1mute], ADD [bare no]
+
+RULENAME:  v1-er
+LEX-ENTRY:
+LEXSURF =  $Xer		% chanter, apprécier
+LEXCAT = [scat OR v v:mdl v:mdllex], ![special uniq]
+ALLO:
+ALLOSURF = $X		% tous temps
+ALLOCAT = LEXCAT, ADD [allo v1], ADD [bare no]
+
+RULENAME:  v2-ir
+LEX-ENTRY:
+LEXSURF =  $Xir		% finir
+LEXCAT = [scat v], [special v2g]
+ALLO:
+ALLOSURF = $X		% tous temps
+ALLOCAT = LEXCAT, ADD [allo v2], ADD [bare no]

@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	compro .
+%mor:	v|compra-1S&PRES=buy .
+*T:	compras .
+%mor:	v|compra-2S&PRES=buy .
+*T:	compra .
+%mor:	v|compra-3S&PRES=buy .
+*T:	compramos .
+%mor:	v|compra-1P&PRES&PRET=buy .
+*T:	compráis .
+%mor:	v|compra-2P&PRES=buy .
+*T:	compran .
+%mor:	v|compra-3P&PRES=buy .
+@Blank
+*T:	compraba .
+%mor:	v|compra-13S&PAS=buy .
+*T:	comprabas .
+%mor:	v|compra-2S&PAS=buy .
+*T:	compraba .
+%mor:	v|compra-13S&PAS=buy .
+*T:	comprábamos .
+%mor:	v|compra-1P&PAS=buy .
+*T:	comprabais .
+%mor:	v|compra-2P&PAS=buy .
+*T:	compraban .
+%mor:	v|compra-3P&PAS=buy .
+@Blank
+*T:	compré .
+%mor:	v|compra-1S&PRET=buy .
+*T:	compraste .
+%mor:	v|compra-2S&PRET=buy .
+*T:	compró .
+%mor:	v|compra-3S&PRET=buy .
+*T:	compramos .
+%mor:	v|compra-1P&PRES&PRET=buy .
+*T:	comprasteis .
+%mor:	v|compra-2P&PRET=buy .
+*T:	compraron .
+%mor:	v|compra-3P&PRET=buy .
+@Blank
+*T:	compraré .
+%mor:	v|compra-1S&FUT=buy .
+*T:	comprarás .
+%mor:	v|compra-2S&FUT=buy .
+*T:	comprará .
+%mor:	v|compra-3S&FUT=buy .
+*T:	compraremos .
+%mor:	v|compra-1P&FUT=buy .
+*T:	compraréis .
+%mor:	v|compra-2P&FUT=buy .
+*T:	comprarán .
+%mor:	v|compra-3P&FUT=buy .
+@Blank
+*T:	compre .
+%mor:	imp|compra-3S&IMP=buy .
+*T:	compres .
+%mor:	v|compra-2S&SUB&PRES=buy .
+*T:	compre .
+%mor:	imp|compra-3S&IMP=buy .
+*T:	compremos .
+%mor:	imp|compra-1P&IMP=buy .
+*T:	compréis .
+%mor:	v|compra-2P&SUB&PRES=buy .
+*T:	compren .
+%mor:	imp|compra-3P&IMP=buy .
+@Blank
+*T:	comprara .
+%mor:	v|compra-13S&SUB&PAS=buy .
+*T:	compraras .
+%mor:	v|compra-2S&SUB&PAS=buy .
+*T:	comprara .
+%mor:	v|compra-13S&SUB&PAS=buy .
+*T:	compráramos .
+%mor:	v|compra-1P&SUB&PAS=buy .
+*T:	comprarais .
+%mor:	v|compra-2P&SUB&PAS=buy .
+*T:	compraran .
+%mor:	v|compra-3P&SUB&PAS=buy .
+@Blank
+*T:	comprando .
+%mor:	ger|compra-PROG=buy .
+*T:	comprado .
+%mor:	part|compra-PPART-MASC=buy .
+*T:	compra .
+%mor:	v|compra-3S&PRES=buy .
+*T:	compre .
+%mor:	imp|compra-3S&IMP=buy .
+*T:	comprad .
+%mor:	imp|compra-2P&IMP=buy .
+*T:	compren .
+%mor:	imp|compra-3P&IMP=buy .
+@Blank
+@End

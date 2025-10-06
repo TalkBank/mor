@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	luzco .
+%mor:	v|luci-1S&PRES=shine .
+*T:	luces .
+%mor:	v|luci-2S&PRES=shine .
+*T:	luce .
+%mor:	imp|luci-2S&IMP=shine .
+*T:	lucimos .
+%mor:	v|luci-1P&PRES&PRET=shine .
+*T:	lucís .
+%mor:	v|luci-2P&PRES=shine .
+*T:	lucen .
+%mor:	v|luci-3P&PRES=shine .
+@Blank
+*T:	lucía .
+%mor:	v|luci-13S&PAS=shine .
+*T:	lucías .
+%mor:	v|luci-2S&PAS=shine .
+*T:	lucía .
+%mor:	v|luci-13S&PAS=shine .
+*T:	lucíamos .
+%mor:	v|luci-1P&PAS=shine .
+*T:	lucíais .
+%mor:	v|luci-2P&PAS=shine .
+*T:	lucían .
+%mor:	v|luci-3P&PAS=shine .
+@Blank
+*T:	lucí .
+%mor:	imp|luci-2S&IMP=shine .
+*T:	luciste .
+%mor:	v|luci-2S&PRET=shine .
+*T:	lució .
+%mor:	v|luci-3S&PRET=shine .
+*T:	lucimos .
+%mor:	v|luci-1P&PRES&PRET=shine .
+*T:	lucisteis .
+%mor:	v|luci-2P&PRET=shine .
+*T:	lucieron .
+%mor:	v|luci-3P&PRET=shine .
+@Blank
+*T:	luciré .
+%mor:	v|luci-1S&FUT=shine .
+*T:	lucirás .
+%mor:	v|luci-2S&FUT=shine .
+*T:	lucirá .
+%mor:	v|luci-3S&FUT=shine .
+*T:	luciremos .
+%mor:	v|luci-1P&FUT=shine .
+*T:	luciréis .
+%mor:	v|luci-2P&FUT=shine .
+*T:	lucirán .
+%mor:	v|luci-3P&FUT=shine .
+@Blank
+*T:	luzca .
+%mor:	v|luci-13S&SUB&PRES=shine .
+*T:	luzcas .
+%mor:	v|luci-2S&SUB&PRES=shine .
+*T:	luzca .
+%mor:	v|luci-13S&SUB&PRES=shine .
+*T:	luzcamos .
+%mor:	v|luci-1P&SUB&PRES=shine .
+*T:	luzcáis .
+%mor:	v|luci-2P&SUB&PRES=shine .
+*T:	luzcan .
+%mor:	v|luci-3P&SUB&PRES=shine .
+@Blank
+*T:	luciera .
+%mor:	v|luci-13S&SUB&PAS=shine .
+*T:	lucieras .
+%mor:	v|luci-2S&SUB&PAS=shine .
+*T:	luciera .
+%mor:	v|luci-13S&SUB&PAS=shine .
+*T:	luciéramos .
+%mor:	v|luci-1P&SUB&PAS=shine .
+*T:	lucierais .
+%mor:	v|luci-2P&SUB&PAS=shine .
+*T:	lucieran .
+%mor:	v|luci-3P&SUB&PAS=shine .
+@Blank
+*T:	luciendo .
+%mor:	ger|luci-PROG=shine .
+*T:	lucido .
+%mor:	part|luci-PPART-MASC=shine .
+*T:	luce .
+%mor:	imp|luci-2S&IMP=shine .
+*T:	luzca .
+%mor:	v|luci-13S&SUB&PRES=shine .
+*T:	lucid .
+%mor:	imp|luci-2P&IMP=shine .
+*T:	luzcan .
+%mor:	v|luci-3P&SUB&PRES=shine .
+@Blank
+@End

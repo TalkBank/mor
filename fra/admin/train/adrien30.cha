@@ -1,0 +1,598 @@
+@UTF8
+@PID:	11312/c-00029313&1
+@Begin
+@Languages:	fra
+@Participants:	CHI Adrien Target_Child
+@ID:	fra|Paris-Corpus_Adrien|CHI|2;6.|male|CTR|MC|Target_Child|nursery||
+@Situation:	replica task using FP play family house
+*CHI:	regarde le cheval .
+%mor:	v|regarder-IMP&2s^v|regarder-PRES&SUB&13s
+	det:art|le&m&sg^pro:obj|le n|cheval&m&sg .
+%trn:	v|regarder-IMP&2s det:art|le&m&sg n|cheval&m&sg .
+*CHI:	et là la voiture .
+%mor:	conj|et adv:place|là det:art|la&f&sg^pro:obj|la n|voiture&f .
+%trn:	conj|et adv:place|là det:art|la&f&sg n|voiture&f .
+*CHI:	on va faire des choses .
+%mor:	pro:sub|on
+	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	v:mdllex|faire-INF^v:mdl|faire-INF prep|de&les n|chose-PL=thing .
+%trn:	pro:sub|on v:mdl|aller&PRES&3s v:mdl|faire-INF prep|de&les
+	n|chose-PL=thing .
+*CHI:	ça .
+%mor:	pro:dem|ça .
+%trn:	pro:dem|ça .
+*CHI:	faire des choses .
+%mor:	v:mdllex|faire-INF^v:mdl|faire-INF prep|de&les n|chose-PL=thing .
+%trn:	v:mdl|faire-INF prep|de&les n|chose-PL=thing .
+*CHI:	c'est le même .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:art|le&m&sg^pro:obj|le
+	adv|même^conj|même^adj|même&m=same^pro|même .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s det:art|le&m&sg adv|même .
+*CHI:	rouge .
+%mor:	adj|rouge .
+%trn:	adj|rouge .
+*CHI:	promener .
+%mor:	v|promener-INF .
+%trn:	v|promener-INF .
+*CHI:	la poussette va faire promener .
+%mor:	det:art|la&f&sg^pro:obj|la n|poussette&f
+	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	v:mdllex|faire-INF^v:mdl|faire-INF v|promener-INF .
+%trn:	det:art|la&f&sg n|poussette&f v:mdl|aller&PRES&3s v:mdl|faire-INF
+	v|promener-INF .
+*CHI:	oh c'est chaise .
+%mor:	co|oh pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	n|chaise&f .
+%trn:	co|oh pro:dem|ce$v:exist|être&PRES&3s n|chaise&f .
+*CHI:	c'est le même .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:art|le&m&sg^pro:obj|le
+	adv|même^conj|même^adj|même&m=same^pro|même .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s det:art|le&m&sg adv|même .
+*CHI:	pas aller le cheval .
+%mor:	neg|pas v:mdllex|aller&INF^v:mdl|aller&INF
+	det:art|le&m&sg^pro:obj|le n|cheval&m&sg .
+%trn:	neg|pas v:mdl|aller&INF det:art|le&m&sg n|cheval&m&sg .
+*CHI:	pas aller le cheval .
+%mor:	neg|pas v:mdllex|aller&INF^v:mdl|aller&INF
+	det:art|le&m&sg^pro:obj|le n|cheval&m&sg .
+%trn:	neg|pas v:mdl|aller&INF det:art|le&m&sg n|cheval&m&sg .
+*CHI:	au galop .
+%mor:	prep|à&le n|galop&m .
+%trn:	prep|à&le n|galop&m .
+*CHI:	promener .
+%mor:	v|promener-INF .
+%trn:	v|promener-INF .
+*CHI:	c'est là moi .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	adv:place|là pro|moi&sg .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s adv:place|là pro|moi&sg .
+*CHI:	promener .
+%mor:	v|promener-INF .
+%trn:	v|promener-INF .
+*CHI:	c'est là moi .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	adv:place|là pro|moi&sg .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s adv:place|là pro|moi&sg .
+*CHI:	promener .
+%mor:	v|promener-INF .
+%trn:	v|promener-INF .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+*CHI:	non .
+%mor:	co|non=no .
+%trn:	co|non=no .
+*CHI:	lui .
+%mor:	part|luire&PP&m^pro:ind|lui .
+%trn:	pro:ind|lui .
+*CHI:	un autre .
+%mor:	det:art|un&m&sg^pro|un&m&sg det:gen|autre&sg^pro|autre&sg .
+%trn:	det:art|un&m&sg pro|autre&sg .
+*CHI:	un autre .
+%mor:	det:art|un&m&sg^pro|un&m&sg det:gen|autre&sg^pro|autre&sg .
+%trn:	det:art|un&m&sg pro|autre&sg .
+*CHI:	l'est là .
+%mor:	pro:sub|il$v:exist|être&PRES&3s^pro:sub|il$v:aux|être&PRES&3s
+	adv:place|là .
+%trn:	pro:sub|il$v:aux|être&PRES&3s adv:place|là .
+*CHI:	fermer .
+%mor:	v|fermer-INF .
+%trn:	v|fermer-INF .
+*CHI:	voilà y a plus_de place .
+%mor:	adv:place|voilà pro:y|y v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s
+	qn|plus_de n|place&f^v|placer-IMP&2s^v|placer-PRES&SUB&13s .
+%trn:	adv:place|voilà pro:y|y v:aux|avoir&PRES&3s qn|plus_de
+	n|place&f .
+*CHI:	garage .
+%mor:	n|garage&m .
+%trn:	n|garage&m .
+*CHI:	est rouge le garage .
+%mor:	v:exist|être&PRES&3s^v:aux|être&PRES&3s adj|rouge
+	det:art|le&m&sg^pro:obj|le n|garage&m .
+%trn:	v:aux|être&PRES&3s adj|rouge det:art|le&m&sg n|garage&m .
+*CHI:	oh chien dans la niche .
+%mor:	co|oh n|chien&m prep|dans det:art|la&f&sg^pro:obj|la
+	n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	co|oh n|chien&m prep|dans det:art|la&f&sg n|niche&f .
+*CHI:	c'est la niche .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:art|la&f&sg^pro:obj|la
+	n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s det:art|la&f&sg n|niche&f .
+*CHI:	ça .
+%mor:	pro:dem|ça .
+%trn:	pro:dem|ça .
+*CHI:	ça i(l) va prendre .
+%mor:	pro:dem|ça pro:sub|il
+	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	v|prendre-INF .
+%trn:	pro:dem|ça pro:sub|il v:mdl|aller&PRES&3s v|prendre-INF .
+*CHI:	peut pas le mettre .
+%mor:	v:mdllex|pouvoir&PRES&3s^v:mdl|pouvoir&PRES&3s neg|pas
+	det:art|le&m&sg^pro:obj|le v|mettre-INF .
+%trn:	v:mdl|pouvoir&PRES&3s neg|pas pro:obj|le v|mettre-INF .
+*CHI:	parce_que c'est maman .
+%mor:	conj|parce_que
+	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	n|maman&f .
+%trn:	conj|parce_que pro:dem|ce$v:exist|être&PRES&3s n|maman&f .
+*CHI:	maman va mettre .
+%mor:	n|maman&f
+	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	v|mettre-INF .
+%trn:	n|maman&f v:mdl|aller&PRES&3s v|mettre-INF .
+*CHI:	c'est sa niche .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:poss|sa&f&sg n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s det:poss|sa&f&sg n|niche&f .
+*CHI:	fermer voilà .
+%mor:	v|fermer-INF adv:place|voilà .
+%trn:	v|fermer-INF adv:place|voilà .
+*CHI:	où l'est ?
+%mor:	pro:rel|où^pro:int|où
+	pro:sub|il$v:exist|être&PRES&3s^pro:sub|il$v:aux|être&PRES&3s ?
+%trn:	pro:int|où pro:sub|il$v:aux|être&PRES&3s ?
+*CHI:	maman où l'est ?
+%mor:	n|maman&f pro:rel|où^pro:int|où
+	pro:sub|il$v:exist|être&PRES&3s^pro:sub|il$v:aux|être&PRES&3s ?
+%trn:	n|maman&f pro:int|où pro:sub|il$v:aux|être&PRES&3s ?
+*CHI:	si il est dans sa niche .
+%mor:	n|si&m^adv|si^co|si^conj|si pro:sub|il
+	v:exist|être&PRES&3s^v:aux|être&PRES&3s prep|dans det:poss|sa&f&sg
+	n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	adv|si pro:sub|il v:aux|être&PRES&3s prep|dans det:poss|sa&f&sg
+	n|niche&f .
+*CHI:	où l'est ?
+%mor:	pro:rel|où^pro:int|où
+	pro:sub|il$v:exist|être&PRES&3s^pro:sub|il$v:aux|être&PRES&3s ?
+%trn:	pro:int|où pro:sub|il$v:aux|être&PRES&3s ?
+*CHI:	moi vois pas .
+%mor:	pro|moi&sg v|voir&IMP&PRES&12s neg|pas .
+%trn:	pro|moi&sg v|voir&IMP&PRES&12s neg|pas .
+%cod:	$per
+*CHI:	peut pas .
+%mor:	v:mdllex|pouvoir&PRES&3s^v:mdl|pouvoir&PRES&3s neg|pas .
+%trn:	v:mdl|pouvoir&PRES&3s neg|pas .
+*CHI:	maman où il est ?
+%mor:	n|maman&f pro:rel|où^pro:int|où pro:sub|il
+	v:exist|être&PRES&3s^v:aux|être&PRES&3s ?
+%trn:	n|maman&f pro:int|où pro:sub|il v:aux|être&PRES&3s ?
+*CHI:	il a soif .
+%mor:	pro:sub|il v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s n|soif&f .
+%trn:	pro:sub|il v:aux|avoir&PRES&3s n|soif&f .
+*CHI:	il veut de l'eau .
+%mor:	pro:sub|il v:mdllex|vouloir&PRES&3s^v:mdl|vouloir&PRES&3s prep|de
+	det:art|le$n|eau&f .
+%trn:	pro:sub|il v:mdl|vouloir&PRES&3s prep|de det:art|le$n|eau&f .
+*CHI:	il peut pas sortir .
+%mor:	pro:sub|il v:mdllex|pouvoir&PRES&3s^v:mdl|pouvoir&PRES&3s neg|pas
+	n|sortir&m^v|sortir&INF .
+%trn:	pro:sub|il v:mdl|pouvoir&PRES&3s neg|pas n|sortir&m .
+*CHI:	il peut pas sortir .
+%mor:	pro:sub|il v:mdllex|pouvoir&PRES&3s^v:mdl|pouvoir&PRES&3s neg|pas
+	n|sortir&m^v|sortir&INF .
+%trn:	pro:sub|il v:mdl|pouvoir&PRES&3s neg|pas n|sortir&m .
+*CHI:	il est trop gros .
+%mor:	pro:sub|il v:exist|être&PRES&3s^v:aux|être&PRES&3s adv|trop
+	adv|gros^n|gros&m^adj|gros&m .
+%trn:	pro:sub|il v:aux|être&PRES&3s adv|trop adj|gros&m .
+*CHI:	ça_y_est .
+%mor:	co|ça_y_est .
+%trn:	co|ça_y_est .
+*CHI:	ferme sa niche .
+%mor:	n|ferme&f^v|fermer-IMP&2s^v|fermer-PRES&SUB&13s det:poss|sa&f&sg
+	n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	n|ferme&f det:poss|sa&f&sg n|niche&f .
+*CHI:	après remet .
+%mor:	adv|après^adv:place|après^conj|après^prep|après re#v|mettre-PRES&3s
+	.
+%trn:	adv|après re#v|mettre-PRES&3s .
+*CHI:	moi a soif .
+%mor:	pro|moi&sg v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s n|soif&f .
+%trn:	pro|moi&sg v:aux|avoir&PRES&3s n|soif&f .
+%cod:	$phys
+*CHI:	il est là .
+%mor:	pro:sub|il v:exist|être&PRES&3s^v:aux|être&PRES&3s adv:place|là .
+%trn:	pro:sub|il v:aux|être&PRES&3s adv:place|là .
+*CHI:	c'est laquelle .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	pro:rel|laquelle&f&sg^pro:int|laquelle&f&sg .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s pro:rel|laquelle&f&sg .
+*CHI:	garage .
+%mor:	n|garage&m .
+%trn:	n|garage&m .
+*CHI:	boire .
+%mor:	n|boire&m^v|boire&INF .
+%trn:	v|boire&INF .
+*CHI:	ici la cuisine .
+%mor:	adv:place|ici det:art|la&f&sg^pro:obj|la
+	n|cuisine&f^v|cuisiner-IMP&2s^v|cuisiner-PRES&SUB&13s .
+%trn:	adv:place|ici det:art|la&f&sg n|cuisine&f .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+*CHI:	dans ma niche .
+%mor:	prep|dans det:poss|ma&sg
+	n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	prep|dans det:poss|ma&sg n|niche&f .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+*CHI:	dans ma niche .
+%mor:	prep|dans det:poss|ma&sg
+	n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	prep|dans det:poss|ma&sg n|niche&f .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+*CHI:	veut de l'eau .
+%mor:	v:mdllex|vouloir&PRES&3s^v:mdl|vouloir&PRES&3s prep|de
+	det:art|le$n|eau&f .
+%trn:	v:mdl|vouloir&PRES&3s prep|de det:art|le$n|eau&f .
+*CHI:	monte à l'escalier .
+%mor:	v|monter-IMP&2s^v|monter-PRES&SUB&13s prep|à
+	det:art|le$n|escalier&m .
+%trn:	v|monter-PRES&SUB&13s prep|à det:art|le$n|escalier&m .
+*CHI:	oui .
+%mor:	n|oui&m^co|oui=yes .
+%trn:	co|oui=yes .
+*CHI:	ah là-dedans ma chambre .
+%mor:	co|ah adv:place|là–dedans det:poss|ma&sg
+	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	co|ah adv:place|là-dedans det:poss|ma&sg n|chambre&f .
+*CHI:	moi c'est mon lit .
+%mor:	pro|moi&sg
+	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:poss|mon&m&sg n|lit&m^v|lire-PRES&3s .
+%trn:	pro|moi&sg pro:dem|ce$v:aux|être&PRES&3s det:poss|mon&m&sg
+	n|lit&m .
+*CHI:	dormir à côté .
+%mor:	v|dormir-INF prep|à n|côté&m .
+%trn:	v|dormir-INF prep|à n|côté&m .
+*CHI:	réveiller .
+%mor:	re#v|veiller-INF .
+%trn:	re#v|veiller-INF .
+*CHI:	bonjour .
+%mor:	n|bonjour&m^co|bonjour .
+%trn:	co|bonjour .
+*CHI:	il monte à l'escalier dans ma chambre .
+%mor:	pro:sub|il v|monter-IMP&2s^v|monter-PRES&SUB&13s prep|à
+	det:art|le$n|escalier&m prep|dans det:poss|ma&sg
+	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	pro:sub|il v|monter-PRES&SUB&13s prep|à det:art|le$n|escalier&m
+	prep|dans det:poss|ma&sg n|chambre&f .
+*CHI:	met lit dans ta chambre .
+%mor:	v|mettre-PRES&3s n|lit&m^v|lire-PRES&3s prep|dans det:poss|ta&f&sg
+	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	v|mettre-PRES&3s n|lit&m prep|dans det:poss|ta&f&sg
+	n|chambre&f .
+*CHI:	réveiller .
+%mor:	re#v|veiller-INF .
+%trn:	re#v|veiller-INF .
+*CHI:	bonjour .
+%mor:	n|bonjour&m^co|bonjour .
+%trn:	co|bonjour .
+*CHI:	bien dormi .
+%mor:	n|bien&m^adv|bien^conj|bien^adj|bien part|dormir-PP&m .
+%trn:	adv|bien part|dormir-PP&m .
+*CHI:	pas couper ma kékette .
+%mor:	neg|pas v|couper-INF det:poss|ma&sg n|kékette&f=cake .
+%trn:	neg|pas v|couper-INF det:poss|ma&sg n|kékette&f=cake .
+*CHI:	parce_que moi à cheval .
+%mor:	conj|parce_que pro|moi&sg prep|à n|cheval&m&sg .
+%trn:	conj|parce_que pro|moi&sg prep|à n|cheval&m&sg .
+*CHI:	Oika .
+%mor:	n:prop|Oika .
+%trn:	n:prop|Oika .
+*CHI:	moi i(l) monte à l'escalier .
+%mor:	pro|moi&sg pro:sub|il v|monter-IMP&2s^v|monter-PRES&SUB&13s prep|à
+	det:art|le$n|escalier&m .
+%trn:	pro|moi&sg pro:sub|il v|monter-PRES&SUB&13s prep|à
+	det:art|le$n|escalier&m .
+*CHI:	après va dormir .
+%mor:	adv|après^adv:place|après^conj|après^prep|après
+	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	v|dormir-INF .
+%trn:	adv|après v:mdl|aller&PRES&3s v|dormir-INF .
+*CHI:	réveiller .
+%mor:	re#v|veiller-INF .
+%trn:	re#v|veiller-INF .
+*CHI:	du manège .
+%mor:	prep|de&le n|manège&m .
+%trn:	prep|de&le n|manège&m .
+*CHI:	au galop .
+%mor:	prep|à&le n|galop&m .
+%trn:	prep|à&le n|galop&m .
+*CHI:	ça c'est mon niche .
+%mor:	pro:dem|ça
+	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:poss|mon&m&sg n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:poss|mon&m&sg
+	n|niche&f .
+*CHI:	c'est pas ta niche .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	neg|pas det:poss|ta&f&sg
+	n|niche&f^v|nicher-IMP&2s^v|nicher-PRES&SUB&13s .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s neg|pas det:poss|ta&f&sg
+	n|niche&f .
+*CHI:	sais pas .
+%mor:	v:mdllex|savoir&PRES&12s^v:mdl|savoir&PRES&12s neg|pas .
+%trn:	v:mdl|savoir&PRES&12s neg|pas .
+*CHI:	moi aussi .
+%mor:	pro|moi&sg adv|aussi^conj|aussi .
+%trn:	pro|moi&sg adv|aussi .
+*CHI:	il va pas l'hélicoptère .
+%mor:	pro:sub|il
+	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	neg|pas det:art|le$n|hélicoptère&m .
+%trn:	pro:sub|il v:mdl|aller&PRES&3s neg|pas
+	det:art|le$n|hélicoptère&m .
+*CHI:	c'est chien .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	n|chien&m .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s n|chien&m .
+*CHI:	ça c'est aller on descend .
+%mor:	pro:dem|ça
+	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	v:mdllex|aller&INF^v:mdl|aller&INF pro:sub|on v|descendre-PRES&3s .
+%trn:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s v:mdl|aller&INF
+	pro:sub|on v|descendre-PRES&3s .
+*CHI:	i(l) va .
+%mor:	pro:sub|il
+	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	.
+%trn:	pro:sub|il v:mdl|aller&PRES&3s .
+*CHI:	prend ça .
+%mor:	v|prendre-PRES&3s pro:dem|ça .
+%trn:	v|prendre-PRES&3s pro:dem|ça .
+*CHI:	un tour de manège .
+%mor:	det:art|un&m&sg^pro|un&m&sg n|tour prep|de n|manège&m .
+%trn:	det:art|un&m&sg n|tour prep|de n|manège&m .
+*CHI:	à côté .
+%mor:	prep|à n|côté&m .
+%trn:	prep|à n|côté&m .
+*CHI:	c'est pas ta chambre .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	neg|pas det:poss|ta&f&sg
+	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s neg|pas det:poss|ta&f&sg
+	n|chambre&f .
+*CHI:	là tu vas aller .
+%mor:	adv:place|là pro:sub|tu^part|taire-PP&m
+	v:mdllex|aller&PRES&2s^v:mdl|aller&PRES&2s
+	v:mdllex|aller&INF^v:mdl|aller&INF .
+%trn:	adv:place|là pro:sub|tu v:mdl|aller&PRES&2s v:mdl|aller&INF .
+*CHI:	elle est là .
+%mor:	pro:sub|elle v:exist|être&PRES&3s^v:aux|être&PRES&3s adv:place|là .
+%trn:	pro:sub|elle v:aux|être&PRES&3s adv:place|là .
+*CHI:	pommes+de+terre .
+%mor:	n|+n|pommes+prep|de+n|terre&f .
+%trn:	n|+n|pommes+prep|de+n|terre&f .
+*CHI:	moi veux chercher .
+%mor:	pro|moi&sg
+	v:mdllex|vouloir&PRES&12s^v:mdl|vouloir&PRES&12s^v:mdl|vouloir&IMP&2s
+	v|chercher-INF .
+%trn:	pro|moi&sg v:mdl|vouloir&PRES&12s v|chercher-INF .
+*CHI:	moi veux chercher .
+%mor:	pro|moi&sg
+	v:mdllex|vouloir&PRES&12s^v:mdl|vouloir&PRES&12s^v:mdl|vouloir&IMP&2s
+	v|chercher-INF .
+%trn:	pro|moi&sg v:mdl|vouloir&PRES&12s v|chercher-INF .
+*CHI:	parce_que y a un cheval .
+%mor:	conj|parce_que pro:y|y v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s
+	det:art|un&m&sg^pro|un&m&sg n|cheval&m&sg .
+%trn:	conj|parce_que pro:y|y v:aux|avoir&PRES&3s det:art|un&m&sg
+	n|cheval&m&sg .
+*CHI:	mon cheval s'appelle Oika .
+%mor:	det:poss|mon&m&sg n|cheval&m&sg
+	pro:refl|se$v|appeler-IMP&2s^pro:refl|se$v|appeler-PRES&SUB&13s
+	n:prop|Oika .
+%trn:	det:poss|mon&m&sg n|cheval&m&sg pro:refl|se$v|appeler-IMP&2s
+	n:prop|Oika .
+*CHI:	un box .
+%mor:	det:art|un&m&sg^pro|un&m&sg n|box&m .
+%trn:	det:art|un&m&sg n|box&m .
+*CHI:	il est là .
+%mor:	pro:sub|il v:exist|être&PRES&3s^v:aux|être&PRES&3s adv:place|là .
+%trn:	pro:sub|il v:aux|être&PRES&3s adv:place|là .
+*CHI:	c'est Oika .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	n:prop|Oika .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s n:prop|Oika .
+*CHI:	on va aller voir tout_à_l'heure .
+%mor:	pro:sub|on
+	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	v:mdllex|aller&INF^v:mdl|aller&INF v|voir&INF adv|tout_à_l'heure .
+%trn:	pro:sub|on v:mdl|aller&PRES&3s v:mdl|aller&INF v|voir&INF
+	adv|tout_à_l'heure .
+*CHI:	allez .
+%mor:	v:mdllex|aller&IMP&2p^v:mdl|aller&IMP&2p^v:mdllex|aller&PRES&2p^v:mdl|aller&PRES&2p
+	.
+%trn:	v:mdl|aller&IMP&2p .
+*CHI:	et elle aussi .
+%mor:	conj|et pro:sub|elle adv|aussi^conj|aussi .
+%trn:	conj|et pro:sub|elle adv|aussi .
+*CHI:	Marie .
+%mor:	n:prop|Marie .
+%trn:	n:prop|Marie .
+*CHI:	c'est Marie .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	n:prop|Marie .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s n:prop|Marie .
+*CHI:	moi pas monter dans ma chambre .
+%mor:	pro|moi&sg neg|pas v|monter-INF prep|dans det:poss|ma&sg
+	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	pro|moi&sg neg|pas v|monter-INF prep|dans det:poss|ma&sg
+	n|chambre&f .
+*CHI:	ça c'est ma chambre .
+%mor:	pro:dem|ça
+	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:poss|ma&sg n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s
+	.
+%trn:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:poss|ma&sg
+	n|chambre&f .
+*CHI:	ça c'est mon lit .
+%mor:	pro:dem|ça
+	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:poss|mon&m&sg n|lit&m^v|lire-PRES&3s .
+%trn:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:poss|mon&m&sg
+	n|lit&m .
+*CHI:	bonjour Oika .
+%mor:	n|bonjour&m^co|bonjour n:prop|Oika .
+%trn:	co|bonjour n:prop|Oika .
+*CHI:	bonjour .
+%mor:	n|bonjour&m^co|bonjour .
+%trn:	co|bonjour .
+*CHI:	moi m'appelle Marie .
+%mor:	pro|moi&sg
+	pro:obj|me$v|appeler-IMP&2s^pro:obj|me$v|appeler-PRES&SUB&13s
+	n:prop|Marie .
+%trn:	pro|moi&sg pro:obj|me$v|appeler-IMP&2s n:prop|Marie .
+*CHI:	bonjour .
+%mor:	n|bonjour&m^co|bonjour .
+%trn:	co|bonjour .
+*CHI:	s'appelle .
+%mor:	pro:refl|se$v|appeler-IMP&2s^pro:refl|se$v|appeler-PRES&SUB&13s .
+%trn:	pro:refl|se$v|appeler-PRES&SUB&13s .
+*CHI:	s'appelle maman .
+%mor:	pro:refl|se$v|appeler-IMP&2s^pro:refl|se$v|appeler-PRES&SUB&13s
+	n|maman&f .
+%trn:	pro:refl|se$v|appeler-PRES&SUB&13s n|maman&f .
+*CHI:	s'appelle chien .
+%mor:	pro:refl|se$v|appeler-IMP&2s^pro:refl|se$v|appeler-PRES&SUB&13s
+	n|chien&m .
+%trn:	pro:refl|se$v|appeler-PRES&SUB&13s n|chien&m .
+*CHI:	au_revoir .
+%mor:	co|au_revoir .
+%trn:	co|au_revoir .
+*CHI:	monter escalier pour aller dormir .
+%mor:	v|monter-INF n|escalier&m conj|pour^prep|pour
+	v:mdllex|aller&INF^v:mdl|aller&INF v|dormir-INF .
+%trn:	v|monter-INF n|escalier&m prep|pour v:mdl|aller&INF
+	v|dormir-INF .
+*CHI:	bonsoir .
+%mor:	co|bonsoir .
+%trn:	co|bonsoir .
+*CHI:	monter dans ma chambre .
+%mor:	v|monter-INF prep|dans det:poss|ma&sg
+	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	v|monter-INF prep|dans det:poss|ma&sg n|chambre&f .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+*CHI:	il a chaud hein .
+%mor:	pro:sub|il v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s
+	n|chaud&m^adv|chaud^adj|chaud&m co|hein .
+%trn:	pro:sub|il v:aux|avoir&PRES&3s adj|chaud&m co|hein .
+*CHI:	c'est Eros .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	n:prop|Eros .
+%trn:	pro:dem|ce$v:aux|être&PRES&3s n:prop|Eros .
+*CHI:	ah réveiller .
+%mor:	co|ah re#v|veiller-INF .
+%trn:	co|ah re#v|veiller-INF .
+*CHI:	ça_y_est maintenant .
+%mor:	co|ça_y_est adv|maintenant^part|maintenir-PPRE .
+%trn:	co|ça_y_est adv|maintenant .
+*CHI:	où il est ?
+%mor:	pro:rel|où^pro:int|où pro:sub|il
+	v:exist|être&PRES&3s^v:aux|être&PRES&3s ?
+%trn:	pro:int|où pro:sub|il v:aux|être&PRES&3s ?
+*CHI:	c'est ma chambre .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:poss|ma&sg n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s
+	.
+%trn:	pro:dem|ce$v:aux|être&PRES&3s det:poss|ma&sg n|chambre&f .
+*CHI:	ah oui .
+%mor:	co|ah n|oui&m^co|oui=yes .
+%trn:	co|ah co|oui=yes .
+*CHI:	tiens .
+%mor:	co|tiens^n|tien&m-PL^adj|tien&m-PL^v|tenir-PRES&12s^v|tenir-IMP&2s
+	.
+%trn:	v|tenir-IMP&2s .
+*CHI:	tour de manège .
+%mor:	n|tour prep|de n|manège&m .
+%trn:	n|tour prep|de n|manège&m .
+*CHI:	là .
+%mor:	adv:place|là .
+%trn:	adv:place|là .
+*CHI:	tourne .
+%mor:	v|tourner-IMP&2s^v|tourner-PRES&SUB&13s .
+%trn:	v|tourner-IMP&2s .
+*CHI:	monsieur i(l) tourne .
+%mor:	n|monsieur&m pro:sub|il v|tourner-IMP&2s^v|tourner-PRES&SUB&13s .
+%trn:	n|monsieur&m pro:sub|il v|tourner-PRES&SUB&13s .
+*CHI:	non c'est là .
+%mor:	co|non=no
+	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	adv:place|là .
+%trn:	co|non=no pro:dem|ce$v:aux|être&PRES&3s adv:place|là .
+*CHI:	la viande .
+%mor:	det:art|la&f&sg^pro:obj|la n|viande&f .
+%trn:	det:art|la&f&sg n|viande&f .
+*CHI:	la viande aussi .
+%mor:	det:art|la&f&sg^pro:obj|la n|viande&f adv|aussi^conj|aussi .
+%trn:	det:art|la&f&sg n|viande&f adv|aussi .
+*CHI:	la viande .
+%mor:	det:art|la&f&sg^pro:obj|la n|viande&f .
+%trn:	det:art|la&f&sg n|viande&f .
+*CHI:	attention au départ .
+%mor:	n|attention&f^co|attention prep|à&le n|départ&m^dé#v|partir-PRES&3s
+	.
+%trn:	co|attention prep|à&le n|départ&m .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+*CHI:	moi a fait un tour de manège .
+%mor:	pro|moi&sg v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s
+	v:mdllex|faire-PRES&3s^v:mdl|faire-PRES&3s^part|faire-PP&m
+	det:art|un&m&sg^pro|un&m&sg n|tour prep|de n|manège&m .
+%trn:	pro|moi&sg v:aux|avoir&PRES&3s part|faire-PP&m det:art|un&m&sg
+	n|tour prep|de n|manège&m .
+*CHI:	comme ça .
+%mor:	adv|comme^conj|comme^prep|comme pro:dem|ça .
+%trn:	adv|comme pro:dem|ça .
+*CHI:	cela la voiture .
+%mor:	pro:dem|cela^v|celer-PASS&3s det:art|la&f&sg^pro:obj|la n|voiture&f
+	.
+%trn:	pro:dem|cela det:art|la&f&sg n|voiture&f .
+*CHI:	l'est là .
+%mor:	pro:sub|il$v:exist|être&PRES&3s^pro:sub|il$v:aux|être&PRES&3s
+	adv:place|là .
+%trn:	pro:sub|il$v:aux|être&PRES&3s adv:place|là .
+*CHI:	a plus_de place là .
+%mor:	v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s qn|plus_de
+	n|place&f^v|placer-IMP&2s^v|placer-PRES&SUB&13s adv:place|là .
+%trn:	v:aux|avoir&PRES&3s qn|plus_de n|place&f adv:place|là
+	.
+*CHI:	maman y a plus_de place .
+%mor:	n|maman&f pro:y|y v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s
+	qn|plus_de n|place&f^v|placer-IMP&2s^v|placer-PRES&SUB&13s .
+%trn:	n|maman&f pro:y|y v:aux|avoir&PRES&3s qn|plus_de
+	n|place&f .
+*CHI:	partir en vacances .
+%mor:	v|partir-INF pro:y|en^prep|en n|vacance&f-PL .
+%trn:	v|partir-INF prep|en n|vacance&f-PL .
+@End

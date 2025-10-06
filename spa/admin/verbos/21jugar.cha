@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	juego .
+%mor:	v|juga-1S&PRES=play .
+*T:	juegas .
+%mor:	v|juga-2S&PRES=play .
+*T:	juega .
+%mor:	v|juga-3S&PRES=play .
+*T:	jugamos .
+%mor:	v|juga-1P&PRES&PRET=play .
+*T:	jugáis .
+%mor:	v|juga-2P&PRES=play .
+*T:	juegan .
+%mor:	v|juga-3P&PRES=play .
+@Blank
+*T:	jugaba .
+%mor:	v|juga-13S&PAS=play .
+*T:	jugabas .
+%mor:	v|juga-2S&PAS=play .
+*T:	jugaba .
+%mor:	v|juga-13S&PAS=play .
+*T:	jugábamos .
+%mor:	v|juga-1P&PAS=play .
+*T:	jugabais .
+%mor:	v|juga-2P&PAS=play .
+*T:	jugaban .
+%mor:	v|juga-3P&PAS=play .
+@Blank
+*T:	jugué .
+%mor:	v|juga-1S&PRET=play .
+*T:	jugaste .
+%mor:	v|juga-2S&PRET=play .
+*T:	jugó .
+%mor:	v|juga-3S&PRET=play .
+*T:	jugamos .
+%mor:	v|juga-1P&PRES&PRET=play .
+*T:	jugasteis .
+%mor:	v|juga-2P&PRET=play .
+*T:	jugaron .
+%mor:	v|juga-3P&PRET=play .
+@Blank
+*T:	jugaré .
+%mor:	v|juga-1S&FUT=play .
+*T:	jugarás .
+%mor:	v|juga-2S&FUT=play .
+*T:	jugará .
+%mor:	v|juga-3S&FUT=play .
+*T:	jugaremos .
+%mor:	v|juga-1P&FUT=play .
+*T:	jugaréis .
+%mor:	v|juga-2P&FUT=play .
+*T:	jugarán .
+%mor:	v|juga-3P&FUT=play .
+@Blank
+*T:	juegue .
+%mor:	v|juga-13S&SUB&PRES=play .
+*T:	juegues .
+%mor:	v|juga-2S&SUB&PRES=play .
+*T:	juegue .
+%mor:	v|juga-13S&SUB&PRES=play .
+*T:	juguemos .
+%mor:	imp|juga-1P&IMP=play .
+*T:	juguéis .
+%mor:	v|juga-2P&SUB&PRES=play .
+*T:	jueguen .
+%mor:	v|juga-3P&SUB&PRES=play .
+@Blank
+*T:	jugara .
+%mor:	v|juga-13S&SUB&PAS=play .
+*T:	jugaras .
+%mor:	v|juga-2S&SUB&PAS=play .
+*T:	jugara .
+%mor:	v|juga-13S&SUB&PAS=play .
+*T:	jugáramos .
+%mor:	v|juga-1P&SUB&PAS=play .
+*T:	jugarais .
+%mor:	v|juga-2P&SUB&PAS=play .
+*T:	jugaran .
+%mor:	v|juga-3P&SUB&PAS=play .
+@Blank
+*T:	jugando .
+%mor:	ger|juga-PROG=play .
+*T:	jugado .
+%mor:	part|juga-PPART-MASC=play .
+*T:	juega .
+%mor:	v|juga-3S&PRES=play .
+*T:	juegue .
+%mor:	v|juga-13S&SUB&PRES=play .
+*T:	jugad .
+%mor:	imp|juga-2P&IMP=play .
+*T:	jueguen .
+%mor:	v|juga-3P&SUB&PRES=play .
+@Blank
+@End

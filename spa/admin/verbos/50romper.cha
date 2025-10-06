@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	rompo .
+%mor:	v|rompe-1S&PRES=break .
+*T:	rompes .
+%mor:	v|rompe-2S&PRES=break .
+*T:	rompe .
+%mor:	imp|rompe-2S&IMP=break .
+*T:	rompemos .
+%mor:	v|rompe-1P&PRES=break .
+*T:	rompéis .
+%mor:	v|rompe-2P&PRES=break .
+*T:	rompen .
+%mor:	v|rompe-3P&PRES=break .
+@Blank
+*T:	rompía .
+%mor:	v|rompe-13S&PAS=break .
+*T:	rompías .
+%mor:	v|rompe-2S&PAS=break .
+*T:	rompía .
+%mor:	v|rompe-13S&PAS=break .
+*T:	rompíamos .
+%mor:	v|rompe-1P&PAS=break .
+*T:	rompíais .
+%mor:	v|rompe-2P&PAS=break .
+*T:	rompían .
+%mor:	v|rompe-3P&PAS=break .
+@Blank
+*T:	rompí .
+%mor:	v|rompe-1S&PRET=break .
+*T:	rompiste .
+%mor:	v|rompe-2S&PRET=break .
+*T:	rompió .
+%mor:	v|rompe-3S&PRET=break .
+*T:	rompimos .
+%mor:	v|rompe-1P&PRES&PRET=break .
+*T:	rompisteis .
+%mor:	v|rompe-2P&PRET=break .
+*T:	rompieron .
+%mor:	v|rompe-3P&PRET=break .
+@Blank
+*T:	romperé .
+%mor:	v|rompe-1S&FUT=break .
+*T:	romperás .
+%mor:	v|rompe-2S&FUT=break .
+*T:	romperá .
+%mor:	v|rompe-3S&FUT=break .
+*T:	romperemos .
+%mor:	v|rompe-1P&FUT=break .
+*T:	romperéis .
+%mor:	v|rompe-2P&FUT=break .
+*T:	romperán .
+%mor:	v|rompe-3P&FUT=break .
+@Blank
+*T:	rompa .
+%mor:	imp|rompe-3S&IMP=break .
+*T:	rompas .
+%mor:	v|rompe-2S&SUB&PRES=break .
+*T:	rompa .
+%mor:	imp|rompe-3S&IMP=break .
+*T:	rompamos .
+%mor:	imp|rompe-1P&IMP=break .
+*T:	rompáis .
+%mor:	v|rompe-2P&SUB&PRES=break .
+*T:	rompan .
+%mor:	imp|rompe-3P&IMP=break .
+@Blank
+*T:	rompiera .
+%mor:	v|rompe-13S&SUB&PAS=break .
+*T:	rompieras .
+%mor:	v|rompe-2S&SUB&PAS=break .
+*T:	rompiera .
+%mor:	v|rompe-13S&SUB&PAS=break .
+*T:	rompiéramos .
+%mor:	v|rompe-1P&SUB&PAS=break .
+*T:	rompierais .
+%mor:	v|rompe-2P&SUB&PAS=break .
+*T:	rompieran .
+%mor:	v|rompe-3P&SUB&PAS=break .
+@Blank
+*T:	rompiendo .
+%mor:	ger|rompe-PROG=break .
+*T:	roto .
+%mor:	part|rompe-PPART-MASC=break .
+*T:	rompe .
+%mor:	imp|rompe-2S&IMP=break .
+*T:	rompa .
+%mor:	imp|rompe-3S&IMP=break .
+*T:	romped .
+%mor:	imp|rompe-2P&IMP=break .
+*T:	rompan .
+%mor:	imp|rompe-3P&IMP=break .
+@Blank
+@End

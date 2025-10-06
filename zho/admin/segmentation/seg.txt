@@ -1,0 +1,29 @@
+1. Morphologically complex words
+        1) 们 men2: it should act as suffix because its usage is constant
+        2) fixed morphological patterns with reduplicated verbs, including 
+                        A+不bu4+A (e.g., 对dui4不bu2对dui4==>is it correct, 会hui4不bu2会hui4==>can you do it), 
+                        A + 没mei2 + A (e.g., 有you3没mei2有you3: is there any), 
+                        A+A (e.g., 脚jiao3脚jiao3:foot)
+                        A+A+看 (e.g., 算suan4算suan4看kan4: calculate (try it out))
+                ***more are available in ar.cut file
+
+2. Uncommonly used Verb+Noun phrases such as 擦ca1_药yao4 [apply medicine] and : should be segmented
+                ***We are still not sure if highly frequent V+N words like 走路 and 吃饭 should be segmented yet.
+
+3. Resultative verbs and Directional verbs that follow main verbs should be segmented from the main verbs, e.g., 弄nong4_好hao3 (make it good), 剪jian3_掉diao4 (cut it).
+
+4. adjectives used to modify nouns should be separated: e.g., 小xiao3_猪zhu1 (little pig)
+
+5. Adverbs following verbs should be separated, e.g., 收shou1_好hao3 (put away well)
+
+6. people's titles should be segmented from their names or surnames, e.g., 欧ou1_医yi1师shi1 (Doctor Ou)
+
+7. numbers should always be separated, e.g., 三san1_十shi2 (thirty)
+
+8. Wh-words should be separated from the verb/noun it precedes, even if these phrases are commonly used, e.g., 怎zen3么me1(how)_办ban4(do), 哪na3(which)_边bian1(side) 
+
+9. compound words that are not transparent should be put together, e.g., 有you3空kong4 (free), 大da4只zhi1 (bulky), 有you3用yong4 (useful), 不bu2见jian4(disappear)
+
+10. we are also not sure if 第di4+number that denotes ordinal numbers should be treated as a prefix or single word.
+
+找到    ignorede problemnom + classdi - num problemd

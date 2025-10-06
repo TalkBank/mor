@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	amo .
+%mor:	v|ama-1S&PRES=love .
+*T:	amas .
+%mor:	v|ama-2S&PRES=love .
+*T:	ama .
+%mor:	v|ama-3S&PRES=love .
+*T:	amamos .
+%mor:	v|ama-1P&PRES&PRET=love .
+*T:	amáis .
+%mor:	v|ama-2P&PRES=love .
+*T:	aman .
+%mor:	v|ama-3P&PRES=love .
+@Blank
+*T:	amaba .
+%mor:	v|ama-13S&PAS=love .
+*T:	amabas .
+%mor:	v|ama-2S&PAS=love .
+*T:	amaba .
+%mor:	v|ama-13S&PAS=love .
+*T:	amábamos .
+%mor:	v|ama-1P&PAS=love .
+*T:	amabais .
+%mor:	v|ama-2P&PAS=love .
+*T:	amaban .
+%mor:	v|ama-3P&PAS=love .
+@Blank
+*T:	amé .
+%mor:	v|ama-1S&PRET=love .
+*T:	amaste .
+%mor:	v|ama-2S&PRET=love .
+*T:	amó .
+%mor:	v|ama-3S&PRET=love .
+*T:	amamos .
+%mor:	v|ama-1P&PRES&PRET=love .
+*T:	amasteis .
+%mor:	v|ama-2P&PRET=love .
+*T:	amaron .
+%mor:	v|ama-3P&PRET=love .
+@Blank
+*T:	amaré .
+%mor:	v|ama-1S&FUT=love^v|amara-1S&PRET=land_on_water .
+*T:	amarás .
+%mor:	v|ama-2S&FUT=love^v|amara-2S&PRES=land_on_water .
+*T:	amará .
+%mor:	v|ama-3S&FUT=love .
+*T:	amaremos .
+%mor:	v|ama-1P&FUT=love .
+*T:	amaréis .
+%mor:	v|ama-2P&FUT=love .
+*T:	amarán .
+%mor:	v|ama-3P&FUT=love .
+@Blank
+*T:	ame .
+%mor:	v|ama-13S&SUB&PRES=love .
+*T:	ames .
+%mor:	v|ama-2S&SUB&PRES=love .
+*T:	ame .
+%mor:	v|ama-13S&SUB&PRES=love .
+*T:	amemos .
+%mor:	imp|ama-1P&IMP=love .
+*T:	améis .
+%mor:	v|ama-2P&SUB&PRES=love .
+*T:	amen .
+%mor:	imp|ama-3P&IMP=love .
+@Blank
+*T:	amara .
+%mor:	v|amara-3S&PRES=land_on_water .
+*T:	amaras .
+%mor:	v|amara-2S&PRES=land_on_water .
+*T:	amara .
+%mor:	v|amara-3S&PRES=land_on_water .
+*T:	amáramos .
+%mor:	v|ama-1P&SUB&PAS=love .
+*T:	amarais .
+%mor:	v|ama-2P&SUB&PAS=love .
+*T:	amaran .
+%mor:	v|amara-3P&PRES=land_on_water .
+@Blank
+*T:	amando .
+%mor:	ger|ama-PROG=love .
+*T:	amado .
+%mor:	part|ama-PPART-MASC=love .
+*T:	ama .
+%mor:	v|ama-3S&PRES=love .
+*T:	ame .
+%mor:	v|ama-13S&SUB&PRES=love .
+*T:	amad .
+%mor:	imp|ama-2P&IMP=love .
+*T:	amen .
+%mor:	imp|ama-3P&IMP=love .
+@End

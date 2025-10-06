@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	pongo .
+%mor:	v|pone-1S&PRES=put .
+*T:	pones .
+%mor:	v|pone-2S&PRES=put .
+*T:	pone .
+%mor:	imp|pone-2S&IMP=put .
+*T:	ponemos .
+%mor:	v|pone-1P&PRES=put .
+*T:	ponéis .
+%mor:	v|pone-2P&PRES=put .
+*T:	ponen .
+%mor:	v|pone-3P&PRES=put .
+@Blank
+*T:	ponía .
+%mor:	v|pone-13S&PAS=put .
+*T:	ponías .
+%mor:	v|pone-2S&PAS=put .
+*T:	ponía .
+%mor:	v|pone-13S&PAS=put .
+*T:	poníamos .
+%mor:	v|pone-1P&PAS=put .
+*T:	poníais .
+%mor:	v|pone-2P&PAS=put .
+*T:	ponían .
+%mor:	v|pone-3P&PAS=put .
+@Blank
+*T:	puse .
+%mor:	v|pone-1S&PRET=put .
+*T:	pusiste .
+%mor:	v|pone-2S&PRET=put .
+*T:	puso .
+%mor:	v|pone-3S&PRET=put .
+*T:	pusimos .
+%mor:	v|pone-1P&PRES&PRET=put .
+*T:	pusisteis .
+%mor:	v|pone-2P&PRET=put .
+*T:	pusieron .
+%mor:	v|pone-3P&PRET=put .
+@Blank
+*T:	pondré .
+%mor:	v|pone-1S&FUT=put .
+*T:	pondrás .
+%mor:	v|pone-2S&FUT=put .
+*T:	pondrá .
+%mor:	v|pone-3S&FUT=put .
+*T:	pondremos .
+%mor:	v|pone-1P&FUT=put .
+*T:	pondréis .
+%mor:	v|pone-2P&FUT=put .
+*T:	pondrán .
+%mor:	v|pone-3P&FUT=put .
+@Blank
+*T:	ponga .
+%mor:	v|pone-13S&SUB&PRES=put .
+*T:	pongas .
+%mor:	v|pone-2S&SUB&PRES=put .
+*T:	ponga .
+%mor:	v|pone-13S&SUB&PRES=put .
+*T:	pongamos .
+%mor:	imp|pone-1P&IMP=put .
+*T:	pongáis .
+%mor:	v|pone-2P&SUB&PRES=put .
+*T:	pongan .
+%mor:	v|pone-3P&SUB&PRES=put .
+@Blank
+*T:	pusiera .
+%mor:	v|pone-13S&SUB&PAS=put .
+*T:	pusieras .
+%mor:	v|pone-2S&SUB&PAS=put .
+*T:	pusiera .
+%mor:	v|pone-13S&SUB&PAS=put .
+*T:	pusiéramos .
+%mor:	v|pone-1P&SUB&PAS=put .
+*T:	pusierais .
+%mor:	v|pone-2P&SUB&PAS=put .
+*T:	pusieran .
+%mor:	v|pone-3P&SUB&PAS=put .
+@Blank
+*T:	poniendo .
+%mor:	ger|pone-PROG=put .
+*T:	puesto .
+%mor:	part|pone-PPART-MASC=put .
+*T:	pon .
+%mor:	imp|pone-2S&IMP=put .
+*T:	ponga .
+%mor:	v|pone-13S&SUB&PRES=put .
+*T:	poned .
+%mor:	imp|pone-2P&IMP=put .
+*T:	pongan .
+%mor:	v|pone-3P&SUB&PRES=put .
+@Blank
+@End

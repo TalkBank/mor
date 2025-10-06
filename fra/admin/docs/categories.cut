@@ -1,0 +1,53 @@
+@UTF8
+-PP, &PP
+-PPRE
+-PRES, &PRES
+-IMP, &IMP
+-IMPF, &IMPF
+-FUT, &FUT
+-COND, &COND
+-SUB, &SUB
+-INF
+&1s
+&2s
+&3s
+&13s
+&12s
+&m
+&f
+&pl, -PL
+&sg, -SG
+&f, &pl
+&m, &pl
+&f, &sg
+&m, &sg
+|pro
+|adv
+|adv:int
+|adv:place
+|co
+|adj
+|n
+|n:prop
+|neg
+|num
+|v
+|v:mdllex
+|det:art
+|det:dem
+|det:gen
+|det:poss
+|prep
+|pro:ind
+|pro:obj
+|pro:refl
+|pro:rel
+|pro:sub
+|pro:dem
+|pro:int
+|pro:y
+|v:aux
+|v:mdl
+|v:exist
+|v:poss
+|conj

@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	traigo .
+%mor:	v|trae-1S&PRES=carry .
+*T:	traes .
+%mor:	v|trae-2S&PRES=carry .
+*T:	trae .
+%mor:	imp|trae-2S&IMP=carry .
+*T:	traemos .
+%mor:	v|trae-1P&PRES=carry .
+*T:	traéis .
+%mor:	v|trae-2P&PRES=carry .
+*T:	traen .
+%mor:	v|trae-3P&PRES=carry .
+@Blank
+*T:	traía .
+%mor:	v|trae-13S&PAS=carry .
+*T:	traías .
+%mor:	v|trae-2S&PAS=carry .
+*T:	traía .
+%mor:	v|trae-13S&PAS=carry .
+*T:	traíamos .
+%mor:	v|trae-1P&PAS=carry .
+*T:	traíais .
+%mor:	v|trae-2P&PAS=carry .
+*T:	traían .
+%mor:	v|trae-3P&PAS=carry .
+@Blank
+*T:	traje .
+%mor:	v|trae-1S&PRET=carry .
+*T:	trajiste .
+%mor:	v|trae-2S&PRET=carry .
+*T:	trajo .
+%mor:	v|trae-3S&PRET=carry .
+*T:	trajimos .
+%mor:	v|trae-1P&PRES&PRET=carry .
+*T:	trajisteis .
+%mor:	v|trae-2P&PRET=carry .
+*T:	trajeron .
+%mor:	v|trae-3P&PRET=carry .
+@Blank
+*T:	traeré .
+%mor:	v|trae-1S&FUT=carry .
+*T:	traerás .
+%mor:	v|trae-2S&FUT=carry .
+*T:	traerá .
+%mor:	v|trae-3S&FUT=carry .
+*T:	traeremos .
+%mor:	v|trae-1P&FUT=carry .
+*T:	traeréis .
+%mor:	v|trae-2P&FUT=carry .
+*T:	traerán .
+%mor:	v|trae-3P&FUT=carry .
+@Blank
+*T:	traiga .
+%mor:	v|trae-13S&SUB&PRES=carry .
+*T:	traigas .
+%mor:	v|trae-2S&SUB&PRES=carry .
+*T:	traiga .
+%mor:	v|trae-13S&SUB&PRES=carry .
+*T:	traigamos .
+%mor:	imp|trae-1P&IMP=carry .
+*T:	traigáis .
+%mor:	v|trae-2P&SUB&PRES=carry .
+*T:	traigan .
+%mor:	v|trae-3P&SUB&PRES=carry .
+@Blank
+*T:	trajera .
+%mor:	v|trae-13S&SUB&PAS=carry .
+*T:	trajeras .
+%mor:	v|trae-2S&SUB&PAS=carry .
+*T:	trajera .
+%mor:	v|trae-13S&SUB&PAS=carry .
+*T:	trajéramos .
+%mor:	v|trae-1P&SUB&PAS=carry .
+*T:	trajerais .
+%mor:	v|trae-2P&SUB&PAS=carry .
+*T:	trajeran .
+%mor:	v|trae-3P&SUB&PAS=carry .
+@Blank
+*T:	trayendo .
+%mor:	ger|trae-PROG=carry .
+*T:	traído .
+%mor:	part|trae-PPART-MASC=carry .
+*T:	trae .
+%mor:	imp|trae-2S&IMP=carry .
+*T:	traiga .
+%mor:	v|trae-13S&SUB&PRES=carry .
+*T:	traed .
+%mor:	imp|trae-2P&IMP=carry .
+*T:	traigan .
+%mor:	v|trae-3P&SUB&PRES=carry .
+@Blank
+@End

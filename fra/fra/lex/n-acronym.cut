@@ -1,0 +1,14 @@
+@UTF8
+@Window:	578_1426_582_820_-1_-1_0_0_0_0
+cd {[scat n][gen m]} =cd=
+cdrom {[scat n][gen m]} =CD_ROM=
+c_p {[scat n][gen m]} =first_grade=
+dvd {[scat n][gen m]} =dvd=
+ogm {[scat n][gen m]} =GMO=
+rock_n_roll {[scat n][gen m]} =rock_n_roll=
+tgv {[scat n][gen m]} =tgv=
+t_h_c {[scat n][gen m]} =t_h_c=
+tee_shirt {[scat n][gen m]} =teeshirt=
+pc {[scat n][gen m]} =PC=
+vtt {[scat n][gen m]} =mountain_bike=
+

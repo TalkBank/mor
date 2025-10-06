@@ -1,0 +1,10 @@
+@UTF8
+él {[scat pro:sub][gen m]} =he=
+ello {[scat pro:sub][inflect yes]} =he=
+tú {[scat pro:sub]} =you=
+usted {[scat pro:sub]} =you=
+ustedes {[scat pro:sub]} "usted-PL" =you=
+vosotras {[scat pro:sub]} "you&f-PL" =you=
+vosotros {[scat pro:sub]} "you&m-PL"=you=
+yo {[scat pro:sub]} =I=
+nosotro {[scat pro:sub][inflect yes]} =we=

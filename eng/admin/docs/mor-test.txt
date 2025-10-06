@@ -1,0 +1,18 @@
+freq +u +d1 *.cha +re -s"[- *]" > 0all.cex
+
+BBEdit MOR FIX
+(.*)\r
+*CHI:\t\1.\r
+
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|change_me_later|CHI|||||Target_Child|||
+
+CHECK
+@End
+
+mor *.cex +1
+post *.cex +1
+
+CHECK

@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	doy .
+%mor:	v|da-1S&PRES=give .
+*T:	das .
+%mor:	v|da-2S&PRES=give .
+*T:	da .
+%mor:	imp|da-2S&IMP=give .
+*T:	damos .
+%mor:	v|da-1P&PRES&PRET=give .
+*T:	dáis .
+%mor:	v|da-2P&PRES=give .
+*T:	dan .
+%mor:	v|da-3P&PRES=give .
+@Blank
+*T:	daba .
+%mor:	v|da-13S&PAS=give .
+*T:	dabas .
+%mor:	v|da-2S&PAS=give .
+*T:	daba .
+%mor:	v|da-13S&PAS=give .
+*T:	dábamos .
+%mor:	v|da-1P&PAS=give .
+*T:	dabais .
+%mor:	v|da-2P&PAS=give .
+*T:	daban .
+%mor:	v|da-3P&PAS=give .
+@Blank
+*T:	di .
+%mor:	imp|deci-2S&IMP=say .
+*T:	diste .
+%mor:	v|da-2S&PRET=give .
+*T:	dio .
+%mor:	v|da-3S&PRET=give .
+*T:	dimos .
+%mor:	v|da-1P&PRET=give .
+*T:	disteis .
+%mor:	v|da-2P&PRET=give .
+*T:	dieron .
+%mor:	v|da-3P&PRET=give .
+@Blank
+*T:	daré .
+%mor:	v|da-1S&FUT=give .
+*T:	darás .
+%mor:	v|da-2S&FUT=give .
+*T:	dará .
+%mor:	v|da-3S&FUT=give .
+*T:	daremos .
+%mor:	v|da-1P&FUT=give .
+*T:	daréis .
+%mor:	v|da-2P&FUT=give .
+*T:	darán .
+%mor:	v|da-3P&FUT=give .
+@Blank
+*T:	dé .
+%mor:	imp|da-3S&IMP=give .
+*T:	des .
+%mor:	v|da-2S&SUB&PRES=give .
+*T:	dé .
+%mor:	imp|da-3S&IMP=give .
+*T:	demos .
+%mor:	imp|da-1P&IMP=give .
+*T:	déis .
+%mor:	v|da-2P&SUB&PRES=give .
+*T:	den .
+%mor:	imp|da-3P&IMP=give .
+@Blank
+*T:	diera .
+%mor:	v|da-13S&SUB&PAS=give .
+*T:	dieras .
+%mor:	v|da-2S&SUB&PAS=give .
+*T:	diera .
+%mor:	v|da-13S&SUB&PAS=give .
+*T:	diéramos .
+%mor:	v|da-1P&SUB&PAS=give .
+*T:	dierais .
+%mor:	v|da-2P&SUB&PAS=give .
+*T:	dieran .
+%mor:	v|da-3P&SUB&PAS=give .
+@Blank
+*T:	dando .
+%mor:	ger|da-PROG=give .
+*T:	dado .
+%mor:	part|da-PPART-MASC=give .
+*T:	da .
+%mor:	imp|da-2S&IMP=give .
+*T:	dé .
+%mor:	imp|da-3S&IMP=give .
+*T:	dad .
+%mor:	imp|da-2P&IMP=give .
+*T:	den .
+%mor:	imp|da-3P&IMP=give .
+@Blank
+@End

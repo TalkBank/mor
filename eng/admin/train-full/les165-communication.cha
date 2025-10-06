@@ -1,0 +1,2954 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Researcher Participant
+@ID:	eng|MICASE-train|PAR|||||Participant|||
+*PAR:	okay this is the first of two days we'll be talking about
+	augmentative and alternative communication .
+%mor:	co|okay pro:dem|this cop|be&3S det:art|the adj|first prep|of
+	det:num|two n|day-PL pro:sub|we~mod|will aux|be part|talk-PRESP
+	prep|about adj|augmentative coord|and adj|alternative
+	n|communicate&dv-TION .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|12|SUBJ 10|12|AUX 11|12|AUX 12|5|XMOD 13|12|JCT 14|13|POBJ 15|14|CONJ
+	16|17|MOD 17|15|COORD 18|3|PUNCT
+%trn:	co|okay pro:dem|this cop|be&3S det:art|the adj|first prep|of
+	det:num|two n|day-PL pro:sub|we~mod|will aux|be part|talk-PRESP
+	prep|about adj|augmentative coord|and adj|alternative
+	n|communicate&dv-TION .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|JCT 7|8|QUANT
+	8|6|POBJ 9|12|SUBJ 10|12|AUX 11|12|AUX 12|8|XMOD 13|12|JCT
+	14|17|MOD 15|14|CONJ 16|15|COORD 17|13|COORD 18|3|PUNCT
+*PAR:	and so first we're gonna kinda talk about what is communication
+	+...
+%mor:	coord|and adv|so adv|first pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to adv|kinda v|talk prep|about pro:int|what
+	cop|be&3S n|communicate&dv-TION +...
+%gra:	1|6|LINK 2|3|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|INF 8|9|JCT
+	9|6|COMP 10|12|JCT 11|12|SUBJ 12|9|COMP 13|12|PRED 14|6|PUNCT
+%trn:	coord|and adv|so adv|first pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to adv|kinda v|talk prep|about pro:int|what
+	cop|be&3S n|communicate&dv-TION +...
+%grt:	1|6|LINK 2|6|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|INF
+	8|9|JCT 9|6|COMP 10|9|JCT 11|12|LINK 12|10|CPOBJ 13|12|PRED
+	14|6|PUNCT
+*PAR:	and one of the things that we obviously think of with communication
+	is speech .
+%mor:	coord|and det:num|one prep|of det:art|the n|thing-PL pro:rel|that
+	pro:sub|we adv|obvious&dadj-LY v|think prep|of prep|with
+	n|communicate&dv-TION cop|be&3S n|speech .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|5|DET 5|3|POBJ 6|9|LINK 7|9|SUBJ
+	8|9|JCT 9|5|CMOD 10|9|JCT 11|9|JCT 12|13|SUBJ 13|11|POBJ 14|13|PRED
+	15|1|PUNCT
+%trn:	coord|and pro:indef|one prep|of det:art|the n|thing-PL pro:rel|that
+	pro:sub|we adv|obvious&dadj-LY v|think prep|of prep|with
+	n|communicate&dv-TION cop|be&3S n|speech .
+%grt:	1|13|LINK 2|13|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|9|LINK 7|9|SUBJ
+	8|9|JCT 9|5|CMOD 10|9|JCT 11|9|JCT 12|11|POBJ 13|0|ROOT 14|13|PRED
+	15|13|PUNCT
+*PAR:	so ‡ I have our system model of a user here or a person and what
+	different things can go wrong with speech [//] producing speech .
+%mor:	co|so beg|beg pro:sub|I v|have det:poss|our n|system n|model
+	prep|of det:art|a n|use&dv-AGT adv|here coord|or det:art|a n|person
+	coord|and det:int|what adj|different n|thing-PL mod|can v|go n|wrong
+	prep|with n:gerund|produce-PRESP n|speech .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|JCT 12|11|CONJ 13|14|DET 14|12|COORD 15|20|LINK
+	16|18|DET 17|18|MOD 18|20|SUBJ 19|20|AUX 20|4|CJCT 21|20|OBJ 22|20|JCT
+	23|22|POBJ 24|23|OBJ 25|4|PUNCT
+%trn:	co|so beg|beg pro:sub|I v|have det:poss|our n|system n|model
+	prep|of det:art|a n|use&dv-AGT adv|here coord|or det:art|a n|person
+	coord|and det:int|what adj|different n|thing-PL mod|can v|go
+	adj|wrong prep|with n:gerund|produce-PRESP n|speech .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|10|CONJ 13|14|DET 14|12|COORD
+	15|10|CONJ 16|18|DET 17|18|MOD 18|20|SUBJ 19|20|AUX 20|15|COORD
+	21|20|PRED 22|20|JCT 23|22|POBJ 24|23|OBJ 25|4|PUNCT
+*PAR:	they may not be able to control their tongue or the [//] their
+	mouth in an appropriate way to form the words so people can
+	understand .
+%mor:	pro:sub|they mod|may neg|not cop|be adj|able inf|to v|control
+	det:poss|their n|tongue coord|or det:poss|their n|mouth prep|in
+	det:art|a adj|appropriate n|way inf|to v|form det:art|the n|word-PL
+	conj|so n|person&PL mod|can v|understand .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PRED 6|7|INF 7|5|XMOD 8|9|DET
+	9|7|OBJ 10|18|LINK 11|12|DET 12|18|SUBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|INF 18|7|CJCT 19|20|DET 20|18|OBJ 21|24|LINK 22|24|SUBJ
+	23|24|AUX 24|18|CJCT 25|4|PUNCT
+%trn:	pro:sub|they mod|may neg|not cop|be adj|able inf|to v|control
+	det:poss|their n|tongue coord|or det:poss|their n|mouth prep|in
+	det:art|a adj|appropriate n|way inf|to v|form det:art|the n|word-PL
+	conj|so n|person&PL mod|can v|understand .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PRED 6|7|INF 7|5|XMOD 8|9|DET
+	9|7|OBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|7|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|18|INF 18|16|XMOD 19|20|DET 20|18|OBJ
+	21|24|LINK 22|24|SUBJ 23|24|AUX 24|18|CJCT 25|4|PUNCT
+*PAR:	so ‡ they could have a problem with motor control .
+%mor:	co|so beg|beg pro:sub|they mod|could v|have det:art|a n|problem
+	prep|with n|motor n|control .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|5|PUNCT
+%trn:	co|so beg|beg pro:sub|they mod|could v|have det:art|a n|problem
+	prep|with n|motor n|control .
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|5|PUNCT
+*PAR:	that's one place where things could break down in producing speech
+	.
+%mor:	pro:dem|that~cop|be&3S det:num|one n|place pro:rel|where n|thing-PL
+	mod|could v|break adv|down prep|in n:gerund|produce-PRESP n|speech .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|8|JCT 11|12|MOD 12|10|POBJ 13|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S det:num|one n|place pro:rel|where n|thing-PL
+	mod|could v|break adv|down prep|in n:gerund|produce-PRESP n|speech .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|8|JCT 10|8|JCT 11|10|POBJ 12|11|OBJ 13|2|PUNCT
+*PAR:	any other places that things can break down in the production of
+	speech ?
+%mor:	qn|any qn|other n|place-PL pro:rel|that n|thing-PL mod|can v|break
+	adv|down prep|in det:art|the n|production prep|of n|speech ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|7|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+%trn:	qn|any qn|other n|place-PL pro:rel|that n|thing-PL mod|can v|break
+	adv|down prep|in det:art|the n|production prep|of n|speech ?
+%grt:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|7|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+*PAR:	okay an aphasia would be one diagnosis for forgetting names though
+	I tend to forget names and nouns occasionally and don't necessarily
+	have an aphasia but +...
+%mor:	co|okay det:art|a n|aphasia mod|will&COND cop|be det:num|one
+	n|diagnosis prep|for n:gerund|forget-PRESP n|name-PL adv|though
+	pro:sub|I v|tend inf|to v|forget n|name-PL coord|and n|noun-PL
+	adv|occasion&dadj-AL-LY coord|and mod|do~neg|not
+	adv|necessary&dadj-LY v|have det:art|a n|aphasia conj|but +...
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|13|JCT 6|7|QUANT 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|9|OBJ 11|10|NJCT 12|13|SUBJ 13|0|ROOT 14|15|INF 15|13|COMP
+	16|15|OBJ 17|16|CONJ 18|17|COORD 19|18|NJCT 20|19|CONJ 21|24|AUX 22|21|NEG
+	23|24|JCT 24|20|COORD 25|26|DET 26|24|OBJ 27|13|OM 28|13|PUNCT
+%trn:	co|okay det:art|a n|aphasia mod|will&COND cop|be det:num|one
+	n|diagnosis prep|for n:gerund|forget-PRESP n|name-PL conj|though
+	pro:sub|I v|tend inf|to v|forget n|name-PL coord|and n|noun-PL
+	adv|occasion&dadj-AL-LY coord|and mod|do~neg|not
+	adv|necessary&dadj-LY v|have det:art|a n|aphasia conj|but +...
+%grt:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|PRED
+	8|7|NJCT 9|8|POBJ 10|9|OBJ 11|13|LINK 12|13|SUBJ 13|5|CJCT 14|15|INF
+	15|13|COMP 16|15|OBJ 17|16|CONJ 18|17|COORD 19|15|JCT 20|13|CONJ
+	21|24|AUX 22|21|NEG 23|24|JCT 24|20|COORD 25|26|DET 26|24|OBJ
+	27|13|OM 28|5|PUNCT
+*PAR:	okay we have problems that can happen with the motor control and
+	the coordination such_as the dysarthria and I have these all spelled
+	out .
+%mor:	co|okay pro:sub|we v|have n|problem-PL pro:rel|that mod|can
+	v|happen prep|with det:art|the n|motor n|control coord|and
+	det:art|the n|coordinate&dv-TION prep|such_as det:art|the
+	n|dysarthria coord|and pro:sub|I v|have pro:dem|these post|all
+	part|spell-PASTP adv|out .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|7|CONJ 13|14|DET 14|12|COORD 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|20|LINK 19|20|SUBJ 20|3|CJCT 21|20|OBJ
+	22|21|POSTMOD 23|22|XMOD 24|23|JCT 25|3|PUNCT
+%trn:	co|okay pro:sub|we v|have n|problem-PL pro:rel|that mod|can
+	v|happen prep|with det:art|the n|motor n|control coord|and
+	det:art|the n|coordinate&dv-TION prep|such_as det:art|the
+	n|dysarthria coord|and pro:sub|I v|have pro:dem|these post|all
+	part|spell-PASTP adv|out .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|CONJ 13|14|DET 14|12|COORD 15|4|NJCT
+	16|17|DET 17|15|POBJ 18|20|LINK 19|20|SUBJ 20|3|CJCT 21|20|OBJ
+	22|21|PQ 23|21|XMOD 24|23|JCT 25|3|PUNCT
+*PAR:	so ‡ for apraxia .
+%mor:	co|so beg|beg prep|for n|apraxia .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|POBJ 5|3|PUNCT
+%trn:	co|so beg|beg prep|for n|apraxia .
+%grt:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|POBJ 5|3|PUNCT
+*PAR:	this is caused by a central nervous system problem .
+%mor:	pro:dem|this aux|be&3S part|cause-PASTP prep|by det:art|a
+	adj|central adj|nervous n|system n|problem .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|9|DET 6|9|MOD 7|9|MOD 8|9|MOD
+	9|4|POBJ 10|3|PUNCT
+%trn:	pro:dem|this aux|be&3S part|cause-PASTP prep|by det:art|a
+	adj|central adj|nervous n|system n|problem .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|9|DET 6|8|MOD 7|8|MOD 8|9|MOD
+	9|4|POBJ 10|3|PUNCT
+*PAR:	and it &s mostly prevents the coordination of the peripheral
+	muscles and getting all the different muscles that we use to talk ,
+	produce the air that blows over the vocal cords , get the vocal
+	cords vibrating at just the right time , get our mouth and lips <in
+	the right> [//] and tongue especially in the right coordination to
+	produce intelligible speech .
+%mor:	coord|and pro:per|it adv|mostly v|prevent-3S det:art|the
+	n|coordinate&dv-TION prep|of det:art|the adj|peripheral n|muscle-PL
+	coord|and n:gerund|get-PRESP qn|all det:art|the adj|different
+	n|muscle-PL pro:rel|that pro:sub|we v|use prep|to n|talk cm|cm
+	n|produce det:art|the n|air pro:rel|that v|blow-3S prep|over
+	det:art|the adj|vocal n|cord-PL cm|cm v|get det:art|the adj|vocal
+	n|cord-PL part|vibrate-PRESP prep|at adv|just det:art|the adj|right
+	n|time cm|cm v|get det:poss|our n|mouth coord|and n|lip-PL coord|and
+	n|tongue adv|especial&dadj-LY prep|in det:art|the adj|right
+	n|coordinate&dv-TION inf|to v|produce adj|intelligible n|speech .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|CONJ 12|11|COORD 13|16|QUANT 14|16|DET 15|16|MOD
+	16|12|OBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|19|JCT 21|20|POBJ 22|16|LP
+	23|16|ENUM 24|25|DET 25|23|OBJ 26|27|LINK 27|25|CMOD 28|27|JCT 29|31|DET
+	30|31|MOD 31|28|POBJ 32|4|LP 33|4|ENUM 34|36|DET 35|36|MOD 36|33|OBJ
+	37|36|XMOD 38|37|JCT 39|42|JCT 40|42|DET 41|42|MOD 42|38|POBJ 43|33|LP
+	44|33|ENUM 45|46|DET 46|44|OBJ 47|46|CONJ 48|47|COORD 49|46|CONJ
+	50|49|COORD 51|44|JCT 52|44|JCT 53|55|DET 54|55|MOD 55|52|POBJ 56|57|INF
+	57|44|COMP 58|59|MOD 59|57|OBJ 60|4|PUNCT
+%trn:	coord|and pro:per|it adv|mostly v|prevent-3S det:art|the
+	n|coordinate&dv-TION prep|of det:art|the adj|peripheral n|muscle-PL
+	coord|and n:gerund|get-PRESP qn|all det:art|the adj|different
+	n|muscle-PL pro:rel|that pro:sub|we v|use inf|to v|talk cm|cm
+	v|produce det:art|the n|air pro:rel|that v|blow-3S prep|over
+	det:art|the adj|vocal n|cord-PL cm|cm v|get det:art|the adj|vocal
+	n|cord-PL part|vibrate-PRESP prep|at adv|just det:art|the adj|right
+	n|time cm|cm v|get det:poss|our n|mouth coord|and n|lip-PL coord|and
+	n|tongue adv|especial&dadj-LY prep|in det:art|the adj|right
+	n|coordinate&dv-TION inf|to v|produce adj|intelligible n|speech .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|6|CONJ 12|11|COORD 13|16|QUANT
+	14|16|DET 15|16|MOD 16|12|OBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD
+	20|19|JCT 21|19|COMP 22|21|LP 23|21|ENUM 24|25|DET 25|23|OBJ
+	26|27|LINK 27|25|CMOD 28|27|JCT 29|31|DET 30|31|MOD 31|28|POBJ
+	32|23|LP 33|21|ENUM 34|36|DET 35|36|MOD 36|33|OBJ 37|36|XMOD
+	38|37|JCT 39|42|NJCT 40|42|DET 41|42|MOD 42|38|POBJ 43|33|LP
+	44|21|ENUM 45|46|DET 46|44|OBJ 47|46|CONJ 48|47|COORD 49|48|CONJ
+	50|49|COORD 51|50|NJCT 52|44|JCT 53|55|DET 54|55|MOD 55|52|POBJ
+	56|57|INF 57|55|XMOD 58|59|MOD 59|57|OBJ 60|4|PUNCT
+*PAR:	so ‡ if you have a problem in there you've got apraxia .
+%mor:	co|so beg|beg conj|if pro:per|you v|have det:art|a n|problem
+	prep|in n|there pro:per|you~aux|have part|get&PASTP n|apraxia .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|12|CJCT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|OBJ 14|12|PUNCT
+%trn:	co|so beg|beg conj|if pro:per|you v|have det:art|a n|problem
+	prep|in pro:indef|there pro:per|you~aux|have part|get&PASTP n|apraxia .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|12|CJCT 6|7|DET 7|5|OBJ
+	8|5|JCT 9|8|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|OBJ
+	14|12|PUNCT
+*PAR:	dysarthria can happen &ei from damage either in the central or
+	peripheral nervous system .
+%mor:	n|dysarthria mod|can v|happen prep|from n|damage coord|either
+	prep|in det:art|the adj|central coord|or adj|peripheral adj|nervous
+	n|system .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|9|DET
+	9|7|POBJ 10|9|CONJ 11|13|MOD 12|13|MOD 13|10|COORD 14|3|PUNCT
+%trn:	n|dysarthria mod|can v|happen prep|from n|damage coord|either prep|in
+	det:art|the adj|central coord|or adj|peripheral adj|nervous n|system
+	.
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|COORD 7|5|NJCT 8|9|DET
+	9|13|MOD 10|11|COORD 11|9|ENUM 12|13|MOD 13|7|POBJ 14|3|PUNCT
+*PAR:	and that has a combination of weakness slowness and some
+	incoordination of all those muscles that hafta work together again .
+%mor:	coord|and pro:dem|that v|have&3S det:art|a n|combine&dv-TION
+	prep|of n|weak&dadj-NESS n|slow&dadj-NESS coord|and qn|some
+	in#n|coordinate&dv-TION prep|of qn|all det:dem|those n|muscle-PL
+	pro:rel|that mod|have~inf|to v|work adv|together adv:tem|again .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|CONJ 10|11|QUANT 11|9|COORD 12|11|NJCT 13|15|QUANT 14|15|DET
+	15|12|POBJ 16|19|LINK 17|19|AUX 18|19|INF 19|15|CMOD 20|19|JCT 21|19|JCT
+	22|3|PUNCT
+%trn:	coord|and comp|that v|have&3S det:art|a n|combine&dv-TION prep|of
+	n|weak&dadj-NESS n|slow&dadj-NESS coord|and qn|some
+	in#n|coordinate&dv-TION prep|of qn|all det:dem|those n|muscle-PL
+	pro:rel|that mod|have~inf|to v|work adv|together adv:tem|again .
+%grt:	1|3|LINK 2|3|LINK 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ
+	8|7|ENUM 9|7|CONJ 10|11|QUANT 11|9|COORD 12|11|NJCT 13|15|QUANT
+	14|15|DET 15|12|POBJ 16|19|LINK 17|19|AUX 18|19|INF 19|15|CMOD
+	20|19|JCT 21|19|JCT 22|3|PUNCT
+*PAR:	and then you can just have a flat_out damaged vocal system where
+	you have some damage to the tongue , some damage to the mouth or the
+	vocal cords , and those can create a speech impairment as_well .
+%mor:	coord|and adv:tem|then pro:per|you mod|can adv|just v|have
+	det:art|a adv|flat_out part|damage-PASTP adj|vocal n|system
+	pro:rel|where pro:per|you v|have qn|some n|damage prep|to
+	det:art|the n|tongue cm|cm qn|some n|damage prep|to det:art|the
+	n|mouth coord|or det:art|the adj|vocal n|cord-PL cm|cm coord|and
+	pro:dem|those mod|can v|create det:art|a n|speech n|impair&dv-MENT
+	adv|as_well .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|11|DET 8|9|JCT
+	9|11|MOD 10|11|MOD 11|6|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|16|QUANT
+	16|14|OBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|16|LP 21|22|QUANT 22|16|ENUM
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|16|CONJ 27|29|DET 28|29|MOD
+	29|26|COORD 30|29|LP 31|34|LINK 32|34|SUBJ 33|34|AUX 34|14|CJCT 35|37|DET
+	36|37|MOD 37|34|OBJ 38|34|JCT 39|6|PUNCT
+%trn:	coord|and adv:tem|then pro:per|you mod|can adv|just v|have
+	det:art|a adv|flat_out part|damage-PASTP adj|vocal n|system
+	pro:rel|where pro:per|you v|have qn|some n|damage prep|to
+	det:art|the n|tongue cm|cm qn|some n|damage prep|to det:art|the
+	n|mouth coord|or det:art|the adj|vocal n|cord-PL cm|cm coord|and
+	pro:dem|those mod|can v|create det:art|a n|speech n|impair&dv-MENT
+	adv|as_well .
+%grt:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|11|DET 8|9|JCT
+	9|11|XMOD 10|11|MOD 11|6|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD
+	15|16|QUANT 16|14|OBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|16|LP
+	21|22|QUANT 22|16|ENUM 23|22|NJCT 24|25|DET 25|23|POBJ 26|25|CONJ
+	27|29|DET 28|29|MOD 29|26|COORD 30|22|LP 31|34|LINK 32|34|SUBJ
+	33|34|AUX 34|6|CJCT 35|37|DET 36|37|MOD 37|34|OBJ 38|34|JCT
+	39|6|PUNCT
+*PAR:	so ‡ what kinda things can go wrong with understanding speech ?
+%mor:	co|so beg|beg det:int|what adv|kinda n|thing-PL mod|can v|go
+	n|wrong prep|with n:gerund|understand-PRESP n|speech ?
+%gra:	1|0|BEG 2|1|BEGP 3|7|SUBJ 4|7|JCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|7|PUNCT
+%trn:	co|so beg|beg det:int|what adv|kinda n|thing-PL mod|can v|go
+	adj|wrong prep|with n:gerund|understand-PRESP n|speech ?
+%grt:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|NJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|PRED
+	9|7|JCT 10|9|POBJ 11|10|OBJ 12|7|PUNCT
+*PAR:	you're correct in_that there can be productive aphasia which is
+	producing the speech and also receptive aphasia which is
+	understanding the speech .
+%mor:	pro:per|you~cop|be&PRES adj|correct conj|in_that pro:exist|there
+	mod|can cop|be adj|productive n|aphasia pro:rel|which aux|be&3S
+	part|produce-PRESP det:art|the n|speech coord|and adv|also
+	adj|receptive n|aphasia pro:rel|which aux|be&3S
+	part|understand-PRESP det:art|the n|speech .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|7|LINK 5|7|SUBJ 6|7|AUX 7|2|CJCT 8|9|MOD
+	9|7|PRED 10|12|LINK 11|12|AUX 12|7|CPRED 13|14|DET 14|12|OBJ 15|12|CONJ
+	16|17|JCT 17|18|MOD 18|15|COORD 19|21|LINK 20|21|AUX 21|18|CMOD 22|23|DET
+	23|21|OBJ 24|2|PUNCT
+%trn:	pro:per|you~cop|be&PRES adj|correct conj|in_that pro:exist|there
+	mod|can cop|be adj|productive n|aphasia pro:rel|which cop|be&3S
+	n:gerund|produce-PRESP det:art|the n|speech coord|and adv|also
+	adj|receptive n|aphasia pro:rel|which cop|be&3S
+	n:gerund|understand-PRESP det:art|the n|speech .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|7|LINK 5|7|SUBJ 6|7|AUX 7|2|CJCT 8|9|MOD
+	9|7|PRED 10|11|LINK 11|9|CMOD 12|11|PRED 13|14|DET 14|12|OBJ
+	15|9|CONJ 16|18|NJCT 17|18|MOD 18|15|COORD 19|20|LINK 20|18|CMOD
+	21|20|PRED 22|23|DET 23|21|OBJ 24|2|PUNCT
+*PAR:	Wernicke's aphasia is damage to Wernicke's area of the brain .
+%mor:	adj|Wernicke&dn-POSS n|aphasia cop|be&3S n|damage prep|to
+	adj|Wernicke&dn-POSS n|area prep|of det:art|the n|brain .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|MOD 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%trn:	adj|Wernicke&dn-POSS n|aphasia cop|be&3S n|damage prep|to
+	adj|Wernicke&dn-POSS n|area prep|of det:art|the n|brain .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|MOD 7|5|POBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	<it's actually> [//] I think that one goes with the [/] the
+	understanding (be)cause that's the connections from the hearing area
+	of the brain to the [/] the rest of the brain .
+%mor:	pro:sub|I v|think comp|that pro:indef|one v|go-3S prep|with
+	det:art|the n:gerund|understand-PRESP conj|because
+	pro:dem|that~cop|be&3S det:art|the n|connection-PL prep|from
+	det:art|the part|hear-PRESP n|area prep|of det:art|the n|brain
+	prep|to det:art|the n|rest prep|of det:art|the n|brain .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|2|CJCT 12|13|DET 13|11|PRED 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|13|NJCT
+	22|23|DET 23|21|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|2|PUNCT
+%trn:	pro:sub|I v|think det:dem|that pro:indef|one v|go-3S prep|with
+	det:art|the n:gerund|understand-PRESP conj|because
+	pro:dem|that~cop|be&3S det:art|the n|connection-PL prep|from
+	det:art|the part|hear-PRESP n|area prep|of det:art|the n|brain
+	prep|to det:art|the n|rest prep|of det:art|the n|brain .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|JCT 7|8|DET
+	8|6|POBJ 9|11|LINK 10|11|SUBJ 11|2|CJCT 12|13|DET 13|11|PRED
+	14|13|NJCT 15|17|DET 16|17|XMOD 17|14|POBJ 18|17|NJCT 19|20|DET
+	20|18|POBJ 21|13|NJCT 22|23|DET 23|21|POBJ 24|23|NJCT 25|26|DET
+	26|24|POBJ 27|2|PUNCT
+*PAR:	I have an uncle who has an aphasia and has <very much confused> [/]
+	very much confused the doctors when he was a kid in you_know late
+	nineteen forties .
+%mor:	pro:sub|I v|have det:art|a n|uncle pro:rel|who v|have&3S det:art|a
+	n|aphasia coord|and aux|have&3S adv|very adv|much v|confuse-PAST
+	det:art|the n|doctor-PL conj|when pro:sub|he cop|be&PAST&13S
+	det:art|a n|kid prep|in co|you_know adj|late det:num|nineteen
+	n|forty-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|13|AUX 11|12|JCT 12|13|JCT 13|9|COORD 14|15|DET 15|13|OBJ
+	16|18|LINK 17|18|SUBJ 18|13|CJCT 19|20|DET 20|18|PRED 21|20|NJCT 22|25|COM
+	23|25|MOD 24|25|QUANT 25|21|POBJ 26|2|PUNCT
+%trn:	pro:sub|I v|have det:art|a n|uncle pro:rel|who v|have&3S det:art|a
+	n|aphasia coord|and aux|have&3S adv|very adv|much v|confuse-PAST
+	det:art|the n|doctor-PL conj|when pro:sub|he cop|be&PAST&13S
+	det:art|a n|kid prep|in co|you_know adj|late det:num|nineteen
+	n|forty-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|13|AUX 11|12|JCT 12|13|JCT 13|9|COORD 14|15|DET
+	15|13|OBJ 16|18|LINK 17|18|SUBJ 18|13|CJCT 19|20|DET 20|18|PRED
+	21|18|JCT 22|25|COM 23|24|MOD 24|25|QUANT 25|21|POBJ 26|2|PUNCT
+*PAR:	that they'd take him to one doctor and the doctor would sound a
+	tuning fork in his ear and he'd look around and he said +"/.
+%mor:	comp|that pro:sub|they~mod|genmod v|take pro:obj|him prep|to
+	det:num|one n|doctor coord|and det:art|the n|doctor mod|will&COND
+	v|sound det:art|a part|tune-PRESP n|fork prep|in det:poss|his n|ear
+	coord|and pro:sub|he~mod|genmod v|look adv|around coord|and
+	pro:sub|he v|say&PAST +"/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|QUANT 8|6|POBJ
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|16|DET 15|16|MOD
+	16|13|OBJ 17|13|JCT 18|19|DET 19|17|POBJ 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|13|CJCT 24|23|JCT 25|27|LINK 26|27|SUBJ 27|23|CJCT 28|4|PUNCT
+%trn:	comp|that pro:sub|they~mod|genmod v|take pro:obj|him prep|to
+	det:num|one n|doctor coord|and det:art|the n|doctor mod|will&COND
+	v|sound det:art|a n:gerund|tune-PRESP n|fork prep|in det:poss|his
+	n|ear coord|and pro:sub|he~mod|genmod v|look adv|around coord|and
+	pro:sub|he v|say&PAST +"/.
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|QUANT
+	8|6|POBJ 9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|4|CJCT
+	14|16|DET 15|16|MOD 16|13|OBJ 17|13|JCT 18|19|DET 19|17|POBJ
+	20|23|LINK 21|23|SUBJ 22|23|AUX 23|4|CJCT 24|23|JCT 25|27|LINK
+	26|27|SUBJ 27|4|CJCT 28|4|PUNCT
+*PAR:	+" you_know he can hear fine .
+%mor:	co|you_know pro:sub|he mod|can v|hear adv|fine .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%trn:	co|you_know pro:sub|he mod|can v|hear adv|fine .
+%grt:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	+" I don't know what your problem is .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what det:poss|your
+	n|problem cop|be&3S .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|7|DET 7|8|SUBJ 8|4|COMP
+	9|4|PUNCT
+%trn:	pro:sub|I mod|do~neg|not v|know pro:int|what det:poss|your
+	n|problem cop|be&3S .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|7|DET 7|8|SUBJ
+	8|4|COMP 9|4|PUNCT
+*PAR:	+" why are you bringing him to me ?
+%mor:	pro:int|why aux|be&PRES pro:per|you part|bring-PRESP pro:obj|him
+	prep|to pro:obj|me ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%trn:	pro:int|why aux|be&PRES pro:per|you part|bring-PRESP pro:obj|him
+	prep|to pro:obj|me ?
+%grt:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ
+	8|4|PUNCT
+*PAR:	they'd take him to another doctor .
+%mor:	pro:sub|they~mod|genmod v|take pro:obj|him prep|to qn|another
+	n|doctor .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ 8|3|PUNCT
+%trn:	pro:sub|they~mod|genmod v|take pro:obj|him prep|to qn|another
+	n|doctor .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ
+	8|3|PUNCT
+*PAR:	the doctor would talk to him and he wouldn't understand or respond
+	.
+%mor:	det:art|the n|doctor mod|will&COND v|talk prep|to pro:obj|him
+	coord|and pro:sub|he mod|will&COND~neg|not v|understand coord|or
+	v|respond .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|4|CJCT 12|11|CONJ 13|12|COORD 14|4|PUNCT
+%trn:	det:art|the n|doctor mod|will&COND v|talk prep|to pro:obj|him
+	coord|and pro:sub|he mod|will&COND~neg|not v|understand coord|or
+	v|respond .
+%grt:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|4|CJCT 12|11|CONJ 13|12|COORD
+	14|4|PUNCT
+*PAR:	and they'd say +"/.
+%mor:	coord|and pro:sub|they~mod|genmod v|say +"/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%trn:	coord|and pro:sub|they~mod|genmod v|say +"/.
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	+" well he's deaf you_know .
+%mor:	co|well pro:sub|he~cop|be&3S adj|deaf co|you_know .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|COM 6|3|PUNCT
+%trn:	co|well pro:sub|he~cop|be&3S adj|deaf co|you_know .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|COM 6|3|PUNCT
+*PAR:	+" what are you bringing him to me for ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|bring-PRESP pro:obj|him
+	prep|to pro:obj|me prep|for ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|JCT
+	9|4|PUNCT
+%trn:	pro:int|what aux|be&PRES pro:per|you part|bring-PRESP pro:obj|him
+	prep|to pro:obj|me prep|for ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|JCT
+	9|4|PUNCT
+*PAR:	because he can hear .
+%mor:	conj|because pro:sub|he mod|can v|hear .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%trn:	conj|because pro:sub|he mod|can v|hear .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	he can play the piano .
+%mor:	pro:sub|he mod|can v|play det:art|the n|piano .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%trn:	pro:sub|he mod|can v|play det:art|the n|piano .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	but he cannot understand speech .
+%mor:	conj|but pro:sub|he mod|can~neg|not v|understand n|speech .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%trn:	conj|but pro:sub|he mod|can~neg|not v|understand n|speech .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	that part of his brain that turns <sounds into> [//] symbols I
+	guess into intelligible words is damaged .
+%mor:	det:dem|that n|part prep|of det:poss|his n|brain pro:rel|that
+	v|turn-3S n|symbol-PL pro:sub|I v|guess prep|into adj|intelligible
+	n|word-PL aux|be&3S part|damage-PASTP .
+%gra:	1|2|DET 2|10|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|LINK 7|2|CMOD 8|7|OBJ
+	9|10|SUBJ 10|0|ROOT 11|10|JCT 12|13|MOD 13|11|POBJ 14|15|AUX 15|10|CJCT
+	16|10|PUNCT
+%trn:	det:dem|that n|part prep|of det:poss|his n|brain pro:rel|that
+	v|turn-3S n|symbol-PL pro:sub|I v|guess prep|into adj|intelligible
+	n|word-PL aux|be&3S part|damage-PASTP .
+%grt:	1|2|DET 2|15|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|LINK 7|2|CMOD
+	8|7|OBJ 9|10|SUBJ 10|8|CMOD 11|7|JCT 12|13|MOD 13|11|POBJ 14|15|AUX
+	15|0|ROOT 16|15|PUNCT
+*PAR:	and it's actually kind_of interesting .
+%mor:	coord|and pro:per|it~cop|be&3S adv|actual&dadj-LY adv|kind_of
+	adj|interesting .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|JCT 6|3|PRED 7|3|PUNCT
+%trn:	coord|and pro:per|it~cop|be&3S adv|actual&dadj-LY adv|kind_of
+	adj|interesting .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|JCT 6|3|PRED 7|3|PUNCT
+*PAR:	I [/] I [//] when I talk with neurologists every once in a while I
+	will talk to them and &ex describe my uncle (be)cause they are all
+	very interested .
+%mor:	conj|when pro:sub|I v|talk prep|with n|neurology-IST-PL qn|every
+	adv:tem|once prep|in det:art|a n|while pro:sub|I mod|will v|talk prep|to
+	pro:obj|them coord|and v|describe det:poss|my n|uncle conj|because
+	pro:sub|they cop|be&PRES post|all adv|very part|interest-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|13|QUANT 7|13|JCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|SUBJ 12|13|AUX 13|3|JCT 14|13|JCT 15|14|POBJ
+	16|13|CONJ 17|16|COORD 18|19|DET 19|17|OBJ 20|22|LINK 21|22|SUBJ
+	22|3|ROOT 23|22|PRED 24|25|JCT 25|23|ROOT 26|25|PUNCT
+%trn:	conj|when pro:sub|I v|talk prep|with n|neurology-IST-PL qn|every
+	adv:tem|once prep|in det:art|a n|while pro:sub|I mod|will v|talk prep|to
+	pro:obj|them coord|and v|describe det:poss|my n|uncle conj|because
+	pro:sub|they aux|be&PRES post|all adv|very part|interest-PASTP .
+%grt:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|JCT 5|4|POBJ 6|7|QUANT 7|3|JCT
+	8|7|JCT 9|10|DET 10|8|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|JCT
+	15|14|POBJ 16|13|CONJ 17|16|COORD 18|19|DET 19|17|OBJ 20|25|LINK
+	21|25|SUBJ 22|25|AUX 23|21|PQ 24|25|JCT 25|13|CJCT 26|13|PUNCT
+*PAR:	+" well you mean he can write and he can play the piano and he can
+	read but he can't understand the spoken word ?
+%mor:	co|well pro:per|you v|mean pro:sub|he mod|can v|write coord|and
+	pro:sub|he mod|can v|play det:art|the n|piano coord|and pro:sub|he
+	mod|can v|read&ZERO conj|but pro:sub|he mod|can~neg|not v|understand
+	det:art|the part|speak&PASTP n|word ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|3|CJCT 11|12|DET 12|10|OBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|10|CJCT 17|21|LINK 18|21|SUBJ 19|21|AUX 20|19|NEG 21|16|CJCT
+	22|24|DET 23|24|MOD 24|21|OBJ 25|3|PUNCT
+%trn:	co|well pro:per|you v|mean pro:sub|he mod|can v|write coord|and
+	pro:sub|he mod|can v|play det:art|the n|piano coord|and pro:sub|he
+	mod|can v|read&ZERO conj|but pro:sub|he mod|can~neg|not v|understand
+	det:art|the part|speak&PASTP n|word ?
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CJCT 11|12|DET 12|10|OBJ 13|16|LINK
+	14|16|SUBJ 15|16|AUX 16|6|CJCT 17|21|LINK 18|21|SUBJ 19|21|AUX
+	20|19|NEG 21|6|CJCT 22|24|DET 23|24|XMOD 24|21|OBJ 25|3|PUNCT
+*PAR:	+" well that means it's probably damaged right in this part and
+	it's a very small lesion .
+%mor:	co|well pro:dem|that v|mean-3S pro:per|it~aux|be&3S
+	adv|probable&dadj-LY part|damage-PASTP adv|right prep|in
+	det:dem|this n|part coord|and pro:per|it~cop|be&3S det:art|a
+	adv|very adj|small n|lesion .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|AUX 6|7|JCT 7|3|COMP 8|9|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|7|CJCT 15|18|DET
+	16|17|JCT 17|18|MOD 18|14|PRED 19|3|PUNCT
+%trn:	co|well pro:dem|that v|mean-3S pro:per|it~aux|be&3S
+	adv|probable&dadj-LY part|damage-PASTP adv|right prep|in
+	det:dem|this n|part coord|and pro:per|it~cop|be&3S det:art|a
+	adv|very adj|small n|lesion .
+%grt:	1|3|COM 2|3|JCT 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|COMP 8|9|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|7|CJCT
+	15|18|DET 16|17|JCT 17|18|MOD 18|14|PRED 19|3|PUNCT
+*PAR:	and they get very fascinated so you_know I amuse the doctors every
+	once in a while by describing him .
+%mor:	coord|and pro:sub|they v|get adv|very part|fascinate-PASTP conj|so
+	co|you_know pro:sub|I v|amuse det:art|the n|doctor-PL qn|every
+	adv:tem|once prep|in det:art|a n|while prep|by n:gerund|describe-PRESP
+	pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|COMP 6|9|LINK 7|9|COM 8|9|SUBJ
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|13|QUANT 13|9|JCT 14|9|JCT 15|16|DET
+	16|14|POBJ 17|9|JCT 18|17|POBJ 19|18|OBJ 20|3|PUNCT
+%trn:	coord|and pro:sub|they aux|get adv|very part|fascinate-PASTP conj|so
+	co|you_know pro:sub|I v|amuse det:art|the n|doctor-PL qn|every
+	adv:tem|once prep|in det:art|a n|while prep|by n:gerund|describe-PRESP
+	pro:obj|him .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|9|LINK 7|9|COM 8|9|SUBJ
+	9|5|CJCT 10|11|DET 11|9|OBJ 12|13|QUANT 13|9|JCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|9|JCT 18|17|POBJ 19|18|OBJ 20|5|PUNCT
+*PAR:	so ‡ in understanding the speech you can have a receptive aphasia
+	that is <where the perception> [//] damage in the perceptual parts
+	of the brain that are involved in hearing and translating what is
+	heard into something meaningful .
+%mor:	co|so beg|beg prep|in n:gerund|understand-PRESP det:art|the
+	n|speech pro:per|you mod|can v|have det:art|a adj|receptive
+	n|aphasia pro:rel|that cop|be&3S n|damage prep|in det:art|the
+	adj|perceptual n|part-PL prep|of det:art|the n|brain pro:rel|that
+	aux|be&PRES part|involve-PASTP prep|in n:gerund|hear-PRESP coord|and
+	part|translate-PRESP pro:int|what aux|be&3S part|hear&PASTP
+	prep|into pro:indef|something adj|meaning-FULL .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|POBJ 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|12|DET 11|12|MOD 12|9|OBJ 13|14|LINK 14|12|CMOD 15|14|PRED
+	16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|25|LINK 24|25|AUX 25|22|CMOD 26|25|JCT 27|26|POBJ 28|27|CONJ
+	29|28|COORD 30|32|SUBJ 31|32|AUX 32|29|COMP 33|32|JCT 34|33|POBJ 35|34|POSTMOD
+	36|3|PUNCT
+%trn:	co|so beg|beg prep|in n:gerund|understand-PRESP det:art|the n|speech
+	pro:per|you mod|can v|have det:art|a adj|receptive n|aphasia
+	pro:rel|that cop|be&3S n|damage prep|in det:art|the adj|perceptual
+	n|part-PL prep|of det:art|the n|brain pro:rel|that aux|be&PRES
+	part|involve-PASTP prep|in n:gerund|hear-PRESP coord|and
+	n:gerund|translate-PRESP pro:int|what aux|be&3S part|hear&PASTP
+	prep|into pro:indef|something adj|meaning-FULL .
+%grt:	1|0|BEG 2|1|BEGP 3|9|JCT 4|3|POBJ 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|DET 11|12|MOD 12|9|OBJ 13|14|LINK 14|12|CMOD
+	15|14|PRED 16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|NJCT
+	21|22|DET 22|20|POBJ 23|25|LINK 24|25|AUX 25|19|CMOD 26|25|JCT
+	27|26|POBJ 28|27|CONJ 29|28|COORD 30|32|LINK 31|32|AUX 32|29|COBJ
+	33|29|JCT 34|33|POBJ 35|34|POSTMOD 36|9|PUNCT
+*PAR:	you can also have an expressive aphasia where you can still produce
+	the words fine .
+%mor:	pro:per|you mod|can adv|also v|have det:art|a adj|expressive
+	n|aphasia pro:rel|where pro:per|you mod|can adv|still v|produce
+	det:art|the n|word-PL adv|fine .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|7|CMOD 13|14|DET 14|12|OBJ 15|12|JCT
+	16|4|PUNCT
+%trn:	pro:per|you mod|can adv|also v|have det:art|a adj|expressive
+	n|aphasia pro:rel|where pro:per|you mod|can adv|still v|produce
+	det:art|the n|word-PL adv|fine .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|7|CMOD 13|14|DET 14|12|OBJ
+	15|12|JCT 16|4|PUNCT
+*PAR:	the coordination works well but maybe you can't remember the words
+	.
+%mor:	det:art|the n|coordinate&dv-TION v|work-3S adv|well conj|but
+	adv|maybe pro:per|you mod|can~neg|not v|remember det:art|the
+	n|word-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|10|LINK 6|10|JCT 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|3|CJCT 11|12|DET 12|10|OBJ 13|3|PUNCT
+%trn:	det:art|the n|coordinate&dv-TION v|work-3S adv|well conj|but
+	adv|maybe pro:per|you mod|can~neg|not v|remember det:art|the
+	n|word-PL .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|10|LINK 6|10|JCT 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|3|CJCT 11|12|DET 12|10|OBJ 13|3|PUNCT
+*PAR:	or maybe the words that you remember as having a particular meaning
+	are not the words that everyone else who speaks your language
+	remember as having that same meaning .
+%mor:	coord|or adv|maybe det:art|the n|word-PL pro:rel|that pro:per|you
+	v|remember prep|as n:gerund|have-PRESP det:art|a adj|particular
+	n|meaning cop|be&PRES neg|not det:art|the n|word-PL pro:rel|that
+	pro:indef|everyone post|else pro:rel|who v|speak-3S det:poss|your
+	n|language v|remember prep|as n:gerund|have-PRESP det:dem|that
+	adj|same n|meaning .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|JCT
+	9|13|LINK 10|12|DET 11|12|MOD 12|13|SUBJ 13|8|CPOBJ 14|13|NEG 15|16|DET
+	16|13|PRED 17|18|LINK 18|16|CMOD 19|18|PQ 20|21|LINK 21|18|CMOD
+	22|23|DET 23|24|SUBJ 24|21|COMP 25|24|JCT 26|25|POBJ 27|29|DET 28|29|MOD
+	29|26|OBJ 30|1|PUNCT
+%trn:	coord|or adv|maybe det:art|the n|word-PL pro:rel|that pro:per|you
+	v|remember prep|as n:gerund|have-PRESP det:art|a adj|particular
+	n|meaning cop|be&PRES neg|not det:art|the n|word-PL pro:rel|that
+	pro:indef|everyone post|else pro:rel|who v|speak-3S det:poss|your
+	n|language v|remember prep|as n:gerund|have-PRESP det:dem|that
+	adj|same n|meaning .
+%grt:	1|13|LINK 2|13|JCT 3|4|DET 4|13|SUBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|JCT 9|8|POBJ 10|12|DET 11|12|MOD 12|9|OBJ 13|0|ROOT 14|13|NEG
+	15|16|DET 16|13|PRED 17|24|LINK 18|24|SUBJ 19|18|PQ 20|21|LINK
+	21|18|CMOD 22|23|DET 23|21|OBJ 24|16|CMOD 25|24|JCT 26|25|POBJ
+	27|29|DET 28|29|MOD 29|26|OBJ 30|13|PUNCT
+*PAR:	there's a fascinating Star_Trek Deep_Space_Nine episode called
+	Babel I think where everyone came down with expressive aphasia due_to
+	some virus .
+%mor:	pro:exist|there~cop|be&3S det:art|a n:gerund|fascinate-PRESP
+	n:prop|Star_Trek n:prop|Deep_Space_Nine n|episode part|call-PASTP
+	n:prop|Babel pro:sub|I v|think pro:int|where pro:indef|everyone
+	v|come&PAST adv|down prep|with adj|expressive n|aphasia prep|due_to
+	qn|some n|virus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|11|JCT 5|7|MOD 6|7|MOD 7|4|OBJ 8|7|XMOD
+	9|8|OBJ 10|11|SUBJ 11|2|CPRED 12|14|LINK 13|14|SUBJ 14|11|COMP 15|14|JCT
+	16|14|JCT 17|18|MOD 18|16|POBJ 19|14|JCT 20|21|QUANT 21|19|POBJ 22|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S det:art|a part|fascinate-PRESP
+	n:prop|Star_Trek n:prop|Deep_Space_Nine n|episode part|call-PASTP
+	n:prop|Babel pro:sub|I v|think pro:rel|where pro:indef|everyone
+	v|come&PAST adv|down prep|with adj|expressive n|aphasia prep|due_to
+	qn|some n|virus .
+%grt:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|7|XMOD 5|7|MOD 6|5|NAME 7|2|PRED 8|7|XMOD
+	9|8|OBJ 10|11|SUBJ 11|8|CJCT 12|14|LINK 13|14|SUBJ 14|7|CMOD
+	15|14|JCT 16|14|JCT 17|18|MOD 18|16|POBJ 19|14|JCT 20|21|QUANT
+	21|19|POBJ 22|2|PUNCT
+*PAR:	but it was one of these conditions where it can be very frustrating
+	(be)cause you know what you want to say .
+%mor:	conj|but pro:per|it cop|be&PAST&13S det:num|one prep|of
+	det:dem|these n|condition-PL pro:rel|where pro:per|it mod|can cop|be
+	adv|very part|frustrate-PRESP conj|because pro:per|you v|know
+	pro:int|what pro:per|you v|want inf|to v|say .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CMOD 12|13|JCT 13|11|PRED 14|16|LINK
+	15|16|SUBJ 16|3|CJCT 17|19|LINK 18|19|SUBJ 19|16|COMP 20|21|INF 21|19|COMP
+	22|3|PUNCT
+%trn:	conj|but pro:per|it cop|be&PAST&13S pro:indef|one prep|of
+	det:dem|these n|condition-PL pro:rel|where pro:per|it mod|can aux|be
+	adv|very part|frustrate-PRESP conj|because pro:per|you v|know
+	pro:int|what pro:per|you v|want inf|to v|say .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|13|LINK 9|13|SUBJ 10|13|AUX 11|13|AUX 12|13|JCT 13|7|CMOD
+	14|16|LINK 15|16|SUBJ 16|13|CJCT 17|19|LINK 18|19|SUBJ 19|16|COMP
+	20|21|INF 21|19|COMP 22|3|PUNCT
+*PAR:	you may even only have the expressive form of aphasia so you can
+	understand what everyone else is saying fine but you can't produce
+	speech .
+%mor:	pro:per|you mod|may adv|even adv|only v|have det:art|the
+	adj|expressive n|form prep|of n|aphasia conj|so pro:per|you mod|can
+	v|understand pro:int|what pro:indef|everyone post|else aux|be&3S
+	part|say-PRESP adv|fine conj|but pro:per|you mod|can~neg|not
+	v|produce n|speech .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|9|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|5|CJCT 15|19|LINK
+	16|19|SUBJ 17|16|PQ 18|19|AUX 19|14|COMP 20|19|JCT 21|25|LINK 22|25|SUBJ
+	23|25|AUX 24|23|NEG 25|14|CJCT 26|25|OBJ 27|5|PUNCT
+%trn:	pro:per|you mod|may adv|even adv|only v|have det:art|the
+	adj|expressive n|form prep|of n|aphasia adv|so pro:per|you mod|can
+	v|understand pro:int|what pro:indef|everyone post|else aux|be&3S
+	part|say-PRESP adv|fine conj|but pro:per|you mod|can~neg|not
+	v|produce n|speech .
+%grt:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|9|POBJ 11|14|JCT 12|14|SUBJ 13|14|AUX 14|5|CJCT
+	15|19|LINK 16|19|SUBJ 17|16|PQ 18|19|AUX 19|14|COMP 20|14|JCT
+	21|25|LINK 22|25|SUBJ 23|25|AUX 24|23|NEG 25|14|CJCT 26|25|OBJ
+	27|5|PUNCT
+*PAR:	you can't get anyone else to understand what you're saying that
+	makes perfect sense to you .
+%mor:	pro:per|you mod|can~neg|not v|get pro:indef|anyone post|else inf|to
+	v|understand pro:int|what pro:per|you~aux|be&PRES part|say-PRESP
+	pro:rel|that v|make-3S adj|perfect n|sense prep|to pro:per|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|8|INF 8|4|XJCT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|14|LINK 14|12|COMP 15|16|MOD
+	16|14|OBJ 17|14|JCT 18|17|POBJ 19|4|PUNCT
+%trn:	pro:per|you mod|can~neg|not v|get pro:indef|anyone post|else
+	inf|to v|understand pro:int|what pro:per|you~aux|be&PRES
+	part|say-PRESP pro:rel|that v|make-3S adj|perfect n|sense prep|to
+	pro:per|you .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|8|INF 8|4|COMP
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|14|LINK 14|12|CJCT
+	15|16|MOD 16|14|OBJ 17|14|JCT 18|17|POBJ 19|4|PUNCT
+*PAR:	either there's something wrong with everyone else or something
+	wrong with you .
+%mor:	coord|either pro:exist|there~cop|be&3S pro:indef|something
+	adj|wrong prep|with pro:indef|everyone post|else coord|or
+	pro:indef|something adj|wrong prep|with pro:per|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|POSTMOD 6|5|JCT 7|6|POBJ 8|7|PQ
+	9|7|CONJ 10|9|COORD 11|10|POSTMOD 12|11|JCT 13|12|POBJ 14|3|PUNCT
+%trn:	coord|either pro:exist|there~cop|be&3S pro:indef|something adj|wrong
+	prep|with pro:indef|everyone post|else coord|or pro:indef|something
+	adj|wrong prep|with pro:per|you .
+%grt:	1|3|COORD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|POSTMOD 6|5|JCT 7|6|POBJ
+	8|7|PQ 9|10|COORD 10|4|ENUM 11|10|POSTMOD 12|11|JCT 13|12|POBJ
+	14|3|PUNCT
+*PAR:	other things that can go wrong with understanding speech +...
+%mor:	qn|other n|thing-PL pro:rel|that mod|can v|go n|wrong prep|with
+	n:gerund|understand-PRESP n|speech +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|5|OBJ 7|5|JCT 8|9|MOD
+	9|7|POBJ 10|2|PUNCT
+%trn:	qn|other n|thing-PL pro:rel|that mod|can v|go adj|wrong prep|with
+	n:gerund|understand-PRESP n|speech +...
+%grt:	1|2|QUANT 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|5|OBJ 7|5|JCT
+	8|7|POBJ 9|8|OBJ 10|2|PUNCT
+*PAR:	I put deafness up here even_though we aren't going to talk about it
+	today .
+%mor:	pro:sub|I v|put&ZERO n|deaf&dadj-NESS prep|up n|here
+	conj|even_though pro:sub|we aux|be&PRES~neg|not part|go-PRESP
+	prep|to n|talk prep|about pro:per|it adv:tem|today .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|2|CJCT 11|10|JCT 12|11|POBJ 13|15|JCT 14|15|SUBJ 15|10|JCT
+	16|2|PUNCT
+%trn:	pro:sub|I v|put&ZERO n|deaf&dadj-NESS prep|up pro:indef|here
+	conj|even_though pro:sub|we aux|be&PRES~neg|not part|go-PRESP
+	inf|to v|talk prep|about pro:per|it adv:tem|today .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|2|CJCT 11|12|INF 12|10|COMP 13|12|JCT 14|13|POBJ
+	15|12|JCT 16|2|PUNCT
+*PAR:	we'll talk about deafness when we talk about the other sensory
+	impairments .
+%mor:	pro:sub|we~mod|will v|talk prep|about n|deaf&dadj-NESS conj|when
+	pro:sub|we v|talk prep|about det:art|the qn|other adj|sensor&dn-Y
+	n|impair&dv-MENT-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|13|DET 11|13|QUANT 12|13|MOD 13|9|POBJ 14|3|PUNCT
+%trn:	pro:sub|we~mod|will v|talk prep|about n|deaf&dadj-NESS conj|when
+	pro:sub|we v|talk prep|about det:art|the qn|other adj|sensor&dn-Y
+	n|impair&dv-MENT-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ
+	8|3|CJCT 9|8|JCT 10|13|DET 11|13|QUANT 12|13|MOD 13|9|POBJ
+	14|3|PUNCT
+*PAR:	your expressive aphasia can be forgetting vocabulary .
+%mor:	det:poss|your adj|expressive n|aphasia mod|can aux|be
+	part|forget-PRESP n|vocabulary .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%trn:	det:poss|your adj|expressive n|aphasia mod|can cop|be
+	n:gerund|forget-PRESP n|vocabulary .
+%grt:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|6|OBJ 8|6|PUNCT
+*PAR:	it can be not being able to put things together into a sentence
+	that has +//.
+%mor:	pro:per|it mod|can cop|be neg|not n:gerund|be-PRESP adj|able inf|to
+	v|put&ZERO n|thing-PL adv|together prep|into det:art|a n|sentence
+	pro:rel|that v|have&3S +//.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|NEG 5|3|PRED 6|5|JCT 7|8|INF 8|5|XJCT
+	9|8|OBJ 10|8|JCT 11|8|JCT 12|13|DET 13|11|POBJ 14|15|LINK 15|13|CMOD
+	16|3|PUNCT
+%trn:	pro:per|it mod|can cop|be neg|not n:gerund|be-PRESP adj|able inf|to
+	v|put&ZERO n|thing-PL adv|together prep|into det:art|a n|sentence
+	pro:rel|that v|have&3S +//.
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|NEG 5|3|PRED 6|5|JCT 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|8|JCT 11|8|JCT 12|13|DET 13|11|POBJ 14|15|LINK 15|13|CMOD
+	16|3|PUNCT
+*PAR:	you_know &t forgetting basically the rules of grammar and the rules
+	of sentence structure that are appropriate for the language that
+	you're speaking .
+%mor:	co|you_know part|forget-PRESP adv|basic&dadj-AL-LY det:art|the
+	n|rule-PL prep|of n|grammar coord|and det:art|the n|rule-PL prep|of
+	n|sentence n|structure pro:rel|that cop|be&PRES adj|appropriate
+	prep|for det:art|the n|language pro:rel|that pro:per|you~aux|be&PRES
+	part|speak-PRESP .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|5|CONJ
+	9|10|DET 10|8|COORD 11|10|NJCT 12|13|MOD 13|11|POBJ 14|15|LINK 15|13|CMOD
+	16|15|PRED 17|15|JCT 18|19|DET 19|17|POBJ 20|23|LINK 21|23|SUBJ
+	22|23|AUX 23|19|CMOD 24|2|PUNCT
+%trn:	co|you_know part|forget-PRESP adv|basic&dadj-AL-LY det:art|the
+	n|rule-PL prep|of n|grammar coord|and det:art|the n|rule-PL prep|of
+	n|sentence n|structure pro:rel|that cop|be&PRES adj|appropriate
+	prep|for det:art|the n|language pro:rel|that pro:per|you~aux|be&PRES
+	part|speak-PRESP .
+%grt:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|2|OBJ 6|5|NJCT 7|6|POBJ
+	8|5|CONJ 9|10|DET 10|8|COORD 11|10|NJCT 12|13|MOD 13|11|POBJ
+	14|15|LINK 15|13|CMOD 16|15|PRED 17|16|JCT 18|19|DET 19|17|POBJ
+	20|23|LINK 21|23|SUBJ 22|23|AUX 23|19|CMOD 24|2|PUNCT
+*PAR:	&=laughs so what kinds of speech impairments would these different
+	conditions cause ?
+%mor:	co|so pro:int|what n|kind-PL prep|of n|speech n|impair&dv-MENT-PL
+	mod|will&COND det:dem|these adj|different n|condition-PL n|cause ?
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|MOD 6|11|SUBJ 7|11|AUX
+	8|11|DET 9|11|MOD 10|11|MOD 11|4|POBJ 12|3|PUNCT
+%trn:	co|so det:int|what n|kind-PL prep|of n|speech n|impair&dv-MENT-PL
+	mod|will&COND det:dem|these adj|different n|condition-PL v|cause ?
+%grt:	1|11|COM 2|3|DET 3|11|OBJ 4|3|NJCT 5|6|MOD 6|4|POBJ 7|11|AUX
+	8|10|DET 9|10|MOD 10|11|SUBJ 11|0|ROOT 12|11|PUNCT
+*PAR:	have you read enough about them in your Handbook of Severe
+	Disabilities that you know what kind of problems <might happen> [//]
+	might occur ?
+%mor:	aux|have pro:per|you v|read&ZERO adv|enough prep|about pro:obj|them
+	prep|in det:poss|your n:prop|Handbook prep|of n:prop|Severe
+	n:prop|Disabilities pro:rel|that pro:per|you v|know det:int|what
+	n|kind prep|of n|problem-PL mod|might v|occur ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|3|JCT 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|17|DET 17|21|SUBJ 18|17|NJCT 19|18|POBJ 20|21|AUX 21|15|COMP 22|3|PUNCT
+%trn:	aux|have pro:per|you v|read&ZERO adv|enough prep|about pro:obj|them
+	prep|in det:poss|your n:prop|Handbook prep|of n:prop|Severe
+	n:prop|Disabilities comp|that pro:per|you v|know det:int|what
+	n|kind prep|of n|problem-PL mod|might v|occur ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|NAME 12|10|POBJ 13|15|LINK 14|15|SUBJ
+	15|3|CJCT 16|17|DET 17|21|SUBJ 18|17|NJCT 19|18|POBJ 20|21|AUX
+	21|15|COMP 22|3|PUNCT
+*PAR:	I have ALS as one example .
+%mor:	pro:sub|I v|have n:prop|ALS prep|as det:num|one n|example .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|2|PUNCT
+%trn:	pro:sub|I v|have n:prop|ALS prep|as det:num|one n|example .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|2|PUNCT
+*PAR:	but often what you have there is you have muscle weakness or
+	respiratory weakness so_that you can't produce the airflow or don't
+	have enough strength in the muscles to be able to produce
+	intelligible sounds .
+%mor:	conj|but adv|often pro:int|what pro:per|you v|have adv|there
+	cop|be&3S pro:per|you v|have n|muscle n|weak&dadj-NESS coord|or
+	adj|respirator&dn-Y n|weak&dadj-NESS conj|so_that pro:per|you
+	mod|can~neg|not v|produce det:art|the n|airflow coord|or
+	mod|do~neg|not v|have qn|enough n|strength prep|in det:art|the
+	n|muscle-PL inf|to cop|be adj|able inf|to v|produce adj|intelligible
+	n|sound-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|COMP 8|9|SUBJ
+	9|7|CPRED 10|11|MOD 11|9|OBJ 12|11|CONJ 13|14|MOD 14|12|COORD 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|9|CJCT 20|21|DET 21|19|OBJ 22|19|CONJ
+	23|25|AUX 24|23|NEG 25|22|COORD 26|27|QUANT 27|25|OBJ 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|32|INF 32|27|XJCT 33|32|PRED 34|35|INF 35|33|XMOD
+	36|37|MOD 37|35|OBJ 38|5|PUNCT
+%trn:	conj|but adv|often pro:int|what pro:per|you v|have adv|there
+	cop|be&3S pro:per|you v|have n|muscle n|weak&dadj-NESS coord|or
+	adj|respirator&dn-Y n|weak&dadj-NESS conj|so_that pro:per|you
+	mod|can~neg|not v|produce det:art|the n|airflow coord|or
+	mod|do~neg|not v|have qn|enough n|strength prep|in det:art|the
+	n|muscle-PL inf|to cop|be adj|able inf|to v|produce adj|intelligible
+	n|sound-PL .
+%grt:	1|7|LINK 2|7|JCT 3|5|OBJ 4|5|SUBJ 5|7|CSUBJ 6|5|JCT 7|0|ROOT
+	8|9|SUBJ 9|7|CPRED 10|11|MOD 11|9|OBJ 12|11|CONJ 13|14|MOD
+	14|12|COORD 15|19|LINK 16|19|SUBJ 17|19|AUX 18|17|NEG 19|9|CJCT
+	20|21|DET 21|19|OBJ 22|19|CONJ 23|25|AUX 24|23|NEG 25|22|COORD
+	26|27|QUANT 27|25|COMP 28|27|NJCT 29|30|DET 30|28|POBJ 31|32|INF
+	32|27|XMOD 33|32|PRED 34|35|INF 35|33|XMOD 36|37|MOD 37|35|OBJ
+	38|7|PUNCT
+*PAR:	traumatic brain injury can do just about anything depending on what
+	part of the brain you injure .
+%mor:	adj|traumatic n|brain n|injury mod|can v|do adv|just adv|about
+	pro:indef|anything part|depend-PRESP prep|on det:int|what n|part
+	prep|of det:art|the n|brain pro:per|you v|injure .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|JCT 8|17|SUBJ
+	9|17|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|17|SUBJ 17|5|CJCT 18|5|PUNCT
+%trn:	adj|traumatic n|brain n|injury mod|can v|do adv|just adv|about
+	pro:indef|anything part|depend-PRESP prep|on det:int|what n|part
+	prep|of det:art|the n|brain pro:per|you v|injure .
+%grt:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|NJCT 7|8|NJCT 8|5|OBJ
+	9|5|XJCT 10|9|JCT 11|12|DET 12|17|OBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|17|SUBJ 17|10|CPOBJ 18|5|PUNCT
+*PAR:	what_about high level spinal cord injury ?
+%mor:	pro:int|what_about adj|high n|level adj|spinal n|cord n|injury ?
+%gra:	1|3|LINK 2|3|MOD 3|6|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%trn:	pro:int|what_about adj|high n|level adj|spinal n|cord n|injury ?
+%grt:	1|0|INCROOT 2|3|MOD 3|6|MOD 4|5|MOD 5|6|MOD 6|1|POBJ 7|1|PUNCT
+*PAR:	I know you've read about that .
+%mor:	pro:sub|I v|know pro:per|you~aux|have v|read&ZERO prep|about
+	pro:dem|that .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|2|OBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%trn:	pro:sub|I v|know pro:per|you~aux|have v|read&ZERO prep|about
+	pro:dem|that .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|OBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	either that or you completely skipped the readings .
+%mor:	coord|either pro:dem|that coord|or pro:per|you adv|complete&dadj-LY
+	v|skip-PAST det:art|the n:gerund|read-PRESP-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|JCT 6|2|CJCT 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+%trn:	coord|either pro:dem|that coord|or pro:per|you adv|complete&dadj-LY
+	v|skip-PAST det:art|the n:gerund|read-PRESP-PL .
+%grt:	1|2|COORD 2|0|ROOT 3|6|COORD 4|6|SUBJ 5|6|JCT 6|2|ENUM 7|8|DET
+	8|6|OBJ 9|2|PUNCT
+*PAR:	in which case you should've read about that .
+%mor:	prep|in det:int|which n|case pro:per|you mod|should~aux|have
+	v|read&ZERO prep|about pro:dem|that .
+%gra:	1|7|JCT 2|3|MOD 3|1|POBJ 4|7|SUBJ 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+%trn:	prep|in det:int|which n|case pro:per|you mod|should~aux|have
+	v|read&ZERO prep|about pro:dem|that .
+%grt:	1|7|JCT 2|3|DET 3|1|POBJ 4|7|SUBJ 5|7|AUX 6|7|AUX 7|0|ROOT
+	8|7|JCT 9|8|POBJ 10|7|PUNCT
+*PAR:	okay mostly it would be an airflow problem .
+%mor:	co|okay adv|mostly pro:per|it mod|will&COND cop|be det:art|a
+	n|airflow n|problem .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|5|PUNCT
+%trn:	co|okay adv|mostly pro:per|it mod|will&COND cop|be det:art|a
+	n|airflow n|problem .
+%grt:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|5|PUNCT
+*PAR:	it takes a very high level spinal cord injury to +//.
+%mor:	pro:per|it v|take-3S det:art|a adv|very adj|high n|level adj|spinal
+	n|cord n|injury prep|to +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|9|MOD 7|9|MOD 8|9|MOD
+	9|2|OBJ 10|2|JCT 11|2|PUNCT
+%trn:	pro:per|it v|take-3S det:art|a adv|very adj|high n|level
+	adj|spinal n|cord n|injury inf|to +//.
+%grt:	1|2|SUBJ 2|0|ROOT 3|9|DET 4|5|JCT 5|6|MOD 6|9|MOD 7|8|MOD 8|9|MOD
+	9|2|OBJ 10|2|OM 11|2|PUNCT
+*PAR:	basically you hafta get injury into the brain stem to get to the
+	actual nerves that control the mouth and tongue .
+%mor:	adv|basic&dadj-AL-LY pro:per|you mod|have~inf|to v|get n|injury
+	prep|into det:art|the n|brain n|stem inf|to v|get prep|to
+	det:art|the adj|actual n|nerve-PL pro:rel|that v|control det:art|the
+	n|mouth coord|and n|tongue .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|INF 12|5|XJCT 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|LINK 18|16|CMOD 19|20|DET 20|18|OBJ 21|20|CONJ 22|21|COORD
+	23|5|PUNCT
+%trn:	adv|basic&dadj-AL-LY pro:per|you mod|have~inf|to v|get n|injury
+	prep|into det:art|the n|brain n|stem inf|to v|get prep|to
+	det:art|the adj|actual n|nerve-PL pro:rel|that v|control det:art|the
+	n|mouth coord|and n|tongue .
+%grt:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|INF 12|5|XJCT 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|LINK 18|16|CMOD 19|20|DET 20|18|OBJ 21|20|CONJ
+	22|21|COORD 23|5|PUNCT
+*PAR:	but you can take out all the breathing muscles with a much lower
+	level spinal cord injury .
+%mor:	conj|but pro:per|you mod|can v|take adv|out qn|all det:art|the
+	part|breathe-PRESP n|muscle-PL prep|with det:art|a adv|much
+	adj|low-CP adj|level adj|spinal n|cord n|injury .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|9|QUANT 7|9|DET 8|9|MOD
+	9|4|OBJ 10|4|JCT 11|17|DET 12|13|JCT 13|17|MOD 14|17|MOD 15|17|MOD
+	16|17|MOD 17|10|POBJ 18|4|PUNCT
+%trn:	conj|but pro:per|you mod|can v|take prep|out qn|all det:art|the
+	part|breathe-PRESP n|muscle-PL prep|with det:art|a adv|much
+	adj|low-CP adj|level adj|spinal n|cord n|injury .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|9|QUANT 7|9|DET
+	8|9|XMOD 9|5|POBJ 10|4|JCT 11|17|DET 12|13|JCT 13|14|MOD 14|17|MOD
+	15|17|MOD 16|17|MOD 17|10|POBJ 18|4|PUNCT
+*PAR:	and cancer can do a variety of things as_well .
+%mor:	coord|and n|cancer mod|can v|do det:art|a n|variety prep|of
+	n|thing-PL adv|as_well .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|JCT 10|4|PUNCT
+%trn:	coord|and n|cancer mod|can v|do det:art|a n|variety prep|of
+	n|thing-PL adv|as_well .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|JCT 10|4|PUNCT
+*PAR:	that's one source in which you can often get the vocal damage to
+	the vocal system .
+%mor:	pro:dem|that~cop|be&3S det:num|one n|source prep|in pro:rel|which
+	pro:per|you mod|can adv|often v|get det:art|the adj|vocal n|damage
+	prep|to det:art|the adj|vocal n|system .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|10|JCT 10|5|POBJ 11|13|DET 12|13|MOD 13|10|OBJ 14|13|NJCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S det:num|one n|source prep|in pro:rel|which
+	pro:per|you mod|can adv|often v|get det:art|the adj|vocal n|damage
+	prep|to det:art|the adj|vocal n|system .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|10|JCT 10|5|CPOBJ 11|13|DET 12|13|MOD 13|10|OBJ 14|13|NJCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|2|PUNCT
+*PAR:	you'll see people who've had cancer of the larynx and will have
+	their larynx removed so they don't have vocal cords .
+%mor:	pro:per|you~mod|will v|see n|person&PL pro:rel|who~aux|have
+	part|have&PASTP n|cancer prep|of det:art|the n|larynx coord|and
+	mod|will v|have det:poss|their n|larynx part|remove-PASTP conj|so
+	pro:sub|they mod|do~neg|not v|have adj|vocal n|cord-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|AUX 7|4|CMOD 8|7|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|3|CONJ 13|14|AUX 14|12|COORD 15|16|DET
+	16|17|SUBJ 17|14|COMP 18|22|LINK 19|22|SUBJ 20|22|AUX 21|20|NEG 22|3|CJCT
+	23|24|MOD 24|22|OBJ 25|3|PUNCT
+%trn:	pro:per|you~mod|will v|see n|person&PL pro:rel|who~aux|have
+	part|have&PASTP n|cancer prep|of det:art|the n|larynx coord|and
+	mod|will v|have det:poss|their n|larynx part|remove-PASTP conj|so
+	pro:sub|they mod|do~neg|not v|have adj|vocal n|cord-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|AUX 7|4|CMOD 8|7|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|7|CONJ 13|14|AUX 14|12|COORD
+	15|16|DET 16|14|OBJ 17|16|XMOD 18|22|JCT 19|22|SUBJ 20|22|AUX
+	21|20|NEG 22|14|CJCT 23|24|MOD 24|22|OBJ 25|3|PUNCT
+*PAR:	and they will have devices that you can like press against your
+	neck and it will create the vibration .
+%mor:	coord|and pro:sub|they mod|will v|have n|device-PL pro:rel|that
+	pro:per|you mod|can co|like v|press prep|against det:poss|your
+	n|neck coord|and pro:per|it mod|will v|create det:art|the
+	n|vibrate&dv-TION .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|10|COM 10|5|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|10|CJCT 18|19|DET 19|17|OBJ 20|4|PUNCT
+%trn:	coord|and pro:sub|they mod|will v|have n|device-PL pro:rel|that
+	pro:per|you mod|can co|like v|press prep|against det:poss|your
+	n|neck coord|and pro:per|it mod|will v|create det:art|the
+	n|vibrate&dv-TION .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|10|COM 10|5|CMOD 11|10|JCT 12|13|DET 13|11|POBJ
+	14|17|LINK 15|17|SUBJ 16|17|AUX 17|10|CJCT 18|19|DET 19|17|OBJ
+	20|4|PUNCT
+*PAR:	you end up with a very mechanical sounding voice but you have an
+	artificial vibration for the vocal cords and then you can still
+	shape your mouth and your tongue to produce mostly intelligible
+	speech .
+%mor:	pro:per|you v|end adv|up prep|with det:art|a adv|very
+	adj|mechanic&dn-AL part|sound-PRESP n|voice conj|but pro:per|you
+	v|have det:art|a adj|artificial n|vibrate&dv-TION prep|for
+	det:art|the adj|vocal n|cord-PL coord|and adv:tem|then pro:per|you
+	mod|can adv|still v|shape det:poss|your n|mouth coord|and
+	det:poss|your n|tongue inf|to v|produce adv|mostly adj|intelligible
+	n|speech .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|9|DET 6|7|JCT 7|9|MOD 8|9|MOD
+	9|4|POBJ 10|12|LINK 11|12|SUBJ 12|2|CJCT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|12|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|25|LINK 21|25|JCT 22|25|SUBJ
+	23|25|AUX 24|25|JCT 25|19|CMOD 26|27|DET 27|25|OBJ 28|32|LINK 29|30|DET
+	30|32|SUBJ 31|32|INF 32|25|CJCT 33|35|JCT 34|35|MOD 35|32|OBJ 36|2|PUNCT
+%trn:	pro:per|you v|end adv|up prep|with det:art|a adv|very
+	adj|mechanic&dn-AL part|sound-PRESP n|voice conj|but pro:per|you
+	v|have det:art|a adj|artificial n|vibrate&dv-TION prep|for
+	det:art|the adj|vocal n|cord-PL coord|and adv:tem|then pro:per|you
+	mod|can adv|still v|shape det:poss|your n|mouth coord|and
+	det:poss|your n|tongue prep|to v|produce adv|mostly adj|intelligible
+	n|speech .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|9|DET 6|7|JCT 7|8|PRED 8|9|XMOD
+	9|4|POBJ 10|12|LINK 11|12|SUBJ 12|2|CJCT 13|15|DET 14|15|MOD
+	15|12|OBJ 16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|25|LINK
+	21|25|JCT 22|25|SUBJ 23|25|AUX 24|25|JCT 25|2|CJCT 26|27|DET
+	27|25|OBJ 28|27|CONJ 29|30|DET 30|28|COORD 31|32|INF 32|25|XJCT
+	33|34|JCT 34|35|MOD 35|32|OBJ 36|2|PUNCT
+*PAR:	and it will be very rare to find someone who has absolutely no
+	ability to communicate .
+%mor:	coord|and pro:per|it mod|will cop|be adv|very adj|rare inf|to
+	v|find pro:indef|someone pro:rel|who v|have&3S adv|absolute&dadj-LY
+	qn|no n|able&dadj-ITY inf|to v|communicate .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|11|LINK 11|9|CMOD 12|14|JCT 13|14|QUANT 14|11|OBJ 15|16|INF
+	16|14|XMOD 17|4|PUNCT
+%trn:	coord|and pro:per|it mod|will cop|be adv|very adj|rare inf|to
+	v|find pro:indef|someone pro:rel|who v|have&3S adv|absolute&dadj-LY
+	qn|no n|able&dadj-ITY inf|to v|communicate .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|8|INF
+	8|6|XMOD 9|8|OBJ 10|11|LINK 11|9|CMOD 12|14|NJCT 13|14|QUANT
+	14|11|OBJ 15|16|INF 16|14|XMOD 17|4|PUNCT
+*PAR:	now the communication may be very limited .
+%mor:	adv:tem|now det:art|the n|communicate&dv-TION mod|may cop|be adv|very
+	part|limit-PASTP .
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+%trn:	adv:tem|now det:art|the n|communicate&dv-TION mod|may aux|be adv|very
+	part|limit-PASTP .
+%grt:	1|7|JCT 2|3|DET 3|7|SUBJ 4|7|AUX 5|7|AUX 6|7|JCT 7|0|ROOT
+	8|7|PUNCT
+*PAR:	it may be facial expressions .
+%mor:	pro:per|it mod|may cop|be adj|facial n|expression-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+%trn:	pro:per|it mod|may cop|be adj|facial n|expression-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*PAR:	it may be shaking their head or eye blinks$n for yes and no .
+%mor:	pro:per|it mod|may aux|be part|shake-PRESP det:poss|their n|head
+	coord|or n|eye n|blinks prep|for co|yes coord|and co|no .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|4|JCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|4|PUNCT
+%trn:	pro:per|it mod|may cop|be n:gerund|shake-PRESP det:poss|their
+	n|head coord|or n|eye n|blinks prep|for co|yes coord|and co|no .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|6|DET 6|4|OBJ 7|4|CONJ 8|9|MOD
+	9|7|COORD 10|9|NJCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|3|PUNCT
+*PAR:	but there's some [//] usually some communicative ability that a
+	person will have .
+%mor:	conj|but pro:exist|there~cop|be&3S adv|usual&dadj-LY qn|some
+	adj|communicative n|able&dadj-ITY pro:rel|that det:art|a n|person
+	mod|will v|have .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|7|QUANT 6|7|MOD 7|3|PRED 8|12|LINK
+	9|10|DET 10|12|SUBJ 11|12|AUX 12|7|CMOD 13|3|PUNCT
+%trn:	conj|but pro:exist|there~cop|be&3S adv|usual&dadj-LY qn|some
+	adj|communicative n|able&dadj-ITY pro:rel|that det:art|a n|person
+	mod|will v|have .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|MOD 7|3|PRED
+	8|12|LINK 9|10|DET 10|12|SUBJ 11|12|AUX 12|7|CMOD 13|3|PUNCT
+*PAR:	and you want to utilize that in the situations you can .
+%mor:	coord|and pro:per|you v|want inf|to v|utilize comp|that prep|in
+	det:art|the n|situate&dv-TION-PL pro:per|you mod|can .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|11|LINK 7|11|JCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|5|COMP 12|3|PUNCT
+%trn:	coord|and pro:per|you v|want inf|to v|utilize pro:dem|that prep|in
+	det:art|the n|situate&dv-TION-PL pro:per|you mod|can .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|9|CMOD 12|3|PUNCT
+*PAR:	however you also want to provide alternatives if the person wants
+	to become as fully functional as possible .
+%mor:	adv|however pro:per|you adv|also v|want inf|to v|provide
+	n|alternative-PL conj|if det:art|the n|person v|want-3S inf|to
+	cop|become adv|as adv|fully n|functional adv|as adj|possible .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|4|CJCT 12|13|INF 13|11|COMP 14|16|COORD 15|16|JCT
+	16|13|PRED 17|18|COORD 18|16|ENUM 19|4|PUNCT
+%trn:	adv|however pro:per|you adv|also v|want inf|to v|provide
+	n|alternative-PL conj|if det:art|the n|person v|want-3S inf|to
+	cop|become adv|as adv|fully n|functional adv|as adj|possible .
+%grt:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|4|CJCT 12|13|INF 13|11|COMP
+	14|16|COORD 15|16|JCT 16|13|PRED 17|18|COORD 18|16|ENUM 19|4|PUNCT
+*PAR:	and Rebecca gave us a very nice overview of lots_of different
+	devices .
+%mor:	coord|and n:prop|Rebecca v|give&PAST pro:obj|us det:art|a adv|very
+	adj|nice over#n|view prep|of qn|lots_of adj|different n|device-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|DET 6|7|JCT 7|3|JCT 8|7|XMOD
+	9|8|JCT 10|12|QUANT 11|12|MOD 12|9|POBJ 13|3|PUNCT
+%trn:	coord|and n:prop|Rebecca v|give&PAST pro:obj|us det:art|a adv|very
+	adj|nice over#n|view prep|of qn|lots_of adj|different n|device-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|8|DET 6|7|JCT 7|8|JCT 8|3|OBJ
+	9|8|NJCT 10|12|QUANT 11|12|MOD 12|9|POBJ 13|3|PUNCT
+*PAR:	and actually there are some that I'm familiar with like the one
+	that's going to be demoed that you didn't get .
+%mor:	coord|and adv|actual&dadj-LY pro:exist|there cop|be&PRES
+	pro:indef|some pro:rel|that pro:sub|I~cop|be&1S adj|familiar
+	prep|with prep|like det:art|the pro:indef|one pro:rel|that~aux|be&3S
+	part|go-PRESP inf|to aux|be part|demo-PASTP comp|that pro:per|you
+	mod|do&PAST~neg|not v|get .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|PRED 10|9|JCT 11|10|JCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|AUX
+	16|13|CMOD 17|19|INF 18|19|AUX 19|16|COMP 20|24|LINK 21|24|SUBJ 22|24|AUX
+	23|22|NEG 24|19|COMP 25|4|PUNCT
+%trn:	coord|and adv|actual&dadj-LY pro:exist|there cop|be&PRES
+	pro:indef|some pro:rel|that pro:sub|I~cop|be&1S adj|familiar
+	prep|with prep|like det:art|the pro:indef|one pro:rel|that~aux|be&3S
+	part|go-PRESP inf|to aux|be part|demo-PASTP pro:rel|that pro:per|you
+	mod|do&PAST~neg|not v|get .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|8|LINK 7|8|SUBJ
+	8|5|CMOD 9|8|PRED 10|9|JCT 11|5|NJCT 12|13|DET 13|11|POBJ
+	14|16|LINK 15|16|AUX 16|13|CMOD 17|19|INF 18|19|AUX 19|16|COMP
+	20|24|LINK 21|24|SUBJ 22|24|AUX 23|22|NEG 24|13|CMOD 25|4|PUNCT
+*PAR:	but that's because there's like stacks and stacks of these devices
+	.
+%mor:	conj|but pro:dem|that~cop|be&3S conj|because
+	pro:exist|there~cop|be&3S co|like n|stack-PL coord|and n|stack-PL
+	prep|of det:dem|these n|device-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|8|COM 8|6|PRED
+	9|8|CONJ 10|9|COORD 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+%trn:	conj|but pro:dem|that~cop|be&3S conj|because
+	pro:exist|there~cop|be&3S co|like n|stack-PL coord|and n|stack-PL
+	prep|of det:dem|these n|device-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|8|COM
+	8|6|PRED 9|8|CONJ 10|9|COORD 11|8|NJCT 12|13|DET 13|11|POBJ
+	14|3|PUNCT
+*PAR:	I think communication devices may be one of the most varied devices
+	.
+%mor:	pro:sub|I v|think n|communicate&dv-TION n|device-PL mod|may cop|be
+	det:num|one prep|of det:art|the qn|most part|vary-PASTP n|device-PL
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|PRED 8|7|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|11|OBJ 13|2|PUNCT
+%trn:	pro:sub|I v|think n|communicate&dv-TION n|device-PL mod|may cop|be
+	pro:indef|one prep|of det:art|the qn|most part|vary-PASTP
+	n|device-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|PRED
+	8|7|NJCT 9|12|DET 10|11|QUANT 11|12|XMOD 12|8|POBJ 13|2|PUNCT
+*PAR:	because it's one that +//.
+%mor:	conj|because pro:per|it~cop|be&3S pro:indef|one pro:rel|that +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|OM 6|3|PUNCT
+%trn:	conj|because pro:per|it~cop|be&3S pro:indef|one pro:rel|that +//.
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|OM 6|3|PUNCT
+*PAR:	&someo some engineer will have a child with a disability who can't
+	speak and not really have a connection to the assistive technology
+	that's available , not know what's out there , and come up with
+	something themselves to solve their child's problem .
+%mor:	qn|some n|engineer mod|will v|have det:art|a n|child prep|with
+	det:art|a n|disability pro:rel|who mod|can~neg|not v|speak coord|and
+	neg|not adv|real&dadj-LY v|have det:art|a n|connection prep|to
+	det:art|the adj|assistive n|technology pro:rel|that~cop|be&3S
+	adj|avail&dv-ABLE cm|cm neg|not v|know pro:int|what~cop|be&3S
+	prep|out n|there cm|cm coord|and v|come adv|up prep|with
+	pro:indef|something pro:refl|themselves inf|to v|solve
+	det:poss|their adj|child&dn-POSS n|problem .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|AUX 12|11|NEG 13|9|CMOD 14|13|CONJ 15|17|NEG
+	16|17|JCT 17|14|COORD 18|19|DET 19|17|OBJ 20|17|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|25|LINK 25|23|CMOD 26|25|PRED 27|25|LP 28|29|NEG 29|25|ENUM
+	30|31|SUBJ 31|29|COMP 32|31|JCT 33|32|POBJ 34|29|LP 35|25|CONJ
+	36|35|COORD 37|36|JCT 38|36|JCT 39|40|SUBJ 40|38|POBJ 41|42|INF 42|36|XJCT
+	43|45|DET 44|45|MOD 45|42|OBJ 46|4|PUNCT
+%trn:	qn|some n|engineer mod|will v|have det:art|a n|child prep|with
+	det:art|a n|disability pro:int|who mod|can~neg|not v|speak coord|and
+	neg|not adv|real&dadj-LY v|have det:art|a n|connection prep|to
+	det:art|the adj|assistive n|technology pro:rel|that~cop|be&3S
+	adj|avail&dv-ABLE cm|cm neg|not v|know pro:int|what~cop|be&3S
+	prep|out adv|there cm|cm coord|and v|come adv|up prep|with
+	pro:indef|something pro:refl|themselves inf|to v|solve
+	det:poss|their adj|child&dn-POSS n|problem .
+%grt:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|13|LINK 11|13|AUX 12|11|NEG 13|6|CMOD 14|4|CONJ
+	15|16|NEG 16|17|JCT 17|14|COORD 18|19|DET 19|17|OBJ 20|19|NJCT
+	21|23|DET 22|23|MOD 23|20|POBJ 24|25|LINK 25|23|CMOD 26|25|PRED
+	27|17|LP 28|29|NEG 29|17|ENUM 30|31|LINK 31|29|COMP 32|31|JCT
+	33|31|JCT 34|29|LP 35|17|CONJ 36|35|COORD 37|36|JCT 38|36|JCT
+	39|38|POBJ 40|36|JCT 41|42|INF 42|36|XJCT 43|44|DET 44|45|MOD
+	45|42|OBJ 46|4|PUNCT
+*PAR:	and then of_course their friends hear about it who also didn't know
+	about the assistive technology and they start a little company .
+%mor:	coord|and adv:tem|then co|of_course det:poss|their n|friend-PL
+	v|hear prep|about pro:per|it pro:rel|who adv|also
+	mod|do&PAST~neg|not v|know prep|about det:art|the adj|assistive
+	n|technology coord|and pro:sub|they v|start det:art|a adj|little
+	n|company .
+%gra:	1|6|LINK 2|6|JCT 3|6|COM 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|13|LINK 10|13|JCT 11|13|AUX 12|11|NEG 13|8|CMOD 14|13|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|20|LINK 19|20|SUBJ 20|13|CJCT 21|23|DET 22|23|MOD
+	23|20|OBJ 24|6|PUNCT
+%trn:	coord|and adv:tem|then co|of_course det:poss|their n|friend-PL
+	v|hear prep|about pro:per|it pro:rel|who adv|also
+	mod|do&PAST~neg|not v|know prep|about det:art|the adj|assistive
+	n|technology coord|and pro:sub|they v|start det:art|a adj|little
+	n|company .
+%grt:	1|6|LINK 2|6|JCT 3|6|COM 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|13|LINK 10|13|JCT 11|13|AUX 12|11|NEG 13|5|CMOD 14|13|JCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|20|LINK 19|20|SUBJ 20|6|CJCT
+	21|23|DET 22|23|MOD 23|20|OBJ 24|6|PUNCT
+*PAR:	and then they suddenly hear about RESNA or one of these
+	organizations and they go <and to> [//] you_know to try and sell
+	their wonderful product that's going to solve everybody's problems
+	and find out that there's actually quite a few products out there
+	already .
+%mor:	coord|and adv:tem|then pro:sub|they adv|sudden&dadj-LY v|hear
+	prep|about n:prop|RESNA coord|or pro:indef|one prep|of det:dem|these
+	n|organize&dv-TION-PL coord|and pro:sub|they v|go co|you_know inf|to
+	v|try coord|and v|sell det:poss|their adj|wonder-FULL n|product
+	pro:rel|that~aux|be&3S part|go-PRESP inf|to v|solve
+	pro:indef|everybody~cop|be&3S n|problem-PL coord|and v|find adv|out
+	comp|that pro:exist|there~cop|be&3S adv|actual&dadj-LY adv|quite
+	det:art|a qn|few n|product-PL prep|out n|there adv|already .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|5|CJCT
+	16|18|COM 17|18|INF 18|15|COMP 19|18|CONJ 20|19|COORD 21|23|DET 22|23|MOD
+	23|20|OBJ 24|26|LINK 25|26|AUX 26|23|CMOD 27|28|INF 28|26|COMP
+	29|30|SUBJ 30|28|COMP 31|30|PRED 32|31|CONJ 33|32|COORD 34|33|JCT 35|37|LINK
+	36|37|SUBJ 37|33|COMP 38|37|JCT 39|42|JCT 40|42|DET 41|42|QUANT 42|37|PRED
+	43|42|NJCT 44|43|POBJ 45|42|JCT 46|5|PUNCT
+%trn:	coord|and adv:tem|then pro:sub|they adv|sudden&dadj-LY v|hear
+	prep|about n:prop|RESNA coord|or det:num|one prep|of det:dem|these
+	n|organize&dv-TION-PL coord|and pro:sub|they v|go co|you_know inf|to
+	v|try coord|and v|sell det:poss|their adj|wonder-FULL n|product
+	pro:rel|that~aux|be&3S part|go-PRESP inf|to v|solve
+	adj|everybody&dn-POSS n|problem-PL coord|and v|find adv|out
+	comp|that pro:exist|there~cop|be&3S adv|actual&dadj-LY adv|quite
+	det:art|a qn|few n|product-PL adv|out adv|there adv|already .
+%grt:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|7|CONJ 9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|15|LINK
+	14|15|SUBJ 15|5|CJCT 16|18|COM 17|18|INF 18|15|XJCT 19|18|CONJ
+	20|19|COORD 21|23|DET 22|23|MOD 23|20|OBJ 24|26|LINK 25|26|AUX
+	26|23|CMOD 27|28|INF 28|26|COMP 29|30|MOD 30|28|OBJ 31|15|CONJ
+	32|31|COORD 33|32|JCT 34|36|LINK 35|36|SUBJ 36|32|COMP 37|36|JCT
+	38|41|JCT 39|41|DET 40|41|QUANT 41|36|PRED 42|41|NJCT 43|41|NJCT
+	44|41|NJCT 45|5|PUNCT
+*PAR:	and some of the companies survive and some of them don't .
+%mor:	coord|and pro:indef|some prep|of det:art|the n|company-PL v|survive
+	coord|and pro:indef|some prep|of pro:obj|them mod|do~neg|not .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|CONJ 8|7|COORD
+	9|8|NJCT 10|9|POBJ 11|8|ENUM 12|11|NEG 13|6|PUNCT
+%trn:	coord|and pro:indef|some prep|of det:art|the n|company-PL v|survive
+	coord|and qn|some prep|of pro:obj|them mod|do~neg|not .
+%grt:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|11|LINK
+	8|11|SUBJ 9|8|NJCT 10|9|POBJ 11|6|CJCT 12|11|NEG 13|6|PUNCT
+*PAR:	but it's [//] there tend to be a_lot_of little devices that are
+	[//] do very similar things but have been come up with by different
+	people .
+%mor:	conj|but pro:exist|there v|tend inf|to cop|be qn|a_lot_of
+	adj|little n|device-PL pro:rel|that v|do adv|very adj|similar
+	n|thing-PL conj|but aux|have aux|be&PASTP v|come adv|up prep|with
+	prep|by adj|different n|person&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|17|CJCT 4|5|INF 5|3|COMP 6|8|QUANT 7|8|MOD 8|5|PRED
+	9|10|LINK 10|8|CMOD 11|12|JCT 12|13|MOD 13|10|OBJ 14|17|SUBJ 15|17|AUX
+	16|17|AUX 17|0|ROOT 18|17|JCT 19|17|JCT 20|19|POBJ 21|22|MOD 22|20|POBJ
+	23|17|PUNCT
+%trn:	conj|but pro:exist|there v|tend inf|to cop|be qn|a_lot_of
+	adj|little n|device-PL pro:rel|that v|do adv|very adj|similar
+	n|thing-PL conj|but aux|have aux|be&PASTP part|come&PASTP adv|up
+	prep|with prep|by adj|different n|person&PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|8|QUANT 7|8|MOD
+	8|5|PRED 9|10|LINK 10|8|CMOD 11|12|JCT 12|13|MOD 13|10|OBJ
+	14|17|LINK 15|17|AUX 16|17|AUX 17|8|CMOD 18|17|JCT 19|17|JCT
+	20|17|JCT 21|22|MOD 22|20|POBJ 23|3|PUNCT
+*PAR:	augmentative and alternative communication is typically used to
+	refer to communication that uses something other_than the person's
+	own body for communication .
+%mor:	adj|augmentative coord|and adj|alternative n|communicate&dv-TION
+	aux|be&3S adv|typical&dadj-LY part|use-PASTP inf|to v|refer prep|to
+	n|communicate&dv-TION pro:rel|that v|use-3S pro:indef|something
+	prep|other_than det:art|the adj|person&dn-POSS adj|own n|body
+	prep|for n|communicate&dv-TION .
+%gra:	1|7|SUBJ 2|1|CONJ 3|4|MOD 4|2|COORD 5|7|AUX 6|7|JCT 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|JCT 11|10|POBJ 12|13|LINK 13|11|CMOD 14|13|OBJ 15|13|JCT
+	16|19|DET 17|19|MOD 18|19|MOD 19|15|POBJ 20|19|NJCT 21|20|POBJ 22|7|PUNCT
+%trn:	adj|augmentative coord|and adj|alternative n|communicate&dv-TION
+	aux|be&3S adv|typical&dadj-LY part|use-PASTP inf|to v|refer prep|to
+	n|communicate&dv-TION pro:rel|that v|use-3S pro:indef|something
+	prep|other_than det:art|the adj|person&dn-POSS adj|own n|body
+	prep|for n|communicate&dv-TION .
+%grt:	1|4|MOD 2|1|CONJ 3|2|COORD 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT
+	8|9|INF 9|7|COMP 10|9|JCT 11|10|POBJ 12|13|JCT 13|11|CMOD 14|13|OBJ
+	15|14|NJCT 16|19|DET 17|19|MOD 18|19|MOD 19|15|POBJ 20|13|JCT
+	21|20|POBJ 22|7|PUNCT
+*PAR:	however to really be effective you often want to use a multimodal
+	communication .
+%mor:	adv|however inf|to adv|real&dadj-LY cop|be adj|effective
+	pro:per|you adv|often v|want inf|to v|use det:art|a multi#adj|modal
+	n|communicate&dv-TION .
+%gra:	1|4|COM 2|4|INF 3|4|JCT 4|8|CJCT 5|4|PRED 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|10|INF 10|8|COMP 11|13|DET 12|13|MOD 13|10|OBJ 14|8|PUNCT
+%trn:	adv|however inf|to adv|real&dadj-LY cop|be adj|effective
+	pro:per|you adv|often v|want inf|to v|use det:art|a multi#adj|modal
+	n|communicate&dv-TION .
+%grt:	1|8|JCT 2|4|INF 3|4|JCT 4|8|XJCT 5|4|PRED 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|10|INF 10|8|COMP 11|13|DET 12|13|MOD 13|10|OBJ 14|8|PUNCT
+*PAR:	so ‡ you want to use communication that combines different aspects
+	.
+%mor:	co|so beg|beg pro:per|you v|want inf|to v|use n|communicate&dv-TION
+	pro:rel|that v|combine-3S adj|different n|aspect-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|9|LINK
+	9|7|CMOD 10|11|MOD 11|9|OBJ 12|4|PUNCT
+%trn:	co|so beg|beg pro:per|you v|want inf|to v|use
+	n|communicate&dv-TION pro:rel|that v|combine-3S adj|different
+	n|aspect-PL .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|9|LINK
+	9|7|CMOD 10|11|MOD 11|9|JCT 12|4|PUNCT
+*PAR:	you_know if all you wanna say is no you really don't want to rely
+	on your Pathfinder and &p typing in the right buttons .
+%mor:	co|you_know conj|if pro:indef|all pro:per|you v|want~inf|to v|say
+	cop|be&3S co|no pro:per|you adv|real&dadj-LY mod|do~neg|not v|want
+	inf|to v|rely prep|on det:poss|your n:prop|Pathfinder coord|and
+	part|type-PRESP prep|in det:art|the adj|right n|button-PL .
+%gra:	1|5|COM 2|5|LINK 3|5|JCT 4|5|SUBJ 5|14|SUBJ 6|7|INF 7|5|COMP 8|14|AUX
+	9|14|COM 10|14|SUBJ 11|14|JCT 12|14|AUX 13|12|NEG 14|0|ROOT 15|16|INF
+	16|14|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|16|CONJ 21|20|COORD 22|21|JCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|14|PUNCT
+%trn:	co|you_know conj|if pro:indef|all pro:per|you v|want~inf|to v|say
+	cop|be&3S co|no pro:per|you adv|real&dadj-LY mod|do~neg|not v|want
+	inf|to v|rely prep|on det:poss|your n:prop|Pathfinder coord|and
+	n:gerund|type-PRESP prep|in det:art|the adj|right n|button-PL .
+%grt:	1|14|COM 2|8|LINK 3|8|SUBJ 4|5|SUBJ 5|3|CMOD 6|7|INF 7|5|COMP
+	8|14|CJCT 9|8|PRED 10|14|SUBJ 11|14|JCT 12|14|AUX 13|12|NEG 14|0|ROOT
+	15|16|INF 16|14|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|19|CONJ
+	21|20|COORD 22|21|JCT 23|25|DET 24|25|MOD 25|22|POBJ 26|14|PUNCT
+*PAR:	if you want to express to someone that whatever they just gave you
+	to eat you really didn't like there are far more efficient ways than
+	typing out +"/.
+%mor:	conj|if pro:per|you v|want inf|to v|express prep|to
+	pro:indef|someone comp|that pro:indef|whatever pro:sub|they adv|just
+	v|give&PAST pro:per|you inf|to v|eat pro:per|you adv|real&dadj-LY
+	mod|do&PAST~neg|not v|like pro:exist|there cop|be&PRES adv|far
+	adv|more adj|efficient n|way-PL prep|than n:gerund|type-PRESP
+	adv|out +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|15|LINK
+	9|15|SUBJ 10|12|SUBJ 11|12|JCT 12|9|CMOD 13|12|OBJ 14|15|INF 15|7|CMOD
+	16|15|OBJ 17|20|JCT 18|20|AUX 19|18|NEG 20|15|COMP 21|22|SUBJ 22|20|COMP
+	23|22|JCT 24|26|JCT 25|26|MOD 26|22|PRED 27|26|NJCT 28|27|POBJ 29|28|JCT
+	30|3|PUNCT
+%trn:	comp|if pro:per|you v|want inf|to v|express prep|to
+	pro:indef|someone comp|that pro:indef|whatever pro:sub|they adv|just
+	v|give&PAST pro:per|you inf|to v|eat pro:per|you adv|real&dadj-LY
+	mod|do&PAST~neg|not v|like pro:exist|there cop|be&PRES adv|far
+	adv|more adj|efficient n|way-PL prep|than n:gerund|type-PRESP
+	adv|out +"/.
+%grt:	1|3|LINK 2|3|SUBJ 3|22|CJCT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ
+	8|20|LINK 9|12|LINK 10|12|SUBJ 11|12|JCT 12|20|COBJ 13|12|OBJ
+	14|15|INF 15|12|XJCT 16|20|SUBJ 17|20|JCT 18|20|AUX 19|18|NEG
+	20|5|COMP 21|22|SUBJ 22|0|ROOT 23|24|JCT 24|25|JCT 25|26|MOD
+	26|22|PRED 27|26|NJCT 28|27|POBJ 29|28|JCT 30|22|PUNCT
+*PAR:	+" I did not like what I just ate .
+%mor:	pro:sub|I mod|do&PAST neg|not v|like pro:int|what pro:sub|I
+	adv|just v|eat&PAST .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|JCT 8|4|COMP
+	9|4|PUNCT
+%trn:	pro:sub|I mod|do&PAST neg|not v|like pro:int|what pro:sub|I
+	adv|just v|eat&PAST .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|JCT
+	8|4|COBJ 9|4|PUNCT
+*PAR:	probably a [/] a face &=laughs will express it far more clearly and
+	far more efficiently than using the device .
+%mor:	adv|probable&dadj-LY det:art|a n|face mod|will v|express pro:per|it
+	adv|far adv|more adv|clear&dadj-LY coord|and adv|far adv|more
+	adv|efficient&dadj-LY prep|than n:gerund|use-PRESP det:art|the
+	n|device .
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|JCT
+	9|5|JCT 10|9|CONJ 11|12|JCT 12|10|COORD 13|12|JCT 14|13|JCT 15|14|POBJ
+	16|17|DET 17|15|OBJ 18|5|PUNCT
+%trn:	adv|probable&dadj-LY det:art|a n|face mod|will v|express pro:per|it
+	adv|far adv|more adv|clear&dadj-LY coord|and adv|far adv|more
+	adv|efficient&dadj-LY prep|than n:gerund|use-PRESP det:art|the
+	n|device .
+%grt:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|JCT 8|9|JCT
+	9|5|JCT 10|9|CONJ 11|12|JCT 12|13|JCT 13|10|COORD 14|9|JCT
+	15|14|POBJ 16|17|DET 17|15|OBJ 18|5|PUNCT
+*PAR:	so ‡ whenever possible you wanna incorporate gestures and devices
+	and different levels of technology like we talked about earlier from
+	the very high tech to the very low tech to meet all the different
+	needs that a person's going to have .
+%mor:	co|so beg|beg conj|whenever adj|possible pro:per|you v|want~inf|to
+	v|incorporate n|gesture-PL coord|and n|device-PL coord|and
+	adj|different n|level-PL prep|of n|technology v|like pro:sub|we
+	v|talk-PAST adv|about adj|early-CP prep|from det:art|the adv|very
+	adj|high n|tech prep|to det:art|the adv|very adj|low n|tech inf|to
+	v|meet qn|all det:art|the adj|different n|need-PL pro:rel|that
+	det:art|a n|person~aux|be&3S part|go-PRESP inf|to v|have .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|JCT 5|6|SUBJ 6|19|CJCT 7|8|INF 8|6|COMP
+	9|17|SUBJ 10|9|CONJ 11|10|COORD 12|9|CONJ 13|14|MOD 14|12|COORD
+	15|14|NJCT 16|15|POBJ 17|8|COMP 18|19|SUBJ 19|0|ROOT 20|21|JCT 21|19|JCT
+	22|21|JCT 23|26|DET 24|25|JCT 25|26|MOD 26|22|POBJ 27|26|NJCT 28|31|DET
+	29|30|JCT 30|31|MOD 31|27|POBJ 32|33|INF 33|31|XMOD 34|37|QUANT 35|37|DET
+	36|37|MOD 37|33|OBJ 38|42|LINK 39|40|DET 40|42|SUBJ 41|42|AUX 42|37|CMOD
+	43|44|INF 44|42|COMP 45|19|PUNCT
+%trn:	co|so beg|beg conj|whenever adj|possible pro:per|you v|want~inf|to
+	v|incorporate n|gesture-PL coord|and n|device-PL coord|and
+	adj|different n|level-PL prep|of n|technology conj|like pro:sub|we
+	v|talk-PAST adv|about adj|early-CP prep|from det:art|the adv|very
+	adj|high n|tech prep|to det:art|the adv|very adj|low n|tech inf|to
+	v|meet qn|all det:art|the adj|different n|need-PL pro:rel|that
+	det:art|a n|person~aux|be&3S part|go-PRESP inf|to v|have .
+%grt:	1|0|BEG 2|1|BEGP 3|4|LINK 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|INF
+	8|6|COMP 9|8|OBJ 10|9|CONJ 11|10|COORD 12|11|CONJ 13|14|MOD
+	14|12|COORD 15|14|NJCT 16|15|POBJ 17|19|LINK 18|19|SUBJ 19|8|CJCT
+	20|19|JCT 21|19|JCT 22|8|JCT 23|26|DET 24|25|JCT 25|26|MOD
+	26|22|POBJ 27|8|JCT 28|31|DET 29|30|JCT 30|31|MOD 31|27|POBJ
+	32|33|INF 33|8|XJCT 34|37|QUANT 35|37|DET 36|37|MOD 37|33|OBJ
+	38|42|LINK 39|40|DET 40|42|SUBJ 41|42|AUX 42|37|CMOD 43|44|INF
+	44|42|COMP 45|6|PUNCT
+*PAR:	in your &c communication systems what you need for a communication
+	system is going to be different for different people .
+%mor:	prep|in det:poss|your n|communicate&dv-TION n|system-PL
+	pro:int|what pro:per|you v|need prep|for det:art|a
+	n|communicate&dv-TION n|system aux|be&3S part|go-PRESP inf|to cop|be
+	adj|different prep|for adj|different n|person&PL .
+%gra:	1|13|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|7|LINK 6|7|SUBJ 7|13|CSUBJ 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|13|AUX 13|0|ROOT 14|15|INF 15|13|COMP
+	16|15|PRED 17|16|JCT 18|19|MOD 19|17|POBJ 20|13|PUNCT
+%trn:	prep|in det:poss|your n|communicate&dv-TION n|system-PL
+	pro:int|what pro:per|you v|need prep|for det:art|a
+	n|communicate&dv-TION n|system aux|be&3S part|go-PRESP inf|to cop|be
+	adj|different prep|for adj|different n|person&PL .
+%grt:	1|13|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|7|OBJ 6|7|SUBJ 7|13|CSUBJ
+	8|7|JCT 9|11|DET 10|11|MOD 11|8|POBJ 12|13|AUX 13|0|ROOT 14|15|INF
+	15|13|COMP 16|15|PRED 17|16|JCT 18|19|MOD 19|17|POBJ 20|13|PUNCT
+*PAR:	Rebecca had a picture of Mary ordering at Wendy's .
+%mor:	n:prop|Rebecca v|have&PAST det:art|a n|picture prep|of n:prop|Mary
+	part|order-PRESP prep|at n:prop|Wendy~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|4|XMOD 8|7|JCT
+	9|10|SUBJ 10|8|POBJ 11|2|PUNCT
+%trn:	n:prop|Rebecca v|have&PAST det:art|a n|picture prep|of n:prop|Mary
+	part|order-PRESP prep|at adj|Wendy&dn-POSS .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|SUBJ 7|5|CPOBJ
+	8|7|JCT 9|8|POBJ 10|2|PUNCT
+*PAR:	chances are reasonably good that people who knew her well , the
+	people she lived with or her close family and friends , could
+	understand her .
+%mor:	n|chance-PL cop|be&PRES adv|reason&dadj-ABLE-LY adj|good comp|that
+	n|person&PL pro:rel|who v|know&PAST pro:obj|her adv|well cm|cm
+	det:art|the n|person&PL pro:sub|she v|live-PAST prep|with coord|or
+	det:poss|her adj|close n|family coord|and n|friend-PL cm|cm
+	mod|could v|understand pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|13|MOD 5|13|MOD 6|13|MOD 7|8|LINK 8|6|CMOD
+	9|8|OBJ 10|8|JCT 11|8|LP 12|13|DET 13|3|POBJ 14|15|SUBJ 15|13|CMOD
+	16|13|NJCT 17|25|LINK 18|20|DET 19|20|MOD 20|17|COORD 21|20|CONJ 22|21|COORD
+	23|17|LP 24|25|AUX 25|16|POBJ 26|25|OBJ 27|2|PUNCT
+%trn:	n|chance-PL cop|be&PRES adv|reason&dadj-ABLE-LY adj|good comp|that
+	n|person&PL pro:rel|who v|know&PAST pro:obj|her adv|well cm|cm
+	det:art|the n|person&PL pro:sub|she v|live-PAST prep|with coord|or
+	det:poss|her adj|close n|family coord|and n|friend-PL cm|cm
+	mod|could v|understand pro:obj|her .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|25|LINK 6|25|SUBJ 7|8|LINK
+	8|6|CMOD 9|8|OBJ 10|8|JCT 11|6|LP 12|13|DET 13|6|APP 14|15|SUBJ
+	15|13|CMOD 16|15|JCT 17|13|CONJ 18|20|DET 19|20|MOD 20|17|COORD
+	21|20|CONJ 22|21|COORD 23|13|LP 24|25|AUX 25|1|CMOD 26|25|OBJ
+	27|2|PUNCT
+*PAR:	but it was the people +...
+%mor:	conj|but pro:per|it cop|be&PAST&13S det:art|the n|person&PL +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%trn:	conj|but pro:per|it cop|be&PAST&13S det:art|the n|person&PL +...
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	you_know the person behind the counter at Wendy's doesn't have the
+	experience .
+%mor:	co|you_know det:art|the n|person prep|behind det:art|the n|counter
+	prep|at n:prop|Wendy~cop|be&3S mod|do&3S~neg|not v|have det:art|the
+	n|experience .
+%gra:	1|3|COM 2|3|DET 3|9|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|NJCT 8|7|POBJ
+	9|0|ROOT 10|12|AUX 11|10|NEG 12|9|CPRED 13|14|DET 14|12|OBJ 15|9|PUNCT
+%trn:	co|you_know det:art|the n|person prep|behind det:art|the n|counter
+	prep|at adj|Wendy&dn-POSS mod|do&3S~neg|not v|have det:art|the
+	n|experience .
+%grt:	1|11|COM 2|3|DET 3|11|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|7|POBJ 9|11|AUX 10|9|NEG 11|0|ROOT 12|13|DET 13|11|OBJ
+	14|11|PUNCT
+*PAR:	and you'll find this when you have professors who have an accent .
+%mor:	coord|and pro:per|you~mod|will v|find pro:dem|this conj|when
+	pro:per|you v|have n|professor-PL pro:rel|who v|have det:art|a
+	n|accent .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ 10|11|LINK 11|9|CMOD 12|13|DET 13|11|OBJ 14|4|PUNCT
+%trn:	coord|and pro:per|you~mod|will v|find pro:dem|this conj|when
+	pro:per|you v|have n|professor-PL pro:rel|who v|have det:art|a
+	n|accent .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ
+	8|4|CJCT 9|8|OBJ 10|11|LINK 11|9|CMOD 12|13|DET 13|11|OBJ 14|4|PUNCT
+*PAR:	sometimes if the first day you can't understand them by the third
+	day you're [/] you're starting to get tuned in there and you can
+	most of the time follow if you're awake what they're saying .
+%mor:	adv:tem|sometimes conj|if det:art|the adj|first n|day pro:per|you
+	mod|can~neg|not v|understand pro:obj|them prep|by det:art|the
+	adj|third n|day pro:per|you~aux|be&PRES part|start-PRESP inf|to
+	v|get part|tune-PASTP prep|in n|there coord|and pro:per|you mod|can
+	pro:indef|most prep|of det:art|the n|time v|follow conj|if
+	pro:per|you~cop|be&PRES adj|awake pro:int|what
+	pro:sub|they~aux|be&PRES part|say-PRESP .
+%gra:	1|17|JCT 2|9|LINK 3|5|DET 4|5|MOD 5|9|JCT 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|17|CJCT 10|9|OBJ 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|17|SUBJ
+	16|17|AUX 17|0|ROOT 18|19|INF 19|17|COMP 20|19|PRED 21|20|JCT 22|21|POBJ
+	23|30|LINK 24|30|SUBJ 25|30|AUX 26|30|SUBJ 27|26|NJCT 28|29|DET 29|27|POBJ
+	30|20|CJCT 31|33|LINK 32|33|SUBJ 33|38|CJCT 34|33|PRED 35|38|LINK
+	36|38|SUBJ 37|38|AUX 38|30|COMP 39|17|PUNCT
+%trn:	adv:tem|sometimes conj|if det:art|the adj|first n|day pro:per|you
+	mod|can~neg|not v|understand pro:obj|them prep|by det:art|the
+	adj|third n|day pro:per|you~aux|be&PRES part|start-PRESP inf|to
+	aux|get part|tune-PASTP prep|in pro:indef|there coord|and pro:per|you
+	mod|can pro:indef|most prep|of det:art|the n|time v|follow conj|if
+	pro:per|you~cop|be&PRES adj|awake pro:int|what
+	pro:sub|they~aux|be&PRES part|say-PRESP .
+%grt:	1|17|JCT 2|9|LINK 3|5|DET 4|5|MOD 5|9|JCT 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|17|CJCT 10|9|OBJ 11|17|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|17|SUBJ 16|17|AUX 17|0|ROOT 18|20|INF 19|20|AUX 20|17|COMP
+	21|20|JCT 22|21|POBJ 23|30|LINK 24|30|SUBJ 25|30|AUX 26|30|JCT
+	27|26|NJCT 28|29|DET 29|27|POBJ 30|17|CJCT 31|33|LINK 32|33|SUBJ
+	33|30|CJCT 34|33|PRED 35|38|LINK 36|38|SUBJ 37|38|AUX 38|30|COBJ
+	39|17|PUNCT
+*PAR:	you_know your ear gets tuned in to a particular accent .
+%mor:	co|you_know det:poss|your n|ear aux|get-3S part|tune-PASTP adv|in
+	prep|to det:art|a n|particular n|accent .
+%gra:	1|3|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|5|PUNCT
+%trn:	co|you_know det:poss|your n|ear aux|get-3S part|tune-PASTP adv|in
+	prep|to det:art|a adj|particular n|accent .
+%grt:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|5|PUNCT
+*PAR:	I would find this when I went to Kenya .
+%mor:	pro:sub|I mod|will&COND v|find pro:dem|this conj|when pro:sub|I
+	v|go&PAST prep|to n:prop|Kenya .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+%trn:	pro:sub|I mod|will&COND v|find pro:dem|this conj|when pro:sub|I
+	v|go&PAST prep|to n:prop|Kenya .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT
+	8|7|JCT 9|8|POBJ 10|3|PUNCT
+*PAR:	that they speak English but there's a very distinct accent .
+%mor:	pro:rel|that pro:sub|they v|speak n:prop|English conj|but
+	pro:exist|there~cop|be&3S det:art|a adv|very adj|distinct n|accent .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|11|DET
+	9|10|JCT 10|11|MOD 11|7|PRED 12|3|PUNCT
+%trn:	comp|that pro:sub|they v|speak n:prop|English conj|but
+	pro:exist|there~cop|be&3S det:art|a adv|very adj|distinct n|accent .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT
+	8|11|DET 9|10|JCT 10|11|MOD 11|7|PRED 12|3|PUNCT
+*PAR:	and if people talked slowly I was okay .
+%mor:	coord|and conj|if n|person&PL v|talk-PAST adv|slow&dadj-LY
+	pro:sub|I cop|be&PAST&13S adj|okay .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+%trn:	coord|and conj|if n|person&PL v|talk-PAST adv|slow&dadj-LY
+	pro:sub|I cop|be&PAST&13S adj|okay .
+%grt:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT
+	8|7|PRED 9|7|PUNCT
+*PAR:	if they talked quickly especially if they talked quickly like on
+	the telephone I would get lost very easily .
+%mor:	conj|if pro:sub|they v|talk-PAST adv|quick&dadj-LY
+	adv|especial&dadj-LY conj|if pro:sub|they v|talk-PAST
+	adv|quick&dadj-LY prep|like prep|on det:art|the n|telephone
+	pro:sub|I mod|will&COND aux|get part|lose&PASTP adv|very
+	adv|ease&dadj-Y-LY .
+%gra:	1|3|LINK 2|3|SUBJ 3|17|CJCT 4|3|JCT 5|3|JCT 6|8|LINK 7|8|SUBJ 8|17|CJCT
+	9|8|JCT 10|8|JCT 11|8|JCT 12|13|DET 13|11|POBJ 14|17|SUBJ 15|17|AUX
+	16|17|AUX 17|0|ROOT 18|19|JCT 19|17|JCT 20|17|PUNCT
+%trn:	conj|if pro:sub|they v|talk-PAST adv|quick&dadj-LY
+	adv|especial&dadj-LY conj|if pro:sub|they v|talk-PAST
+	adv|quick&dadj-LY prep|like prep|on det:art|the n|telephone pro:sub|I
+	mod|will&COND aux|get part|lose&PASTP adv|very adv|ease&dadj-Y-LY .
+%grt:	1|3|LINK 2|3|SUBJ 3|17|CJCT 4|3|JCT 5|8|JCT 6|8|LINK 7|8|SUBJ
+	8|17|CJCT 9|8|JCT 10|8|JCT 11|10|JCT 12|13|DET 13|11|POBJ 14|17|SUBJ
+	15|17|AUX 16|17|AUX 17|0|ROOT 18|19|JCT 19|17|JCT 20|17|PUNCT
+*PAR:	but my ear wasn't yet tuned in to that accent .
+%mor:	conj|but det:poss|my n|ear aux|be&PAST&13S~neg|not adv:tem|yet
+	part|tune-PASTP adv|in prep|to det:dem|that n|accent .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|7|AUX 5|4|NEG 6|7|JCT 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|PUNCT
+%trn:	conj|but det:poss|my n|ear aux|be&PAST&13S~neg|not adv:tem|yet
+	part|tune-PASTP adv|in prep|to det:dem|that n|accent .
+%grt:	1|7|LINK 2|3|DET 3|7|SUBJ 4|7|AUX 5|4|NEG 6|7|JCT 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|PUNCT
+*PAR:	and I wasn't there long enough to get really tuned in .
+%mor:	coord|and pro:sub|I cop|be&PAST&13S~neg|not adv|there adv|long
+	adv|enough inf|to aux|get adv|real&dadj-LY v|tune-PAST adv|in .
+%gra:	1|3|LINK 2|3|SUBJ 3|11|SUBJ 4|3|NEG 5|3|JCT 6|7|JCT 7|11|JCT 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|0|ROOT 12|11|JCT 13|11|PUNCT
+%trn:	coord|and pro:sub|I cop|be&PAST&13S~neg|not adv|there adv|long
+	adv|enough inf|to aux|get adv|real&dadj-LY part|tune-PASTP adv|in .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|JCT 6|3|JCT 7|6|JCT 8|11|INF
+	9|11|AUX 10|11|JCT 11|7|XJCT 12|11|JCT 13|3|PUNCT
+*PAR:	so ‡ what you may need is a communication system for an unfamiliar
+	partner .
+%mor:	co|so beg|beg pro:int|what pro:per|you mod|may v|need cop|be&3S
+	det:art|a n|communicate&dv-TION n|system prep|for det:art|a
+	un#adj|familiar n|partner .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|COMP 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|6|PUNCT
+%trn:	co|so beg|beg pro:int|what pro:per|you mod|may v|need cop|be&3S
+	det:art|a n|communicate&dv-TION n|system prep|for det:art|a
+	un#adj|familiar n|partner .
+%grt:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|7|CSUBJ 7|0|ROOT
+	8|10|DET 9|10|MOD 10|7|PRED 11|10|NJCT 12|14|DET 13|14|MOD
+	14|11|POBJ 15|7|PUNCT
+*PAR:	may just get in your way with a familiar partner .
+%mor:	mod|may adv|just v|get prep|in det:poss|your n|way prep|with
+	det:art|a adj|familiar n|partner .
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+%trn:	mod|may adv|just v|get prep|in det:poss|your n|way prep|with
+	det:art|a adj|familiar n|partner .
+%grt:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*PAR:	what you'll find actually is that sometimes when you have someone
+	come in for an evaluation for AAC they'll bring someone with them to
+	translate for them .
+%mor:	pro:int|what pro:per|you~mod|will v|find adv|actual&dadj-LY
+	cop|be&3S comp|that adv:tem|sometimes conj|when pro:per|you v|have
+	pro:indef|someone v|come adv|in prep|for det:art|a
+	n|evaluate&dv-TION prep|for n:prop|AAC pro:sub|they~mod|will v|bring
+	pro:indef|someone prep|with pro:obj|them inf|to v|translate prep|for
+	pro:obj|them .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|COMP 7|13|LINK 8|13|JCT
+	9|11|LINK 10|11|SUBJ 11|13|CJCT 12|13|SUBJ 13|6|CPRED 14|13|JCT
+	15|13|JCT 16|17|DET 17|15|POBJ 18|13|JCT 19|18|POBJ 20|22|SUBJ 21|22|AUX
+	22|13|COMP 23|22|OBJ 24|22|JCT 25|24|POBJ 26|27|INF 27|22|XJCT 28|27|JCT
+	29|28|POBJ 30|4|PUNCT
+%trn:	pro:int|what pro:per|you~mod|will v|find adv|actual&dadj-LY
+	cop|be&3S comp|that adv:tem|sometimes conj|when pro:per|you v|have
+	pro:indef|someone v|come adv|in prep|for det:art|a
+	n|evaluate&dv-TION prep|for n:prop|AAC pro:sub|they~mod|will v|bring
+	pro:indef|someone prep|with pro:obj|them inf|to v|translate prep|for
+	pro:obj|them .
+%grt:	1|4|OBJ 2|4|SUBJ 3|4|AUX 4|6|CSUBJ 5|4|JCT 6|0|ROOT 7|22|LINK
+	8|22|JCT 9|11|LINK 10|11|SUBJ 11|22|CJCT 12|11|OBJ 13|11|COMP
+	14|13|JCT 15|13|JCT 16|17|DET 17|15|POBJ 18|17|NJCT 19|18|POBJ
+	20|22|SUBJ 21|22|AUX 22|6|CPRED 23|22|OBJ 24|22|JCT 25|24|POBJ
+	26|27|INF 27|22|XJCT 28|27|JCT 29|28|POBJ 30|6|PUNCT
+*PAR:	because they can make sounds and if we've worked with the person
+	two or three times we usually learn to translate .
+%mor:	conj|because pro:sub|they mod|can v|make n|sound-PL coord|and
+	conj|if pro:sub|we~aux|have part|work-PASTP prep|with det:art|the
+	n|person det:num|two coord|or det:num|three n|time-PL pro:sub|we
+	adv|usual&dadj-LY v|learn inf|to v|translate .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COORD 11|10|JCT 12|13|DET 13|11|POBJ 14|17|QUANT
+	15|14|CONJ 16|15|COORD 17|10|JCT 18|20|SUBJ 19|20|JCT 20|17|CMOD 21|22|INF
+	22|20|COMP 23|4|PUNCT
+%trn:	conj|because pro:sub|they mod|can v|make n|sound-PL coord|and
+	conj|if pro:sub|we~aux|have part|work-PASTP prep|with det:art|the
+	n|person det:num|two coord|or det:num|three n|time-PL pro:sub|we
+	adv|usual&dadj-LY v|learn inf|to v|translate .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|20|LINK 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|20|CJCT 11|10|JCT 12|13|DET 13|11|POBJ
+	14|17|QUANT 15|14|CONJ 16|15|COORD 17|10|JCT 18|20|SUBJ 19|20|JCT
+	20|4|CJCT 21|22|INF 22|20|COMP 23|4|PUNCT
+*PAR:	there can also be similarities in <the way different people> [//]
+	you_know the accents that people have depending on whether they have
+	apraxia or &dythar dysarthria .
+%mor:	pro:exist|there mod|can adv|also cop|be n|similarity-PL prep|in
+	co|you_know det:art|the n|accent-PL pro:rel|that n|person&PL v|have
+	part|depend-PRESP prep|on conj|whether pro:sub|they v|have n|apraxia
+	coord|or n|dysarthria .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PRED 6|5|NJCT 7|9|COM 8|9|DET
+	9|6|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|COMP 14|13|JCT 15|17|LINK
+	16|17|SUBJ 17|4|CJCT 18|17|OBJ 19|18|CONJ 20|19|COORD 21|4|PUNCT
+%trn:	adv|there mod|can adv|also cop|be n|similarity-PL prep|in
+	co|you_know det:art|the n|accent-PL pro:rel|that n|person&PL v|have
+	part|depend-PRESP adv|on conj|whether pro:sub|they v|have n|apraxia
+	coord|or n|dysarthria .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PRED 6|5|NJCT 7|9|COM 8|9|DET
+	9|6|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|4|XJCT 14|13|JCT
+	15|17|LINK 16|17|SUBJ 17|14|CPOBJ 18|17|OBJ 19|18|CONJ 20|19|COORD
+	21|4|PUNCT
+*PAR:	but at first it's very useful to have that person who is very
+	familiar with them to translate for them .
+%mor:	conj|but prep|at adj|first pro:per|it~cop|be&3S adv|very
+	adj|use&dn-FULL inf|to v|have det:dem|that n|person pro:rel|who
+	cop|be&3S adv|very adj|familiar prep|with pro:obj|them inf|to
+	v|translate prep|for pro:obj|them .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|9|INF
+	9|7|XMOD 10|11|DET 11|9|OBJ 12|13|LINK 13|11|CMOD 14|15|JCT 15|13|PRED
+	16|15|JCT 17|16|POBJ 18|19|INF 19|15|XMOD 20|19|JCT 21|20|POBJ 22|5|PUNCT
+%trn:	conj|but prep|at adj|first pro:per|it~cop|be&3S adv|very
+	adj|use&dn-FULL inf|to v|have det:dem|that n|person pro:rel|who
+	cop|be&3S adv|very adj|familiar prep|with pro:obj|them inf|to
+	v|translate prep|for pro:obj|them .
+%grt:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED
+	8|9|INF 9|7|XMOD 10|11|DET 11|9|OBJ 12|13|LINK 13|11|CMOD 14|15|JCT
+	15|13|PRED 16|15|JCT 17|16|POBJ 18|19|INF 19|9|XJCT 20|19|JCT
+	21|20|POBJ 22|5|PUNCT
+*PAR:	it's also the caregiver who has an opinion on what's going to be
+	used as_well .
+%mor:	pro:per|it~cop|be&3S adv|also det:art|the n|+n|care+n|giver
+	pro:rel|who v|have&3S det:art|a n|opinion prep|on
+	pro:int|what~aux|be&3S part|go-PRESP inf|to aux|be part|use-PASTP
+	adv|as_well .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|LINK 7|5|CMOD 8|9|DET
+	9|7|OBJ 10|7|JCT 11|13|SUBJ 12|13|AUX 13|10|CPOBJ 14|16|INF 15|16|AUX
+	16|13|COMP 17|16|JCT 18|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adv|also det:art|the n|+n|care+n|giver
+	pro:rel|who v|have&3S det:art|a n|opinion prep|on
+	pro:int|what~aux|be&3S part|go-PRESP inf|to aux|be part|use-PASTP
+	adv|as_well .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|2|PRED 6|7|LINK 7|5|CMOD
+	8|9|DET 9|7|OBJ 10|9|NJCT 11|13|SUBJ 12|13|AUX 13|10|CPOBJ 14|16|INF
+	15|16|AUX 16|13|COMP 17|16|JCT 18|2|PUNCT
+*PAR:	you also may find that a communication system's needed for complex
+	concepts .
+%mor:	pro:per|you adv|also mod|may v|find comp|that det:art|a
+	n|communicate&dv-TION n|system~aux|be&3S part|need-PASTP prep|for
+	adj|complex n|concept-PL .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|10|LINK 6|8|DET 7|8|MOD 8|10|SUBJ
+	9|10|AUX 10|4|COMP 11|10|JCT 12|13|MOD 13|11|POBJ 14|4|PUNCT
+%trn:	pro:per|you adv|also mod|may v|find comp|that det:art|a
+	n|communicate&dv-TION n|system~aux|be&3S part|need-PASTP prep|for
+	adj|complex n|concept-PL .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|10|LINK 6|8|DET 7|8|MOD
+	8|10|SUBJ 9|10|AUX 10|4|COMP 11|10|JCT 12|13|MOD 13|11|POBJ
+	14|4|PUNCT
+*PAR:	that &s can be relatively simple communication based on yes and no
+	and you can get a_lot_of that with gestures or facial expressions .
+%mor:	pro:dem|that mod|can cop|be adv|relative&dadj-LY adj|simple
+	n|communicate&dv-TION part|base-PASTP prep|on co|yes coord|and co|no
+	coord|and pro:per|you mod|can v|get qn|a_lot_of pro:dem|that
+	prep|with n|gesture-PL coord|or adj|facial n|expression-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|JCT 5|6|MOD 6|3|PRED 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|15|LINK 13|15|SUBJ 14|15|AUX 15|9|CJCT
+	16|17|QUANT 17|15|OBJ 18|15|JCT 19|18|POBJ 20|19|CONJ 21|22|MOD
+	22|20|COORD 23|3|PUNCT
+%trn:	pro:dem|that mod|can cop|be adv|relative&dadj-LY adj|simple
+	n|communicate&dv-TION part|base-PASTP prep|on co|yes coord|and co|no
+	coord|and pro:per|you mod|can v|get qn|a_lot_of pro:dem|that
+	prep|with n|gesture-PL coord|or adj|facial n|expression-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|6|MOD 6|3|PRED 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|3|CJCT 16|17|QUANT 17|15|OBJ 18|15|JCT 19|18|POBJ 20|19|CONJ
+	21|22|MOD 22|20|COORD 23|3|PUNCT
+*PAR:	there's different types of communication .
+%mor:	pro:exist|there~cop|be&3S adj|different n|type-PL prep|of
+	n|communicate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S adj|different n|type-PL prep|of
+	n|communicate&dv-TION .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	Rebecca kind_of hit this .
+%mor:	n:prop|Rebecca adv|kind_of v|hit&ZERO pro:dem|this .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%trn:	n:prop|Rebecca adv|kind_of v|hit&ZERO pro:dem|this .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	there's conversation then there's all sorts of communication that
+	&g can get lumped into the graphical communication .
+%mor:	pro:exist|there~cop|be&3S n|converse&dv-TION adv:tem|then
+	pro:exist|there~cop|be&3S qn|all n|sort-PL prep|of
+	n|communicate&dv-TION pro:rel|that mod|can aux|get part|lump-PASTP
+	prep|into det:art|the adj|graphic-AL n|communicate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|2|PRED 7|8|QUANT 8|6|PRED
+	9|8|NJCT 10|9|POBJ 11|14|LINK 12|14|AUX 13|14|AUX 14|10|CMOD 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S n|converse&dv-TION adv:tem|then
+	pro:exist|there~cop|be&3S qn|all n|sort-PL prep|of
+	n|communicate&dv-TION pro:rel|that mod|can aux|get part|lump-PASTP
+	prep|into det:art|the adj|graphic-AL n|communicate&dv-TION .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|JCT 5|6|SUBJ 6|2|CJCT 7|8|QUANT
+	8|6|PRED 9|8|NJCT 10|9|POBJ 11|14|JCT 12|14|AUX 13|14|AUX 14|10|XMOD
+	15|14|JCT 16|18|DET 17|18|MOD 18|15|POBJ 19|2|PUNCT
+*PAR:	writing being very different actually from +//.
+%mor:	n:gerund|write-PRESP part|be-PRESP adv|very adj|different
+	adv|actual&dadj-LY prep|from +//.
+%gra:	1|0|INCROOT 2|1|XMOD 3|4|JCT 4|2|PRED 5|2|JCT 6|2|JCT 7|1|PUNCT
+%trn:	n:gerund|write-PRESP part|be-PRESP adv|very adj|different
+	adv|actual&dadj-LY prep|from +//.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|4|JCT 7|2|PUNCT
+*PAR:	even_though it's the same language , writing is very different in a
+	formal sense from conversation .
+%mor:	conj|even_though pro:per|it~cop|be&3S det:art|the adj|same
+	n|language cm|cm part|write-PRESP cop|be&3S adv|very adj|different
+	prep|in det:art|a adj|form&dn-AL n|sense prep|from
+	n|converse&dv-TION .
+%gra:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|6|DET 5|6|MOD 6|3|PRED 7|3|LP 8|9|SUBJ
+	9|0|ROOT 10|11|JCT 11|9|PRED 12|9|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|15|NJCT 17|16|POBJ 18|9|PUNCT
+%trn:	conj|even_though pro:per|it~cop|be&3S det:art|the adj|same
+	n|language cm|cm n:gerund|write-PRESP cop|be&3S adv|very
+	adj|different prep|in det:art|a adj|form&dn-AL n|sense prep|from
+	n|converse&dv-TION .
+%grt:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|6|DET 5|6|MOD 6|3|PRED 7|3|LP 8|9|SUBJ
+	9|0|ROOT 10|11|JCT 11|9|PRED 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|11|JCT 17|16|POBJ 18|9|PUNCT
+*PAR:	now the advent of email has blurred that somewhat in_that we teat
+	[//] treat email as a conversation and ignore all the formal rules
+	of writing .
+%mor:	adv:tem|now det:art|the n|advent prep|of n|email aux|have&3S
+	part|blur-PASTP comp|that adv|somewhat conj|in_that pro:sub|we
+	v|treat n|email prep|as det:art|a n|converse&dv-TION coord|and
+	v|ignore qn|all det:art|the adj|form&dn-AL n|rule-PL prep|of
+	n:gerund|write-PRESP .
+%gra:	1|7|JCT 2|3|DET 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|8|JCT 10|12|LINK 11|12|SUBJ 12|9|CPOBJ 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|12|CONJ 18|17|COORD 19|22|QUANT 20|22|DET 21|22|MOD 22|18|OBJ
+	23|22|NJCT 24|23|POBJ 25|7|PUNCT
+%trn:	adv:tem|now det:art|the n|advent prep|of n|email aux|have&3S
+	part|blur-PASTP pro:dem|that adv|somewhat conj|in_that pro:sub|we
+	v|treat n|email prep|as det:art|a n|converse&dv-TION coord|and
+	v|ignore qn|all det:art|the adj|form&dn-AL n|rule-PL prep|of
+	n:gerund|write-PRESP .
+%grt:	1|7|JCT 2|3|DET 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|12|OBJ 14|12|JCT
+	15|16|DET 16|14|POBJ 17|12|CONJ 18|17|COORD 19|22|QUANT 20|22|DET
+	21|22|MOD 22|18|OBJ 23|22|NJCT 24|23|POBJ 25|7|PUNCT
+*PAR:	but one thing I'm doing on your papers is going through and
+	circling all the contractions because you don't use contractions in
+	formal writing the way you would use in conversation or in email or
+	standing up in front of here , say .
+%mor:	conj|but det:num|one n|thing pro:sub|I~aux|be&1S part|do-PRESP
+	prep|on det:poss|your n|paper-PL aux|be&3S part|go-PRESP adv|through
+	coord|and part|circle-PRESP qn|all det:art|the n|contraction-PL
+	conj|because pro:per|you mod|do~neg|not v|use n|contraction-PL
+	prep|in adj|form&dn-AL n:gerund|write-PRESP det:art|the n|way
+	pro:per|you mod|will&COND v|use prep|in n|converse&dv-TION coord|or
+	prep|in n|email coord|or part|stand-PRESP adv|up prep|in n|front
+	prep|of n|here cm|cm co|say .
+%gra:	1|6|LINK 2|3|QUANT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|11|CJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|11|CONJ 14|13|COORD 15|17|QUANT
+	16|17|DET 17|14|OBJ 18|22|LINK 19|22|SUBJ 20|22|AUX 21|20|NEG
+	22|11|CJCT 23|22|OBJ 24|22|JCT 25|26|MOD 26|24|POBJ 27|28|DET 28|22|OBJ
+	29|31|SUBJ 30|31|AUX 31|28|CMOD 32|31|JCT 33|32|POBJ 34|31|CONJ 35|34|COORD
+	36|35|POBJ 37|35|CONJ 38|45|XJCT 39|38|JCT 40|38|JCT 41|40|POBJ 42|41|NJCT
+	43|42|POBJ 44|38|LP 45|37|COORD 46|11|PUNCT
+%trn:	conj|but det:num|one n|thing pro:sub|I~aux|be&1S part|do-PRESP
+	prep|on det:poss|your n|paper-PL cop|be&3S n:gerund|go-PRESP
+	adv|through coord|and n:gerund|circle-PRESP qn|all det:art|the
+	n|contraction-PL conj|because pro:per|you mod|do~neg|not v|use
+	n|contraction-PL prep|in adj|form&dn-AL n:gerund|write-PRESP
+	det:art|the n|way pro:per|you mod|will&COND v|use prep|in
+	n|converse&dv-TION coord|or prep|in n|email coord|or
+	part|stand-PRESP adv|up prep|in n|front prep|of pro:indef|here cm|cm co|say .
+%grt:	1|10|LINK 2|3|QUANT 3|10|SUBJ 4|6|SUBJ 5|6|AUX 6|3|XMOD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|0|ROOT 11|10|PRED 12|11|NJCT 13|11|CONJ
+	14|13|COORD 15|17|QUANT 16|17|DET 17|14|OBJ 18|22|LINK 19|22|SUBJ
+	20|22|AUX 21|20|NEG 22|10|CJCT 23|22|OBJ 24|22|JCT 25|26|MOD
+	26|24|POBJ 27|28|DET 28|22|JCT 29|31|SUBJ 30|31|AUX 31|28|CMOD
+	32|31|JCT 33|32|POBJ 34|32|CONJ 35|34|COORD 36|35|POBJ 37|35|CONJ
+	38|37|COORD 39|38|JCT 40|38|JCT 41|40|POBJ 42|41|NJCT 43|42|POBJ
+	44|38|LP 45|38|COM 46|10|PUNCT
+*PAR:	you don't do that .
+%mor:	pro:per|you mod|do~neg|not v|do pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%trn:	pro:per|you mod|do~neg|not v|do pro:dem|that .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	but [//] and then drawing and plotting is an entirely different
+	form of graphical communication .
+%mor:	coord|and adv:tem|then n|drawing coord|and part|plot-PRESP
+	cop|be&3S det:art|a adv|entire&dadj-LY adj|different n|form prep|of
+	adj|graphic-AL n|communicate&dv-TION .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|10|DET 8|9|JCT
+	9|10|MOD 10|6|PRED 11|10|NJCT 12|13|MOD 13|11|POBJ 14|6|PUNCT
+%trn:	coord|and adv:tem|then n|drawing coord|and n:gerund|plot-PRESP
+	cop|be&3S det:art|a adv|entire&dadj-LY adj|different n|form prep|of
+	adj|graphic-AL n|communicate&dv-TION .
+%grt:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|10|DET
+	8|9|JCT 9|10|MOD 10|6|PRED 11|10|NJCT 12|13|MOD 13|11|POBJ
+	14|6|PUNCT
+*PAR:	which can be very efficient but it requires a very different set of
+	skills .
+%mor:	pro:rel|which mod|can cop|be adv|very adj|efficient conj|but
+	pro:per|it v|require-3S det:art|a adv|very adj|different n|set
+	prep|of n|skill-PL .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|12|DET 10|11|JCT 11|12|MOD 12|8|OBJ 13|12|NJCT 14|13|POBJ 15|3|PUNCT
+%trn:	pro:rel|which mod|can cop|be adv|very adj|efficient conj|but
+	pro:per|it v|require-3S det:art|a adv|very adj|different n|set
+	prep|of n|skill-PL .
+%grt:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|8|LINK 7|8|SUBJ
+	8|3|CJCT 9|12|DET 10|11|JCT 11|12|MOD 12|8|OBJ 13|12|NJCT 14|13|POBJ
+	15|3|PUNCT
+*PAR:	so ‡ if you've ever tried to get [//] you_know do mental arithmetic
+	in your head and then write the answer down in Microsoft Word or
+	something , either you end up doing all [//] the whole thing in your
+	head and then writing the answer down or you end up writing this and
+	spacing over with the arrow keys to get to where you want to put the
+	next number .
+%mor:	co|so beg|beg conj|if pro:per|you~aux|have adv|ever part|try-PASTP
+	inf|to co|you_know v|do adj|mental n|arithmetic prep|in
+	det:poss|your n|head coord|and adv:tem|then v|write det:art|the
+	n|answer adv|down prep|in n:prop|Microsoft n:prop|Word coord|or
+	pro:indef|something cm|cm coord|either pro:per|you v|end adv|up
+	part|do-PRESP det:art|the adj|whole n|thing prep|in det:poss|your
+	n|head coord|and adv:tem|then part|write-PRESP det:art|the n|answer
+	adv|down coord|or pro:per|you v|end adv|up part|write-PRESP
+	pro:dem|this coord|and part|space-PRESP adv|over prep|with
+	det:art|the n|arrow n|key-PL inf|to v|get prep|to pro:int|where
+	pro:per|you v|want inf|to v|put&ZERO det:art|the adj|next n|number .
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|10|INF
+	9|10|COM 10|7|COMP 11|12|MOD 12|10|OBJ 13|10|JCT 14|15|DET 15|13|POBJ
+	16|18|LINK 17|18|JCT 18|10|CJCT 19|20|DET 20|18|OBJ 21|18|JCT 22|18|JCT
+	23|22|POBJ 24|22|ENUM 25|24|CONJ 26|25|COORD 27|24|LP 28|22|CONJ 29|28|COORD
+	30|22|POBJ 31|30|JCT 32|30|XJCT 33|35|DET 34|35|MOD 35|32|OBJ 36|32|JCT
+	37|38|DET 38|36|POBJ 39|32|CONJ 40|41|JCT 41|39|COORD 42|43|DET
+	43|41|OBJ 44|41|JCT 45|47|LINK 46|47|SUBJ 47|41|CJCT 48|47|JCT 49|47|XJCT
+	50|49|OBJ 51|49|CONJ 52|51|COORD 53|52|JCT 54|52|JCT 55|57|DET 56|57|MOD
+	57|54|POBJ 58|59|INF 59|57|XMOD 60|59|JCT 61|63|LINK 62|63|SUBJ 63|60|CPOBJ
+	64|65|INF 65|63|COMP 66|68|DET 67|68|MOD 68|65|OBJ 69|7|PUNCT
+%trn:	co|so beg|beg conj|if pro:per|you~aux|have adv|ever part|try-PASTP
+	inf|to co|you_know v|do adj|mental n|arithmetic prep|in
+	det:poss|your n|head coord|and adv:tem|then v|write det:art|the
+	n|answer adv|down prep|in n:prop|Microsoft n:prop|Word coord|or
+	pro:indef|something cm|cm coord|either pro:per|you v|end adv|up
+	part|do-PRESP det:art|the adj|whole n|thing prep|in det:poss|your
+	n|head coord|and adv:tem|then part|write-PRESP det:art|the
+	n|answer adv|down coord|or pro:per|you v|end adv|up part|write-PRESP
+	pro:dem|this coord|and part|space-PRESP adv|over prep|with
+	det:art|the n|arrow n|key-PL inf|to v|get prep|to pro:int|where
+	pro:per|you v|want inf|to v|put&ZERO det:art|the adj|next n|number .
+%grt:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|JCT 7|30|XJCT 8|10|INF
+	9|10|COM 10|7|COMP 11|12|MOD 12|10|JCT 13|10|JCT 14|15|DET
+	15|13|POBJ 16|10|CONJ 17|18|JCT 18|16|COORD 19|20|DET 20|18|OBJ
+	21|18|JCT 22|18|JCT 23|24|NAME 24|22|POBJ 25|24|CONJ 26|25|COORD
+	27|7|LP 28|30|COORD 29|30|SUBJ 30|0|ROOT 31|30|JCT 32|30|XJCT
+	33|35|DET 34|35|MOD 35|32|OBJ 36|32|JCT 37|38|DET 38|36|POBJ
+	39|32|CONJ 40|41|JCT 41|39|COORD 42|43|DET 43|41|OBJ 44|41|JCT
+	45|47|COORD 46|47|SUBJ 47|30|ENUM 48|47|JCT 49|47|XJCT 50|49|OBJ
+	51|49|CONJ 52|51|COORD 53|52|JCT 54|52|JCT 55|57|DET 56|57|MOD
+	57|54|POBJ 58|59|INF 59|52|XJCT 60|59|JCT 61|63|LINK 62|63|SUBJ
+	63|60|CPOBJ 64|65|INF 65|63|COMP 66|68|DET 67|68|MOD 68|65|OBJ
+	69|30|PUNCT
+*PAR:	and it's an awkward form of writing .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a adj|awkward n|form prep|of
+	n:gerund|write-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+%trn:	coord|and pro:per|it~cop|be&3S det:art|a adj|awkward n|form prep|of
+	n:gerund|write-PRESP .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT
+	8|7|POBJ 9|3|PUNCT
+*PAR:	it can be very difficult if you're a child who is just starting to
+	understand addition and suddenly you hafta deal with +"/.
+%mor:	pro:per|it mod|can cop|be adv|very adj|difficult conj|if
+	pro:per|you~cop|be&PRES det:art|a n|child pro:rel|who aux|be&3S
+	adv|just part|start-PRESP inf|to v|understand n|addition coord|and
+	adv|sudden&dadj-LY pro:per|you mod|have~inf|to v|deal prep|with +"/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|10|DET 10|8|PRED 11|14|LINK 12|14|AUX 13|14|JCT 14|10|CMOD 15|16|INF
+	16|14|COMP 17|16|OBJ 18|16|CONJ 19|23|JCT 20|23|SUBJ 21|23|AUX 22|23|INF
+	23|18|COORD 24|23|JCT 25|3|PUNCT
+%trn:	pro:per|it mod|can cop|be adv|very adj|difficult conj|if
+	pro:per|you~cop|be&PRES det:art|a n|child pro:rel|who aux|be&3S
+	adv|just part|start-PRESP inf|to v|understand n|addition coord|and
+	adv|sudden&dadj-LY pro:per|you mod|have~inf|to v|deal prep|with +"/.
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|8|LINK 7|8|SUBJ
+	8|3|CJCT 9|10|DET 10|8|PRED 11|14|LINK 12|14|AUX 13|14|JCT
+	14|10|CMOD 15|16|INF 16|14|COMP 17|16|OBJ 18|23|LINK 19|23|JCT
+	20|23|SUBJ 21|23|AUX 22|23|INF 23|8|XJCT 24|23|JCT 25|3|PUNCT
+*PAR:	+" you_know not only do I have to learn the addition but I've gotta
+	make the computer that I'm using to do my written work work
+	backwards .
+%mor:	co|you_know neg|not adv|only mod|do pro:sub|I v|have inf|to v|learn
+	det:art|the n|addition conj|but pro:sub|I~aux|have mod|got~inf|to
+	v|make det:art|the n|compute&dv-AGT pro:rel|that pro:sub|I~aux|be&1S
+	part|use-PRESP inf|to v|do det:poss|my part|write&PASTP n|work
+	v|work adv|backwards .
+%gra:	1|6|COM 2|1|NEG 3|6|JCT 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|16|LINK 12|16|SUBJ 13|16|AUX 14|16|AUX 15|16|INF
+	16|6|CJCT 17|18|DET 18|16|OBJ 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|CMOD
+	23|24|INF 24|22|COMP 25|27|DET 26|27|XMOD 27|28|SUBJ 28|24|COMP 29|28|JCT
+	30|6|PUNCT
+%trn:	co|you_know neg|not adv|only mod|do pro:sub|I aux|have inf|to v|learn
+	det:art|the n|addition conj|but pro:sub|I~aux|have mod|got~inf|to
+	v|make det:art|the n|compute&dv-AGT pro:rel|that pro:sub|I~aux|be&1S
+	part|use-PRESP inf|to v|do det:poss|my part|write&PASTP n|work v|work
+	adv|backwards .
+%grt:	1|8|COM 2|3|NEG 3|8|JCT 4|8|AUX 5|8|SUBJ 6|8|AUX 7|8|INF 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|16|LINK 12|16|SUBJ 13|16|AUX 14|16|AUX
+	15|16|INF 16|8|XJCT 17|18|DET 18|16|OBJ 19|22|LINK 20|22|SUBJ
+	21|22|AUX 22|18|XMOD 23|24|INF 24|22|XJCT 25|27|DET 26|27|XMOD
+	27|24|OBJ 28|16|COMP 29|28|JCT 30|8|PUNCT
+*PAR:	it's [//] now a_lot_of people who can't speak or don't speak +...
+%mor:	adv:tem|now qn|a_lot_of n|person&PL pro:rel|who mod|can~neg|not v|speak
+	coord|or mod|do~neg|not v|speak +...
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|OBJ 4|7|LINK 5|7|AUX 6|5|NEG 7|3|CMOD
+	8|7|CONJ 9|11|AUX 10|9|NEG 11|8|COORD 12|1|PUNCT
+%trn:	adv:tem|now qn|a_lot_of n|person&PL pro:rel|who mod|can~neg|not v|speak
+	coord|or mod|do~neg|not v|speak +...
+%grt:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|7|LINK 5|7|AUX 6|5|NEG 7|3|CMOD
+	8|7|CONJ 9|11|AUX 10|9|NEG 11|8|COORD 12|3|PUNCT
+*PAR:	like my uncle has a_few words that people who know him well can
+	understand .
+%mor:	prep|like det:poss|my n|uncle v|have&3S qn|a_few n|word-PL
+	pro:rel|that n|person&PL pro:rel|who v|know pro:obj|him adv|well
+	mod|can v|understand .
+%gra:	1|4|JCT 2|3|DET 3|1|POBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|14|LINK 8|14|SUBJ
+	9|10|LINK 10|8|CMOD 11|10|OBJ 12|14|JCT 13|14|AUX 14|6|CMOD 15|4|PUNCT
+%trn:	prep|like det:poss|my n|uncle v|have&3S qn|a_few n|word-PL
+	pro:rel|that n|person&PL pro:rel|who v|know pro:obj|him adv|well
+	mod|can v|understand .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|14|LINK
+	8|14|SUBJ 9|10|LINK 10|8|CMOD 11|10|OBJ 12|10|JCT 13|14|AUX
+	14|6|CMOD 15|4|PUNCT
+*PAR:	but for the most part he doesn't speak .
+%mor:	conj|but prep|for det:art|the qn|most n|part pro:sub|he
+	mod|do&3S~neg|not v|speak .
+%gra:	1|9|LINK 2|9|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|PUNCT
+%trn:	conj|but prep|for det:art|the qn|most n|part pro:sub|he
+	mod|do&3S~neg|not v|speak .
+%grt:	1|9|LINK 2|9|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|9|SUBJ 7|9|AUX
+	8|7|NEG 9|0|ROOT 10|9|PUNCT
+*PAR:	he can be an excellent mime though and can communicate a_lot with
+	[/] with gestures .
+%mor:	pro:sub|he mod|can cop|be det:art|a adj|excellent n|mime adv|though
+	coord|and mod|can v|communicate adv|a_lot prep|with n|gesture-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|CONJ
+	9|10|AUX 10|8|COORD 11|10|JCT 12|10|JCT 13|12|POBJ 14|3|PUNCT
+%trn:	pro:sub|he mod|can cop|be det:art|a adj|excellent n|mime adv|though
+	coord|and mod|can v|communicate adv|a_lot prep|with n|gesture-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|JCT
+	8|3|CONJ 9|10|AUX 10|8|COORD 11|10|JCT 12|10|JCT 13|12|POBJ
+	14|3|PUNCT
+*PAR:	he tells jokes sometimes with [//] just with pantomime .
+%mor:	pro:sub|he v|tell-3S n|joke-PL adv:tem|sometimes adv|just prep|with
+	n|pantomime .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|JCT 6|4|JCT 7|6|POBJ 8|2|PUNCT
+%trn:	pro:sub|he v|tell-3S n|joke-PL adv:tem|sometimes adv|just prep|with
+	n|pantomime .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|JCT 6|2|JCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	now he is essentially <with the> [//] except_for a_little arthritis
+	fully functional except_for his aphasia .
+%mor:	adv:tem|now pro:sub|he cop|be&3S adv|essential&dadj-LY prep|except_for
+	adv|a_little n|arthritis adv|fully adj|function&dn-AL
+	prep|except_for det:poss|his n|aphasia .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|JCT 7|5|POBJ 8|9|JCT
+	9|3|PRED 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+%trn:	adv:tem|now pro:sub|he cop|be&3S adv|essential&dadj-LY prep|except_for
+	adv|a_little n|arthritis adv|fully adj|function&dn-AL prep|except_for
+	det:poss|his n|aphasia .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|NJCT 7|5|POBJ 8|9|JCT
+	9|3|PRED 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	you can certainly get some eye pointing , gesturing .
+%mor:	pro:per|you mod|can adv|certain&dadj-LY v|get qn|some n|eye
+	part|point-PRESP cm|cm part|gesture-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|XMOD 8|7|LP
+	9|4|XJCT 10|4|PUNCT
+%trn:	pro:per|you mod|can adv|certain&dadj-LY v|get qn|some n|eye
+	n:gerund|point-PRESP cm|cm n:gerund|gesture-PRESP .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|7|LP
+	9|7|ENUM 10|4|PUNCT
+*PAR:	facial expression can often be very much enhanced in someone who
+	doesn't have other forms of communication that are efficient .
+%mor:	adj|facial n|expression mod|can adv|often cop|be adv|very adv|much
+	part|enhance-PASTP prep|in pro:indef|someone pro:rel|who
+	mod|do&3S~neg|not v|have qn|other n|form-PL prep|of
+	n|communicate&dv-TION pro:rel|that cop|be&PRES adj|efficient .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|JCT 7|8|JCT 8|5|PRED
+	9|8|JCT 10|9|POBJ 11|14|LINK 12|14|AUX 13|12|NEG 14|10|CMOD 15|16|QUANT
+	16|14|OBJ 17|16|NJCT 18|17|POBJ 19|20|LINK 20|18|CMOD 21|20|PRED 22|5|PUNCT
+%trn:	adj|facial n|expression mod|can adv|often aux|be adv|very adv|much
+	part|enhance-PASTP prep|in pro:indef|someone pro:rel|who
+	mod|do&3S~neg|not v|have qn|other n|form-PL prep|of
+	n|communicate&dv-TION pro:rel|that cop|be&PRES adj|efficient .
+%grt:	1|2|MOD 2|8|SUBJ 3|8|AUX 4|8|JCT 5|8|AUX 6|7|JCT 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|14|LINK 12|14|AUX 13|12|NEG 14|10|CMOD
+	15|16|QUANT 16|14|OBJ 17|16|NJCT 18|17|POBJ 19|20|LINK 20|18|CMOD
+	21|20|PRED 22|8|PUNCT
+*PAR:	you_know they develop what skills they have into more efficient
+	communication .
+%mor:	co|you_know pro:sub|they v|develop pro:int|what n|skill-PL
+	pro:sub|they v|have prep|into qn|more adj|efficient
+	n|communicate&dv-TION .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|7|PRED 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|11|QUANT 10|11|MOD 11|8|POBJ 12|3|PUNCT
+%trn:	co|you_know pro:sub|they v|develop det:int|what n|skill-PL
+	pro:sub|they v|have prep|into adv|more adj|efficient
+	n|communicate&dv-TION .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|SUBJ 7|5|CMOD
+	8|3|JCT 9|10|JCT 10|11|MOD 11|8|POBJ 12|3|PUNCT
+*PAR:	but the simple pointing , you_know some people will be able to do
+	that , some people won't .
+%mor:	conj|but det:art|the adj|simple n:gerund|point-PRESP cm|cm
+	co|you_know qn|some n|person&PL mod|will cop|be adj|able inf|to v|do
+	pro:dem|that cm|cm qn|some n|person&PL mod|will~neg|not .
+%gra:	1|4|LINK 2|3|DET 3|4|MOD 4|0|INCROOT 5|4|LP 6|10|COM 7|8|QUANT
+	8|10|SUBJ 9|10|AUX 10|4|CJCT 11|10|PRED 12|13|INF 13|11|XMOD 14|13|OBJ 15|13|LP
+	16|17|QUANT 17|13|OBJ 18|17|ENUM 19|18|NEG 20|4|PUNCT
+%trn:	conj|but det:art|the adj|simple n:gerund|point-PRESP cm|cm
+	co|you_know qn|some n|person&PL mod|will cop|be adj|able inf|to v|do
+	pro:dem|that cm|cm qn|some n|person&PL mod|will~neg|not .
+%grt:	1|10|LINK 2|4|DET 3|4|MOD 4|10|TOP 5|4|LP 6|10|COM 7|8|QUANT
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|10|PRED 12|13|INF 13|11|XMOD
+	14|13|OBJ 15|10|LP 16|17|QUANT 17|18|SUBJ 18|10|CJCT 19|18|NEG
+	20|10|PUNCT
+*PAR:	some people will point with their chin or their eyes or something
+	and that can work very well with the familiar partner .
+%mor:	qn|some n|person&PL mod|will v|point prep|with det:poss|their
+	n|chin coord|or det:poss|their n|eye-PL coord|or pro:indef|something
+	coord|and pro:dem|that mod|can v|work adv|very adv|well prep|with
+	det:art|the adj|familiar n|partner .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|10|DET 10|8|COORD 11|10|CONJ 12|11|COORD 13|16|LINK 14|16|SUBJ
+	15|16|AUX 16|4|CJCT 17|18|JCT 18|16|JCT 19|16|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|4|PUNCT
+%trn:	qn|some n|person&PL mod|will v|point prep|with det:poss|their
+	n|chin coord|or det:poss|their n|eye-PL coord|or pro:indef|something
+	coord|and pro:dem|that mod|can v|work adv|very adv|well prep|with
+	det:art|the adj|familiar n|partner .
+%grt:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|7|CONJ 9|10|DET 10|8|COORD 11|10|CONJ 12|11|COORD 13|16|LINK
+	14|16|SUBJ 15|16|AUX 16|4|CJCT 17|18|JCT 18|16|JCT 19|16|JCT
+	20|22|DET 21|22|MOD 22|19|POBJ 23|4|PUNCT
+*PAR:	it's harder to do with the unfamiliar partner , though you may have
+	your communication device programmed with some of those you_know
+	phrases that will try to substitute for the pointing device .
+%mor:	pro:per|it~cop|be&3S adj|hard-CP inf|to v|do prep|with det:art|the
+	un#adj|familiar n|partner cm|cm conj|though pro:per|you mod|may
+	v|have det:poss|your n|communicate&dv-TION n|device v|program-PAST
+	prep|with qn|some prep|of det:dem|those co|you_know n|phrase-PL
+	pro:rel|that mod|will v|try inf|to v|substitute prep|for det:art|the
+	part|point-PRESP n|device .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|LP 11|14|LINK 12|14|SUBJ 13|14|AUX 14|2|CJCT 15|17|DET
+	16|17|MOD 17|18|SUBJ 18|14|COMP 19|18|JCT 20|19|POBJ 21|20|NJCT 22|24|DET
+	23|24|COM 24|21|POBJ 25|27|LINK 26|27|AUX 27|24|CMOD 28|29|INF 29|27|COMP
+	30|29|JCT 31|33|DET 32|33|MOD 33|30|POBJ 34|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adj|hard-CP inf|to v|do prep|with det:art|the
+	un#adj|familiar n|partner cm|cm conj|though pro:per|you mod|may
+	v|have det:poss|your n|communicate&dv-TION n|device
+	part|program-PASTP prep|with pro:indef|some prep|of det:dem|those
+	co|you_know n|phrase-PL pro:rel|that mod|will v|try inf|to
+	v|substitute prep|for det:art|the n:gerund|point-PRESP n|device .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|LP 11|14|LINK 12|14|SUBJ 13|14|AUX 14|2|CPRED 15|17|DET
+	16|17|MOD 17|14|OBJ 18|17|XMOD 19|18|JCT 20|19|POBJ 21|20|NJCT
+	22|24|DET 23|24|COM 24|21|POBJ 25|27|LINK 26|27|AUX 27|24|CMOD
+	28|29|INF 29|27|COMP 30|29|JCT 31|33|DET 32|33|MOD 33|30|POBJ
+	34|2|PUNCT
+*PAR:	if [//] in my uncle's case yes he actually was educated in a school
+	for the deaf because they could teach him American Sign Language and
+	you_know knew how to deal with someone who you couldn't talk to and
+	have them respond .
+%mor:	prep|in det:poss|my adj|uncle&dn-POSS n|case co|yes pro:sub|he
+	adv|actual&dadj-LY aux|be&PAST&13S part|educate-PASTP prep|in
+	det:art|a n|school prep|for det:art|the adj|deaf conj|because
+	pro:sub|they mod|could v|teach pro:obj|him n:prop|American
+	n:prop|Sign n:prop|Language coord|and co|you_know v|know&PAST
+	pro:int|how inf|to v|deal prep|with pro:indef|someone pro:rel|who
+	pro:per|you mod|could~neg|not v|talk prep|to coord|and v|have
+	pro:obj|them v|respond .
+%gra:	1|9|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|9|COM 6|9|SUBJ 7|9|JCT 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|15|DET 15|13|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|26|CJCT 20|19|OBJ 21|22|NAME 22|26|SUBJ
+	23|22|APP 24|22|CONJ 25|24|COORD 26|9|CJCT 27|29|LINK 28|29|INF 29|26|COMP
+	30|29|JCT 31|30|POBJ 32|36|LINK 33|36|SUBJ 34|36|AUX 35|34|NEG 36|31|CMOD
+	37|36|JCT 38|37|CONJ 39|38|COORD 40|41|SUBJ 41|39|COMP 42|9|PUNCT
+%trn:	prep|in det:poss|my adj|uncle&dn-POSS n|case co|yes pro:sub|he
+	adv|actual&dadj-LY aux|be&PAST&13S part|educate-PASTP prep|in
+	det:art|a n|school prep|for det:art|the adj|deaf conj|because
+	pro:sub|they mod|could v|teach pro:obj|him n:prop|American
+	n:prop|Sign n:prop|Language coord|and co|you_know v|know&PAST
+	pro:int|how inf|to v|deal prep|with pro:indef|someone pro:rel|who
+	pro:per|you mod|could~neg|not v|talk prep|to coord|and v|have
+	pro:obj|them v|respond .
+%grt:	1|9|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|9|COM 6|9|SUBJ 7|9|JCT 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|19|LINK 17|19|SUBJ 18|19|AUX 19|9|CJCT 20|19|OBJ2
+	21|23|NAME 22|23|NAME 23|19|OBJ 24|19|CONJ 25|26|COM 26|24|COORD
+	27|29|LINK 28|29|INF 29|26|COMP 30|29|JCT 31|30|POBJ 32|36|LINK
+	33|36|SUBJ 34|36|AUX 35|34|NEG 36|31|CMOD 37|36|JCT 38|36|CONJ
+	39|38|COORD 40|39|OBJ 41|39|COMP 42|9|PUNCT
+*PAR:	so ‡ if [/] if you have a massive aphasia <that may> [//] those
+	areas that [/] &interp &unders that would translate American Sign
+	Language could be damaged as_well .
+%mor:	co|so beg|beg conj|if pro:per|you v|have det:art|a adj|massive
+	n|aphasia det:dem|those n|area-PL pro:rel|that mod|will&COND
+	v|translate n:prop|American n:prop|Sign n:prop|Language mod|could
+	aux|be part|damage-PASTP adv|as_well .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|DET 10|8|APP 11|13|LINK 12|13|AUX 13|10|CMOD 14|13|OBJ 15|14|APP
+	16|19|SUBJ 17|19|AUX 18|19|AUX 19|13|COMP 20|19|JCT 21|5|PUNCT
+%trn:	co|so beg|beg conj|if pro:per|you v|have det:art|a adj|massive
+	n|aphasia det:dem|those n|area-PL pro:rel|that mod|will&COND
+	v|translate n:prop|American n:prop|Sign n:prop|Language mod|could
+	aux|be part|damage-PASTP adv|as_well .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|19|CJCT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|DET 10|19|SUBJ 11|13|LINK 12|13|AUX 13|10|CMOD 14|16|NAME
+	15|16|NAME 16|13|OBJ 17|19|AUX 18|19|AUX 19|0|ROOT 20|19|JCT
+	21|19|PUNCT
+*PAR:	he apparently had a fairly small area that was damaged and actually
+	<at a> [/] at a very young age .
+%mor:	pro:sub|he adv|apparent&dadj-LY v|have&PAST det:art|a
+	adv|fair&dadj-LY adj|small n|area pro:rel|that aux|be&PAST&13S
+	part|damage-PASTP coord|and adv|actual&dadj-LY prep|at det:art|a
+	adv|very adj|young n|age .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|OBJ 8|10|LINK
+	9|10|AUX 10|7|CMOD 11|10|CONJ 12|11|COORD 13|12|JCT 14|17|DET 15|16|JCT
+	16|17|MOD 17|13|POBJ 18|3|PUNCT
+%trn:	pro:sub|he adv|apparent&dadj-LY v|have&PAST det:art|a
+	adv|fair&dadj-LY adj|small n|area pro:rel|that aux|be&PAST&13S
+	part|damage-PASTP coord|and adv|actual&dadj-LY prep|at det:art|a
+	adv|very adj|young n|age .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|OBJ 8|10|LINK
+	9|10|AUX 10|7|CMOD 11|10|CONJ 12|13|JCT 13|11|COORD 14|17|DET
+	15|16|JCT 16|17|MOD 17|13|POBJ 18|3|PUNCT
+*PAR:	and that is an incredibly important thing in the brain .
+%mor:	coord|and pro:dem|that cop|be&3S det:art|a in#adj|credible-Y
+	adj|important n|thing prep|in det:art|the n|brain .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%trn:	coord|and pro:dem|that cop|be&3S det:art|a in#adj|credible-Y
+	adj|important n|thing prep|in det:art|the n|brain .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|PRED
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	you_know how young you were when a damage occurred .
+%mor:	co|you_know pro:int|how adj|young pro:per|you cop|be&PAST conj|when
+	det:art|a n|damage v|occur-PAST .
+%gra:	1|3|COM 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|CJCT 10|5|PUNCT
+%trn:	co|you_know pro:int|how adj|young pro:per|you cop|be&PAST conj|when
+	det:art|a n|damage v|occur-PAST .
+%grt:	1|5|COM 2|3|JCT 3|5|PRED 4|5|SUBJ 5|0|ROOT 6|9|LINK 7|8|DET
+	8|9|SUBJ 9|5|CJCT 10|5|PUNCT
+*PAR:	because a_lot [//] you_know the brain really doesn't stop
+	developing until you're in your teens .
+%mor:	conj|because co|you_know det:art|the n|brain adv|real&dadj-LY
+	mod|do&3S~neg|not v|stop part|develop-PRESP conj|until
+	pro:per|you~cop|be&PRES prep|in det:poss|your n|teen-PL .
+%gra:	1|2|LINK 2|8|COM 3|4|DET 4|8|SUBJ 5|8|JCT 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|8|COMP 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|8|PUNCT
+%trn:	conj|because co|you_know det:art|the n|brain adv|real&dadj-LY
+	mod|do&3S~neg|not v|stop part|develop-PRESP conj|until
+	pro:per|you~cop|be&PRES prep|in det:poss|your n|teen-PL .
+%grt:	1|8|LINK 2|8|COM 3|4|DET 4|8|SUBJ 5|8|JCT 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|8|COMP 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|12|JCT 14|15|DET
+	15|13|POBJ 16|8|PUNCT
+*PAR:	studying the brain is just a fascinating area and I know very
+	little of what is known about it .
+%mor:	part|study-PRESP det:art|the n|brain aux|be&3S adv|just det:art|a
+	part|fascinate-PRESP n|area coord|and pro:sub|I v|know adv|very
+	adj|little prep|of pro:int|what aux|be&3S part|know&PASTP prep|about
+	pro:per|it .
+%gra:	1|8|XJCT 2|3|DET 3|8|SUBJ 4|8|AUX 5|8|JCT 6|8|DET 7|8|MOD 8|0|INCROOT
+	9|11|LINK 10|11|SUBJ 11|8|CJCT 12|13|JCT 13|11|COMP 14|13|JCT 15|17|SUBJ
+	16|17|AUX 17|14|CPOBJ 18|17|JCT 19|18|POBJ 20|8|PUNCT
+%trn:	part|study-PRESP det:art|the n|brain cop|be&3S adv|just det:art|a
+	part|fascinate-PRESP n|area coord|and pro:sub|I v|know adv|very
+	adj|little prep|of pro:int|what aux|be&3S part|know&PASTP prep|about
+	pro:per|it .
+%grt:	1|4|CSUBJ 2|3|DET 3|1|OBJ 4|0|ROOT 5|8|NJCT 6|8|DET 7|8|XMOD
+	8|4|PRED 9|11|LINK 10|11|SUBJ 11|4|CJCT 12|13|JCT 13|11|OBJ
+	14|13|JCT 15|17|SUBJ 16|17|AUX 17|14|CPOBJ 18|17|JCT 19|18|POBJ
+	20|4|PUNCT
+*PAR:	but I know enough to know that what is known about it is very
+	little of what there is to know .
+%mor:	conj|but pro:sub|I v|know adv|enough inf|to v|know comp|that
+	pro:int|what aux|be&3S part|know&PASTP prep|about pro:per|it
+	cop|be&3S adv|very adj|little prep|of pro:int|what pro:exist|there
+	cop|be&3S inf|to v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|COMP 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|13|JCT 12|13|SUBJ 13|10|CJCT 14|15|JCT 15|13|PRED
+	16|15|JCT 17|19|LINK 18|19|SUBJ 19|16|CPOBJ 20|21|INF 21|19|CPRED
+	22|3|PUNCT
+%trn:	conj|but pro:sub|I v|know adv|enough inf|to v|know comp|that
+	pro:int|what aux|be&3S part|know&PASTP prep|about pro:per|it
+	cop|be&3S adv|very adj|little prep|of pro:int|what pro:exist|there
+	cop|be&3S inf|to v|know .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|4|XMOD 7|13|LINK
+	8|10|LINK 9|10|AUX 10|13|CSUBJ 11|10|JCT 12|11|POBJ 13|6|COMP
+	14|15|JCT 15|13|PRED 16|15|JCT 17|19|LINK 18|19|SUBJ 19|16|CPOBJ
+	20|21|INF 21|19|XJCT 22|3|PUNCT
+*PAR:	so ‡ gotta give people some very nice complex things to transcribe
+	there .
+%mor:	co|so beg|beg mod|got~inf|to v|give n|person&PL qn|some adv|very
+	adj|nice adj|complex n|thing-PL inf|to v|transcribe adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|11|QUANT 8|9|JCT
+	9|11|MOD 10|11|MOD 11|5|OBJ 12|13|INF 13|11|XMOD 14|13|JCT 15|5|PUNCT
+%trn:	co|so beg|beg mod|got~inf|to v|give n|person&PL qn|some adv|very
+	adj|nice adj|complex n|thing-PL inf|to v|transcribe adv|there .
+%grt:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ2 7|11|QUANT
+	8|9|JCT 9|11|MOD 10|11|MOD 11|5|OBJ 12|13|INF 13|11|XMOD 14|13|JCT
+	15|5|PUNCT
+*PAR:	how fast do we communicate ?
+%mor:	pro:int|how adv|fast mod|do pro:sub|we v|communicate ?
+%gra:	1|5|LINK 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%trn:	pro:int|how adv|fast mod|do pro:sub|we v|communicate ?
+%grt:	1|2|JCT 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	speech , when we're talking conversation , they claim is about a
+	hundred and fifty to a hundred seventy five words per minute .
+%mor:	n|speech cm|cm conj|when pro:sub|we~aux|be&PRES part|talk-PRESP
+	n|converse&dv-TION cm|cm pro:sub|they v|claim cop|be&3S prep|about
+	det:art|a det:num|hundred coord|and det:num|fifty prep|to det:art|a
+	det:num|hundred det:num|seventy det:num|five n|word-PL prep|per
+	n|minute .
+%gra:	1|10|XJCT 2|1|LP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|ENUM 7|6|OBJ 8|6|LP
+	9|10|SUBJ 10|0|ROOT 11|10|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|14|CONJ
+	16|15|COORD 17|16|JCT 18|19|DET 19|22|QUANT 20|21|DATE 21|22|QUANT
+	22|17|POBJ 23|22|NJCT 24|23|POBJ 25|10|PUNCT
+%trn:	n|speech cm|cm conj|when pro:sub|we~aux|be&PRES part|talk-PRESP
+	n|converse&dv-TION cm|cm pro:sub|they v|claim cop|be&3S adv|about
+	det:art|a det:num|hundred coord|and det:num|fifty prep|to det:art|a
+	det:num|hundred det:num|seventy det:num|five n|word-PL prep|per
+	n|minute .
+%grt:	1|11|SUBJ 2|1|LP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|11|CJCT 7|6|OBJ 8|6|LP
+	9|10|SUBJ 10|11|CJCT 11|0|ROOT 12|14|JCT 13|14|DET 14|22|QUANT
+	15|14|CONJ 16|15|COORD 17|14|JCT 18|21|DET 19|21|ENUM 20|21|ENUM
+	21|17|COORD 22|11|PRED 23|22|NJCT 24|23|POBJ 25|11|PUNCT
+*PAR:	if you're typing they claim you can get up to a hundred words per
+	minute if you are really good at typing .
+%mor:	conj|if pro:per|you~aux|be&PRES part|type-PRESP pro:sub|they
+	v|claim pro:per|you mod|can v|get adv|up prep|to det:art|a
+	det:num|hundred n|word-PL prep|per n|minute conj|if pro:per|you
+	cop|be&PRES adv|real&dadj-LY adj|good prep|at n:gerund|type-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|9|JCT 11|9|JCT 12|14|DET 13|14|QUANT 14|11|POBJ 15|9|JCT
+	16|15|POBJ 17|19|LINK 18|19|SUBJ 19|6|CJCT 20|21|JCT 21|19|PRED 22|19|JCT
+	23|22|POBJ 24|6|PUNCT
+%trn:	comp|if pro:per|you~aux|be&PRES part|type-PRESP pro:sub|they
+	v|claim pro:per|you mod|can v|get adv|up prep|to det:art|a
+	det:num|hundred n|word-PL prep|per n|minute conj|if pro:per|you
+	cop|be&PRES adv|real&dadj-LY adj|good prep|at n:gerund|type-PRESP .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|9|SUBJ
+	8|9|AUX 9|6|COMP 10|9|JCT 11|9|JCT 12|14|DET 13|14|QUANT 14|11|POBJ
+	15|14|NJCT 16|15|POBJ 17|19|LINK 18|19|SUBJ 19|9|CJCT 20|21|JCT
+	21|19|PRED 22|21|JCT 23|22|POBJ 24|6|PUNCT
+*PAR:	now &i I've only gotten up to like seventy when I'm taking a typing
+	test .
+%mor:	adv:tem|now pro:sub|I~aux|have adv|only part|get&PASTP adv|up prep|to
+	co|like det:num|seventy conj|when pro:sub|I~aux|be&1S
+	part|take-PRESP det:art|a part|type-PRESP n|test .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|10|QUANT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|5|CJCT 14|16|DET 15|16|MOD
+	16|13|OBJ 17|5|PUNCT
+%trn:	adv:tem|now pro:sub|I~aux|have adv|only part|get&PASTP adv|up prep|to
+	co|like det:num|seventy pro:int|when pro:sub|I~aux|be&1S
+	part|take-PRESP det:art|a n:gerund|type-PRESP n|test .
+%grt:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|COM
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|5|XJCT 14|16|DET
+	15|16|MOD 16|13|OBJ 17|5|PUNCT
+*PAR:	there are certainly things that I type faster than that .
+%mor:	pro:exist|there cop|be&PRES adv|certain&dadj-LY n|thing-PL
+	pro:rel|that pro:sub|I v|type adv|fast-CP prep|than pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|2|PUNCT
+%trn:	pro:exist|there cop|be&PRES adv|certain&dadj-LY n|thing-PL
+	pro:rel|that pro:sub|I v|type adj|fast-CP prep|than pro:dem|that .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|JCT 9|8|JCT 10|9|POBJ 11|2|PUNCT
+*PAR:	I can type my name and password very quickly .
+%mor:	pro:sub|I mod|can v|type det:poss|my n|name coord|and
+	n|+n|pass+n|word adv|very adv|quick&dadj-LY .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|9|JCT
+	9|7|NJCT 10|3|PUNCT
+%trn:	pro:sub|I mod|can v|type det:poss|my n|name coord|and
+	n|+n|pass+n|word adv|very adv|quick&dadj-LY .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD
+	8|9|JCT 9|3|JCT 10|3|PUNCT
+*PAR:	I can type the name of the computer I typically log into very
+	quickly .
+%mor:	pro:sub|I mod|can v|type det:art|the n|name prep|of det:art|the
+	n|compute&dv-AGT pro:sub|I adv|typical&dadj-LY v|log prep|into
+	adv|very adv|quick&dadj-LY .
+%gra:	1|3|SUBJ 2|3|AUX 3|11|JCT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|SUBJ 10|11|JCT 11|0|ROOT 12|11|JCT 13|14|JCT 14|12|POBJ 15|11|PUNCT
+%trn:	pro:sub|I mod|can v|type det:art|the n|name prep|of det:art|the
+	n|compute&dv-AGT pro:sub|I adv|typical&dadj-LY v|log prep|into
+	adv|very adv|quick&dadj-LY .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|SUBJ 10|11|JCT 11|8|CMOD 12|11|JCT 13|14|JCT 14|3|JCT
+	15|3|PUNCT
+*PAR:	you_know so there are certain things that my fingers have learned
+	just to whip through .
+%mor:	co|you_know adv|so pro:exist|there cop|be&PRES adj|certain
+	n|thing-PL pro:rel|that det:poss|my n|finger-PL aux|have
+	part|learn-PASTP adj|just inf|to v|whip adv|through .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|11|LINK 8|9|DET
+	9|11|SUBJ 10|11|AUX 11|6|CMOD 12|11|PRED 13|14|INF 14|12|XMOD 15|14|JCT
+	16|4|PUNCT
+%trn:	co|you_know adv|so pro:exist|there cop|be&PRES adj|certain n|thing-PL
+	pro:rel|that det:poss|my n|finger-PL aux|have part|learn-PASTP
+	adv|just inf|to v|whip adv|through .
+%grt:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|11|LINK
+	8|9|DET 9|11|SUBJ 10|11|AUX 11|6|CMOD 12|14|JCT 13|14|INF 14|11|COMP
+	15|14|JCT 16|4|PUNCT
+*PAR:	and my mom claims that I type faster than seventy words a minute
+	but you_know it's hard to do that <on a test> [//] on a typing test
+	.
+%mor:	coord|and det:poss|my n|mom n|claim-PL pro:rel|that pro:sub|I
+	v|type adv|fast-CP prep|than det:num|seventy n|word-PL det:art|a
+	n|minute conj|but co|you_know pro:per|it~cop|be&3S adj|hard inf|to
+	v|do pro:dem|that prep|on det:art|a part|type-PRESP n|test .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|JCT
+	9|7|JCT 10|11|QUANT 11|9|POBJ 12|13|DET 13|7|OBJ 14|17|LINK 15|17|COM
+	16|17|SUBJ 17|13|CMOD 18|17|PRED 19|20|INF 20|18|XMOD 21|20|OBJ 22|20|JCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|4|PUNCT
+%trn:	coord|and det:poss|my n|mom v|claim-3S comp|that pro:sub|I v|type
+	adv|fast-CP prep|than det:num|seventy n|word-PL det:art|a adj|minute
+	conj|but co|you_know pro:per|it~cop|be&3S adj|hard inf|to v|do
+	pro:dem|that prep|on det:art|a n:gerund|type-PRESP n|test .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|7|JCT 9|8|JCT 10|11|QUANT 11|9|POBJ 12|13|DET 13|11|POSTMOD
+	14|17|LINK 15|17|COM 16|17|SUBJ 17|4|CJCT 18|17|PRED 19|20|INF
+	20|18|XMOD 21|20|OBJ 22|20|JCT 23|25|DET 24|25|MOD 25|22|POBJ
+	26|4|PUNCT
+*PAR:	if you actually hafta decide what you're going to type at the same
+	time it really slows you down .
+%mor:	conj|if pro:per|you adv|actual&dadj-LY mod|have~inf|to v|decide
+	pro:int|what pro:per|you~aux|be&PRES part|go-PRESP inf|to v|type
+	prep|at det:art|the adj|same n|time pro:per|it adv|real&dadj-LY
+	v|slow-3S pro:per|you adv|down .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|6|INF 6|0|ROOT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|12|INF 12|10|COMP 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|19|SUBJ 18|19|JCT 19|16|CMOD 20|19|OBJ 21|19|JCT 22|6|PUNCT
+%trn:	conj|if pro:per|you adv|actual&dadj-LY mod|have~inf|to v|decide
+	pro:int|what pro:per|you~aux|be&PRES part|go-PRESP inf|to v|type
+	prep|at det:art|the adj|same n|time pro:per|it adv|real&dadj-LY
+	v|slow-3S pro:per|you adv|down .
+%grt:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|6|INF 6|19|XJCT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COMP 11|12|INF 12|10|COMP 13|6|JCT
+	14|16|DET 15|16|MOD 16|13|POBJ 17|19|SUBJ 18|19|JCT 19|0|ROOT
+	20|19|OBJ 21|19|JCT 22|19|PUNCT
+*PAR:	they say about fifty words per minute .
+%mor:	pro:sub|they v|say prep|about det:num|fifty n|word-PL prep|per
+	n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+%trn:	pro:sub|they v|say adv|about det:num|fifty n|word-PL prep|per
+	n|minute .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|NJCT 4|5|QUANT 5|2|OBJ 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	if you're only a one finger typist people claim ten to twelve words
+	per minute .
+%mor:	conj|if pro:per|you~cop|be&PRES adv|only det:art|a det:num|one
+	n|finger n|type-IST n|person&PL v|claim det:num|ten prep|to
+	det:num|twelve n|word-PL prep|per n|minute .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|JCT 5|9|DET 6|7|QUANT 7|9|MOD 8|9|MOD
+	9|10|SUBJ 10|0|ROOT 11|10|OBJ 12|11|JCT 13|14|QUANT 14|12|POBJ 15|10|JCT
+	16|15|POBJ 17|10|PUNCT
+%trn:	conj|if pro:per|you~cop|be&PRES adv|only det:art|a det:num|one
+	n|finger n|type-IST n|person&PL v|claim det:num|ten prep|to
+	det:num|twelve n|word-PL prep|per n|minute .
+%grt:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|JCT 5|8|DET 6|7|QUANT 7|8|MOD
+	8|3|PRED 9|10|SUBJ 10|0|ROOT 11|14|QUANT 12|11|JCT 13|12|POBJ
+	14|10|OBJ 15|14|NJCT 16|15|POBJ 17|10|PUNCT
+*PAR:	now I think there are one finger typists who go faster than that .
+%mor:	adv:tem|now pro:sub|I v|think pro:exist|there cop|be&PRES det:num|one
+	n|finger n|type-IST-PL pro:rel|who v|go adv|fast-CP prep|than
+	pro:dem|that .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|8|QUANT 7|8|MOD 8|5|PRED
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|10|JCT 13|12|POBJ 14|3|PUNCT
+%trn:	adv:tem|now pro:sub|I v|think pro:exist|there cop|be&PRES det:num|one
+	n|finger n|type-IST-PL pro:rel|who v|go adv|fast-CP prep|than
+	pro:dem|that .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|QUANT 7|8|MOD
+	8|5|PRED 9|10|LINK 10|8|CMOD 11|10|JCT 12|11|JCT 13|12|POBJ
+	14|3|PUNCT
+*PAR:	if you're going through a scanning system you're actually doing
+	pretty good if with letter by letter scanning you get up to three to
+	five words per minute .
+%mor:	conj|if pro:per|you~aux|be&PRES part|go-PRESP prep|through
+	det:art|a part|scan-PRESP n|system pro:per|you~aux|be&PRES
+	adv|actual&dadj-LY part|do-PRESP adv|pretty adj|good conj|if
+	prep|with n|letter prep|by n|letter part|scan-PRESP pro:per|you
+	v|get adv|up prep|to det:num|three prep|to det:num|five n|word-PL
+	prep|per n|minute .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|12|CJCT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|0|ROOT 13|14|JCT 14|12|JCT 15|20|LINK
+	16|20|JCT 17|16|POBJ 18|17|NJCT 19|18|POBJ 20|22|CJCT 21|22|SUBJ 22|14|CMOD
+	23|22|JCT 24|22|JCT 25|24|POBJ 26|25|JCT 27|28|QUANT 28|26|POBJ
+	29|25|JCT 30|29|POBJ 31|12|PUNCT
+%trn:	comp|if pro:per|you~aux|be&PRES part|go-PRESP prep|through
+	det:art|a n:gerund|scan-PRESP n|system pro:per|you~aux|be&PRES
+	adv|actual&dadj-LY part|do-PRESP adv|pretty adj|good conj|if
+	prep|with n|letter prep|by n|letter n:gerund|scan-PRESP pro:per|you
+	v|get adv|up prep|to det:num|three prep|to det:num|five n|word-PL
+	prep|per n|minute .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|12|XJCT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|0|ROOT 13|14|JCT 14|12|JCT
+	15|22|LINK 16|22|JCT 17|20|MOD 18|17|NJCT 19|18|POBJ 20|16|POBJ
+	21|22|SUBJ 22|12|CJCT 23|22|JCT 24|22|JCT 25|28|QUANT 26|25|JCT
+	27|26|POBJ 28|24|POBJ 29|28|NJCT 30|29|POBJ 31|12|PUNCT
+*PAR:	and that kind_of brings up the question +//.
+%mor:	coord|and pro:dem|that adv|kind_of v|bring-3S prep|up det:art|the
+	n|question +//.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%trn:	coord|and pro:dem|that adv|kind_of v|bring-3S prep|up det:art|the
+	n|question +//.
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	how fast do you hafta communicate before people will stop engaging
+	you in conversation or will just get bored waiting for &y the next
+	thing you're going to say and wander away ?
+%mor:	pro:int|how adv|fast mod|do pro:per|you mod|have~inf|to
+	v|communicate conj|before n|person&PL mod|will v|stop
+	part|engage-PRESP pro:per|you prep|in n|converse&dv-TION coord|or
+	mod|will adv|just aux|get part|bore-PASTP part|wait-PRESP prep|for
+	det:art|the adj|next n|thing pro:per|you~aux|be&PRES part|go-PRESP
+	inf|to v|say coord|and v|wander adv|away ?
+%gra:	1|7|LINK 2|7|JCT 3|7|AUX 4|7|SUBJ 5|7|AUX 6|7|INF 7|0|ROOT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CJCT 12|11|COMP 13|12|OBJ 14|12|JCT 15|14|POBJ
+	16|12|CONJ 17|20|AUX 18|20|JCT 19|20|AUX 20|16|COORD 21|20|XJCT 22|21|JCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|28|SUBJ 27|28|AUX 28|25|CMOD 29|30|INF
+	30|28|COMP 31|30|CONJ 32|31|COORD 33|32|JCT 34|7|PUNCT
+%trn:	pro:int|how adv|fast mod|do pro:per|you mod|have~inf|to v|communicate
+	conj|before n|person&PL mod|will v|stop part|engage-PRESP
+	pro:per|you prep|in n|converse&dv-TION coord|or mod|will adv|just
+	aux|get part|bore-PASTP part|wait-PRESP prep|for det:art|the
+	adj|next n|thing pro:per|you~aux|be&PRES part|go-PRESP inf|to v|say
+	coord|and v|wander adv|away ?
+%grt:	1|2|JCT 2|7|JCT 3|7|AUX 4|7|SUBJ 5|7|AUX 6|7|INF 7|0|ROOT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CJCT 12|11|COMP 13|12|OBJ 14|12|JCT 15|14|POBJ
+	16|11|CONJ 17|20|AUX 18|20|JCT 19|20|AUX 20|16|COORD 21|20|XJCT
+	22|21|JCT 23|25|DET 24|25|MOD 25|22|POBJ 26|28|SUBJ 27|28|AUX
+	28|25|CMOD 29|30|INF 30|28|COMP 31|20|CONJ 32|31|COORD 33|32|JCT
+	34|7|PUNCT
+*PAR:	you_know <it's a> [//] how efficient does your communication hafta
+	be in_order_to be functional ?
+%mor:	co|you_know pro:int|how adj|efficient mod|do&3S det:poss|your
+	n|communicate&dv-TION mod|have~inf|to cop|be inf|in_order_to cop|be
+	n|functional ?
+%gra:	1|9|COM 2|9|LINK 3|9|JCT 4|9|AUX 5|6|DET 6|9|SUBJ 7|9|AUX 8|9|INF
+	9|0|ROOT 10|11|INF 11|9|COMP 12|11|PRED 13|9|PUNCT
+%trn:	co|you_know pro:int|how adj|efficient mod|do&3S det:poss|your
+	n|communicate&dv-TION mod|have~inf|to cop|be inf|in_order_to cop|be
+	n|functional ?
+%grt:	1|9|COM 2|3|JCT 3|9|PRED 4|9|AUX 5|6|DET 6|9|SUBJ 7|9|AUX 8|9|INF
+	9|0|ROOT 10|11|INF 11|9|XJCT 12|11|PRED 13|9|PUNCT
+*PAR:	if you start dropping below three or four words a minute you're
+	really gonna have trouble keeping the attention of your user .
+%mor:	conj|if pro:per|you v|start part|drop-PRESP prep|below
+	det:num|three coord|or det:num|four n|word-PL det:art|a n|minute
+	pro:per|you~aux|be&PRES adv|real&dadj-LY part|go-PRESP~inf|to v|have
+	n|trouble part|keep-PRESP det:art|the n|attention prep|of
+	det:poss|your n|use&dv-AGT .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|9|QUANT 7|6|CONJ
+	8|7|COORD 9|5|POBJ 10|11|DET 11|9|OBJ 12|15|SUBJ 13|15|AUX 14|15|JCT 15|11|CMOD
+	16|17|INF 17|15|COMP 18|17|OBJ 19|18|XMOD 20|21|DET 21|19|OBJ 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|3|PUNCT
+%trn:	conj|if pro:per|you v|start part|drop-PRESP prep|below
+	det:num|three coord|or det:num|four n|word-PL det:art|a n|minute
+	pro:per|you~aux|be&PRES adv|real&dadj-LY part|go-PRESP~inf|to v|have
+	n|trouble part|keep-PRESP det:art|the n|attention prep|of
+	det:poss|your n|use&dv-AGT .
+%grt:	1|3|LINK 2|3|SUBJ 3|15|CJCT 4|3|COMP 5|4|JCT 6|9|QUANT 7|6|CONJ
+	8|7|COORD 9|5|POBJ 10|11|DET 11|9|POSTMOD 12|15|SUBJ 13|15|AUX
+	14|15|JCT 15|0|ROOT 16|17|INF 17|15|COMP 18|17|OBJ 19|18|XMOD
+	20|21|DET 21|19|OBJ 22|21|NJCT 23|24|DET 24|22|POBJ 25|15|PUNCT
+*PAR:	I_mean <I have> [/] I have trouble concentrating on what my uncle
+	was trying to communicate (be)cause he'll write out +//.
+%mor:	co|I_mean pro:sub|I v|have n|trouble part|concentrate-PRESP prep|on
+	pro:int|what det:poss|my n|uncle aux|be&PAST&13S part|try-PRESP
+	inf|to v|communicate conj|because pro:sub|he~mod|will v|write
+	adv|out +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|XMOD 6|5|JCT 7|11|LINK 8|9|DET
+	9|11|SUBJ 10|11|AUX 11|6|CPOBJ 12|13|INF 13|11|COMP 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|3|CJCT 18|17|JCT 19|3|PUNCT
+%trn:	co|I_mean pro:sub|I v|have n|trouble part|concentrate-PRESP prep|on
+	pro:int|what det:poss|my n|uncle aux|be&PAST&13S part|try-PRESP
+	inf|to v|communicate conj|because pro:sub|he~mod|will v|write
+	adv|out +//.
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|XMOD 6|5|JCT 7|11|LINK
+	8|9|DET 9|11|SUBJ 10|11|AUX 11|6|CPOBJ 12|13|INF 13|11|COMP
+	14|17|LINK 15|17|SUBJ 16|17|AUX 17|3|CJCT 18|17|JCT 19|3|PUNCT
+*PAR:	he carries this little pad of paper around .
+%mor:	pro:sub|he v|carry-3S det:dem|this adj|little n|pad prep|of n|paper
+	adv|around .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|POBJ 8|2|JCT
+	9|2|PUNCT
+%trn:	pro:sub|he v|carry-3S det:dem|this adj|little n|pad prep|of n|paper
+	adv|around .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|POBJ 8|2|JCT
+	9|2|PUNCT
+*PAR:	but you_know he'll be writing out something and while he's writing
+	it I either have the choice of looking over his shoulder which isn't
+	always possible or I'm sitting waiting for the several sentences
+	he's about to say .
+%mor:	conj|but co|you_know pro:sub|he~mod|will aux|be part|write-PRESP
+	prep|out pro:indef|something coord|and conj|while
+	pro:sub|he~aux|be&3S part|write-PRESP pro:per|it pro:sub|I
+	coord|either v|have det:art|the n|choice prep|of n:gerund|look-PRESP
+	prep|over det:poss|his n|shoulder pro:rel|which cop|be&3S~neg|not
+	adv|always adj|possible coord|or pro:sub|I~aux|be&1S part|sit-PRESP
+	part|wait-PRESP prep|for det:art|the qn|several n|sentence-PL
+	pro:sub|he~cop|be&3S adv|about inf|to v|say .
+%gra:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|CONJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|COORD 14|13|OBJ 15|13|OBJ
+	16|15|CONJ 17|16|COORD 18|19|DET 19|17|OBJ 20|19|NJCT 21|20|POBJ 22|21|JCT
+	23|24|DET 24|22|POBJ 25|26|LINK 26|21|CMOD 27|26|NEG 28|29|JCT
+	29|26|PRED 30|33|LINK 31|33|SUBJ 32|33|AUX 33|26|CJCT 34|40|XJCT 35|34|JCT
+	36|38|DET 37|38|QUANT 38|35|POBJ 39|40|SUBJ 40|33|COMP 41|43|JCT 42|43|INF
+	43|40|CPRED 44|6|PUNCT
+%trn:	conj|but co|you_know pro:sub|he~mod|will aux|be part|write-PRESP
+	prep|out pro:indef|something coord|and conj|while
+	pro:sub|he~aux|be&3S part|write-PRESP pro:per|it pro:sub|I
+	coord|either v|have det:art|the n|choice prep|of n:gerund|look-PRESP
+	prep|over det:poss|his n|shoulder pro:rel|which cop|be&3S~neg|not
+	adv|always adj|possible coord|or pro:sub|I~aux|be&1S part|sit-PRESP
+	part|wait-PRESP prep|for det:art|the qn|several n|sentence-PL
+	pro:sub|he~cop|be&3S adv|about inf|to v|say .
+%grt:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|17|LINK 10|13|LINK 11|13|SUBJ 12|13|AUX 13|17|CJCT 14|13|OBJ
+	15|17|SUBJ 16|17|COORD 17|6|CJCT 18|19|DET 19|17|OBJ 20|19|NJCT
+	21|20|POBJ 22|21|JCT 23|24|DET 24|22|POBJ 25|26|LINK 26|21|CMOD
+	27|26|NEG 28|29|JCT 29|26|PRED 30|33|COORD 31|33|SUBJ 32|33|AUX
+	33|17|ENUM 34|33|XJCT 35|34|JCT 36|38|DET 37|38|QUANT 38|35|POBJ
+	39|40|SUBJ 40|38|CMOD 41|43|JCT 42|43|INF 43|40|CPRED 44|6|PUNCT
+*PAR:	and my attention wanders .
+%mor:	coord|and det:poss|my n|attention v|wander-3S .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	coord|and det:poss|my n|attention v|wander-3S .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and I'm not meaning to be disrespectful or anything but my
+	attention wanders .
+%mor:	coord|and pro:sub|I~aux|be&1S neg|not part|mean-PRESP inf|to cop|be
+	dis#adj|respect&dn-FULL coord|or pro:indef|anything conj|but
+	det:poss|my n|attention v|wander-3S .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|7|PRED
+	9|8|CONJ 10|9|COORD 11|14|LINK 12|13|DET 13|14|SUBJ 14|5|CJCT 15|5|PUNCT
+%trn:	coord|and pro:sub|I~aux|be&1S neg|not part|mean-PRESP inf|to cop|be
+	dis#adj|respect&dn-FULL coord|or pro:indef|anything conj|but
+	det:poss|my n|attention v|wander-3S .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP
+	8|7|PRED 9|8|CONJ 10|9|COORD 11|14|LINK 12|13|DET 13|14|SUBJ
+	14|5|CJCT 15|5|PUNCT
+*PAR:	and so then you_know he'll be done writing and then I'll read
+	through what he said and it'll be my turn to write something down .
+%mor:	coord|and co|so adv:tem|then co|you_know pro:sub|he~mod|will aux|be
+	part|do&PASTP part|write-PRESP coord|and adv:tem|then
+	pro:sub|I~mod|will v|read&ZERO prep|through pro:int|what pro:sub|he
+	v|say&PAST coord|and pro:per|it~mod|will cop|be det:poss|my n|turn
+	inf|to v|write pro:indef|something adv|down .
+%gra:	1|8|LINK 2|8|COM 3|8|JCT 4|8|COM 5|8|SUBJ 6|8|AUX 7|8|AUX 8|0|ROOT
+	9|8|XJCT 10|14|LINK 11|14|JCT 12|14|SUBJ 13|14|AUX 14|9|COMP 15|14|JCT
+	16|18|LINK 17|18|SUBJ 18|15|CPOBJ 19|22|LINK 20|22|SUBJ 21|22|AUX 22|14|CJCT
+	23|24|DET 24|22|PRED 25|26|INF 26|24|XMOD 27|26|OBJ 28|26|JCT 29|8|PUNCT
+%trn:	coord|and co|so adv:tem|then co|you_know pro:sub|he~mod|will aux|be
+	part|do&PASTP part|write-PRESP coord|and adv:tem|then
+	pro:sub|I~mod|will v|read&ZERO prep|through pro:int|what pro:sub|he
+	v|say&PAST coord|and pro:per|it~mod|will cop|be det:poss|my n|turn
+	inf|to v|write pro:indef|something adv|down .
+%grt:	1|8|LINK 2|8|COM 3|8|JCT 4|8|COM 5|8|SUBJ 6|8|AUX 7|8|AUX 8|0|ROOT
+	9|8|XJCT 10|14|LINK 11|14|JCT 12|14|SUBJ 13|14|AUX 14|8|CJCT
+	15|14|JCT 16|18|LINK 17|18|SUBJ 18|15|CPOBJ 19|22|LINK 20|22|SUBJ
+	21|22|AUX 22|14|CJCT 23|24|DET 24|22|PRED 25|26|INF 26|24|XMOD
+	27|26|OBJ 28|26|JCT 29|8|PUNCT
+*PAR:	so ‡ efficiency can be a very important thing .
+%mor:	co|so beg|beg n|efficiency mod|can cop|be det:art|a adv|very
+	adj|important n|thing .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|PRED 10|5|PUNCT
+%trn:	co|so beg|beg n|efficiency mod|can cop|be det:art|a adv|very
+	adj|important n|thing .
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|PRED 10|5|PUNCT
+*PAR:	think about <what we do> [//] all the different skills that are
+	needed for communication .
+%mor:	v|think prep|about qn|all det:art|the adj|different n|skill-PL
+	pro:rel|that aux|be&PRES part|need-PASTP prep|for
+	n|communicate&dv-TION .
+%gra:	1|0|ROOT 2|1|JCT 3|6|QUANT 4|6|DET 5|6|MOD 6|2|POBJ 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|10|POBJ 12|1|PUNCT
+%trn:	v|think prep|about qn|all det:art|the adj|different n|skill-PL
+	pro:rel|that aux|be&PRES part|need-PASTP prep|for
+	n|communicate&dv-TION .
+%grt:	1|0|ROOT 2|1|JCT 3|6|QUANT 4|6|DET 5|6|MOD 6|2|POBJ 7|9|LINK
+	8|9|AUX 9|6|XMOD 10|9|JCT 11|10|POBJ 12|1|PUNCT
+*PAR:	it can be difficult to evaluate if someone has them .
+%mor:	pro:per|it mod|can cop|be adj|difficult inf|to v|evaluate comp|if
+	pro:indef|someone v|have&3S pro:obj|them .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|9|OBJ 11|3|PUNCT
+%trn:	pro:per|it mod|can cop|be adj|difficult inf|to v|evaluate comp|if
+	pro:indef|someone v|have&3S pro:obj|them .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|9|LINK
+	8|9|SUBJ 9|6|COMP 10|9|OBJ 11|3|PUNCT
+*PAR:	and if you have [//] are working with a child chances are
+	reasonably good they don't have all of them .
+%mor:	coord|and conj|if pro:per|you aux|be&PRES part|work-PRESP prep|with
+	det:art|a n|child n|chance-PL cop|be&PRES adv|reason&dadj-ABLE-LY
+	adj|good pro:sub|they mod|do~neg|not v|have pro:indef|all prep|of
+	pro:obj|them .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|6|POBJ 11|12|JCT 12|10|PRED 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|10|CJCT 17|16|OBJ 18|17|NJCT 19|18|POBJ 20|5|PUNCT
+%trn:	coord|and conj|if pro:per|you aux|be&PRES part|work-PRESP prep|with
+	det:art|a n|child n|chance-PL cop|be&PRES adv|reason&dadj-ABLE-LY
+	adj|good pro:sub|they mod|do~neg|not v|have pro:indef|all prep|of
+	pro:obj|them .
+%grt:	1|10|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|10|XJCT 6|5|JCT 7|8|DET
+	8|6|POBJ 9|10|SUBJ 10|0|ROOT 11|12|JCT 12|10|PRED 13|16|SUBJ
+	14|16|AUX 15|14|NEG 16|10|CJCT 17|16|OBJ 18|17|NJCT 19|18|POBJ
+	20|10|PUNCT
+*PAR:	I really haven't met that many two year+olds who have all the
+	skills that are necessary for communication .
+%mor:	pro:sub|I adv|real&dadj-LY aux|have~neg|not v|meet&PAST
+	det:dem|that qn|many det:num|two n|+n|year+adj|old-PL pro:rel|who
+	v|have qn|all det:art|the n|skill-PL pro:rel|that cop|be&PRES
+	adj|necessary prep|for n|communicate&dv-TION .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|DET 7|9|QUANT 8|9|QUANT
+	9|5|OBJ 10|11|LINK 11|9|CMOD 12|14|QUANT 13|14|DET 14|11|OBJ 15|16|LINK
+	16|14|CMOD 17|16|PRED 18|16|JCT 19|18|POBJ 20|5|PUNCT
+%trn:	pro:sub|I adv|real&dadj-LY aux|have~neg|not v|meet&PAST det:dem|that
+	qn|many det:num|two n|+n|year+adj|old-PL pro:rel|who v|have qn|all
+	det:art|the n|skill-PL pro:rel|that cop|be&PRES adj|necessary
+	prep|for n|communicate&dv-TION .
+%grt:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|JCT 7|9|QUANT
+	8|9|QUANT 9|5|OBJ 10|11|LINK 11|9|CMOD 12|14|QUANT 13|14|DET
+	14|11|OBJ 15|16|LINK 16|14|CMOD 17|16|PRED 18|17|JCT 19|18|POBJ
+	20|5|PUNCT
+*PAR:	and if that's when you're called in for a two or three or four
+	year+old who doesn't seem to be developing speech but you need to
+	provide them with a communication system , well how can you evaluate
+	?
+%mor:	coord|and conj|if pro:dem|that~cop|be&3S conj|when
+	pro:per|you~aux|be&PRES part|call-PASTP adv|in prep|for det:art|a
+	det:num|two coord|or det:num|three coord|or det:num|four
+	n|+n|year+adj|old pro:rel|who mod|do&3S~neg|not cop|seem inf|to
+	aux|be part|develop-PRESP n|speech conj|but pro:per|you v|need
+	inf|to v|provide pro:obj|them prep|with det:art|a
+	n|communicate&dv-TION n|system cm|cm co|well pro:int|how mod|can
+	pro:per|you v|evaluate ?
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CPRED
+	9|8|JCT 10|8|JCT 11|12|DET 12|17|QUANT 13|12|CONJ 14|13|COORD
+	15|12|CONJ 16|15|COORD 17|10|POBJ 18|21|LINK 19|21|AUX 20|19|NEG 21|17|CMOD
+	22|24|INF 23|24|AUX 24|21|COMP 25|24|OBJ 26|28|LINK 27|28|SUBJ 28|21|CJCT
+	29|30|INF 30|28|COMP 31|30|OBJ 32|30|JCT 33|35|DET 34|35|MOD 35|32|POBJ
+	36|28|LP 37|41|COM 38|41|JCT 39|41|AUX 40|41|SUBJ 41|28|OM 42|4|PUNCT
+%trn:	coord|and conj|if pro:dem|that~cop|be&3S conj|when
+	pro:per|you~aux|be&PRES part|call-PASTP adv|in prep|for det:art|a
+	det:num|two coord|or det:num|three coord|or det:num|four
+	n|+n|year+adj|old pro:rel|who mod|do&3S~neg|not cop|seem inf|to
+	aux|be part|develop-PRESP n|speech conj|but pro:per|you v|need
+	inf|to v|provide pro:obj|them prep|with det:art|a
+	n|communicate&dv-TION n|system cm|cm co|well pro:int|how mod|can
+	pro:per|you v|evaluate ?
+%grt:	1|41|LINK 2|4|LINK 3|4|SUBJ 4|41|CJCT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CPRED 9|8|JCT 10|8|JCT 11|17|DET 12|17|QUANT 13|12|CONJ
+	14|13|COORD 15|14|CONJ 16|15|COORD 17|10|POBJ 18|21|LINK 19|21|AUX
+	20|19|NEG 21|17|CMOD 22|24|INF 23|24|AUX 24|21|CPRED 25|24|OBJ
+	26|28|LINK 27|28|SUBJ 28|21|CJCT 29|30|INF 30|28|COMP 31|30|OBJ
+	32|30|JCT 33|35|DET 34|35|MOD 35|32|POBJ 36|41|LP 37|41|COM
+	38|41|JCT 39|41|AUX 40|41|SUBJ 41|0|ROOT 42|41|PUNCT
+*PAR:	you gotta figure out what exactly is the desired function ?
+%mor:	pro:per|you mod|got~inf|to v|figure adv|out pro:int|what
+	adv|exact&dadj-LY cop|be&3S det:art|the part|desire-PASTP n|function
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|JCT 8|4|COMP
+	9|11|DET 10|11|MOD 11|8|PRED 12|4|PUNCT
+%trn:	pro:per|you mod|got~inf|to v|figure prep|out pro:int|what
+	adv|exact&dadj-LY cop|be&3S det:art|the part|desire-PASTP n|function
+	?
+%grt:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|JCT 8|5|CPOBJ
+	9|11|DET 10|11|XMOD 11|8|PRED 12|4|PUNCT
+*PAR:	you_know someone's coming in .
+%mor:	co|you_know pro:indef|someone~aux|be&3S part|come-PRESP adv|in .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%trn:	co|you_know pro:indef|someone~aux|be&3S part|come-PRESP adv|in .
+%grt:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	we want this person to be able to communicate .
+%mor:	pro:sub|we v|want det:dem|this n|person inf|to cop|be adj|able
+	inf|to v|communicate .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|4|XMOD 7|6|PRED 8|9|INF
+	9|7|XMOD 10|2|PUNCT
+%trn:	pro:sub|we v|want pro:dem|this n|person inf|to cop|be adj|able
+	inf|to v|communicate .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|2|COMP 7|6|PRED 8|9|INF
+	9|7|XMOD 10|2|PUNCT
+*PAR:	well communicate what ?
+%mor:	co|well v|communicate pro:int|what ?
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%trn:	co|well v|communicate pro:int|what ?
+%grt:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	with whom ?
+%mor:	prep|with pro:int|whom ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%trn:	prep|with pro:int|whom ?
+%grt:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	in what environment ?
+%mor:	prep|in det:int|what n|environment ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%trn:	prep|in det:int|what n|environment ?
+%grt:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	you_know how quickly ?
+%mor:	co|you_know pro:int|how adv|quick&dadj-LY ?
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%trn:	co|you_know pro:int|how adv|quick&dadj-LY ?
+%grt:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	what's the vocabulary ?
+%mor:	pro:int|what~cop|be&3S det:art|the n|vocabulary ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%trn:	pro:int|what~cop|be&3S det:art|the n|vocabulary ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	there are a_lot_of questions to be answered there .
+%mor:	pro:exist|there cop|be&PRES qn|a_lot_of n|question-PL inf|to aux|be
+	part|answer-PASTP adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|7|INF 6|7|AUX 7|4|XMOD 8|7|JCT
+	9|2|PUNCT
+%trn:	pro:exist|there cop|be&PRES qn|a_lot_of n|question-PL inf|to aux|be
+	part|answer-PASTP adv|there .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|7|INF 6|7|AUX 7|4|XMOD
+	8|2|JCT 9|2|PUNCT
+*PAR:	what are they gonna use to control the interface ?
+%mor:	pro:int|what cop|be&PRES pro:sub|they part|go-PRESP~inf|to v|use
+	inf|to v|control det:art|the n|interface ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|INF 6|4|COMP 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|2|PUNCT
+%trn:	pro:int|what aux|be&PRES pro:sub|they part|go-PRESP~inf|to v|use
+	inf|to v|control det:art|the n|interface ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|INF
+	8|6|XJCT 9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	we've talked about control interfaces .
+%mor:	pro:sub|we~aux|have part|talk-PASTP prep|about n|control
+	n|interface-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+%trn:	pro:sub|we~aux|have part|talk-PASTP prep|about n|control
+	n|interface-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	you have some idea of that .
+%mor:	pro:per|you v|have qn|some n|idea prep|of pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%trn:	pro:per|you v|have qn|some n|idea prep|of pro:dem|that .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	but you hafta have a control interface that the person can operate
+	efficiently but you want it to be as fully functional as possible .
+%mor:	conj|but pro:per|you mod|have~inf|to v|have det:art|a n|control
+	n|interface pro:rel|that det:art|the n|person mod|can v|operate
+	adv|efficient&dadj-LY conj|but pro:per|you v|want pro:per|it inf|to
+	cop|be adv|as adv|fully n|functional adv|as adj|possible .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|8|CMOD 14|13|JCT 15|17|LINK
+	16|17|SUBJ 17|13|CJCT 18|20|SUBJ 19|20|INF 20|17|COMP 21|23|COORD 22|23|JCT
+	23|20|PRED 24|25|COORD 25|23|ENUM 26|5|PUNCT
+%trn:	conj|but pro:per|you mod|have~inf|to v|have det:art|a n|control
+	n|interface pro:rel|that det:art|the n|person mod|can v|operate
+	adv|efficient&dadj-LY conj|but pro:per|you v|want pro:per|it inf|to
+	cop|be adv|as adv|fully n|functional adv|as adj|possible .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|8|CMOD 14|13|JCT
+	15|17|LINK 16|17|SUBJ 17|5|CJCT 18|17|OBJ 19|20|INF 20|17|COMP
+	21|23|COORD 22|23|JCT 23|20|PRED 24|25|COORD 25|23|ENUM 26|5|PUNCT
+*PAR:	do they have the cognitive and language skills to really use a
+	communication system ?
+%mor:	mod|do pro:sub|they v|have det:art|the adj|cognitive coord|and
+	n|language n|skill-PL inf|to adv|real&dadj-LY v|use det:art|a
+	n|communicate&dv-TION n|system ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|8|DET 5|8|MOD 6|5|CONJ 7|6|COORD 8|3|OBJ
+	9|11|INF 10|11|JCT 11|8|XMOD 12|14|DET 13|14|MOD 14|11|OBJ 15|3|PUNCT
+%trn:	mod|do pro:sub|they v|have det:art|the adj|cognitive coord|and
+	n|language n|skill-PL inf|to adv|real&dadj-LY v|use det:art|a
+	n|communicate&dv-TION n|system ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|8|DET 5|8|MOD 6|5|CONJ 7|6|COORD
+	8|3|OBJ 9|11|INF 10|11|JCT 11|8|XMOD 12|14|DET 13|14|MOD 14|11|OBJ
+	15|3|PUNCT
+*PAR:	how complex can you make the system and they'll still be able to
+	use it ?
+%mor:	pro:int|how n|complex mod|can pro:per|you v|make det:art|the
+	n|system coord|and pro:sub|they~mod|will adv|still cop|be adj|able
+	inf|to v|use pro:per|it ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|5|CJCT 13|12|PRED 14|15|INF 15|13|XMOD
+	16|15|OBJ 17|5|PUNCT
+%trn:	pro:int|how n|complex mod|can pro:per|you v|make det:art|the
+	n|system coord|and pro:sub|they~mod|will adv|still cop|be adj|able
+	inf|to v|use pro:per|it ?
+%grt:	1|2|JCT 2|5|PRED 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|12|JCT 12|5|CJCT 13|12|PRED
+	14|15|INF 15|13|XMOD 16|15|OBJ 17|5|PUNCT
+*PAR:	for that matter do they understand the concept that the things that
+	they do affect the world and can control the communication system ?
+%mor:	prep|for det:dem|that n|matter mod|do pro:sub|they v|understand
+	det:art|the n|concept pro:rel|that det:art|the n|thing-PL
+	pro:rel|that pro:sub|they v|do v|affect det:art|the n|world
+	coord|and mod|can v|control det:art|the n|communicate&dv-TION
+	n|system ?
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|15|LINK 10|11|DET 11|15|SUBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|8|CMOD
+	16|17|DET 17|15|OBJ 18|6|CONJ 19|20|AUX 20|18|COORD 21|23|DET 22|23|MOD
+	23|20|OBJ 24|6|PUNCT
+%trn:	prep|for det:dem|that n|matter mod|do pro:sub|they v|understand
+	det:art|the n|concept comp|that det:art|the n|thing-PL
+	pro:rel|that pro:sub|they v|do v|affect det:art|the n|world
+	coord|and mod|can v|control det:art|the n|communicate&dv-TION
+	n|system ?
+%grt:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|15|LINK 10|11|DET 11|15|SUBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD
+	15|8|CMOD 16|17|DET 17|15|OBJ 18|15|CONJ 19|20|AUX 20|18|COORD
+	21|23|DET 22|23|MOD 23|20|OBJ 24|6|PUNCT
+*PAR:	do they understand language when it's spoken to them ?
+%mor:	mod|do pro:sub|they v|understand n|language conj|when
+	pro:per|it~aux|be&3S part|speak&PASTP prep|to pro:obj|them ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|CJCT
+	9|8|JCT 10|9|POBJ 11|3|PUNCT
+%trn:	mod|do pro:sub|they v|understand n|language conj|when
+	pro:per|it~aux|be&3S part|speak&PASTP prep|to pro:obj|them ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|3|CJCT 9|8|JCT 10|9|POBJ 11|3|PUNCT
+*PAR:	to a certain sense it's very easy to provide a device that will
+	speak for a person .
+%mor:	prep|to det:art|a adj|certain n|sense pro:per|it~cop|be&3S adv|very
+	adj|ease&dn-Y inf|to v|provide det:art|a n|device pro:rel|that
+	mod|will v|speak prep|for det:art|a n|person .
+%gra:	1|6|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|PRED
+	9|10|INF 10|8|XMOD 11|12|DET 12|10|OBJ 13|15|LINK 14|15|AUX 15|12|CMOD
+	16|15|JCT 17|18|DET 18|16|POBJ 19|6|PUNCT
+%trn:	prep|to det:art|a adj|certain n|sense pro:per|it~cop|be&3S adv|very
+	adj|ease&dn-Y inf|to v|provide det:art|a n|device pro:rel|that
+	mod|will v|speak prep|for det:art|a n|person .
+%grt:	1|6|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|PRED
+	9|10|INF 10|8|XMOD 11|12|DET 12|10|OBJ 13|15|LINK 14|15|AUX
+	15|12|CMOD 16|15|JCT 17|18|DET 18|16|POBJ 19|6|PUNCT
+*PAR:	much harder to &d provide a device that will provide the
+	comprehension for a person if they don't get it themselves .
+%mor:	adv|much adj|hard-CP inf|to v|provide det:art|a n|device
+	pro:rel|that mod|will v|provide det:art|the n|comprehension prep|for
+	det:art|a n|person conj|if pro:sub|they mod|do~neg|not v|get
+	pro:per|it pro:refl|themselves .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|INF 4|2|XMOD 5|6|DET 6|4|OBJ 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|11|DET 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|9|CJCT 20|19|OBJ 21|19|OBJ 22|2|PUNCT
+%trn:	adv|much adj|hard-CP inf|to v|provide det:art|a n|device
+	pro:rel|that mod|will v|provide det:art|the n|comprehension prep|for
+	det:art|a n|person conj|if pro:sub|they mod|do~neg|not v|get
+	pro:per|it pro:refl|themselves .
+%grt:	1|2|JCT 2|0|INCROOT 3|4|INF 4|2|XMOD 5|6|DET 6|4|OBJ 7|9|LINK
+	8|9|AUX 9|6|CMOD 10|11|DET 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ
+	15|19|LINK 16|19|SUBJ 17|19|AUX 18|17|NEG 19|9|CJCT 20|19|OBJ
+	21|19|JCT 22|2|PUNCT
+@End

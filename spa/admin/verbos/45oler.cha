@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	huelo .
+%mor:	v|ole-1S&PRES=smell .
+*T:	hueles .
+%mor:	v|ole-2S&PRES=smell .
+*T:	huele .
+%mor:	v|ole-3S&PRES=smell .
+*T:	olemos .
+%mor:	v|ole-1P&PRES=smell .
+*T:	oléis .
+%mor:	v|ole-2P&PRES=smell .
+*T:	huelen .
+%mor:	v|ole-3P&PRES=smell .
+@Blank
+*T:	olía .
+%mor:	v|ole-13S&PAS=smell .
+*T:	olías .
+%mor:	v|ole-2S&PAS=smell .
+*T:	olía .
+%mor:	v|ole-13S&PAS=smell .
+*T:	olíamos .
+%mor:	v|ole-1P&PAS=smell .
+*T:	olíais .
+%mor:	v|ole-2P&PAS=smell .
+*T:	olían .
+%mor:	v|ole-3P&PAS=smell .
+@Blank
+*T:	olí .
+%mor:	v|ole-1S&PRET=smell .
+*T:	oliste .
+%mor:	v|ole-2S&PRET=smell .
+*T:	olió .
+%mor:	v|ole-3S&PRET=smell .
+*T:	olimos .
+%mor:	v|ole-1P&PRES&PRET=smell .
+*T:	olisteis .
+%mor:	v|ole-2P&PRET=smell .
+*T:	olieron .
+%mor:	v|ole-3P&PRET=smell .
+@Blank
+*T:	oleré .
+%mor:	v|ole-1S&FUT=smell .
+*T:	olerás .
+%mor:	v|ole-2S&FUT=smell .
+*T:	olerá .
+%mor:	v|ole-3S&FUT=smell .
+*T:	oleremos .
+%mor:	v|ole-1P&FUT=smell .
+*T:	oleréis .
+%mor:	v|ole-2P&FUT=smell .
+*T:	olerán .
+%mor:	v|ole-3P&FUT=smell .
+@Blank
+*T:	huela .
+%mor:	v|ole-13S&SUB&PRES=smell .
+*T:	huelas .
+%mor:	v|ole-2S&SUB&PRES=smell .
+*T:	huela .
+%mor:	v|ole-13S&SUB&PRES=smell .
+*T:	olamos .
+%mor:	imp|ole-1P&IMP=smell .
+*T:	oláis .
+%mor:	v|ole-2P&SUB&PRES=smell .
+*T:	huelan .
+%mor:	imp|ole-3P&IMP=smell .
+@Blank
+*T:	oliera .
+%mor:	v|ole-13S&SUB&PAS=smell .
+*T:	olieras .
+%mor:	v|ole-2S&SUB&PAS=smell .
+*T:	oliera .
+%mor:	v|ole-13S&SUB&PAS=smell .
+*T:	oliéramos .
+%mor:	v|ole-1P&SUB&PAS=smell .
+*T:	olierais .
+%mor:	v|ole-2P&SUB&PAS=smell .
+*T:	olieran .
+%mor:	v|ole-3P&SUB&PAS=smell .
+@Blank
+*T:	oliendo .
+%mor:	ger|ole-PROG=smell .
+*T:	olido .
+%mor:	part|ole-PPART-MASC=smell .
+*T:	huele .
+%mor:	v|ole-3S&PRES=smell .
+*T:	huela .
+%mor:	v|ole-13S&SUB&PRES=smell .
+*T:	oled .
+%mor:	imp|ole-2P&IMP=smell .
+*T:	huelan .
+%mor:	imp|ole-3P&IMP=smell .
+@Blank
+@End

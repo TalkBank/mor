@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	bendigo .
+%mor:	v|bendeci-1S&PRES=bless .
+*T:	bendices .
+%mor:	v|bendeci-2S&PRES=bless .
+*T:	bendice .
+%mor:	v|bendeci-3S&PRES=bless .
+*T:	bendecimos .
+%mor:	v|bendeci-1P&PRES&PRET=bless .
+*T:	bendecís .
+%mor:	v|bendeci-2P&PRES=bless .
+*T:	bendicen .
+%mor:	v|bendeci-3P&PRES=bless .
+@Blank
+*T:	bendecía .
+%mor:	v|bendeci-13S&PAS=bless .
+*T:	bendecías .
+%mor:	v|bendeci-2S&PAS=bless .
+*T:	bendecía .
+%mor:	v|bendeci-13S&PAS=bless .
+*T:	bendecíamos .
+%mor:	v|bendeci-1P&PAS=bless .
+*T:	bendecíais .
+%mor:	v|bendeci-2P&PAS=bless .
+*T:	bendecían .
+%mor:	v|bendeci-3P&PAS=bless .
+@Blank
+*T:	bendije .
+%mor:	v|bendeci-1S&PRET=bless .
+*T:	bendijiste .
+%mor:	v|bendeci-2S&PRET=bless .
+*T:	bendijo .
+%mor:	v|bendeci-3S&PRET=bless .
+*T:	bendijimos .
+%mor:	v|bendeci-1P&PRES&PRET=bless .
+*T:	bendijisteis .
+%mor:	v|bendeci-2P&PRET=bless .
+*T:	bendijeron .
+%mor:	v|bendeci-3P&PRET=bless .
+@Blank
+*T:	bendeciré .
+%mor:	v|bendeci-1S&FUT=bless .
+*T:	bendecirás .
+%mor:	v|bendeci-2S&FUT=bless .
+*T:	bendecirá .
+%mor:	v|bendeci-3S&FUT=bless .
+*T:	bendeciremos .
+%mor:	v|bendeci-1P&FUT=bless .
+*T:	bendeciréis .
+%mor:	v|bendeci-2P&FUT=bless .
+*T:	bendecirán .
+%mor:	v|bendeci-3P&FUT=bless .
+@Blank
+*T:	bendiga .
+%mor:	v|bendeci-13S&SUB&PRES=bless .
+*T:	bendigas .
+%mor:	v|bendeci-2S&SUB&PRES=bless .
+*T:	bendiga .
+%mor:	v|bendeci-13S&SUB&PRES=bless .
+*T:	bendigamos .
+%mor:	v|bendeci-1P&SUB&PRES=bless .
+*T:	bendigáis .
+%mor:	v|bendeci-2P&SUB&PRES=bless .
+*T:	bendigan .
+%mor:	v|bendeci-3P&SUB&PRES=bless .
+@Blank
+*T:	bendijera .
+%mor:	v|bendeci-13S&SUB&PAS=bless .
+*T:	bendijeras .
+%mor:	v|bendeci-2S&SUB&PAS=bless .
+*T:	bendijera .
+%mor:	v|bendeci-13S&SUB&PAS=bless .
+*T:	bendijéramos .
+%mor:	v|bendeci-1P&SUB&PAS=bless .
+*T:	bendijerais .
+%mor:	v|bendeci-2P&SUB&PAS=bless .
+*T:	bendijeran .
+%mor:	v|bendeci-3P&SUB&PAS=bless .
+@Blank
+*T:	bendiciendo .
+%mor:	ger|bendeci-PROG=bless .
+*T:	bendecido .
+%mor:	part|bendeci-PPART-MASC=bless .
+*T:	bendice .
+%mor:	v|bendeci-3S&PRES=bless .
+*T:	bendiga .
+%mor:	v|bendeci-13S&SUB&PRES=bless .
+*T:	bendicid .
+%mor:	imp|bendeci-2P&IMP=bless .
+*T:	bendigan .
+%mor:	v|bendeci-3P&SUB&PRES=bless .
+@Blank
+@End

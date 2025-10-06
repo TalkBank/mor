@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	soy .
+%mor:	cop|se-1S&PRES=be .
+*T:	eres .
+%mor:	cop|se-2S&PRES=be .
+*T:	es .
+%mor:	cop|se-3S&PRES=be .
+*T:	somos .
+%mor:	cop|se-1P&PRES=be .
+*T:	sois .
+%mor:	cop|se-2P&PRES=be .
+*T:	son .
+%mor:	cop|se-3P&PRES=be .
+@Blank
+*T:	era .
+%mor:	cop|se-13S&PAS=be .
+*T:	eras .
+%mor:	cop|se-2S&PAS=be .
+*T:	era .
+%mor:	cop|se-13S&PAS=be .
+*T:	éramos .
+%mor:	cop|se-1P&PAS=be .
+*T:	erais .
+%mor:	cop|se-2P&PAS=be .
+*T:	eran .
+%mor:	cop|se-3P&PAS=be .
+@Blank
+*T:	fuí .
+%mor:	v|i-1S&PRET=go .
+*T:	fuiste .
+%mor:	v|i-2S&PRET=go .
+*T:	fue .
+%mor:	v|i-3S&PRET=go .
+*T:	fuimos .
+%mor:	v|i-1P&PRET=go .
+*T:	fuisteis .
+%mor:	v|i-2P&PRET=go .
+*T:	fueron .
+%mor:	cop|se-3P&PRET=be .
+@Blank
+*T:	seré .
+%mor:	cop|se-1S&FUT=be .
+*T:	serás .
+%mor:	cop|se-2S&FUT=be .
+*T:	será .
+%mor:	cop|se-3S&FUT=be .
+*T:	seremos .
+%mor:	cop|se-1P&FUT=be .
+*T:	seréis .
+%mor:	cop|se-2P&FUT=be .
+*T:	serán .
+%mor:	cop|se-3P&FUT=be .
+@Blank
+*T:	sea .
+%mor:	cop|se-13S&SUB&PRES=be .
+*T:	seas .
+%mor:	cop|se-2S&SUB&PRES=be .
+*T:	sea .
+%mor:	cop|se-13S&SUB&PRES=be .
+*T:	seamos .
+%mor:	imp|se-1P&IMP=be .
+*T:	seáis .
+%mor:	cop|se-2P&SUB&PRES=be .
+*T:	sean .
+%mor:	cop|se-3P&SUB&PRES=be .
+@Blank
+*T:	fuera .
+%mor:	adv|fuera=outside .
+*T:	fueras .
+%mor:	v|i-2S&SUB&PAS=go .
+*T:	fuera .
+%mor:	adv|fuera=outside .
+*T:	fuéramos .
+%mor:	v|i-1P&SUB&PAS=go .
+*T:	fuerais .
+%mor:	v|i-2P&SUB&PAS=go .
+*T:	fueran .
+%mor:	v|i-3P&SUB&PAS=go .
+@Blank
+*T:	siendo .
+%mor:	cop|se-PROG=be .
+*T:	sido .
+%mor:	cop|se-PPART-MASC=be .
+*T:	sé .
+%mor:	v|sabe-1S&PRES=know .
+*T:	sea .
+%mor:	cop|se-13S&SUB&PRES=be .
+*T:	sed .
+%mor:	imp|se-2P&IMP=be .
+*T:	sean .
+%mor:	cop|se-3P&SUB&PRES=be .
+@Blank
+@End

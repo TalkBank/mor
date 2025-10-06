@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	conozco .
+%mor:	v|conoce-1S&PRES=know .
+*T:	conoces .
+%mor:	v|conoce-2S&PRES=know .
+*T:	conoce .
+%mor:	imp|conoce-2S&IMP=know .
+*T:	conocemos .
+%mor:	v|conoce-1P&PRES=know .
+*T:	conocéis .
+%mor:	v|conoce-2P&PRES=know .
+*T:	conocen .
+%mor:	v|conoce-3P&PRES=know .
+@Blank
+*T:	conocía .
+%mor:	v|conoce-13S&PAS=know .
+*T:	conocías .
+%mor:	v|conoce-2S&PAS=know .
+*T:	conocía .
+%mor:	v|conoce-13S&PAS=know .
+*T:	conocíamos .
+%mor:	v|conoce-1P&PAS=know .
+*T:	conocíais .
+%mor:	v|conoce-2P&PAS=know .
+*T:	conocían .
+%mor:	v|conoce-3P&PAS=know .
+@Blank
+*T:	conocí .
+%mor:	v|conoce-1S&PRET=know .
+*T:	conociste .
+%mor:	v|conoce-2S&PRET=know .
+*T:	conoció .
+%mor:	v|conoce-3S&PRET=know .
+*T:	conocimos .
+%mor:	v|conoce-1P&PRES&PRET=know .
+*T:	conocisteis .
+%mor:	v|conoce-2P&PRET=know .
+*T:	conocieron .
+%mor:	v|conoce-3P&PRET=know .
+@Blank
+*T:	conoceré .
+%mor:	v|conoce-1S&FUT=know .
+*T:	conocerás .
+%mor:	v|conoce-2S&FUT=know .
+*T:	conocerá .
+%mor:	v|conoce-3S&FUT=know .
+*T:	conoceremos .
+%mor:	v|conoce-1P&FUT=know .
+*T:	conoceréis .
+%mor:	v|conoce-2P&FUT=know .
+*T:	conocerán .
+%mor:	v|conoce-3P&FUT=know .
+@Blank
+*T:	conozca .
+%mor:	v|conoce-13S&SUB&PRES=know .
+*T:	conozcas .
+%mor:	v|conoce-2S&SUB&PRES=know .
+*T:	conozca .
+%mor:	v|conoce-13S&SUB&PRES=know .
+*T:	conozcamos .
+%mor:	imp|conoce-1P&IMP=know .
+*T:	conozcáis .
+%mor:	v|conoce-2P&SUB&PRES=know .
+*T:	conozcan .
+%mor:	v|conoce-3P&SUB&PRES=know .
+@Blank
+*T:	conociera .
+%mor:	v|conoce-13S&SUB&PAS=know .
+*T:	conocieras .
+%mor:	v|conoce-2S&SUB&PAS=know .
+*T:	conociera .
+%mor:	v|conoce-13S&SUB&PAS=know .
+*T:	conociéramos .
+%mor:	v|conoce-1P&SUB&PAS=know .
+*T:	conocierais .
+%mor:	v|conoce-2P&SUB&PAS=know .
+*T:	conocieran .
+%mor:	v|conoce-3P&SUB&PAS=know .
+@Blank
+*T:	conociendo .
+%mor:	ger|conoce-PROG=know .
+*T:	conocido .
+%mor:	part|conoce-PPART-MASC=know .
+*T:	conoce .
+%mor:	imp|conoce-2S&IMP=know .
+*T:	conozca .
+%mor:	v|conoce-13S&SUB&PRES=know .
+*T:	conoced .
+%mor:	imp|conoce-2P&IMP=know .
+*T:	conozcan .
+%mor:	v|conoce-3P&SUB&PRES=know .
+@Blank
+@End

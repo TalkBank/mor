@@ -1,0 +1,60 @@
+From: John Kowalski <jkau@andrew.cmu.edu>
+Date: January 7, 2010 12:14:43 AM GMT+02:00
+To: Brian MacWhinney <macw@cmu.edu>
+Subject: Spanish conjugator 
+
+Brian,
+ Here is the new algorithm for the script that generates every conjugation from the Spanish Clan files.  I don't know if you care to look at this in detail now since it may be quicker for me to explain and to talk about when you return.
+
+  You can also see what the script generates with this algorithm so far at:
+http://www.talkbank.org/pslc/spanish/spanishConj/
+
+I hope all is well in Israel!
+-John
+
+
+Here is the algorithm:
+* I run: mor +e*  > all.out
+
+* For each verb listed in all.out, the script gathers the "surface" for each of its allos along with the surfaces for each of the allos of its "RULENAME" verb.
+
+* The script finds the example conjugations in the .CHA file for the "RULENAME" in the verbos folder.
+
+* For each verb listed in the example conjugation (from .CHA file), the script finds the surface that matches the largest portion of the verb and replaces this matching surface with the corresponding surface listed in the verb allos we wish to conjugate.
+
+
+Example:  Say we want to conjugate "abandonar".
+
+* We see in all.out that this verb follows rule "2comprar".  For each allo surface listed for abandonar, we get the corresponding surface for comprar:
+abandon    compr
+abandona    compra
+abandon    compr
+abandon    compr
+abandona    compra
+abandon    compr
+abandon    compr
+abandón    cómpr
+abandoná    comprá
+
+
+* We then take the example conjugations listed in verbos/02comprar.CHA and replace for each verb the largest surface match for comprar with the corresponding surface for abandonar.  For example, say we want the 1st singular present of abandonar:
+
+We take the 1st singular present of comprar:
+compro
+
+Find the largest surface match listed in its allos (which is "compr")
+compr | o
+
+And replace it with the corresponding surface listed for abandonar:
+abandon
+compro -> abandono
+
+That's the idea that seems to work pretty well.  Here are 3 assumptions the script makes:
+* There is a .CHA file in verbos (with an example conjugation) for each rule mentioned in the all.out file.   There is currently not one for each, but I think one can be made for each without damage, correct?
+
+* Each .CHA file in verbos lists the conjugations in the same order: "present, imperfect, preterite, future, ..."
+
+* The allos listed by more (in my all.out) are in the same order for the verb we want to conjugate and its example verb.
+
+-John
+

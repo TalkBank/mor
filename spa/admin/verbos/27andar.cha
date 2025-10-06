@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	ando .
+%mor:	v|anda-1S&PRES=walk .
+*T:	andas .
+%mor:	v|anda-2S&PRES=walk .
+*T:	anda .
+%mor:	co|anda=come_on .
+*T:	andamos .
+%mor:	v|anda-1P&PRES&PRET=walk .
+*T:	andáis .
+%mor:	v|anda-2P&PRES=walk .
+*T:	andan .
+%mor:	v|anda-3P&PRES=walk .
+@Blank
+*T:	andaba .
+%mor:	v|anda-13S&PAS=walk .
+*T:	andabas .
+%mor:	v|anda-2S&PAS=walk .
+*T:	andaba .
+%mor:	v|anda-13S&PAS=walk .
+*T:	andábamos .
+%mor:	v|anda-1P&PAS=walk .
+*T:	andabais .
+%mor:	v|anda-2P&PAS=walk .
+*T:	andaban .
+%mor:	v|anda-3P&PAS=walk .
+@Blank
+*T:	anduve .
+%mor:	v|anda-1S&PRET=walk .
+*T:	anduviste .
+%mor:	v|anda-2S&PRET=walk .
+*T:	anduvo .
+%mor:	v|anda-3S&PRET=walk .
+*T:	anduvimos .
+%mor:	v|anda-1P&PRES&PRET=walk .
+*T:	anduvisteis .
+%mor:	v|anda-2P&PRET=walk .
+*T:	anduvieron .
+%mor:	v|anda-3P&PRET=walk .
+@Blank
+*T:	andaré .
+%mor:	v|anda-1S&FUT=walk .
+*T:	andarás .
+%mor:	v|anda-2S&FUT=walk .
+*T:	andará .
+%mor:	v|anda-3S&FUT=walk .
+*T:	andaremos .
+%mor:	v|anda-1P&FUT=walk .
+*T:	andaréis .
+%mor:	v|anda-2P&FUT=walk .
+*T:	andarán .
+%mor:	v|anda-3P&FUT=walk .
+@Blank
+*T:	ande .
+%mor:	imp|anda-3S&IMP=walk .
+*T:	andes .
+%mor:	v|anda-2S&SUB&PRES=walk .
+*T:	ande .
+%mor:	imp|anda-3S&IMP=walk .
+*T:	andemos .
+%mor:	imp|anda-1P&IMP=walk .
+*T:	andéis .
+%mor:	v|anda-2P&SUB&PRES=walk .
+*T:	anden .
+%mor:	imp|anda-3P&IMP=walk .
+@Blank
+*T:	anduviera .
+%mor:	v|anda-13S&SUB&PAS=walk .
+*T:	anduvieras .
+%mor:	v|anda-2S&SUB&PAS=walk .
+*T:	anduviera .
+%mor:	v|anda-13S&SUB&PAS=walk .
+*T:	anduviéramos .
+%mor:	v|anda-1P&SUB&PAS=walk .
+*T:	anduvierais .
+%mor:	v|anda-2P&SUB&PAS=walk .
+*T:	anduvieran .
+%mor:	v|anda-3P&SUB&PAS=walk .
+@Blank
+*T:	andando .
+%mor:	ger|anda-PROG=walk .
+*T:	andado .
+%mor:	part|anda-PPART-MASC=walk .
+*T:	anda .
+%mor:	co|anda=come_on .
+*T:	ande .
+%mor:	imp|anda-3S&IMP=walk .
+*T:	andad .
+%mor:	imp|anda-2P&IMP=walk .
+*T:	anden .
+%mor:	imp|anda-3P&IMP=walk .
+@Blank
+@End

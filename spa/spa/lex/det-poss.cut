@@ -1,0 +1,6 @@
+@UTF8
+mi {[scat det:poss]} =my=
+nuestro {[scat det:poss][inflect yes]} =our=
+su {[scat det:poss]} "su&3S" =his=
+tu {[scat det:poss]} =your=
+vuestro {[scat det:poss][inflect yes]} =your=

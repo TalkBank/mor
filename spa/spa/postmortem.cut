@@ -1,0 +1,39 @@
+@UTF8
+@Window:	667_664_614_639_-1_-1_794_0_794_0
+#*************************************
+# Instructions:
+# '~'	in the rule means clitic in the utterance is not treated as space, otherwise it is
+# !	used before element refers to the whole element
+# ,!	used within element after "," refers only to that choice
+# $-	means copy whatever search pattern matched in full and unchanged to the output
+# (...)	means match choices within zero or any number of times; the "to" part must be ()
+# [...]	means match choices within zero or only one time; the "to" part must be []
+# pro:*|*,n|*,!pro:dem|*	means match "pro:*|" or "n|" once, but fail at "pro:dem|";
+# 				the "to" part must be $-
+# !part|*P*P	means match only if part|*P*P not found; the "to" part must be !-
+# \	means the rule continues on the next line
+#*************************************
+
+det* *|bebe-* => det* n|bebé&m-PL
+adj* *|bebe-* => adj* n|bebé&m-PL
+det* v|besa-* => det* n|beso&m
+adj* v|besa-* => adj* n|beso&m
+
+cop|esta* part|*-PRPART => aux|esta* part|*-PRPART
+aux|esta* part|*-PPART* => cop|esta* part|*-PRPART*
+cop|* imp|*-2P&IMP~pro:clit|2P => cop|* part|*-PPART-m-PL
+
+cop* v|descalza-* => cop* adj|descalzo
+*|hace-* v|casa-* => *|hace-* n|caso&m=event
+pro:obj|él&m-PL=he n|* => det:art|el&m-PL=the n|*
+pro:obj|él&m-PL=he det:num|* => det:art|el&m-PL=the det:num|*
+pro:obj|él&m-PL=he adj|* => det:art|el&m-PL=the adj|*
+pro:obj|la&f-PL=she n|* => det:art|el&f-PL=the n|*
+pro:obj|la&f-PL=she det:num|* => det:art|el&f-PL=the det:num|*
+pro:obj|la&f-PL=she adj|* => det:art|el&f-PL=the adj|*
+pro:obj|la&f=she n|* => det:art|el&f&SG=the n|*
+pro:obj|la&f=she det:num|* => det:art|el&f&SG=the det:num|*
+pro:obj|la&f=she adj|* => det:art|el&f&SG=the adj|*
+qn|* $e => pro:indef|* $e
+
+

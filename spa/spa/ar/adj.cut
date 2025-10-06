@@ -1,0 +1,316 @@
+@UTF8
+@Window:	206_1430_867_1130_-1_-1_0_0_0_0
+RULENAME:  vpart-irr
+LEX-ENTRY:
+LEXSURF = $Xo
+LEXCAT = [scat part], [allo irr]
+ALLO:
+ALLOSURF = $X			   % escrito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X		          % escrita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X 	    	          % escritos
+ALLOCAT = LEXCAT,  ADD [allo pl-s]
+
+RULENAME:   adj-és
+LEX-ENTRY:
+LEXSURF =  $Xés			    		% aragonés, aragonesa
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = LEXSURF			   % aragonés
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xes		    		        % aragonesa
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+
+RULENAME:   adj-ón
+LEX-ENTRY:
+LEXSURF =  $Xón			    		% hablón hablona
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = LEXSURF			   % hablón
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = $Xon		    		        % hablona
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+
+RULENAME:   adj-long-n
+LEX-ENTRY:
+LEXSURF =  $X$Ln			    		% común
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = LEXSURF			   % común
+ALLOCAT = LEXCAT
+ALLO:
+ALLOSURF = $X$S<Lne   	      		    % comunes
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+
+RULENAME:   adj-ista
+LEX-ENTRY:
+LEXSURF =  $Xista			    	% comentarista
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = LEXSURF			   % comentarista
+ALLOCAT = LEXCAT
+ALLO:
+ALLOSURF = LEXSURF			% comentariastas
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+
+RULENAME:   adj-long-co
+LEX-ENTRY:
+LEXSURF =  $X$L$Yco			    % básico
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = $X$S<L$Yqu			% basiquito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<L$Yqu		        % basiquita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X$L$Yc      		 % básico
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $X$L$Yc        		 % básica
+ALLOCAT = LEXCAT, ADD [gen f], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $X$L$Yca           	   % basicamente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-short-co
+LEX-ENTRY:
+LEXSURF =  $Xco			% loco
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = $Xqu			% loquito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xqu			% loquita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xc			% loco
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xc			% loca
+ALLOCAT = LEXCAT, ADD [gen f], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xca			% locamente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-long-vowel
+LEX-ENTRY:
+LEXSURF =  $X$L$Yo			    % ácido
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = $X$S<L$Y			% acidito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<L$Y		        % acidita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X$L$Y				 % ácido
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $X$L$Y				 % ácida
+ALLOCAT = LEXCAT, ADD [gen f], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $X$L$Ya           	   % ácidamente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-go
+LEX-ENTRY:
+LEXSURF =  $Xgo			% largo
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = $Xgu			% larguito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xgu			% larguita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xg			% largo
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xg			% larga
+ALLOCAT = LEXCAT, ADD [gen f], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xa			% locamente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-io
+LEX-ENTRY:
+LEXSURF =  $Xio			% limpio
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = $X			% limpito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X			% limpia, limpita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xi			% limpio, limpios
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xi			% limpia, limpias
+ALLOCAT = LEXCAT, ADD [gen f], ADD [allo pl-s]
+ALLO:
+ALLOSURF = $Xia			% limpiamente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-fácil
+LEX-ENTRY:
+LEXSURF =  $X$L$C$S$D		% fácil
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = $X$S<L$C$S$D		% facil-ito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X$S<L$C$S$D		% facil-ita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $X$L$C$S$De		% fáciles
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		    % fácil
+ALLOCAT = LEXCAT, ADD [allo adv]
+
+RULENAME:   adj-initial-long
+LEX-ENTRY:
+LEXSURF =  $L$X				    % útil
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = $S<L$X			% utilito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $S<L$X		        % utilita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $L$Xe			 % útiles
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		     % útil
+ALLOCAT = LEXCAT
+ALLO:
+ALLOSURF = $S<L$X           	   % utilmente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-cio
+LEX-ENTRY:
+LEXSURF =  $Xcio			% despacio
+LEXCAT = [scat adj],  ![allo vfc]
+ALLO:
+ALLOSURF = $Xc				% despacito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xci				% despacio
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xc				% despacita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xci				% despacia
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xcia			% despaciamente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-other-o  		% including adj:num
+LEX-ENTRY:
+LEXSURF =  $Xo			% caro
+LEXCAT = [scat OR adj adj:num],  ![allo vfc]
+ALLO:
+ALLOSURF = $X			% car-ito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X			% car-ita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xa			% caramente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-num-er  	% including adj:num
+LEX-ENTRY:
+LEXSURF =  $Xer			    % primer, tercer
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = LEXSURF			% primer, primerito
+ALLOCAT = LEXCAT, ADD [gen m]
+ALLO:
+ALLOSURF = LEXSURF			% primerita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xera			% primeramente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-e
+LEX-ENTRY:
+LEXSURF = $Xe
+LEXCAT = [scat adj]		% prudente
+ALLO:
+ALLOSURF = $X			% prudentito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xec			% prudentecito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $X			% prudentita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% base
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF          	   % prudentemente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-a
+LEX-ENTRY:
+LEXSURF = $Xa
+LEXCAT = [scat adj]		% extra
+ALLO:
+ALLOSURF = LEXSURF		% base
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF          	   % prudentemente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-z
+LEX-ENTRY:
+LEXSURF = $Xz
+LEXCAT = [scat adj]
+ALLO:
+ALLOSURF = $Xc			% felicito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = $Xc			% felicita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xce			% felices
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% base
+ALLOCAT = LEXCAT
+ALLO:
+ALLOSURF = LEXSURF         	   % felizmente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+
+RULENAME:   adj-default
+LEX-ENTRY:
+LEXSURF = $X
+LEXCAT = [scat adj], ![allo vfc]
+ALLO:
+ALLOSURF = LEXSURF		% azulito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF		% azulita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [a 0]
+ALLO:
+ALLOSURF = $Xe			% azules
+ALLOCAT = LEXCAT, ADD [allo pl-s]
+ALLO:
+ALLOSURF = LEXSURF		% azul
+ALLOCAT = LEXCAT
+ALLO:
+ALLOSURF = LEXSURF           	   % azulmente
+ALLOCAT = LEXCAT,  ADD [allo adv], ADD [a 0]
+

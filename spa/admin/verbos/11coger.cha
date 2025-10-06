@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	cojo .
+%mor:	v|coge-1S&PRES=take .
+*T:	coges .
+%mor:	v|coge-2S&PRES=take .
+*T:	coge .
+%mor:	imp|coge-2S&IMP=take .
+*T:	cogemos .
+%mor:	v|coge-1P&PRES=take .
+*T:	cogéis .
+%mor:	v|coge-2P&PRES=take .
+*T:	cogen .
+%mor:	v|coge-3P&PRES=take .
+@Blank
+*T:	cogía .
+%mor:	v|coge-13S&PAS=take .
+*T:	cogías .
+%mor:	v|coge-2S&PAS=take .
+*T:	cogía .
+%mor:	v|coge-13S&PAS=take .
+*T:	cogíamos .
+%mor:	v|coge-1P&PAS=take .
+*T:	cogíais .
+%mor:	v|coge-2P&PAS=take .
+*T:	cogían .
+%mor:	v|coge-3P&PAS=take .
+@Blank
+*T:	cogí .
+%mor:	v|coge-1S&PRET=take .
+*T:	cogiste .
+%mor:	v|coge-2S&PRET=take .
+*T:	cogió .
+%mor:	v|coge-3S&PRET=take .
+*T:	cogimos .
+%mor:	v|coge-1P&PRES&PRET=take .
+*T:	cogisteis .
+%mor:	v|coge-2P&PRET=take .
+*T:	cogieron .
+%mor:	v|coge-3P&PRET=take .
+@Blank
+*T:	cogeré .
+%mor:	v|coge-1S&FUT=take .
+*T:	cogerás .
+%mor:	v|coge-2S&FUT=take .
+*T:	cogerá .
+%mor:	v|coge-3S&FUT=take .
+*T:	cogeremos .
+%mor:	v|coge-1P&FUT=take .
+*T:	cogeréis .
+%mor:	v|coge-2P&FUT=take .
+*T:	cogerán .
+%mor:	v|coge-3P&FUT=take .
+@Blank
+*T:	coja .
+%mor:	v|coge-13S&SUB&PRES=take .
+*T:	cojas .
+%mor:	v|coge-2S&SUB&PRES=take .
+*T:	coja .
+%mor:	v|coge-13S&SUB&PRES=take .
+*T:	cojamos .
+%mor:	imp|coge-1P&IMP=take .
+*T:	cojáis .
+%mor:	v|coge-2P&SUB&PRES=take .
+*T:	cojan .
+%mor:	v|coge-3P&SUB&PRES=take .
+@Blank
+*T:	cogiera .
+%mor:	v|coge-13S&SUB&PAS=take .
+*T:	cogieras .
+%mor:	v|coge-2S&SUB&PAS=take .
+*T:	cogiera .
+%mor:	v|coge-13S&SUB&PAS=take .
+*T:	cogiéramos .
+%mor:	v|coge-1P&SUB&PAS=take .
+*T:	cogierais .
+%mor:	v|coge-2P&SUB&PAS=take .
+*T:	cogieran .
+%mor:	v|coge-3P&SUB&PAS=take .
+@Blank
+*T:	cogiendo .
+%mor:	ger|coge-PROG=take .
+*T:	cogido .
+%mor:	part|coge-PPART-MASC=take .
+*T:	coge .
+%mor:	imp|coge-2S&IMP=take .
+*T:	coja .
+%mor:	v|coge-13S&SUB&PRES=take .
+*T:	coged .
+%mor:	imp|coge-2P&IMP=take .
+*T:	cojan .
+%mor:	v|coge-3P&SUB&PRES=take .
+@End

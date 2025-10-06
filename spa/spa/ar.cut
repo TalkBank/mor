@@ -1,0 +1,19 @@
+@UTF8
+@Window:	85_1096_1163_779_-1_-1_171_0_171_0
+% allo rules are ordered !
+
+% variables
+X = .*	% anything
+Y = .*	% second anything
+Z = .*	% third anything
+C = [bcdfghjklmnñpqrstvwxyz]
+D = [bcdfghjklmnñpqrstvwxyz]
+E = .*
+S = [aeiou] % unstressed vowels
+T = [aeiou] % second unstressed vowel
+L = [áéíóú] % stressed vowels
+V = [áéíóúaeiou] % any vowel
+
+RULENAME: default
+LEX-ENTRY:
+ALLO:

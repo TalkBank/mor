@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	estoy .
+%mor:	aux|esta-1S&PRES=be .
+*T:	estás .
+%mor:	cop|esta-2S&PRES=be .
+*T:	está .
+%mor:	cop|esta-3S&PRES=be .
+*T:	estamos .
+%mor:	cop|esta-1P&PRES&PRET=be .
+*T:	estáis .
+%mor:	cop|esta-2P&PRES=be .
+*T:	están .
+%mor:	cop|esta-3P&PRES=be .
+@Blank
+*T:	estaba .
+%mor:	cop|esta-13S&PAS=be .
+*T:	estabas .
+%mor:	cop|esta-2S&PAS=be .
+*T:	estaba .
+%mor:	cop|esta-13S&PAS=be .
+*T:	estábamos .
+%mor:	cop|esta-1P&PAS=be .
+*T:	estabais .
+%mor:	cop|esta-2P&PAS=be .
+*T:	estaban .
+%mor:	cop|esta-3P&PAS=be .
+@Blank
+*T:	estuve .
+%mor:	aux|esta-1S&PRET=be .
+*T:	estuviste .
+%mor:	cop|esta-2S&PRET=be .
+*T:	estuvo .
+%mor:	cop|esta-3S&PRET=be .
+*T:	estuvimos .
+%mor:	cop|esta-1P&PRES&PRET=be .
+*T:	estuvisteis .
+%mor:	cop|esta-2P&PRET=be .
+*T:	estuvieron .
+%mor:	cop|esta-3P&PRET=be .
+@Blank
+*T:	estaré .
+%mor:	aux|esta-1S&FUT=be .
+*T:	estarás .
+%mor:	cop|esta-2S&FUT=be .
+*T:	estará .
+%mor:	cop|esta-3S&FUT=be .
+*T:	estaremos .
+%mor:	cop|esta-1P&FUT=be .
+*T:	estaréis .
+%mor:	cop|esta-2P&FUT=be .
+*T:	estarán .
+%mor:	cop|esta-3P&FUT=be .
+@Blank
+*T:	esté .
+%mor:	cop|esta-3S&IMP=be .
+*T:	estés .
+%mor:	cop|esta-2S&SUB&PRES=be .
+*T:	esté .
+%mor:	cop|esta-3S&IMP=be .
+*T:	estemos .
+%mor:	imp|esta-1P&IMP=be .
+*T:	estéis .
+%mor:	cop|esta-2P&SUB&PRES=be .
+*T:	estén .
+%mor:	imp|esta-3P&IMP=be .
+@Blank
+*T:	estuviera .
+%mor:	cop|esta-13S&SUB&PAS=be .
+*T:	estuvieras .
+%mor:	cop|esta-2S&SUB&PAS=be .
+*T:	estuviera .
+%mor:	cop|esta-13S&SUB&PAS=be .
+*T:	estuviéramos .
+%mor:	cop|esta-1P&SUB&PAS=be .
+*T:	estuvierais .
+%mor:	cop|esta-2P&SUB&PAS=be .
+*T:	estuvieran .
+%mor:	cop|esta-3P&SUB&PAS=be .
+@Blank
+*T:	estando .
+%mor:	ger|esta-PROG=be .
+*T:	estado .
+%mor:	part|esta-PPART-MASC=be .
+*T:	está .
+%mor:	cop|esta-3S&PRES=be .
+*T:	esté .
+%mor:	cop|esta-3S&IMP=be .
+*T:	estad .
+%mor:	imp|esta-2P&IMP=be .
+*T:	estén .
+%mor:	imp|esta-3P&IMP=be .
+@Blank
+@End

@@ -1,0 +1,2126 @@
+@UTF8
+@PID:	11312/c-00007590-1
+@Begin
+@Languages:	zho
+@Participants:	IN1 Teacher , IN2 Teacher , CHI Target_Child , HA1 Mother ,
+	HA2 Grandmother , HA3 Father
+@ID:	zho|Beijing2|IN1|||||Teacher|||
+@ID:	zho|Beijing2|IN2|||||Teacher|||
+@ID:	zho|Beijing2|CHI|||||Target_Child|||
+@ID:	zho|Beijing2|HA1|||||Mother|||
+@ID:	zho|Beijing2|HA2|||||Grandmother|||
+@ID:	zho|Beijing2|HA3|||||Father|||
+@Birth of CHI:	30-OCT-1998
+@Media:	F3-21219218b, audio
+@Date:	03-AUG-2003
+@Comment:	Filename is F3-212192182
+@Transcriber:	YCH , WZ
+*IN1:	给 我们 讲讲 吧 . 395_2264
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say sfp|ba .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|SFP 5|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say sfp|ba .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|SFP 5|3|PUNCT
+*IN2:	给 我们 讲 吧 . 441_1591
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3=say sfp|ba .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|SFP 5|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3=say sfp|ba .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|SFP 5|3|PUNCT
+*IN1:	阿姨 一会儿 还 看 你 的 图画 呢 . 2299_4087
+%mor:	n:relat|a1yi2=mothers_sister n:tm|yi4huir4=for_a_while
+	adv|hai2=still v|kan4=look pro:per|ni3=you poss|de n|tu2hua4=picture
+	sfp|ne .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|7|MOD 6|5|POSS 7|4|OBJ 8|4|SFP
+	9|4|PUNCT
+%trn:	familiar#n:relat|a1yi2=mothers_sister n:tm|yi4huir4=for_a_while
+	adv|hai2=still v|kan4=look pro:per|ni3=you poss|de n|tu2hua4=picture
+	sfp|ne .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|7|MOD 6|5|POSS 7|4|OBJ 8|4|SFP
+	9|4|PUNCT
+*IN1:	特别 想 听 你 讲 故事 . 4063_5840
+%mor:	adv|te4bie2=especially v|xiang3=think v|ting1=listen
+	pro:per|ni3=you v|jiang3=say n|gu4shi4=story .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COBJ 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|2|PUNCT
+%trn:	adv|te4bie2=especially v|xiang3=think v|ting1=listen pro:per|ni3=you
+	v|jiang3=say n|gu4shi4=story .
+%grt:	1|2|JCT 2|0|ROOT 3|2|COBJ 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|2|PUNCT
+*IN1:	给 我们 讲讲 怎么 回 事 . 5568_7495
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say adv:wh|zen3me=how
+	cl|hui2 n|shi4=thing .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|6|MOD 5|6|CLASS 6|3|OBJ 7|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say adv:wh|zen3me=how
+	cl|hui2 n|shi4=thing .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|6|MOD 5|6|CLASS 6|3|OBJ 7|3|PUNCT
+*IN2:	&嗯 . 7600_9004
+*IN1:	看 着 这 个 书 给 我们 讲讲 啊 (2.4) . 8973_14023
+%mor:	v|kan4=look asp|zhe det|zhe4=this cl|ge4 n|shu1=book prep|gei3=for
+	pro:per|wo3-PL=I v|jiang3&DIM=say sfp|a1 .
+%gra:	1|0|ROOT 2|1|ASP 3|5|DET 4|5|CLASS 5|1|OBJ 6|8|JCT 7|6|PREPO 8|1|SRL
+	9|1|SFP 10|1|PUNCT
+%trn:	v|kan4=look asp|zhe det|zhe4=this cl|ge4 n|shu1=book prep|gei3=for
+	pro:per|wo3-PL=I v|jiang3&DIM=say sfp|a1 .
+%grt:	1|0|ROOT 2|1|ASP 3|5|DET 4|5|CLASS 5|1|OBJ 6|8|JCT 7|6|PREPO
+	8|1|SRL 9|1|SFP 10|1|PUNCT
+*IN1:	再 给 我们 讲 个 故事 就 更 好 了 啊 (1.6) . 16013_19798
+%mor:	adv|zai4=again prep|gei3=for pro:per|wo3-PL=I v|jiang3=say cl|ge4
+	n|gu4shi4=story adv|jiu4=just adv|geng4=more adj|hao3=good asp|le
+	sfp|a1 .
+%gra:	1|4|JCT 2|4|JCT 3|2|PREPO 4|9|CSUBJ 5|6|CLASS 6|4|OBJ 7|9|JCT 8|9|JCT
+	9|0|PROOT 10|9|ASP 11|9|SFP 12|9|PUNCT
+%trn:	adv|zai4=again prep|gei3=for pro:per|wo3-PL=I v|jiang3=say cl|ge4
+	n|gu4shi4=story adv|jiu4=just adv|geng4=more adj|hao3=good asp|le
+	sfp|a1 .
+%grt:	1|4|JCT 2|4|JCT 3|2|PREPO 4|9|CSUBJ 5|6|CLASS 6|4|OBJ 7|9|JCT 8|9|JCT
+	9|0|PROOT 10|9|ASP 11|9|SFP 12|9|PUNCT
+*IN1:	你 前面 三 个 ‡ 都 讲 得 挺 好的 . 19680_22826
+%mor:	pro:per|ni3=you post|qian2mian4=front_end num|san1=three cl|ge4
+	beg|beg adv|dou1=all v|jiang3=say stative|de=be_able_to
+	adv|ting3=very adj|hao3-ISH=good .
+%gra:	1|4|MOD 2|4|JCT 3|4|QUANT 4|0|BEG 5|4|BEGP 6|7|JCT 7|0|ROOT 8|7|LINK
+	9|10|JCT 10|7|JCT 11|7|PUNCT
+%trn:	pro:per|ni3=you post|qian2mian4=front_end num|san1=three cl|ge4
+	beg|beg adv|dou1=all v|jiang3=say stative|de=be_able_to
+	adv|ting3=very adj|hao3-ISH=good .
+%grt:	1|4|MOD 2|4|JCT 3|4|QUANT 4|0|BEG 5|4|BEGP 6|7|JCT 7|0|ROOT 8|7|LINK
+	9|10|JCT 10|7|JCT 11|7|PUNCT
+*HA1:	+<  &啊 都 讲 完 了 . 20980_26553
+%mor:	adv|dou1=all v|jiang3=say v:resc|wan2=finish asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+%trn:	adv|dou1=all v|jiang3=say v:resc|wan2=finish asp|le .
+%grt:	1|2|JCT 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+*HA1:	就 [/] 就 从 这 开始 讲 就 行 (2.9) .
+%mor:	adv|jiu4=just prep|cong2=from pro:dem|zhe4=this v|kai1shi3=begin
+	v|jiang3=say adv|jiu4=just v|xing2=be_all_right .
+%gra:	1|4|JCT 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|SRL 6|7|JCT 7|4|SRL 8|4|PUNCT
+%trn:	adv|jiu4=just prep|cong2=from pro:dem|zhe4=this v|kai1shi3=begin
+	v|jiang3=say adv|jiu4=just v|xing2=be_all_right .
+%grt:	1|4|JCT 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|SRL 6|7|JCT 7|4|SRL
+	8|4|PUNCT
+*IN1:	随便 讲 . 26491_27420
+%mor:	adv|sui2bian4=informally v|jiang3=say .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%trn:	adv|sui2bian4=informally v|jiang3=say .
+%grt:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*HA1:	+<  看见 什么 就 讲 什么 (2.5) . 26491_30299
+%mor:	v|kan4jian4=see pro:wh|shen2me=what adv|jiu4=just v|jiang3=say
+	pro:wh|shen2me=what .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|SRL 5|4|OBJ 6|1|PUNCT
+%trn:	v|kan4jian4=see pro:wh|shen2me=what adv|jiu4=just v|jiang3=say
+	pro:wh|shen2me=what .
+%grt:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|SRL 5|4|OBJ 6|1|PUNCT
+*HA1:	怎么 想 就 怎么 讲 呗 . 30246_36330
+%mor:	adv:wh|zen3me=how v|xiang3=think adv|jiu4=just adv:wh|zen3me=how
+	v|jiang3=say co|bei .
+%gra:	1|2|JCT 2|0|ROOT 3|5|JCT 4|5|JCT 5|2|SRL 6|5|SFP 7|2|PUNCT
+%trn:	adv:wh|zen3me=how v|xiang3=think adv|jiu4=just adv:wh|zen3me=how
+	v|jiang3=say co|bei .
+%grt:	1|2|JCT 2|0|ROOT 3|5|JCT 4|5|JCT 5|2|SRL 6|5|SFP 7|2|PUNCT
+*IN1:	佳佳 讲没讲 过 故事 以前 啊 (1.2) ? 36290_40574
+%mor:	n:prop|jia1jia1 v|jiang3&DIM=say asp|guo4 n|gu4shi4=story
+	post|yi3qian2=formerly sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|2|OBJ 5|2|JCT 6|2|SFP 7|2|PUNCT
+%trn:	n:prop|jia1jia1 v|jiang3&DIM=say asp|guo4 n|gu4shi4=story
+	post|yi3qian2=formerly sfp|a1 ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|2|OBJ 5|2|JCT 6|2|SFP 7|2|PUNCT
+*CHI:	没 有 . 40551_41619
+%mor:	adv|mei2=not v|you3=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%trn:	adv|mei2=not v|you3=have .
+%grt:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*IN1:	那 现在 开始 讲 (1.0) . 41545_43681
+%mor:	conj|na4=so adv|xian4zai4=now v|kai1shi3=begin v|jiang3=say .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|SRL 5|3|PUNCT
+%trn:	conj|na4=so adv|xian4zai4=now v|kai1shi3=begin v|jiang3=say .
+%grt:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|SRL 5|3|PUNCT
+*IN1:	练习 [x 4] 以后 就 会 讲 了 . 43647_48407
+%mor:	v|lian4xi2=practice post|yi3hou4=afterwards adv|jiu4=just
+	v:aux|hui4=will v|jiang3=say asp|le .
+%gra:	1|5|CJCT 2|1|JCT 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|ASP 7|5|PUNCT
+%trn:	v|lian4xi2=practice post|yi3hou4=afterwards adv|jiu4=just
+	v:aux|hui4=will v|jiang3=say asp|le .
+%grt:	1|5|CJCT 2|1|JCT 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|ASP 7|5|PUNCT
+*CHI:	本来 我 就 不 会 . 48333_49888
+%mor:	adv|ben3lai2=originally pro:per|wo3=I adv|jiu4=just adv|bu4=not
+	v:resc|hui4=know .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	adv|ben3lai2=originally pro:per|wo3=I adv|jiu4=just adv|bu4=not
+	v:resc|hui4=know .
+%grt:	1|5|JCT 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*IN2:	&啊 . 49821_50459
+*IN1:	你 刚才 三 个 ‡ 都 讲 得 挺 好的 . 53913_57768
+%mor:	pro:per|ni3=you adv|gang1cai2=just_now num|san1=three cl|ge4
+	beg|beg adv|dou1=all v|jiang3=say stative|de=be_able_to
+	adv|ting3=very adj|hao3-ISH=good .
+%gra:	1|4|MOD 2|4|JCT 3|4|QUANT 4|0|BEG 5|4|BEGP 6|7|JCT 7|0|ROOT 8|7|LINK
+	9|10|JCT 10|7|JCT 11|7|PUNCT
+%trn:	pro:per|ni3=you adv|gang1cai2=just_now num|san1=three cl|ge4 beg|beg
+	adv|dou1=all v|jiang3=say stative|de=be_able_to adv|ting3=very adj|hao3-ISH=good .
+%grt:	1|4|MOD 2|4|JCT 3|4|QUANT 4|0|BEG 5|4|BEGP 6|7|JCT 7|0|ROOT 8|7|LINK
+	9|10|JCT 10|7|JCT 11|7|PUNCT
+*IN1:	那 不 是 会 讲 了 吗 (1.0) ?
+%mor:	conj|na4=so adv|bu4=not v:cop|shi4=is v:aux|hui4=will v|jiang3=say
+	asp|le sfp|ma ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|AUX 5|3|CPRED 6|3|ASP 7|3|SFP 8|3|PUNCT
+%trn:	conj|na4=so adv|bu4=not v:cop|shi4=is v:aux|hui4=will
+	v|jiang3=say asp|le sfp|ma ?
+%grt:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|AUX 5|3|CPRED 6|3|ASP 7|3|SFP 8|3|PUNCT
+*IN1:	后面 肯定 <讲 的> [//] 也 能 讲 得 挺 好的 . 57691_60083
+%mor:	post|hou4mian4=behind adv|ken3ding4=certainly adv|ye3=also
+	v:aux|neng2=can v|jiang3=say stative|de=be_able_to adv|ting3=very
+	adj|hao3-ISH=good .
+%gra:	1|5|JCT 2|5|JCT 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|LINK 7|8|JCT 8|5|JCT
+	9|5|PUNCT
+%trn:	post|hou4mian4=behind adv|ken3ding4=certainly adv|ye3=also
+	v:aux|neng2=can v|jiang3=say stative|de=be_able_to adv|ting3=very
+	adj|hao3-ISH=good .
+%grt:	1|5|JCT 2|5|JCT 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|LINK 7|8|JCT 8|5|JCT
+	9|5|PUNCT
+*IN1:	这 是 怎么 回 事 . 60177_62975
+%mor:	pro:dem|zhe4=this v:cop|shi4=is adv:wh|zen3me=how cl|hui2
+	n|shi4=thing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|CLASS 5|2|PRED 6|2|PUNCT
+%trn:	pro:dem|zhe4=this v:cop|shi4=is adv:wh|zen3me=how cl|hui2 n|shi4=thing .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|CLASS 5|2|PRED 6|2|PUNCT
+*IN1:	跟 我们 说说 .
+%mor:	prep|gen1=with pro:per|wo3-PL=I v|shuo1&DIM=say .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%trn:	prep|gen1=with pro:per|wo3-PL=I v|shuo1&DIM=say .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+*IN2:	&嗯 . 62975_64102
+*IN1:	佳佳 那么 聪明 . 64084_68786
+%mor:	n:prop|jia1jia1 adv|na4me=so adj|cong1ming2=intelligent .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|PROOT 4|3|PUNCT
+%trn:	n:prop|jia1jia1 adv|na4me=so adj|cong1ming2=intelligent .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|PROOT 4|3|PUNCT
+*IN1:	怎么 会 不 会 讲 故事 呢 (1.4) ?
+%mor:	adv:wh|zen3me=how v:aux|hui4=will adv|bu4=not v:resc|hui4=know
+	v|jiang3=say n|gu4shi4=story sfp|ne ?
+%gra:	1|4|JCT 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|COBJ 6|5|OBJ 7|4|SFP 8|4|PUNCT
+%trn:	adv:wh|zen3me=how v:aux|hui4=will adv|bu4=not v:resc|hui4=know
+	v|jiang3=say n|gu4shi4=story sfp|ne ?
+%grt:	1|4|JCT 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|COBJ 6|5|OBJ 7|4|SFP 8|4|PUNCT
+*HA1:	阿姨 也 没 让 你 背 着 讲 . 68722_71636
+%mor:	n:relat|a1yi2=mothers_sister adv|ye3=also adv|mei2=not
+	v|rang4=allow pro:per|ni3=you v|bei1=back asp|zhe v|jiang3=say .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|ASP 8|6|SRL
+	9|4|PUNCT
+%trn:	familiar#n:relat|a1yi2=mothers_sister adv|ye3=also adv|mei2=not
+	v|rang4=allow pro:per|ni3=you v|bei1=back asp|zhe v|jiang3=say .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|ASP 8|6|SRL
+	9|4|PUNCT
+*HA1:	都 让 你 看 着 画 呢 .
+%mor:	adv|dou1=all v|rang4=allow pro:per|ni3=you v|kan4=look asp|zhe
+	n|hua4=painting sfp|ne .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|ASP 6|4|OBJ 7|2|SFP 8|2|PUNCT
+%trn:	adv|dou1=all v|rang4=allow pro:per|ni3=you v|kan4=look asp|zhe
+	n|hua4=painting sfp|ne .
+%grt:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|ASP 6|4|OBJ 7|2|SFP
+	8|2|PUNCT
+*IN1:	+<  照着 这 个 看 . 70676_72371
+%mor:	prep|zhao4zhe=according_to det|zhe4=this cl|ge4 v|kan4=look .
+%gra:	1|4|JCT 2|3|DET 3|1|PREPO 4|0|ROOT 5|4|PUNCT
+%trn:	prep|zhao4zhe=according_to det|zhe4=this cl|ge4
+	v|kan4=look .
+%grt:	1|4|JCT 2|3|DET 3|1|PREPO 4|0|ROOT 5|4|PUNCT
+*HA1:	看见 什么 你 就 说 什么 呗 . 72117_74265
+%mor:	v|kan4jian4=see pro:wh|shen2me=what pro:per|ni3=you adv|jiu4=just
+	v|shuo1=say pro:wh|shen2me=what co|bei .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|SUBJ 4|5|JCT 5|1|SRL 6|5|OBJ 7|5|SFP 8|1|PUNCT
+%trn:	v|kan4jian4=see pro:wh|shen2me=what pro:per|ni3=you adv|jiu4=just
+	v|shuo1=say pro:wh|shen2me=what co|bei .
+%grt:	1|0|ROOT 2|1|OBJ 3|5|SUBJ 4|5|JCT 5|1|SRL 6|5|OBJ 7|5|SFP 8|1|PUNCT
+*IN1:	对 (2.0) . 74322_76737
+%mor:	adj|dui4=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adj|dui4=correct .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*CHI:	嘿嘿 (1.2) . 76731_78995
+%mor:	co|hei1&DIM=hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|hei1&DIM=hey .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*IN1:	跟 我 说说 . 78979_79977
+%mor:	prep|gen1=with pro:per|wo3=I v|shuo1&DIM=say .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%trn:	prep|gen1=with pro:per|wo3=I v|shuo1&DIM=say .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+*IN2:	说 吧 . 79989_80546
+%mor:	v|shuo1=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|shuo1=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*IN1:	佳佳 ‡ 跟 我 说说 (3.7) . 80488_86514
+%mor:	n:prop|jia1jia1 beg|beg prep|gen1=with pro:per|wo3=I
+	v|shuo1&DIM=say .
+%gra:	1|0|BEG 2|1|BEGP 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%trn:	n:prop|jia1jia1 beg|beg prep|gen1=with pro:per|wo3=I v|shuo1&DIM=say .
+%grt:	1|0|BEG 2|1|BEGP 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*HA1:	看 着 阿姨 干吗 呢 ? 86443_87836
+%mor:	v|kan4=look asp|zhe n:relat|a1yi2=mothers_sister v|gan4ma2=do_what
+	sfp|ne ?
+%gra:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|1|JCT 5|1|SFP 6|1|PUNCT
+%trn:	v|kan4=look asp|zhe familiar#n:relat|a1yi2=mothers_sister v|gan4ma2=do_what sfp|ne ?
+%grt:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|1|JCT 5|1|SFP 6|1|PUNCT
+*IN1:	说 吧 (1.3) . 87825_89938
+%mor:	v|shuo1=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|shuo1=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*HA1:	快 讲 啊 . 89815_92381
+%mor:	adv|kuai4=quickly v|jiang3=say sfp|a1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%trn:	adv|kuai4=quickly v|jiang3=say sfp|a1 .
+%grt:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*HA1:	到 阿姨 那 磁带 那 讲 .
+%mor:	v:resc|dao4=arrive n:relat|a1yi2=mothers_sister det|na4=that
+	n|ci2dai4=tape pro:dem|na4=that v|jiang3=say .
+%gra:	1|0|ROOT 2|4|MOD 3|4|DET 4|5|MOD 5|1|OBJ 6|1|SRL 7|1|PUNCT
+%trn:	v:resc|dao4=arrive familiar#n:relat|a1yi2=mothers_sister det|na4=that
+	n|ci2dai4=tape pro:dem|na4=that v|jiang3=say .
+%grt:	1|0|ROOT 2|4|MOD 3|4|DET 4|5|MOD 5|1|OBJ 6|1|SRL 7|1|PUNCT
+*HA1:	你 不 还 录 歌 了 吗 ? 92335_94352
+%mor:	pro:per|ni3=you adv|bu4=not adv|hai2=still v|lu4=record n|ge1=song
+	asp|le sfp|ma ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|ASP 7|4|SFP 8|4|PUNCT
+%trn:	pro:per|ni3=you adv|bu4=not adv|hai2=still v|lu4=record n|ge1=song
+	asp|le sfp|ma ?
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|ASP 7|4|SFP
+	8|4|PUNCT
+*HA1:	你 讲 个 故事 都 不 会 讲 啊 ? 94335_96352
+%mor:	pro:per|ni3=you v|jiang3=say cl|ge4 n|gu4shi4=story adv|dou1=all
+	adv|bu4=not v:aux|hui4=will v|jiang3=say sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|CLASS 4|2|OBJ 5|8|JCT 6|7|JCT 7|8|AUX 8|2|SRL
+	9|8|SFP 10|2|PUNCT
+%trn:	pro:per|ni3=you v|jiang3=say cl|ge4 n|gu4shi4=story adv|dou1=all
+	adv|bu4=not v:aux|hui4=will v|jiang3=say sfp|a1 ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|CLASS 4|2|OBJ 5|8|JCT 6|7|JCT 7|8|AUX 8|2|SRL
+	9|8|SFP 10|2|PUNCT
+*IN1:	给 我们 讲讲 . 96301_98550
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+*IN1:	快点 (2.8) . 98301_100550
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adv|kuai4dian3=hurrily .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*IN1:	你 想 讲 哪 页 就 讲 哪 页 啊 (1.8) . 100474_104538
+%mor:	pro:per|ni3=you v|xiang3=think v|jiang3=say pro:wh|na3=where
+	cl|ye4=page adv|jiu4=just v|jiang3=say pro:wh|na3=where cl|ye4=page
+	sfp|a1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|5|DET 5|3|OBJ 6|7|JCT 7|2|SRL 8|9|DET
+	9|7|OBJ 10|2|SFP 11|2|PUNCT
+%trn:	pro:per|ni3=you v|xiang3=think v|jiang3=say pro:wh|na3=where
+	cl|ye4=page adv|jiu4=just v|jiang3=say pro:wh|na3=where cl|ye4=page
+	sfp|a1 .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|5|DET 5|3|OBJ 6|7|JCT 7|2|SRL 8|9|DET
+	9|7|OBJ 10|2|SFP 11|2|PUNCT
+*HA1:	你 自己 翻翻 (1.4) . 104496_106900
+%mor:	pro:per|ni3=you pro:per|zi4ji3=self v|fan1&DIM=flip .
+%gra:	1|3|SUBJ 2|1|APP 3|0|ROOT 4|3|PUNCT
+%trn:	pro:per|ni3=you pro:per|zi4ji3=self v|fan1&DIM=flip .
+%grt:	1|3|SUBJ 2|1|APP 3|0|ROOT 4|3|PUNCT
+*IN1:	佳佳 ‡ 看 着 书 给 我们 讲讲 . 106888_109547
+%mor:	n:prop|jia1jia1 beg|beg v|kan4=look asp|zhe n|shu1=book
+	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|ASP 5|3|OBJ 6|8|JCT 7|6|PREPO 8|3|SRL
+	9|3|PUNCT
+%trn:	n:prop|jia1jia1 beg|beg v|kan4=look asp|zhe n|shu1=book prep|gei3=for
+	pro:per|wo3-PL=I v|jiang3&DIM=say .
+%grt:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|ASP 5|3|OBJ 6|8|JCT
+	7|6|PREPO 8|3|SRL 9|3|PUNCT
+*IN1:	这 上面 有 什么 . 109484_114291
+%mor:	pro:dem|zhe4=this post|shang4mian4=above v|you3=have
+	pro:wh|shen2me=what .
+%gra:	1|2|POSTO 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%trn:	pro:dem|zhe4=this post|shang4mian4=above v|you3=have pro:wh|shen2me=what
+	.
+%grt:	1|2|POSTO 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*IN1:	你 给 我们 说说 &嗯 .
+%mor:	pro:per|ni3=you prep|gei3=for pro:per|wo3-PL=I v|shuo1&DIM=say .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+%trn:	pro:per|ni3=you prep|gei3=for pro:per|wo3-PL=I v|shuo1&DIM=say .
+%grt:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+*IN1:	给 我们 讲讲 „ 佳佳 . 114263_117037
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say end|end
+	n:prop|jia1jia1 .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say end|end
+	n:prop|jia1jia1 .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+*IN1:	看 着 书 给 我们 讲讲 . 116993_118370
+%mor:	v|kan4=look asp|zhe n|shu1=book prep|gei3=for pro:per|wo3-PL=I
+	v|jiang3&DIM=say .
+%gra:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|6|JCT 5|4|PREPO 6|1|SRL 7|1|PUNCT
+%trn:	v|kan4=look asp|zhe n|shu1=book prep|gei3=for pro:per|wo3-PL=I
+	v|jiang3&DIM=say .
+%grt:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|6|JCT 5|4|PREPO 6|1|SRL 7|1|PUNCT
+*IN1:	<看 书> [/] 看 书 给 我们 讲讲 . 118370_121370
+%mor:	v|kan4=look n|shu1=book prep|gei3=for pro:per|wo3-PL=I
+	v|jiang3&DIM=say .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|JCT 4|3|PREPO 5|1|SRL 6|1|PUNCT
+%trn:	v|kan4=look n|shu1=book prep|gei3=for pro:per|wo3-PL=I
+	v|jiang3&DIM=say .
+%grt:	1|0|ROOT 2|1|OBJ 3|5|JCT 4|3|PREPO 5|1|SRL 6|1|PUNCT
+*HA1:	+<  看 书 .
+%mor:	v|kan4=look n|shu1=book .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%trn:	v|kan4=look n|shu1=book .
+%grt:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*HA1:	看 阿姨 这 书 . 119522_120522
+%mor:	v|kan4=look n:relat|a1yi2=mothers_sister pro:dem|zhe4=this
+	n|shu1=book .
+%gra:	1|0|ROOT 2|4|MOD 3|4|DET 4|1|OBJ 5|1|PUNCT
+%trn:	v|kan4=look familiar#n:relat|a1yi2=mothers_sister pro:dem|zhe4=this n|shu1=book .
+%grt:	1|0|ROOT 2|4|MOD 3|4|DET 4|1|OBJ 5|1|PUNCT
+*IN1:	想 讲 哪 页 就 讲 哪 页 . 121376_122955
+%mor:	v|xiang3=think v|jiang3=say pro:wh|na3=where cl|ye4=page
+	adv|jiu4=just v|jiang3=say pro:wh|na3=where cl|ye4=page .
+%gra:	1|0|ROOT 2|1|COBJ 3|4|DET 4|2|OBJ 5|6|JCT 6|1|SRL 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+%trn:	v|xiang3=think v|jiang3=say pro:wh|na3=where cl|ye4=page
+	adv|jiu4=just v|jiang3=say pro:wh|na3=where cl|ye4=page .
+%grt:	1|0|ROOT 2|1|COBJ 3|4|DET 4|2|OBJ 5|6|JCT 6|1|SRL 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*IN1:	不 讲 你 就 翻 过去 „ 好不好 (2.8) ? 122885_128998
+%mor:	adv|bu4=not v|jiang3=say pro:per|ni3=you adv|jiu4=just v|fan1=flip
+	v:dirc|guo4qu4=over end|end co:int|hao3bu2hao3=okay ?
+%gra:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|SRL 6|5|VD 7|8|ENDP 8|2|END
+	9|2|PUNCT
+%trn:	adv|bu4=not v|jiang3=say pro:per|ni3=you adv|jiu4=just v|fan1=flip
+	v:dirc|guo4qu4=over end|end co:int|hao3bu2hao3=okay ?
+%grt:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|SRL 6|5|VD 7|8|ENDP
+	8|2|END 9|2|PUNCT
+*IN1:	给 我们 讲讲 „ 好不好 ? 128928_131181
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say end|end
+	co:int|hao3bu2hao3=okay ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say end|end
+	co:int|hao3bu2hao3=okay ?
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+*IN1:	刚才 前面 都 讲 得 挺 好的 啊 (1.8) . 131129_135715
+%mor:	adv|gang1cai2=just_now post|qian2mian4=front_end adv|dou1=all
+	v|jiang3=say stative|de=be_able_to adv|ting3=very adj|hao3-ISH=good
+	sfp|a1 .
+%gra:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|LINK 6|7|JCT 7|4|JCT 8|4|SFP
+	9|4|PUNCT
+%trn:	adv|gang1cai2=just_now post|qian2mian4=front_end adv|dou1=all
+	v|jiang3=say stative|de=be_able_to adv|ting3=very adj|hao3-ISH=good sfp|a1 .
+%grt:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|LINK 6|7|JCT 7|4|JCT 8|4|SFP
+	9|4|PUNCT
+*IN1:	跟 我们 说说 怎么 回 事 (2.3) ? 135663_139541
+%mor:	prep|gen1=with pro:per|wo3-PL=I v|shuo1&DIM=say adv:wh|zen3me=how
+	cl|hui2 n|shi4=thing ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|6|MOD 5|6|CLASS 6|3|OBJ 7|3|PUNCT
+%trn:	prep|gen1=with pro:per|wo3-PL=I v|shuo1&DIM=say adv:wh|zen3me=how
+	cl|hui2 n|shi4=thing ?
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|6|MOD 5|6|CLASS 6|3|OBJ 7|3|PUNCT
+*HA1:	看 着 书 „ 佳佳 (1.3) . 139448_141938
+%mor:	v|kan4=look asp|zhe n|shu1=book end|end n:prop|jia1jia1 .
+%gra:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|5|ENDP 5|1|END 6|1|PUNCT
+%trn:	v|kan4=look asp|zhe n|shu1=book end|end n:prop|jia1jia1 .
+%grt:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|5|ENDP 5|1|END 6|1|PUNCT
+*HA1:	你 看 这 幅 图 怎么 了 ? 141869_150896
+%mor:	pro:per|ni3=you v|kan4=look pro:dem|zhe4=this cl|fu2 n|tu2=picture
+	adv:wh|zen3me=how asp|le ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|CLASS 5|6|SUBJ 6|2|COMP 7|6|ASP 8|2|PUNCT
+%trn:	pro:per|ni3=you v|kan4=look pro:dem|zhe4=this cl|fu2 n|tu2=picture
+	adv:wh|zen3me=how asp|le ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|CLASS 5|6|SUBJ 6|2|COMP 7|6|ASP
+	8|2|PUNCT
+%com:	#7_6
+*HA1:	看 着 书 . 150820_155174
+%mor:	v|kan4=look asp|zhe n|shu1=book .
+%gra:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|1|PUNCT
+%trn:	v|kan4=look asp|zhe n|shu1=book .
+%grt:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|1|PUNCT
+*HA1:	看看 阿姨 这 书 (2.0) .
+%mor:	v|kan4&DIM=look n:relat|a1yi2=mothers_sister pro:dem|zhe4=this
+	n|shu1=book .
+%gra:	1|0|ROOT 2|4|MOD 3|4|DET 4|1|OBJ 5|1|PUNCT
+%trn:	v|kan4&DIM=look familiar#n:relat|a1yi2=mothers_sister pro:dem|zhe4=this n|shu1=book .
+%grt:	1|0|ROOT 2|4|MOD 3|4|DET 4|1|OBJ 5|1|PUNCT
+*HA1:	这 幅 画 怎么 了 (3.3) ? 155110_160810
+%mor:	pro:dem|zhe4=this cl|fu2 n|hua4=painting adv:wh|zen3me=how asp|le ?
+%gra:	1|3|DET 2|3|CLASS 3|4|SUBJ 4|0|PROOT 5|4|ASP 6|4|PUNCT
+%trn:	pro:dem|zhe4=this cl|fu2 n|hua4=painting adv:wh|zen3me=how asp|le ?
+%grt:	1|3|DET 2|3|CLASS 3|4|SUBJ 4|0|PROOT 5|4|ASP 6|4|PUNCT
+*IN1:	佳佳 ‡ 看 着 书 „ 佳佳 . 160713_164823
+%mor:	n:prop|jia1jia1 beg|beg v|kan4=look asp|zhe n|shu1=book end|end
+	n:prop|jia1jia1 .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|ASP 5|3|OBJ 6|7|ENDP 7|3|END 8|3|PUNCT
+%trn:	n:prop|jia1jia1 beg|beg v|kan4=look asp|zhe n|shu1=book end|end
+	n:prop|jia1jia1 .
+%grt:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|ASP 5|3|OBJ 6|7|ENDP 7|3|END 8|3|PUNCT
+*HA2:	<xxx> [<] . 163582_164975
+*HA1:	哎 ‡ xxx 你 看 着 这 书 给 阿姨 讲讲 . 164794_169438
+%mor:	co|ai1=ugh beg|beg pro:per|ni3=you v|kan4=look asp|zhe
+	pro:dem|zhe4=this n|shu1=book prep|gei3=for
+	n:relat|a1yi2=mothers_sister v|jiang3&DIM=say .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|ASP 6|7|DET 7|4|OBJ 8|10|JCT
+	9|8|PREPO 10|4|SRL 11|4|PUNCT
+%trn:	co|ai1=ugh beg|beg pro:per|ni3=you v|kan4=look asp|zhe pro:dem|zhe4=this
+	n|shu1=book prep|gei3=for familiar#n:relat|a1yi2=mothers_sister v|jiang3&DIM=say .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|ASP 6|7|DET 7|4|OBJ
+	8|10|JCT 9|8|PREPO 10|4|SRL 11|4|PUNCT
+*IN1:	佳佳 ‡ 看 书 给 我们 讲讲 (2.1) . 169397_174679
+%mor:	n:prop|jia1jia1 beg|beg v|kan4=look n|shu1=book prep|gei3=for
+	pro:per|wo3-PL=I v|jiang3&DIM=say .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|7|JCT 6|5|PREPO 7|3|SRL 8|3|PUNCT
+%trn:	n:prop|jia1jia1 beg|beg v|kan4=look n|shu1=book prep|gei3=for
+	pro:per|wo3-PL=I v|jiang3&DIM=say .
+%grt:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|7|JCT 6|5|PREPO 7|3|SRL
+	8|3|PUNCT
+*HA1:	快点 . 174604_176717
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adv|kuai4dian3=hurrily .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*HA1:	就 剩 最后 就 讲 完 故事 了 .
+%mor:	adv|jiu4=just v|sheng4=leave n|zui4hou4=final adv|jiu4=just
+	v|jiang3=say v:resc|wan2=finish n|gu4shi4=story asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|SRL 6|5|VR 7|5|OBJ 8|5|ASP
+	9|2|PUNCT
+%trn:	adv|jiu4=just v|sheng4=leave n|zui4hou4=final adv|jiu4=just
+	v|jiang3=say v:resc|wan2=finish n|gu4shi4=story asp|le .
+%grt:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|SRL 6|5|VR 7|5|OBJ
+	8|5|ASP 9|2|PUNCT
+*IN1:	讲 完 了 就 没 有 了 . 176694_178563
+%mor:	v|jiang3=say v:resc|wan2=finish asp|le adv|jiu4=just adv|mei2=not
+	v|you3=have asp|le .
+%gra:	1|0|ROOT 2|1|VR 3|1|ASP 4|6|JCT 5|6|JCT 6|1|SRL 7|6|ASP 8|1|PUNCT
+%trn:	v|jiang3=say v:resc|wan2=finish asp|le adv|jiu4=just adv|mei2=not
+	v|you3=have asp|le .
+%grt:	1|0|ROOT 2|1|VR 3|1|ASP 4|6|JCT 5|6|JCT 6|1|SRL 7|6|ASP 8|1|PUNCT
+*HA1:	&嗯 . 178528_179109
+*IN1:	就 结束 了 (1.3) . 179063_181408
+%mor:	adv|jiu4=just v|jie2shu4=end asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%trn:	adv|jiu4=just v|jie2shu4=end asp|le .
+%grt:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	&嗯 . 181359_181916
+*IN1:	给 我们 讲讲 . 181939_183135
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+*IN2:	+< 讲 吧 . 181940_184608
+%mor:	v|jiang3=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|jiang3=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*IN2:	讲 完 了 就 把 这 车 给 你 都 安 上 .
+%mor:	v|jiang3=say v:resc|wan2=finish asp|le adv|jiu4=just
+	prep|ba3=object_marker pro:dem|zhe4=this n|che1=vehicle
+	prep|gei3=for pro:per|ni3=you adv|dou1=all v|an1=set_mind_at_ease
+	post|shang4=above .
+%gra:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|JCT 5|11|JCT 6|7|DET 7|5|PREPO 8|11|JCT
+	9|8|PREPO 10|11|JCT 11|1|SRL 12|11|JCT 13|1|PUNCT
+%trn:	v|jiang3=say v:resc|wan2=finish asp|le adv|jiu4=just
+	prep|ba3=object_marker pro:dem|zhe4=this n|che1=vehicle prep|gei3=for
+	pro:per|ni3=you adv|dou1=all v|an1=set_mind_at_ease post|shang4=above .
+%grt:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|JCT 5|11|JCT 6|7|DET 7|5|PREPO 8|11|JCT
+	9|8|PREPO 10|11|JCT 11|1|SRL 12|11|JCT 13|1|PUNCT
+*HA1:	&啊 . 183715_184632
+*IN1:	你 就 可以 拿 着 它 玩 了 啊 . 184573_188515
+%mor:	pro:per|ni3=you adv|jiu4=just v:aux|ke3yi3=may v|na2=hold asp|zhe
+	pro:per|ta1=it v|wan2=play asp|le sfp|a1 .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|ASP 6|4|OBJ 7|4|SRL 8|4|ASP
+	9|4|SFP 10|4|PUNCT
+%trn:	pro:per|ni3=you adv|jiu4=just v:aux|ke3yi3=may v|na2=hold asp|zhe
+	pro:per|ta1=it v|wan2=play asp|le sfp|a1 .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|ASP 6|4|OBJ 7|4|SRL 8|4|ASP
+	9|4|SFP 10|4|PUNCT
+*IN2:	+<  遥控 的 . 185422_186548
+%mor:	v|yao2kong4=telecontrol cleft|de .
+%gra:	1|0|ROOT 2|1|LINK 3|1|PUNCT
+%trn:	v|yao2kong4=telecontrol cleft|de .
+%grt:	1|0|ROOT 2|1|LINK 3|1|PUNCT
+*HA1:	你 不 就 喜欢 车 ? 188377_189504
+%mor:	pro:per|ni3=you adv|bu4=not adv|jiu4=just v|xi3huan1=like
+	n|che1=vehicle ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%trn:	pro:per|ni3=you adv|bu4=not adv|jiu4=just v|xi3huan1=like
+	n|che1=vehicle ?
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	&嗯 . 189457_190014
+*HA1:	那 你 应该 给 阿姨 先 把 故事 讲 完 了 . 189960_192804
+%mor:	conj|na4=so pro:per|ni3=you v:aux|ying1gai1=should prep|gei3=for
+	n:relat|a1yi2=mothers_sister adv|xian1=earlier
+	prep|ba3=object_marker n|gu4shi4=story v|jiang3=say
+	v:resc|wan2=finish asp|le .
+%gra:	1|9|LINK 2|9|SUBJ 3|9|AUX 4|9|JCT 5|4|PREPO 6|9|JCT 7|9|JCT 8|7|PREPO
+	9|0|ROOT 10|9|VR 11|9|ASP 12|9|PUNCT
+%trn:	conj|na4=so pro:per|ni3=you v:aux|ying1gai1=should prep|gei3=for
+	familiar#n:relat|a1yi2=mothers_sister adv|xian1=earlier prep|ba3=object_marker
+	n|gu4shi4=story v|jiang3=say v:resc|wan2=finish asp|le .
+%grt:	1|9|LINK 2|9|SUBJ 3|9|AUX 4|9|JCT 5|4|PREPO 6|9|JCT 7|9|JCT 8|7|PREPO
+	9|0|ROOT 10|9|VR 11|9|ASP 12|9|PUNCT
+*IN2:	对呀 .
+%mor:	co:int|dui4ya=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co:int|dui4ya=correct .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*IN2:	讲 完 了 马上 就 给 你 这 车 (1.3) . 192758_198778
+%mor:	v|jiang3=say v:resc|wan2=finish asp|le adv|ma3shang4=immediately
+	adv|jiu4=just v|gei3=give pro:per|ni3=you pro:dem|zhe4=this
+	n|che1=vehicle .
+%gra:	1|6|CJCT 2|1|VR 3|1|ASP 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|OBJ2 8|9|DET
+	9|6|OBJ 10|6|PUNCT
+%trn:	v|jiang3=say v:resc|wan2=finish asp|le adv|ma3shang4=immediately
+	adv|jiu4=just v|gei3=give pro:per|ni3=you det|zhe4=this
+	n|che1=vehicle .
+%grt:	1|6|CJCT 2|1|VR 3|1|ASP 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|OBJ2
+	8|9|DET 9|6|OBJ 10|6|PUNCT
+*IN1:	给 我们 讲讲 „ 好不好 ? 198743_200902
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say end|end
+	co:int|hao3bu2hao3=okay ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say end|end
+	co:int|hao3bu2hao3=okay ?
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+*IN1:	你 想 怎么 讲 就 怎么 讲 . 200864_202338
+%mor:	pro:per|ni3=you v|xiang3=think adv:wh|zen3me=how v|jiang3=say
+	adv|jiu4=just adv:wh|zen3me=how v|jiang3=say .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|COBJ 5|7|JCT 6|7|JCT 7|2|SRL 8|2|PUNCT
+%trn:	pro:per|ni3=you v|xiang3=think adv:wh|zen3me=how v|jiang3=say
+	adv|jiu4=just adv:wh|zen3me=how v|jiang3=say .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|COBJ 5|7|JCT 6|7|JCT 7|2|SRL 8|2|PUNCT
+*IN1:	你 觉得 是 怎么 回 事 就 跟 我们 说说 就 行 了 . 202304_205728
+%mor:	pro:per|ni3=you v|jue2de=think v:cop|shi4=is adv:wh|zen3me=how
+	cl|hui2 n|shi4=thing adv|jiu4=just prep|gen1=with pro:per|wo3-PL=I
+	v|shuo1&DIM=say adv|jiu4=just v|xing2=be_all_right asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|6|MOD 5|6|CLASS 6|3|PRED 7|10|JCT 8|10|JCT
+	9|8|PREPO 10|2|SRL 11|12|JCT 12|2|SRL 13|12|ASP 14|2|PUNCT
+%trn:	pro:per|ni3=you v|jue2de=think v:cop|shi4=is adv:wh|zen3me=how
+	cl|hui2 n|shi4=thing adv|jiu4=just prep|gen1=with pro:per|wo3-PL=I
+	v|shuo1&DIM=say adv|jiu4=just v|xing2=be_all_right asp|le .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|6|MOD 5|6|CLASS 6|3|PRED 7|10|JCT
+	8|10|JCT 9|8|PREPO 10|2|SRL 11|12|JCT 12|2|SRL 13|12|ASP
+	14|2|PUNCT
+*IN1:	特别 简单 „ 佳佳 (1.6) . 205711_209542
+%mor:	adv|te4bie2=especially adj|jian3dan1=terse end|end n:prop|jia1jia1
+	.
+%gra:	1|2|JCT 2|0|INCROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+%trn:	adv|te4bie2=especially adj|jian3dan1=terse end|end n:prop|jia1jia1 .
+%grt:	1|2|JCT 2|0|INCROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+*IN1:	跟 我们 说说 „ 好不好 (3.4) ? 209489_214354
+%mor:	prep|gen1=with pro:per|wo3-PL=I v|shuo1&DIM=say end|end
+	co:int|hao3bu2hao3=okay ?
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+%trn:	prep|gen1=with pro:per|wo3-PL=I v|shuo1&DIM=say end|end
+	co:int|hao3bu2hao3=okay ?
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+*HA1:	快点 . 214361_216811
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adv|kuai4dian3=hurrily .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*HA1:	赶紧 讲 啊 .
+%mor:	adv|gan3jin3=hurriedly v|jiang3=say sfp|a1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%trn:	adv|gan3jin3=hurriedly v|jiang3=say sfp|a1 .
+%grt:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*HA1:	要不 不 能 给 你 这 车 „ 知道 吗 ? 216776_218889
+%mor:	conj|yao4bu4=otherwise adv|bu4=not v:aux|neng2=can v|gei3=give
+	pro:per|ni3=you pro:dem|zhe4=this n|che1=vehicle end|end
+	v|zhi1dao4=know sfp|ma ?
+%gra:	1|4|LINK 2|3|JCT 3|4|AUX 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|9|ENDP
+	9|4|END 10|9|SFP 11|4|PUNCT
+%trn:	conj|yao4bu4=otherwise adv|bu4=not v:aux|neng2=can v|gei3=give
+	pro:per|ni3=you pro:dem|zhe4=this n|che1=vehicle end|end v|zhi1dao4=know
+	sfp|ma ?
+%grt:	1|4|LINK 2|3|JCT 3|4|AUX 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|9|ENDP
+	9|4|END 10|9|SFP 11|4|PUNCT
+*HA1:	你 这 没 做 完 &呀 那 个 „ 知道 吗 (2.9) ? 218796_225084
+%mor:	pro:per|ni3=you pro:dem|zhe4=this adv|mei2=not v|zuo4=make
+	v:resc|wan2=finish det|na4=that cl|ge4 end|end v|zhi1dao4=know
+	sfp|ma ?
+%gra:	1|4|SUBJ 2|4|OBJ 3|4|JCT 4|0|ROOT 5|4|VR 6|7|DET 7|4|OBJ 8|9|ENDP
+	9|4|END 10|9|SFP 11|4|PUNCT
+%trn:	pro:per|ni3=you pro:dem|zhe4=this adv|mei2=not v|zuo4=make
+	v:resc|wan2=finish det|na4=that cl|ge4 end|end v|zhi1dao4=know
+	sfp|ma ?
+%grt:	1|4|SUBJ 2|4|OBJ 3|4|JCT 4|0|ROOT 5|4|VR 6|7|DET 7|4|OBJ
+	8|9|ENDP 9|4|END 10|9|SFP 11|4|PUNCT
+*HA1:	赶紧 讲 啊 .
+%mor:	adv|gan3jin3=hurriedly v|jiang3=say sfp|a1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%trn:	adv|gan3jin3=hurriedly v|jiang3=say sfp|a1 .
+%grt:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*HA1:	宝贝 ‡ xxx 你 看看 . 225020_228097
+%mor:	n|bao3bei4=treasure beg|beg pro:per|ni3=you v|kan4&DIM=look .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	n|bao3bei4=treasure beg|beg pro:per|ni3=you v|kan4&DIM=look .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*HA1:	这 图 都 讲 完 了 .
+%mor:	pro:dem|zhe4=this n|tu2=picture adv|dou1=all v|jiang3=say
+	v:resc|wan2=finish asp|le .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|VR 6|4|ASP 7|4|PUNCT
+%trn:	pro:dem|zhe4=this n|tu2=picture adv|dou1=all v|jiang3=say
+	v:resc|wan2=finish asp|le .
+%grt:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|VR 6|4|ASP 7|4|PUNCT
+*HA1:	听没听 到 ?
+%mor:	v|ting1&DIM=listen v:resc|dao4=arrive ?
+%gra:	1|0|ROOT 2|1|VR 3|1|PUNCT
+%trn:	v|ting1&DIM=listen v:resc|dao4=arrive ?
+%grt:	1|0|ROOT 2|1|VR 3|1|PUNCT
+*HA1:	就 说 一 句 话 也 行 啊 (1.4) „ 对吧 ? 228073_231847
+%mor:	adv|jiu4=just v|shuo1=say num|yi1=one cl|ju4 n|hua4=speech
+	adv|ye3=also v|xing2=be_all_right sfp|a1 end|end
+	co:int|dui4ba=correct ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|5|CLASS 5|2|OBJ 6|7|JCT 7|2|SRL 8|2|SFP
+	9|10|ENDP 10|2|END 11|2|PUNCT
+%trn:	adv|jiu4=just v|shuo1=say num|yi1=one cl|ju4 n|hua4=speech
+	adv|ye3=also v|xing2=be_all_right sfp|a1 end|end
+	co:int|dui4ba=correct ?
+%grt:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|5|CLASS 5|2|OBJ 6|7|JCT 7|2|SRL 8|2|SFP
+	9|10|ENDP 10|2|END 11|2|PUNCT
+*HA1:	一 句 话 还 说 不 出来 ?
+%mor:	num|yi1=one cl|ju4 n|hua4=speech adv|hai2=still v|shuo1=say
+	adv|bu4=not v:dirc|chu1lai2=go_out ?
+%gra:	1|2|QUANT 2|3|CLASS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|VD 8|5|PUNCT
+%trn:	num|yi1=one cl|ju4 n|hua4=speech adv|hai2=still
+	v|shuo1=say adv|bu4=not v:dirc|chu1lai2=go_out ?
+%grt:	1|2|QUANT 2|3|CLASS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|VD
+	8|5|PUNCT
+*HA1:	那么 多 东西 . 231774_234723
+%mor:	adv|na4me=so adj|duo1=lots n|dong1xi=thing .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%trn:	adv|na4me=so adj|duo1=lots n|dong1xi=thing .
+%grt:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*HA1:	说 一 句 话 还 说 不 出来 (4.3) ? 234669_240265
+%mor:	v|shuo1=say num|yi1=one cl|ju4 n|hua4=speech adv|hai2=still
+	v|shuo1=say adv|bu4=not v:dirc|chu1lai2=go_out ?
+%gra:	1|0|ROOT 2|3|QUANT 3|4|CLASS 4|1|OBJ 5|6|JCT 6|1|SRL 7|8|JCT 8|6|VD
+	9|1|PUNCT
+%trn:	v|shuo1=say num|yi1=one cl|ju4 n|hua4=speech adv|hai2=still
+	v|shuo1=say adv|bu4=not v:dirc|chu1lai2=go_out ?
+%grt:	1|0|ROOT 2|3|QUANT 3|4|CLASS 4|1|OBJ 5|6|JCT 6|1|SRL 7|8|JCT 8|6|VD
+	9|1|PUNCT
+*HA1:	先 说说 这 幅 图 吧 . 240225_254502
+%mor:	adv|xian1=earlier v|shuo1&DIM=say pro:dem|zhe4=this cl|fu2
+	n|tu2=picture sfp|ba .
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|CLASS 5|2|OBJ 6|2|SFP 7|2|PUNCT
+%trn:	adv|xian1=earlier v|shuo1&DIM=say pro:dem|zhe4=this cl|fu2
+	n|tu2=picture sfp|ba .
+%grt:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|CLASS 5|2|OBJ 6|2|SFP 7|2|PUNCT
+%com:	#12_5
+*HA1:	你 不 还 上 幼儿园 给 小朋友 讲 恐龙 吗 . 254429_257692
+%mor:	pro:per|ni3=you adv|bu4=not adv|hai2=still v:dirc|shang4=go_up
+	n|you4er2yuan2=kindergarten prep|gei3=for
+	n|xiao3peng2you3=little_child v|jiang3=say n|kong3long2=dinosaur
+	sfp|ma .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|8|JCT 7|6|PREPO 8|4|SRL
+	9|8|OBJ 10|4|SFP 11|4|PUNCT
+%trn:	pro:per|ni3=you adv|bu4=not adv|hai2=still v:dirc|shang4=go_up
+	n|you4er2yuan2=kindergarten prep|gei3=for
+	n|xiao3peng2you3=little_child v|jiang3=say n|kong3long2=dinosaur
+	sfp|ma .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|8|JCT 7|6|PREPO 8|4|SRL
+	9|8|OBJ 10|4|SFP 11|4|PUNCT
+*HA1:	讲 你 那 个 恐龙 光盘 的 吗 (1.1) ? 257634_260269
+%mor:	v|jiang3=say pro:per|ni3=you det|na4=that cl|ge4
+	n|kong3long2=dinosaur n|guang1pan2=cd cleft|de sfp|ma ?
+%gra:	1|0|ROOT 2|6|MOD 3|6|DET 4|6|CLASS 5|6|MOD 6|1|OBJ 7|1|LINK 8|1|SFP
+	9|1|PUNCT
+%trn:	v|jiang3=say pro:per|ni3=you det|na4=that cl|ge4
+	n|kong3long2=dinosaur n|guang1pan2=cd cleft|de sfp|ma ?
+%grt:	1|0|ROOT 2|6|MOD 3|6|DET 4|6|CLASS 5|6|MOD 6|1|OBJ 7|1|LINK
+	8|1|SFP 9|1|PUNCT
+*HA1:	你 这 还 不 会 讲 啊 ? 260219_268039
+%mor:	pro:per|ni3=you pro:dem|zhe4=this adv|hai2=still adv|bu4=not
+	v:aux|hui4=will v|jiang3=say sfp|a1 ?
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|JCT 4|5|JCT 5|6|AUX 6|0|ROOT 7|6|SFP 8|6|PUNCT
+%trn:	pro:per|ni3=you pro:dem|zhe4=this adv|hai2=still adv|bu4=not v:aux|hui4=will
+	v|jiang3=say sfp|a1 ?
+%grt:	1|6|SUBJ 2|6|SUBJ 3|6|JCT 4|5|JCT 5|6|AUX 6|0|ROOT 7|6|SFP 8|6|PUNCT
+%com:	#6_2
+*IN1:	&嗯 . 267985_268902
+*IN1:	去年 她 讲 了 吗 ? 268739_270493
+%mor:	n:tm|qu4nian2=last_year pro:per|ta1=she v|jiang3=say asp|le sfp|ma
+	?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|3|SFP 6|3|PUNCT
+%trn:	n:tm|qu4nian2=last_year pro:per|ta1=she v|jiang3=say asp|le sfp|ma ?
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|3|SFP 6|3|PUNCT
+*HA1:	&啊 ? 270458_270876
+*IN1:	去年 讲 了 吗 ? 270818_272478
+%mor:	n:tm|qu4nian2=last_year v|jiang3=say asp|le sfp|ma ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|ASP 4|2|SFP 5|2|PUNCT
+%trn:	n:tm|qu4nian2=last_year v|jiang3=say asp|le sfp|ma ?
+%grt:	1|2|JCT 2|0|ROOT 3|2|ASP 4|2|SFP 5|2|PUNCT
+*HA1:	去年 好像 没 [/] 没 这么 多 吧 . 272455_276176
+%mor:	n:tm|qu4nian2=last_year adv|hao3xiang4=seem adv|mei2=not
+	adv|zhe4me=like_this adj|duo1=lots sfp|ba .
+%gra:	1|5|JCT 2|5|JCT 3|5|JCT 4|5|JCT 5|0|PROOT 6|5|SFP 7|5|PUNCT
+%trn:	n:tm|qu4nian2=last_year adv|hao3xiang4=seem adv|mei2=not
+	adv|zhe4me=like_this adj|duo1=lots sfp|ba .
+%grt:	1|5|JCT 2|5|JCT 3|5|JCT 4|5|JCT 5|0|PROOT 6|5|SFP 7|5|PUNCT
+*HA1:	就 那 个 前提 .
+%mor:	adv|jiu4=just det|na4=that cl|ge4 n|qian2ti2=premise .
+%gra:	1|4|JCT 2|4|DET 3|4|CLASS 4|0|INCROOT 5|4|PUNCT
+%trn:	adv|jiu4=just det|na4=that cl|ge4 n|qian2ti2=premise .
+%grt:	1|4|JCT 2|4|DET 3|4|CLASS 4|0|INCROOT 5|4|PUNCT
+*IN1:	+< &嗯 是 没 这么 多 .
+%mor:	v:cop|shi4=is adv|mei2=not adv|zhe4me=like_this adj|duo1=lots .
+%gra:	1|0|ROOT 2|4|JCT 3|4|JCT 4|1|PRED 5|1|PUNCT
+%trn:	v:cop|shi4=is adv|mei2=not adv|zhe4me=like_this adj|duo1=lots .
+%grt:	1|0|ROOT 2|4|JCT 3|4|JCT 4|1|PRED 5|1|PUNCT
+*IN1:	今年 多 . 275839_280541
+%mor:	n|jin1nian2=this_year adj|duo1=lots .
+%gra:	1|2|SUBJ 2|0|PROOT 3|2|PUNCT
+%trn:	n|jin1nian2=this_year adj|duo1=lots .
+%grt:	1|2|SUBJ 2|0|PROOT 3|2|PUNCT
+*HA1:	快点 . 280492_282663
+%mor:	adv|kuai4dian3=hurrily .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adv|kuai4dian3=hurrily .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*HA1:	你 去年 小不点儿 时候 还 会 讲 呢 .
+%mor:	pro:per|ni3=you n:tm|qu4nian2=last_year
+	n|xiao3bu4dian3-DIA=little_kids n|shi2hou4=time adv|hai2=still
+	v:aux|hui4=will v|jiang3=say sfp|ne .
+%gra:	1|7|SUBJ 2|7|JCT 3|4|MOD 4|7|JCT 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+%trn:	pro:per|ni3=you n:tm|qu4nian2=last_year n|xiao3bu4dian3-DIA=little_kids
+	n|shi2hou4=time adv|hai2=still v:aux|hui4=will v|jiang3=say sfp|ne
+	.
+%grt:	1|7|SUBJ 2|7|JCT 3|4|MOD 4|7|JCT 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+*HA1:	你 今年 长 了 一 岁 还 不 会 讲 了 ? 282640_285124
+%mor:	pro:per|ni3=you n|jin1nian2=this_year v|zhang3=grow asp|le
+	num|yi1=one cl|sui4 adv|hai2=still adv|bu4=not v:aux|hui4=will
+	v|jiang3=say asp|le ?
+%gra:	1|3|SUBJ 2|3|JCT 3|10|CJCT 4|3|ASP 5|6|QUANT 6|3|OBJ 7|10|JCT 8|9|JCT
+	9|10|AUX 10|0|ROOT 11|10|ASP 12|10|PUNCT
+%trn:	pro:per|ni3=you n|jin1nian2=this_year v|zhang3=grow asp|le num|yi1=one
+	cl|sui4 adv|hai2=still adv|bu4=not v:aux|hui4=will v|jiang3=say
+	asp|le ?
+%grt:	1|3|SUBJ 2|3|JCT 3|10|CJCT 4|3|ASP 5|6|QUANT 6|3|OBJ 7|10|JCT
+	8|9|JCT 9|10|AUX 10|0|ROOT 11|10|ASP 12|10|PUNCT
+*IN1:	佳佳 去年 讲 得 挺 好的 (1.6) . 285072_288857
+%mor:	adj|jia1&DIM=fine n:tm|qu4nian2=last_year v|jiang3=say
+	stative|de=be_able_to adv|ting3=very adj|hao3-ISH=good .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|LINK 5|6|JCT 6|3|JCT 7|3|PUNCT
+%trn:	adj|jia1&DIM=fine n:tm|qu4nian2=last_year v|jiang3=say
+	stative|de=be_able_to adv|ting3=very adj|hao3-ISH=good .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|LINK 5|6|JCT 6|3|JCT 7|3|PUNCT
+*IN1:	照着 这 个 书 给 我们 讲讲 . 288775_291864
+%mor:	prep|zhao4zhe=according_to det|zhe4=this cl|ge4 n|shu1=book
+	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%gra:	1|7|JCT 2|4|DET 3|4|CLASS 4|1|PREPO 5|7|JCT 6|5|PREPO 7|0|ROOT
+	8|7|PUNCT
+%trn:	prep|zhao4zhe=according_to det|zhe4=this cl|ge4
+	n|shu1=book prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%grt:	1|7|JCT 2|4|DET 3|4|CLASS 4|1|PREPO 5|7|JCT 6|5|PREPO 7|0|ROOT
+	8|7|PUNCT
+*CHI:	+< &啊 . 290310_290867
+*IN1:	照着 这 书 给 我们 讲讲看 怎么 回 事 ? 291778_294123
+%mor:	prep|zhao4zhe=according_to pro:dem|zhe4=this n|shu1=book
+	prep|gei3=for pro:per|wo3-PL=I v|jiang3&KAN=say adv:wh|zen3me=how
+	cl|hui2 n|shi4=thing ?
+%gra:	1|6|JCT 2|3|DET 3|1|PREPO 4|6|JCT 5|4|PREPO 6|0|ROOT 7|9|MOD 8|9|CLASS
+	9|6|OBJ 10|6|PUNCT
+%trn:	prep|zhao4zhe=according_to pro:dem|zhe4=this n|shu1=book
+	prep|gei3=for pro:per|wo3-PL=I v|jiang3&KAN=say adv:wh|zen3me=how
+	cl|hui2 n|shi4=thing ?
+%grt:	1|6|JCT 2|3|DET 3|1|PREPO 4|6|JCT 5|4|PREPO 6|0|ROOT 7|9|MOD
+	8|9|CLASS 9|6|OBJ 10|6|PUNCT
+*IN1:	一 页页 翻 过去 . 294234_296196
+%mor:	num|yi1=one cl|ye4&DIST=page v|fan1=flip v:dirc|guo4qu4=over .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|PUNCT
+%trn:	num|yi1=one cl|ye4&DIST=page v|fan1=flip v:dirc|guo4qu4=over .
+%grt:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|PUNCT
+*IN1:	跟 我们 说说 .
+%mor:	prep|gen1=with pro:per|wo3-PL=I v|shuo1&DIM=say .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%trn:	prep|gen1=with pro:per|wo3-PL=I v|shuo1&DIM=say .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+*CHI:	xxx (2.7) . 296242_300178
+*IN1:	你 平时 给 她 讲 故事 吗 ? 300090_302296
+%mor:	pro:per|ni3=you adv|ping2shi2=normally prep|gei3=for
+	pro:per|ta1=she v|jiang3=say n|gu4shi4=story sfp|ma ?
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+%trn:	pro:per|ni3=you adv|ping2shi2=normally prep|gei3=for pro:per|ta1=she
+	v|jiang3=say n|gu4shi4=story sfp|ma ?
+%grt:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|OBJ 7|5|SFP
+	8|5|PUNCT
+*CHI:	+< 拿 过 来 . 301054_302284
+%mor:	v|na2=hold v:dirc|guo4=pass v:dirc|lai2=come .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%trn:	v|na2=hold v:dirc|guo4=pass v:dirc|lai2=come .
+%grt:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+*HA1:	我 老 给 她 讲 xxx . 302203_305384
+%mor:	pro:per|wo3=I adj|lao3=old prep|gei3=for pro:per|ta1=she
+	v|jiang3=say .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%trn:	pro:per|wo3=I adv|lao3=always prep|gei3=for pro:per|ta1=she v|jiang3=say .
+%grt:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*CHI:	+< 拿 过 来 . 303875_305396
+%mor:	v|na2=hold v:dirc|guo4=pass v:dirc|lai2=come .
+%gra:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+%trn:	v|na2=hold v:dirc|guo4=pass v:dirc|lai2=come .
+%grt:	1|0|ROOT 2|1|VD 3|1|VD 4|1|PUNCT
+*HA1:	讲 呢 . 305369_306518
+%mor:	v|jiang3=say sfp|ne .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|jiang3=say sfp|ne .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*HA1:	讲 .
+%mor:	v|jiang3=say .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|jiang3=say .
+%grt:	1|0|ROOT 2|1|PUNCT
+*CHI:	+< xxx . 305463_306357
+*IN1:	要不 就 不 让 她 讲 . 306413_308027
+%mor:	conj|yao4bu4=otherwise adv|jiu4=just adv|bu4=not v|rang4=allow
+	pro:per|ta1=she v|jiang3=say .
+%gra:	1|4|LINK 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+%trn:	conj|yao4bu4=otherwise adv|jiu4=just adv|bu4=not v|rang4=allow
+	pro:per|ta1=she v|jiang3=say .
+%grt:	1|4|LINK 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+*HA2:	你 讲不讲 . 307958_309699
+%mor:	pro:per|ni3=you v|jiang3&DIM=say .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%trn:	pro:per|ni3=you v|jiang3&DIM=say .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*HA2:	我 给 你 拿 过 来 .
+%mor:	pro:per|wo3=I prep|gei3=for pro:per|ni3=you v|na2=hold
+	v:dirc|guo4=pass v:dirc|lai2=come .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|VD 6|4|VD 7|4|PUNCT
+%trn:	pro:per|wo3=I prep|gei3=for pro:per|ni3=you v|na2=hold
+	v:dirc|guo4=pass v:dirc|lai2=come .
+%grt:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|VD 6|4|VD 7|4|PUNCT
+*CHI:	+<  <不 会 讲> [/] 不 会 讲 . 307958_310779
+%mor:	adv|bu4=not v:aux|hui4=will v|jiang3=say .
+%gra:	1|2|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%trn:	adv|bu4=not v:aux|hui4=will v|jiang3=say .
+%grt:	1|2|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*HA1:	+<  他 没 讲 . 309699_310767
+%mor:	pro:per|ta1=he adv|mei2=not v|jiang3=say .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%trn:	pro:per|ta1=he adv|mei2=not v|jiang3=say .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	&啊 . 310728_311518
+*HA1:	+<  xxx 你 没 看 .
+%mor:	pro:per|ni3=you adv|mei2=not v|kan4=look .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%trn:	pro:per|ni3=you adv|mei2=not v|kan4=look .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*HA1:	你 就 说 不 会 讲 . 310729_313339
+%mor:	pro:per|ni3=you adv|jiu4=just v|shuo1=say adv|bu4=not
+	v:aux|hui4=will v|jiang3=say .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|JCT 5|6|AUX 6|3|COBJ 7|3|PUNCT
+%trn:	pro:per|ni3=you adv|jiu4=just v|shuo1=say adv|bu4=not v:aux|hui4=will
+	v|jiang3=say .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|JCT 5|6|AUX 6|3|COBJ 7|3|PUNCT
+*HA2:	+<  你 不 会 讲 . 312919_315392
+%mor:	pro:per|ni3=you adv|bu4=not v:aux|hui4=will v|jiang3=say .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%trn:	pro:per|ni3=you adv|bu4=not v:aux|hui4=will v|jiang3=say .
+%grt:	1|4|SUBJ 2|3|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	&嗯 . 315357_315879
+*HA1:	你 讲 完 了 .
+%mor:	pro:per|ni3=you v|jiang3=say v:resc|wan2=finish asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+%trn:	pro:per|ni3=you v|jiang3=say v:resc|wan2=finish asp|le .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+*HA1:	+<  阿姨 讲 啊 . 316145_317979
+%mor:	n:relat|a1yi2=mothers_sister v|jiang3=say sfp|a1 .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%trn:	familiar#n:relat|a1yi2=mothers_sister v|jiang3=say sfp|a1 .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*IN1:	+<  xxx . 316158_317980
+*HA2:	你 不 讲 . 317747_319628
+%mor:	pro:per|ni3=you adv|bu4=not v|jiang3=say .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%trn:	pro:per|ni3=you adv|bu4=not v|jiang3=say .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*HA2:	那 阿姨 不 看 .
+%mor:	conj|na4=so n:relat|a1yi2=mothers_sister adv|bu4=not v|kan4=look .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%trn:	conj|na4=so familiar#n:relat|a1yi2=mothers_sister adv|bu4=not v|kan4=look .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*HA2:	你 讲 完 了 . 319477_321532
+%mor:	pro:per|ni3=you v|jiang3=say v:resc|wan2=finish asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+%trn:	pro:per|ni3=you v|jiang3=say v:resc|wan2=finish asp|le .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+*HA2:	阿姨 才 看 呢 .
+%mor:	n:relat|a1yi2=mothers_sister adv|cai2=just v|kan4=look sfp|ne .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|SFP 5|3|PUNCT
+%trn:	familiar#n:relat|a1yi2=mothers_sister adv|cai2=just v|kan4=look
+	sfp|ne .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|SFP 5|3|PUNCT
+*IN1:	+<  你 先 给 我 讲讲 . 319477_321532
+%mor:	pro:per|ni3=you adv|xian1=earlier prep|gei3=for pro:per|wo3=I
+	v|jiang3&DIM=say .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%trn:	pro:per|ni3=you adv|xian1=earlier prep|gei3=for pro:per|wo3=I
+	v|jiang3&DIM=say .
+%grt:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*IN1:	你 先 给 我 讲讲 . 321340_322733
+%mor:	pro:per|ni3=you adv|xian1=earlier prep|gei3=for pro:per|wo3=I
+	v|jiang3&DIM=say .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%trn:	pro:per|ni3=you adv|xian1=earlier prep|gei3=for pro:per|wo3=I
+	v|jiang3&DIM=say .
+%grt:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*HA2:	+<  你 不 讲 . [+ sub]
+%mor:	pro:per|ni3=you adv|bu4=not v|jiang3=say .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%trn:	pro:per|ni3=you adv|bu4=not v|jiang3=say .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*HA2:	阿姨 不 看 .
+%mor:	n:relat|a1yi2=mothers_sister adv|bu4=not v|kan4=look .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%trn:	familiar#n:relat|a1yi2=mothers_sister adv|bu4=not v|kan4=look .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*HA2:	你 讲 完 了 . [+ sub]
+%mor:	pro:per|ni3=you v|jiang3=say v:resc|wan2=finish asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+%trn:	pro:per|ni3=you v|jiang3=say v:resc|wan2=finish asp|le .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+*HA2:	讲 了 &啊 才 看 呢 „ 知道 吗 ? 321723_325624
+%mor:	v|jiang3=say asp|le adv|cai2=just v|kan4=look sfp|ne end|end
+	v|zhi1dao4=know sfp|ma ?
+%gra:	1|4|CJCT 2|1|ASP 3|4|JCT 4|0|ROOT 5|4|SFP 6|7|ENDP 7|4|END 8|7|SFP
+	9|4|PUNCT
+%trn:	v|jiang3=say asp|le adv|cai2=just v|kan4=look sfp|ne end|end
+	v|zhi1dao4=know sfp|ma ?
+%grt:	1|4|CJCT 2|1|ASP 3|4|JCT 4|0|ROOT 5|4|SFP 6|7|ENDP 7|4|END
+	8|7|SFP 9|4|PUNCT
+*IN1:	+<  <佳佳 会> [//] 佳佳 前 三 页 都 <讲 的 都> [/] 讲 得 挺 好的 „ 佳佳 (2.8) . 325644_332677
+%mor:	n:prop|jia1jia1 n|qian2=front num|san1=three cl|ye4=page
+	adv|dou1=all v|jiang3=say stative|de=be_able_to adv|ting3=very
+	adj|hao3-ISH=good end|end n:prop|jia1jia1 .
+%gra:	1|6|TOP 2|4|MOD 3|4|QUANT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|LINK 8|9|JCT
+	9|6|JCT 10|11|ENDP 11|6|END 12|6|PUNCT
+%trn:	n:prop|jia1jia1 n|qian2=front num|san1=three cl|ye4=page adv|dou1=all
+	v|jiang3=say stative|de=be_able_to adv|ting3=very adj|hao3-ISH=good end|end
+	n:prop|jia1jia1 .
+%grt:	1|6|TOP 2|4|MOD 3|4|QUANT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|LINK 8|9|JCT
+	9|6|JCT 10|11|ENDP 11|6|END 12|6|PUNCT
+*HA2:	+< 好吗 . 327477_327907
+%mor:	co:int|hao3ma=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co:int|hao3ma=okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*HA2:	快点 啊 你 啊 . 332616_333788
+%mor:	adv|kuai4dian3=hurrily sfp|a1 pro:per|ni3=you sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PTOP 4|1|SFP 5|1|PUNCT
+%trn:	adv|kuai4dian3=hurrily sfp|a1 pro:per|ni3=you sfp|a1 .
+%grt:	1|0|INCROOT 2|1|SFP 3|1|PTOP 4|1|SFP 5|1|PUNCT
+*CHI:	&嗯 . 333719_334857
+*IN1:	看 这 页 呢 . 334877_347043
+%mor:	v|kan4=look det|zhe4=this cl|ye4=page sfp|ne .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%trn:	v|kan4=look pro:dem|zhe4=this cl|ye4=page sfp|ne .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%com:	#11_0
+*IN1:	这 页 不 会 .
+%mor:	pro:dem|zhe4=this cl|ye4=page adv|bu4=not v:resc|hui4=know .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%trn:	pro:dem|zhe4=this cl|ye4=page adv|bu4=not v:resc|hui4=know .
+%grt:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*IN1:	讲讲 这 页 (4.0) . 347002_352888
+%mor:	v|jiang3&DIM=say det|zhe4=this cl|ye4=page .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%trn:	v|jiang3&DIM=say pro:dem|zhe4=this cl|ye4=page .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*IN2:	讲 吧 . 352802_358584
+%mor:	v|jiang3=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|jiang3=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*IN2:	你 都 说 了 可以 了 .
+%mor:	pro:per|ni3=you adv|dou1=all v|shuo1=say asp|le v:aux|ke3yi3=may
+	asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|ASP 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%trn:	pro:per|ni3=you adv|dou1=all v|shuo1=say asp|le v:aux|ke3yi3=may asp|le .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|ASP 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*IN2:	小 孩儿 不 说 谎话 的 (1.3) .
+%mor:	adj|xiao3=small n|hai2-DIA=child adv|bu4=not v|shuo1=say
+	n|huang3hua4=lie poss|de .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|LINK 7|4|PUNCT
+%trn:	adj|xiao3=small n|hai2-DIA=child adv|bu4=not v|shuo1=say
+	n|huang3hua4=lie cleft|de .
+%grt:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|LINK 7|4|PUNCT
+*IN2:	讲 吧 .
+%mor:	v|jiang3=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|jiang3=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*IN2:	知道 什么 就 讲 什么 . 358543_361248
+%mor:	v|zhi1dao4=know pro:wh|shen2me=what adv|jiu4=just v|jiang3=say
+	pro:wh|shen2me=what .
+%gra:	1|4|CJCT 2|1|OBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%trn:	v|zhi1dao4=know pro:wh|shen2me=what adv|jiu4=just v|jiang3=say
+	pro:wh|shen2me=what .
+%grt:	1|4|CJCT 2|1|OBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*IN1:	是 啊 . 361214_363517
+%mor:	v:cop|shi4=is sfp|a1 .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v:cop|shi4=is sfp|a1 .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*IN1:	要不 一会儿 天 黑 了 , 就 出 不 去 了 .
+%mor:	conj|yao4bu4=otherwise n:tm|yi4huir4=for_a_while n|tian1=day
+	v|hei1=turn_black asp|le cm|cm adv|jiu4=just v:dirc|chu1=go_out
+	adv|bu4=not v:dirc|qu4=go asp|le .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|8|CJCT 5|4|ASP 6|8|LP 7|8|JCT 8|0|ROOT
+	9|10|JCT 10|8|SRL 11|8|ASP 12|8|PUNCT
+%trn:	conj|yao4bu4=otherwise n:tm|yi4huir4=for_a_while n|tian1=day
+	v|hei1=turn_black asp|le cm|cm adv|jiu4=just v:dirc|chu1=go_out
+	adv|bu4=not v:dirc|qu4=go asp|le .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|8|CJCT 5|4|ASP 6|8|LP 7|8|JCT 8|0|ROOT
+	9|10|JCT 10|8|SRL 11|8|ASP 12|8|PUNCT
+*IN2:	对 啊 .
+%mor:	adj|dui4=correct sfp|a1 .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%trn:	adj|dui4=correct sfp|a1 .
+%grt:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*IN1:	爸爸 还 在 那 等 你 呢 . 365031_367074
+%mor:	n:relat|ba4&DIM=father adv|hai2=still prep|zai4=at pro:dem|na4=that
+	v|deng3=wait pro:per|ni3=you sfp|ne .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+%trn:	n:relat|ba4&DIM=father adv|hai2=still prep|zai4=at pro:dem|na4=that
+	v|deng3=wait pro:per|ni3=you sfp|ne .
+%grt:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+*IN1:	就 是 啊 . 367032_371467
+%mor:	adv|jiu4=just v:cop|shi4=is sfp|a1 .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%trn:	adv|jiu4=just v:cop|shi4=is sfp|a1 .
+%grt:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*IN1:	跟 我们 讲讲 (1.8) .
+%mor:	prep|gen1=with pro:per|wo3-PL=I v|jiang3&DIM=say .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%trn:	prep|gen1=with pro:per|wo3-PL=I v|jiang3&DIM=say .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+*IN1:	说说 . 371402_375663
+%mor:	v|shuo1&DIM=say .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|shuo1&DIM=say .
+%grt:	1|0|ROOT 2|1|PUNCT
+*IN1:	随便 说说 (1.0) .
+%mor:	adv|sui2bian4=informally v|shuo1&DIM=say .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%trn:	adv|sui2bian4=informally v|shuo1&DIM=say .
+%grt:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*IN1:	快点 „ 佳佳 .
+%mor:	adv|kuai4dian3=hurrily end|end n:prop|jia1jia1 .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+%trn:	adv|kuai4dian3=hurrily end|end n:prop|jia1jia1 .
+%grt:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*IN1:	佳佳 ‡ 讲讲 . 375622_381392
+%mor:	n:prop|jia1jia1 beg|beg v|jiang3&DIM=say .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|PUNCT
+%trn:	n:prop|jia1jia1 beg|beg v|jiang3&DIM=say .
+%grt:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|PUNCT
+*IN1:	刚才 你 不 说 可以 了 吗 ? 381330_383722
+%mor:	adv|gang1cai2=just_now pro:per|ni3=you adv|bu4=not v|shuo1=say
+	v:aux|ke3yi3=may asp|le sfp|ma ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|ASP 8|4|PUNCT
+%trn:	adv|gang1cai2=just_now pro:per|ni3=you adv|bu4=not v|shuo1=say
+	v:aux|ke3yi3=may asp|le sfp|ma ?
+%grt:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|ASP 8|4|PUNCT
+*HA3:	怎么 还 没 讲 啊 ? 383675_386856
+%mor:	adv:wh|zen3me=how adv|hai2=still adv|mei2=not v|jiang3=say sfp|a1 ?
+%gra:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|SFP 6|4|PUNCT
+%trn:	adv:wh|zen3me=how adv|hai2=still adv|mei2=not v|jiang3=say sfp|a1
+	?
+%grt:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|SFP 6|4|PUNCT
+*HA3:	我 等 着 你 呢 (1.4) .
+%mor:	pro:per|wo3=I v|deng3=wait asp|zhe pro:per|ni3=you sfp|ne .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|2|OBJ 5|2|SFP 6|2|PUNCT
+%trn:	pro:per|wo3=I v|deng3=wait asp|zhe pro:per|ni3=you sfp|ne .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|2|OBJ 5|2|SFP 6|2|PUNCT
+*IN1:	讲讲 啊 . 386822_388103
+%mor:	v|jiang3&DIM=say sfp|a1 .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|jiang3&DIM=say sfp|a1 .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*HA3:	xxx 咱们 讲 完 了 . 387662_391227
+%mor:	pro:per|zan2-PL=we v|jiang3=say v:resc|wan2=finish asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+%trn:	pro:per|zan2-PL=we v|jiang3=say v:resc|wan2=finish asp|le .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+*HA3:	去 玩 去 了 (1.2) .
+%mor:	v:dirc|qu4=go v|wan2=play v:dirc|qu4=go asp|le .
+%gra:	1|0|ROOT 2|1|SRL 3|2|VD 4|1|ASP 5|1|PUNCT
+%trn:	v:dirc|qu4=go v|wan2=play v:dirc|qu4=go asp|le .
+%grt:	1|0|ROOT 2|1|SRL 3|2|VD 4|1|ASP 5|1|PUNCT
+*HA3:	要不 六 [x 3] 点 了 . 391198_398389
+%mor:	conj|yao4bu4=otherwise num|liu4=six cl|dian3 asp|le .
+%gra:	1|3|JCT 2|3|QUANT 3|0|INCROOT 4|3|ASP 5|3|PUNCT
+%trn:	conj|yao4bu4=otherwise num|liu4=six cl|dian3 asp|le .
+%grt:	1|3|JCT 2|3|QUANT 3|0|INCROOT 4|3|ASP 5|3|PUNCT
+*HA3:	黑 了 天 行不行 啊 ?
+%mor:	v|hei1=turn_black asp|le n|tian1=day v|xing2&DIM=be_all_right
+	sfp|a1 ?
+%gra:	1|4|CJCT 2|1|ASP 3|1|OBJ 4|0|ROOT 5|4|SFP 6|4|PUNCT
+%trn:	v|hei1=turn_black asp|le n|tian1=day v|xing2&DIM=be_all_right sfp|a1
+	?
+%grt:	1|4|CJCT 2|1|ASP 3|1|OBJ 4|0|ROOT 5|4|SFP 6|4|PUNCT
+*IN1:	给 我们 讲讲 . 398425_399296
+%mor:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+%trn:	prep|gei3=for pro:per|wo3-PL=I v|jiang3&DIM=say .
+%grt:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|PUNCT
+*HA2:	好吗 ? 399319_400434
+%mor:	co:int|hao3ma=okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co:int|hao3ma=okay ?
+%grt:	1|0|INCROOT 2|1|PUNCT
+*HA3:	说 好 了 .
+%mor:	v|shuo1=say adj|hao3=good asp|le .
+%gra:	1|0|ROOT 2|1|JCT 3|1|ASP 4|1|PUNCT
+%trn:	v|shuo1=say adj|hao3=good asp|le .
+%grt:	1|0|ROOT 2|1|JCT 3|1|ASP 4|1|PUNCT
+*HA3:	赶紧 讲 .
+%mor:	adv|gan3jin3=hurriedly v|jiang3=say .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%trn:	adv|gan3jin3=hurriedly v|jiang3=say .
+%grt:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*HA3:	我 [//] 我们 就 不 听 了 .
+%mor:	pro:per|wo3-PL=I adv|jiu4=just adv|bu4=not v|ting1=listen asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+%trn:	pro:per|wo3-PL=I adv|jiu4=just adv|bu4=not v|ting1=listen asp|le .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+*HA3:	阿姨 听听 就 行 了 . 400444_403857
+%mor:	n:relat|a1yi2=mothers_sister v|ting1&DIM=listen adv|jiu4=just
+	v|xing2=be_all_right asp|le .
+%gra:	1|2|SUBJ 2|4|CSUBJ 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+%trn:	familiar#n:relat|a1yi2=mothers_sister v|ting1&DIM=listen adv|jiu4=just v|xing2=be_all_right
+	asp|le .
+%grt:	1|2|SUBJ 2|4|CSUBJ 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+*CHI:	xxx . 403849_408679
+*HA3:	快 起来 讲讲 xxx (3.2) . 408648_414465
+%mor:	adv|kuai4=quickly v:dirc|qi3lai2=get_up v|jiang3&DIM=say .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SRL 4|2|PUNCT
+%trn:	adv|kuai4=quickly v:dirc|qi3lai2=get_up v|jiang3&DIM=say .
+%grt:	1|2|JCT 2|0|ROOT 3|2|SRL 4|2|PUNCT
+*HA3:	<你 照着 这 画> [//] 你 照着 画 讲讲 (3.9) . 414402_421577
+%mor:	pro:per|ni3=you prep|zhao4zhe=according_to n|hua4=painting
+	v|jiang3&DIM=say .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+%trn:	pro:per|ni3=you prep|zhao4zhe=according_to n|hua4=painting
+	v|jiang3&DIM=say .
+%grt:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+*HA3:	xxx 你 必须 给 我们 讲 啊 .
+%mor:	pro:per|ni3=you v:aux|bi4xu1=must prep|gei3=for pro:per|wo3-PL=I
+	v|jiang3=say sfp|a1 .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|SFP 7|5|PUNCT
+%trn:	pro:per|ni3=you v:aux|bi4xu1=must prep|gei3=for pro:per|wo3-PL=I
+	v|jiang3=say sfp|a1 .
+%grt:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|SFP 7|5|PUNCT
+*HA3:	这 画 是 <干吗 的> [/] 干吗 的 . 421528_432274
+%mor:	pro:dem|zhe4=this n|hua4=painting v:cop|shi4=is v|gan4ma2=do_what
+	cleft|de .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|LINK 6|3|PUNCT
+%trn:	pro:dem|zhe4=this n|hua4=painting v:cop|shi4=is v|gan4ma2=do_what
+	cleft|de .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|LINK 6|3|PUNCT
+%com:	#7_5
+*HA3:	我们 都 给 你 讲 了 .
+%mor:	pro:per|wo3-PL=I adv|dou1=all prep|gei3=for pro:per|ni3=you
+	v|jiang3=say asp|le .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|ASP 7|5|PUNCT
+%trn:	pro:per|wo3-PL=I adv|dou1=all prep|gei3=for pro:per|ni3=you v|jiang3=say
+	asp|le .
+%grt:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|ASP 7|5|PUNCT
+*HA3:	你 不 给 我们 讲 (3.0) ? 432280_437307
+%mor:	pro:per|ni3=you adv|bu4=not prep|gei3=for pro:per|wo3-PL=I
+	v|jiang3=say ?
+%gra:	1|5|SUBJ 2|3|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%trn:	pro:per|ni3=you adv|bu4=not prep|gei3=for pro:per|wo3-PL=I v|jiang3=say ?
+%grt:	1|5|SUBJ 2|3|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*IN1:	说 吧 . 437245_437941
+%mor:	v|shuo1=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|shuo1=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*HA2:	可以 . 437314_439160
+%mor:	v:aux|ke3yi3=may .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	v:aux|ke3yi3=may .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*HA2:	行 [/] 行 .
+%mor:	v|xing2=be_all_right .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|xing2=be_all_right .
+%grt:	1|0|ROOT 2|1|PUNCT
+*IN1:	一 页 就 说 一 句 就 行 了 . 439219_441041
+%mor:	num|yi1=one cl|ye4=page adv|jiu4=just v|shuo1=say num|yi1=one
+	cl|ju4 adv|jiu4=just v|xing2=be_all_right asp|le .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|JCT 4|8|CSUBJ 5|6|QUANT 6|4|OBJ 7|8|JCT 8|0|ROOT
+	9|8|ASP 10|8|PUNCT
+%trn:	num|yi1=one cl|ye4=page adv|jiu4=just v|shuo1=say num|yi1=one cl|ju4
+	adv|jiu4=just v|xing2=be_all_right asp|le .
+%grt:	1|2|QUANT 2|4|SUBJ 3|4|JCT 4|8|CSUBJ 5|6|QUANT 6|4|OBJ 7|8|JCT
+	8|0|ROOT 9|8|ASP 10|8|PUNCT
+*HA2:	+< xxx . 439219_441041
+*CHI:	&嗯 . 441001_441431
+*HA2:	+< xxx . 441001_441466
+*IN1:	一 页 就 说 一 句 . 441315_443103
+%mor:	num|yi1=one cl|ye4=page adv|jiu4=just v|shuo1=say num|yi1=one
+	cl|ju4 .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+%trn:	num|yi1=one cl|ye4=page adv|jiu4=just v|shuo1=say num|yi1=one cl|ju4 .
+%grt:	1|2|QUANT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*HA2:	+< xxx . 441315_443103
+*IN1:	说 吧 (1.2) . 443137_445216
+%mor:	v|shuo1=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|shuo1=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*IN2:	+< 说 吧 . 443138_444194
+%mor:	v|shuo1=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|shuo1=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*HA2:	一 个 图 说 两 句 就 行 了 . 445196_446914
+%mor:	num|yi1=one cl|ge4 n|tu2=picture v|shuo1=say num|liang3=two cl|ju4
+	adv|jiu4=just v|xing2=be_all_right asp|le .
+%gra:	1|2|QUANT 2|3|CLASS 3|4|TOP 4|8|CSUBJ 5|6|QUANT 6|4|OBJ 7|8|JCT
+	8|0|ROOT 9|8|ASP 10|8|PUNCT
+%trn:	num|yi1=one cl|ge4 n|tu2=picture v|shuo1=say num|liang3=two cl|ju4
+	adv|jiu4=just v|xing2=be_all_right asp|le .
+%grt:	1|2|QUANT 2|3|CLASS 3|4|TOP 4|8|CSUBJ 5|6|QUANT 6|4|OBJ 7|8|JCT
+	8|0|ROOT 9|8|ASP 10|8|PUNCT
+*HA2:	你 看 这 上面 是 什么 .
+%mor:	pro:per|ni3=you v|kan4=look pro:dem|zhe4=this
+	post|shang4mian4=above v:cop|shi4=is pro:wh|shen2me=what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|POSTO 4|5|JCT 5|2|COMP 6|5|PRED 7|2|PUNCT
+%trn:	pro:per|ni3=you v|kan4=look pro:dem|zhe4=this post|shang4mian4=above
+	v:cop|shi4=is pro:wh|shen2me=what .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|POSTO 4|5|JCT 5|2|COMP 6|5|PRED  7|2|PUNCT
+*HA2:	你 就 说 两 句 就 行 了 啊 . 446786_450559
+%mor:	pro:per|ni3=you adv|jiu4=just v|shuo1=say num|liang3=two cl|ju4
+	adv|jiu4=just v|xing2=be_all_right asp|le sfp|a1 .
+%gra:	1|3|SUBJ 2|3|JCT 3|7|CSUBJ 4|5|QUANT 5|3|OBJ 6|7|JCT 7|0|ROOT 8|7|ASP
+	9|7|SFP 10|7|PUNCT
+%trn:	pro:per|ni3=you adv|jiu4=just v|shuo1=say num|liang3=two cl|ju4
+	adv|jiu4=just v|xing2=be_all_right asp|le sfp|a1 .
+%grt:	1|3|SUBJ 2|3|JCT 3|7|CSUBJ 4|5|QUANT 5|3|OBJ 6|7|JCT 7|0|ROOT
+	8|7|ASP 9|7|SFP 10|7|PUNCT
+*IN1:	说 吧 &嗯嗯 . 450501_452986
+%mor:	v|shuo1=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|shuo1=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*CHI:	&嗯嗯 . 452983_453703
+*IN1:	你 要(是) 再 不 说 , 我们 可 真 要 走 了 „ 佳佳 . 453656_456118
+%mor:	pro:per|ni3=you conj|yao4shi4=if adv|zai4=again adv|bu4=not
+	v|shuo1=say cm|cm pro:per|wo3-PL=I adv|ke3=on_the_contrary
+	adj|zhen1=true v:aux|yao4=should v:dirc|zou3=go_away asp|le end|end
+	n:prop|jia1jia1 .
+%gra:	1|5|SUBJ 2|5|LINK 3|5|JCT 4|5|JCT 5|11|CJCT 6|11|LP 7|11|SUBJ 8|11|JCT
+	9|11|JCT 10|11|AUX 11|0|ROOT 12|11|ASP 13|14|ENDP 14|11|END 15|11|PUNCT
+%trn:	pro:per|ni3=you conj|yao4shi4=if adv|zai4=again adv|bu4=not
+	v|shuo1=say cm|cm pro:per|wo3-PL=I adv|ke3=on_the_contrary
+	adj|zhen1=true v:aux|yao4=should v:dirc|zou3=go_away asp|le end|end
+	n:prop|jia1jia1 .
+%grt:	1|5|SUBJ 2|5|LINK 3|5|JCT 4|5|JCT 5|11|CJCT 6|11|LP 7|11|SUBJ 8|11|JCT
+	9|11|JCT 10|11|AUX 11|0|ROOT 12|11|ASP 13|14|ENDP 14|11|END
+	15|11|PUNCT
+*HA2:	+< 真 要 走 了 .
+%mor:	adv|zhen1=really v:aux|yao4=should v:dirc|zou3=go_away asp|le .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|ASP 5|3|PUNCT
+%trn:	adv|zhen1=really v:aux|yao4=should v:dirc|zou3=go_away asp|le .
+%grt:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|ASP 5|3|PUNCT
+*HA2:	那 不 能 老 等 你 啊 . 455235_457639
+%mor:	pro:dem|na4=that adv|bu4=not v:aux|neng2=can adv|lao3=always
+	v|deng3=wait pro:per|ni3=you sfp|a1 .
+%gra:	1|5|JCT 2|3|JCT 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+%trn:	conj|na4=so adv|bu4=not v:aux|neng2=can adv|lao3=always
+	v|deng3=wait pro:per|ni3=you sfp|a1 .
+%grt:	1|5|JCT 2|3|JCT 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+*HA2:	那 个 阿姨 还 有 事 呢 . 457587_458748
+%mor:	det|na4=that cl|ge4 n:relat|a1yi2=mothers_sister adv|hai2=still
+	v|you3=have n|shi4=thing sfp|ne .
+%gra:	1|3|DET 2|3|CLASS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+%trn:	det|na4=that cl|ge4 familiar#n:relat|a1yi2=mothers_sister
+	adv|hai2=still v|you3=have n|shi4=thing sfp|ne .
+%grt:	1|3|DET 2|3|CLASS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+*HA2:	阿姨 还 要 上 其他 小朋友 家 去 呢 „ 知道 吧 ? 458713_463183
+%mor:	n:relat|a1yi2=mothers_sister adv|hai2=still v:aux|yao4=should
+	v:dirc|shang4=go_up pro:dem|qi2ta1=other
+	n|xiao3peng2you3=little_child n|jia1=family v:dirc|qu4=go sfp|ne
+	end|end v|zhi1dao4=know sfp|ba ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|6|MOD 6|7|MOD 7|4|OBJ 8|4|SRL
+	9|4|SFP 10|11|ENDP 11|4|END 12|11|SFP 13|4|PUNCT
+%trn:	familiar#n:relat|a1yi2=mothers_sister adv|hai2=still v:aux|yao4=should v:dirc|shang4=go_up
+	pro:dem|qi2ta1=other n|xiao3peng2you3=little_child n|jia1=family
+	v:dirc|qu4=go sfp|ne end|end v|zhi1dao4=know sfp|ba ?
+%grt:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|6|MOD 6|7|MOD 7|4|OBJ 8|4|SRL
+	9|4|SFP 10|11|ENDP 11|4|END 12|11|SFP 13|4|PUNCT
+*CHI:	&嗯 (5.0) . 463131_468948
+*IN1:	+< &嗯 . 463132_463795
+*IN1:	要不然 下 一 个 小朋友 等 着急 了 . 468898_471266
+%mor:	conj|yao4bu4ran2=otherwise adj|xia4=next num|yi1=one cl|ge4
+	n|xiao3peng2you3=little_child v|deng3=wait adj|zhao2ji2=get_worried
+	asp|le .
+%gra:	1|6|JCT 2|5|MOD 3|4|QUANT 4|5|CLASS 5|6|SUBJ 6|0|ROOT 7|6|ASP 8|6|ASP
+	9|6|PUNCT
+%trn:	conj|yao4bu4ran2=otherwise adj|xia4=next num|yi1=one cl|ge4
+	n|xiao3peng2you3=little_child v|deng3=wait adj|zhao2ji2=get_worried
+	asp|le .
+%grt:	1|6|JCT 2|5|MOD 3|4|QUANT 4|5|CLASS 5|6|SUBJ 6|0|ROOT 7|6|JCT
+	8|6|ASP 9|6|PUNCT
+*HA2:	+<  <要 [/] 要 准备开始 说 了> [//] 我们 要 准备 开始 说 了 „ 是吧 ? 470186_474389
+%mor:	pro:per|wo3-PL=I v:aux|yao4=should v|zhun3bei4=prepare
+	v|kai1shi3=begin v|shuo1=say asp|le end|end co:int|shi4ba=it_is ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|SRL 5|4|SRL 6|3|ASP 7|8|ENDP 8|3|END
+	9|3|PUNCT
+%trn:	pro:per|wo3-PL=I v:aux|yao4=should v|zhun3bei4=prepare v|kai1shi3=begin
+	v|shuo1=say asp|le end|end co:int|shi4ba=it_is ?
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|SRL 5|4|SRL 6|3|ASP 7|8|ENDP 8|3|END
+	9|3|PUNCT
+*HA2:	<你 &啊 &嗯 阿姨> [//] 你 要(是) 不 说 阿姨 要 上 其他 小朋友 家 去 了 (1.4) „ 是吧 ? 474314_479601
+%mor:	pro:per|ni3=you conj|yao4shi4=if adv|bu4=not v|shuo1=say
+	n:relat|a1yi2=mothers_sister v:aux|yao4=should v:dirc|shang4=go_up
+	pro:dem|qi2ta1=other n|xiao3peng2you3=little_child n|jia1=family
+	v:dirc|qu4=go asp|le end|end co:int|shi4ba=it_is ?
+%gra:	1|4|SUBJ 2|4|LINK 3|4|JCT 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|MOD
+	9|10|MOD 10|7|OBJ 11|7|VD 12|7|ASP 13|14|ENDP 14|7|END 15|7|PUNCT
+%trn:	pro:per|ni3=you conj|yao4shi4=if adv|bu4=not v|shuo1=say
+	familiar#n:relat|a1yi2=mothers_sister v:aux|yao4=should
+	v:dirc|shang4=go_up pro:dem|qi2ta1=other
+	n|xiao3peng2you3=little_child n|jia1=family v:dirc|qu4=go asp|le
+	end|end co:int|shi4ba=it_is ?
+%grt:	1|4|SUBJ 2|4|LINK 3|4|JCT 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|MOD
+	9|10|MOD 10|7|OBJ 11|7|VD 12|7|ASP 13|14|ENDP 14|7|END
+	15|7|PUNCT
+*HA2:	不 能 老 等 着 你 „ 是不是 &啊 ? 479625_482725
+%mor:	adv|bu4=not v:aux|neng2=can adv|lao3=always v|deng3=wait asp|zhe
+	pro:per|ni3=you end|end co:int|shi4bu2shi4=right ?
+%gra:	1|2|JCT 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|OBJ 7|8|ENDP 8|4|END
+	9|4|PUNCT
+%trn:	adv|bu4=not v:aux|neng2=can adv|lao3=always v|deng3=wait asp|zhe
+	pro:per|ni3=you end|end co:int|shi4bu2shi4=right ?
+%grt:	1|2|JCT 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|OBJ 7|8|ENDP 8|4|END
+	9|4|PUNCT
+*IN1:	+< 你 看 . 482509_487850
+%mor:	pro:per|ni3=you v|kan4=look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%trn:	pro:per|ni3=you v|kan4=look .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*IN1:	其他 小朋友 等 着 多 着急 啊 .
+%mor:	pro:dem|qi2ta1=other n|xiao3peng2you3=little_child v|deng3=wait
+	asp|zhe adv|duo1=mostly adj|zhao2ji2=get_worried sfp|a1 .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|6|JCT 6|3|JCT 7|3|SFP 8|3|PUNCT
+%trn:	pro:dem|qi2ta1=other n|xiao3peng2you3=little_child v|deng3=wait
+	asp|zhe adv|duo1=mostly adj|zhao2ji2=get_worried sfp|a1 .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|6|JCT 6|3|JCT 7|3|SFP 8|3|PUNCT
+*HA2:	+<  &啊 . 484645_485470
+*HA2:	那 豆豆 „ 是吧 ?
+%mor:	pro:dem|na4=that n:prop|dou4dou4 end|end co:int|shi4ba=it_is ?
+%gra:	1|2|DET 2|0|INCROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+%trn:	pro:dem|na4=that n:prop|dou4dou4 end|end co:int|shi4ba=it_is ?
+%grt:	1|2|DET 2|0|INCROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+*HA2:	宝宝 他们 家 啊 (1.5) . 487845_492954
+%mor:	n:relat|bao3&DIM=baby pro:per|ta1-PL=he n|jia1=family sfp|a1 .
+%gra:	1|3|MOD 2|1|APP 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%trn:	n:relat|bao3&DIM=baby pro:per|ta1-PL=he n|jia1=family sfp|a1 .
+%grt:	1|3|MOD 2|1|APP 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*IN1:	要不然 人家 都 有 小 汽车 . 492949_494273
+%mor:	conj|yao4bu4ran2=otherwise pro:per|ren2jia1=people adv|dou1=all
+	v|you3=have adj|xiao3=small n|qi4che1=motor_vehicle .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%trn:	conj|yao4bu4ran2=otherwise pro:per|ren2jia1=people adv|dou1=all
+	v|you3=have adj|xiao3=small n|qi4che1=motor_vehicle .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*IN1:	人家 讲 故事 . 494249_496246
+%mor:	pro:per|ren2jia1=people v|jiang3=say n|gu4shi4=story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%trn:	pro:per|ren2jia1=people v|jiang3=say n|gu4shi4=story .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*IN1:	我们 就 都 送 人家 小 汽车 .
+%mor:	pro:per|wo3-PL=I adv|jiu4=just adv|dou1=all v|song4=deliver
+	pro:per|ren2jia1=people adj|xiao3=small n|qi4che1=motor_vehicle .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ2 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%trn:	pro:per|wo3-PL=I adv|jiu4=just adv|dou1=all v|song4=deliver
+	pro:per|ren2jia1=people adj|xiao3=small n|qi4che1=motor_vehicle .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ2 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*IN1:	但 就 你 没 有 了 . 496239_497841
+%mor:	conj|dan4=but adv|jiu4=just pro:per|ni3=you adv|mei2=not
+	v|you3=have asp|le .
+%gra:	1|5|JCT 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|ASP 7|5|PUNCT
+%trn:	conj|dan4=but adv|jiu4=just pro:per|ni3=you adv|mei2=not v|you3=have
+	asp|le .
+%grt:	1|5|JCT 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|ASP 7|5|PUNCT
+*HA2:	+< 谁 [/] 谁 说 就 给 谁 了 . 496240_498127
+%mor:	pro:wh|shei2=who v|shuo1=say adv|jiu4=just v|gei3=give
+	pro:wh|shei2=who asp|le .
+%gra:	1|2|SUBJ 2|4|CJCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|ASP 7|4|PUNCT
+%trn:	pro:wh|shei2=who v|shuo1=say adv|jiu4=just v|gei3=give
+	pro:wh|shei2=who asp|le .
+%grt:	1|2|SUBJ 2|4|CJCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|ASP 7|4|PUNCT
+*HA2:	你 [/] 你 要 先 说 . 498069_499753
+%mor:	pro:per|ni3=you v:aux|yao4=should adv|xian1=earlier v|shuo1=say .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%trn:	pro:per|ni3=you v:aux|yao4=should adv|xian1=earlier v|shuo1=say .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*HA2:	你 [x 3] 竞赛 呢 ?
+%mor:	pro:per|ni3=you v|jing4sai4=compete sfp|ne ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%trn:	pro:per|ni3=you v|jing4sai4=compete sfp|ne ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*HA2:	谁 先 说 ? 499701_503091
+%mor:	pro:wh|shei2=who adv|xian1=earlier v|shuo1=say ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%trn:	pro:wh|shei2=who adv|xian1=earlier v|shuo1=say ?
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*HA2:	说 完 了 就 给 谁 „ 知道 吗 ? 503073_506811
+%mor:	v|shuo1=say v:resc|wan2=finish asp|le adv|jiu4=just v|gei3=give
+	pro:wh|shei2=who end|end v|zhi1dao4=know sfp|ma ?
+%gra:	1|5|CJCT 2|1|VR 3|1|ASP 4|5|JCT 5|0|ROOT 6|5|OBJ 7|8|ENDP 8|5|END
+	9|8|SFP 10|5|PUNCT
+%trn:	v|shuo1=say v:resc|wan2=finish asp|le adv|jiu4=just v|gei3=give
+	pro:wh|shei2=who end|end v|zhi1dao4=know sfp|ma ?
+%grt:	1|5|CJCT 2|1|VR 3|1|ASP 4|5|JCT 5|0|ROOT 6|5|OBJ 7|8|ENDP 8|5|END
+	9|8|SFP 10|5|PUNCT
+*HA2:	哎 .
+%mor:	co|ai1=ugh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|ai1=ugh .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*IN1:	咦 ‡ 就 说 一 句 话 . 506773_508851
+%mor:	co|yi2=disapproval beg|beg adv|jiu4=just v|shuo1=say num|yi1=one
+	cl|ju4 n|hua4=speech .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|ROOT 5|6|QUANT 6|7|CLASS 7|4|OBJ 8|4|PUNCT
+%trn:	co|yi2=disapproval beg|beg adv|jiu4=just v|shuo1=say num|yi1=one
+	cl|ju4 n|hua4=speech .
+%grt:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|ROOT 5|6|QUANT 6|7|CLASS 7|4|OBJ
+	8|4|PUNCT
+*IN1:	你 刚才 不 是 说 行 吗 .
+%mor:	pro:per|ni3=you adv|gang1cai2=just_now adv|bu4=not v:cop|shi4=is
+	v|shuo1=say v|xing2=be_all_right sfp|ma .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|CPRED 6|5|COBJ 7|4|SFP 8|4|PUNCT
+%trn:	pro:per|ni3=you adv|gang1cai2=just_now adv|bu4=not v:cop|shi4=is
+	v|shuo1=say v|xing2=be_all_right sfp|ma .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|CPRED 6|5|COBJ 7|4|SFP
+	8|4|PUNCT
+*IN1:	现在 赶快 跟 我们 说说 . 508972_510400
+%mor:	adv|xian4zai4=now adv|gan3kuai4=hastily prep|gen1=with
+	pro:per|wo3-PL=I v|shuo1&DIM=say .
+%gra:	1|5|JCT 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+%trn:	adv|xian4zai4=now adv|gan3kuai4=hastily prep|gen1=with pro:per|wo3-PL=I
+	v|shuo1&DIM=say .
+%grt:	1|5|JCT 2|5|JCT 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*IN1:	就 完 了 .
+%mor:	adv|jiu4=just v:resc|wan2=finish asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|2|ASP 4|2|PUNCT
+%trn:	adv|jiu4=just v:resc|wan2=finish asp|le .
+%grt:	1|2|JCT 2|0|ROOT 3|2|ASP 4|2|PUNCT
+*IN2:	&嗯 说 . 510364_511676
+%mor:	v|shuo1=say .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|shuo1=say .
+%grt:	1|0|ROOT 2|1|PUNCT
+*IN1:	说 吧 . 511618_512419
+%mor:	v|shuo1=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|shuo1=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*HA2:	+< 行 . 511619_512398
+%mor:	v|xing2=be_all_right .
+%gra:	1|0|ROOT 2|1|PUNCT
+%trn:	v|xing2=be_all_right .
+%grt:	1|0|ROOT 2|1|PUNCT
+*HA2:	你 说 行 .
+%mor:	pro:per|ni3=you v|shuo1=say v|xing2=be_all_right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|2|PUNCT
+%trn:	pro:per|ni3=you v|shuo1=say v|xing2=be_all_right .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|2|PUNCT
+*HA2:	来 看 这 个 . 512257_515380
+%mor:	v:dirc|lai2=come v|kan4=look det|zhe4=this cl|ge4 .
+%gra:	1|0|ROOT 2|1|SRL 3|4|DET 4|2|OBJ 5|1|PUNCT
+%trn:	v:dirc|lai2=come v|kan4=look det|zhe4=this cl|ge4 .
+%grt:	1|0|ROOT 2|1|SRL 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CHI:	+< &嗯 . 513210_513686
+*CHI:	一 句 话 那 怎么 说 啊 ? 515295_517025
+%mor:	num|yi1=one cl|ju4 n|hua4=speech conj|na4=so adv:wh|zen3me=how
+	v|shuo1=say sfp|a1 ?
+%gra:	1|2|QUANT 2|3|CLASS 3|6|TOP 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|SFP 8|6|PUNCT
+%trn:	num|yi1=one cl|ju4 n|hua4=speech conj|na4=so adv:wh|zen3me=how
+	v|shuo1=say sfp|a1 ?
+%grt:	1|2|QUANT 2|3|CLASS 3|6|TOP 4|6|JCT 5|6|JCT 6|0|ROOT 7|6|SFP
+	8|6|PUNCT
+*IN1:	你 想 说 几 句 就 说 几 句 . 516979_519080
+%mor:	pro:per|ni3=you v|xiang3=think v|shuo1=say quant|ji3=some cl|ju4
+	adv|jiu4=just v|shuo1=say quant|ji3=some cl|ju4 .
+%gra:	1|2|SUBJ 2|7|CJCT 3|2|COBJ 4|5|QUANT 5|3|OBJ 6|7|JCT 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|7|PUNCT
+%trn:	pro:per|ni3=you v|xiang3=think v|shuo1=say quant|ji3=some
+	cl|ju4 adv|jiu4=just v|shuo1=say quant|ji3=some cl|ju4 .
+%grt:	1|2|SUBJ 2|7|CJCT 3|2|COBJ 4|5|QUANT 5|3|OBJ 6|7|JCT 7|0|ROOT
+	8|9|QUANT 9|7|OBJ 10|7|PUNCT
+*HA2:	+< 你 愿意 说 几 句 就 说 几 句 .
+%mor:	pro:per|ni3=you v:aux|yuan4yi4=be_glad_to v|shuo1=say
+	quant|ji3=some cl|ju4 adv|jiu4=just v|shuo1=say quant|ji3=some
+	cl|ju4 .
+%gra:	1|3|SUBJ 2|3|AUX 3|7|CJCT 4|5|QUANT 5|3|OBJ 6|7|JCT 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|7|PUNCT
+%trn:	pro:per|ni3=you v:aux|yuan4yi4=be_glad_to v|shuo1=say
+	quant|ji3=some cl|ju4 adv|jiu4=just v|shuo1=say
+	quant|ji3=some cl|ju4 .
+%grt:	1|3|SUBJ 2|3|AUX 3|7|CJCT 4|5|QUANT 5|3|OBJ 6|7|JCT 7|0|ROOT
+	8|9|QUANT 9|7|OBJ 10|7|PUNCT
+*IN1:	随便 . 519022_519812
+%mor:	adv|sui2bian4=informally .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adv|sui2bian4=informally .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*HA2:	+< 随便 说 几 句 .
+%mor:	adv|sui2bian4=informally v|shuo1=say quant|ji3=some cl|ju4 .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%trn:	adv|sui2bian4=informally v|shuo1=say quant|ji3=some cl|ju4 .
+%grt:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*HA2:	你 就 把 这 个 图 [/] 图 上 的 说 明白 了 就 完 了 . 519956_523300
+%mor:	pro:per|ni3=you adv|jiu4=just prep|ba3=object_marker det|zhe4=this
+	cl|ge4 n|tu2=picture post|shang4=above poss|de v|shuo1=say
+	adj|ming2bai2=clear asp|le adv|jiu4=just v:resc|wan2=finish asp|le .
+%gra:	1|9|SUBJ 2|9|JCT 3|9|JCT 4|6|DET 5|6|CLASS 6|7|POSTO 7|3|JCT 8|7|POSS
+	9|13|CSUBJ 10|9|ASP 11|9|JCT 12|13|JCT 13|0|ROOT 14|13|ASP 15|13|PUNCT
+%trn:	pro:per|ni3=you adv|jiu4=just prep|ba3=object_marker det|zhe4=this
+	cl|ge4 n|tu2=picture post|shang4=above poss|de v|shuo1=say
+	adj|ming2bai2=clear asp|le adv|jiu4=just v:resc|wan2=finish asp|le .
+%grt:	1|9|SUBJ 2|9|JCT 3|9|JCT 4|6|DET 5|6|CLASS 6|7|POSTO 7|3|JCT
+	8|7|POSS 9|13|CSUBJ 10|9|ASP 11|9|JCT 12|13|JCT 13|0|ROOT 14|13|ASP
+	15|13|PUNCT
+*IN1:	随便 [/] 随便 . 523254_525378
+%mor:	adv|sui2bian4=informally .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adv|sui2bian4=informally .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*IN1:	只要 说 就 可以 .
+%mor:	conj|zhi3yao4=so_long_as v|shuo1=say adv|jiu4=just v:aux|ke3yi3=may
+	.
+%gra:	1|2|JCT 2|4|CSUBJ 3|4|JCT 4|0|PROOT 5|4|PUNCT
+%trn:	conj|zhi3yao4=so_long_as v|shuo1=say adv|jiu4=just v:aux|ke3yi3=may .
+%grt:	1|2|JCT 2|4|CSUBJ 3|4|JCT 4|0|PROOT 5|4|PUNCT
+*HA2:	+<  xxx . 524044_525321
+*HA2:	&啊 &嗯嗯 对 (1.7) . 525343_532236
+%mor:	adj|dui4=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	adj|dui4=correct .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*HA2:	看 [//] 先 把 图 看看 . 532162_535506
+%mor:	adv|xian1=earlier prep|ba3=object_marker n|tu2=picture
+	v|kan4&DIM=look .
+%gra:	1|4|JCT 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+%trn:	adv|xian1=earlier prep|ba3=object_marker n|tu2=picture
+	v|kan4&DIM=look .
+%grt:	1|4|JCT 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|PUNCT
+*HA2:	看 着 图 说 .
+%mor:	v|kan4=look asp|zhe n|tu2=picture v|shuo1=say .
+%gra:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|1|SRL 5|1|PUNCT
+%trn:	v|kan4=look asp|zhe n|tu2=picture v|shuo1=say .
+%grt:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|1|SRL 5|1|PUNCT
+*HA2:	看 着 图 说话 „ 对吧 (2.7) ? 535482_539957
+%mor:	v|kan4=look asp|zhe n|tu2=picture v|shuo1hua4=speak end|end
+	co:int|dui4ba=correct ?
+%gra:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|1|SRL 5|6|ENDP 6|1|END 7|1|PUNCT
+%trn:	v|kan4=look asp|zhe n|tu2=picture v|shuo1hua4=speak end|end
+	co:int|dui4ba=correct ?
+%grt:	1|0|ROOT 2|1|ASP 3|1|OBJ 4|1|SRL 5|6|ENDP 6|1|END 7|1|PUNCT
+*CHI:	这 边 呢 . 539916_541194
+%mor:	pro:dem|zhe4=this n|bian1=side sfp|ne .
+%gra:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%trn:	pro:dem|zhe4=this n|bian1=side sfp|ne .
+%grt:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*CHI:	我 不 会 .
+%mor:	pro:per|wo3=I adv|bu4=not v:resc|hui4=know .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%trn:	pro:per|wo3=I adv|bu4=not v:resc|hui4=know .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*IN1:	&嗯 那 讲 这 个 呀 这 个 . 541112_543933
+%mor:	conj|na4=so v|jiang3=say det|zhe4=this cl|ge4 sfp|ya det|zhe4=this
+	cl|ge4 .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|SFP 6|7|DET 7|2|PTOP 8|2|PUNCT
+%trn:	conj|na4=so v|jiang3=say det|zhe4=this cl|ge4 sfp|ya
+	det|zhe4=this cl|ge4 .
+%grt:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|SFP 6|7|DET 7|2|PTOP 8|2|PUNCT
+*CHI:	+<  xxx . 542263_543981
+*HA2:	这 个 会 吧 这 [/] 这 个 . 543998_545240
+%mor:	det|zhe4=this cl|ge4 v:resc|hui4=know sfp|ba det|zhe4=this cl|ge4 .
+%gra:	1|2|DET 2|3|TOP 3|0|ROOT 4|3|SFP 5|6|DET 6|3|PTOP 7|3|PUNCT
+%trn:	det|zhe4=this cl|ge4 v:resc|hui4=know sfp|ba det|zhe4=this cl|ge4 .
+%grt:	1|2|DET 2|3|TOP 3|0|ROOT 4|3|SFP 5|6|DET 6|3|PTOP 7|3|PUNCT
+*CHI:	+< 讲 这 个 . 543998_545240
+%mor:	v|jiang3=say det|zhe4=this cl|ge4 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%trn:	v|jiang3=say det|zhe4=this cl|ge4 .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*IN1:	讲 这 页 吗 (1.8) ? 545331_548257
+%mor:	v|jiang3=say det|zhe4=this cl|ye4=page sfp|ma ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|SFP 5|1|PUNCT
+%trn:	v|jiang3=say pro:dem|zhe4=this cl|ye4=page sfp|ma ?
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|SFP 5|1|PUNCT
+*HA2:	+<  在 干吗 呢 . 545380_546378
+%mor:	adv|zai4=currently v|gan4ma2=do_what sfp|ne .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%trn:	adv|zai4=currently v|gan4ma2=do_what sfp|ne .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*HA2:	就 这 个 . 548134_551675
+%mor:	adv|jiu4=just det|zhe4=this cl|ge4 .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%trn:	adv|jiu4=just det|zhe4=this cl|ge4 .
+%grt:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*HA2:	小 孩 在 那 干吗 呢 ?
+%mor:	adj|xiao3=small n|hai2=child prep|zai4=at pro:dem|na4=that
+	v|gan4ma2=do_what sfp|ne ?
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+%trn:	adj|xiao3=small n|hai2=child prep|zai4=at pro:dem|na4=that
+	v|gan4ma2=do_what sfp|ne ?
+%grt:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+*IN1:	讲 吧 . 551605_554496
+%mor:	v|jiang3=say sfp|ba .
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+%trn:	v|jiang3=say sfp|ba .
+%grt:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*IN1:	你 会 讲 哪 页 讲 哪 页 (1.1) .
+%mor:	pro:per|ni3=you v:aux|hui4=will v|jiang3=say pro:wh|na3=where
+	cl|ye4=page v|jiang3=say pro:wh|na3=where cl|ye4=page .
+%gra:	1|3|SUBJ 2|3|AUX 3|6|CJCT 4|5|DET 5|3|OBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+%trn:	pro:per|ni3=you v:aux|hui4=will v|jiang3=say pro:wh|na3=where cl|ye4=page
+	v|jiang3=say pro:wh|na3=where cl|ye4=page .
+%grt:	1|3|SUBJ 2|3|AUX 3|6|CJCT 4|5|DET 5|3|OBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*HA2:	这 多 简单 &啊 这 个 . 554330_556362
+%mor:	pro:dem|zhe4=this adv|duo1=mostly adj|jian3dan1=terse det|zhe4=this
+	cl|ge4 .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|PROOT 4|5|DET 5|3|PTOP 6|3|PUNCT
+%trn:	pro:dem|zhe4=this adv|duo1=mostly adj|jian3dan1=terse det|zhe4=this
+	cl|ge4 .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|PROOT 4|5|DET 5|3|PTOP 6|3|PUNCT
+*IN1:	讲 这 页 . 556212_558395
+%mor:	v|jiang3=say det|zhe4=this cl|ye4=page .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%trn:	v|jiang3=say pro:dem|zhe4=this cl|ye4=page .
+%grt:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx . 558441_560926
+*HA2:	这 [//] 他 干吗 „ 佳佳 啊 [/] 啊 . 560873_565122
+%mor:	pro:per|ta1=he v|gan4ma2=do_what end|end n:prop|jia1jia1 sfp|a1 .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|4|ENDP 4|2|END 5|4|SFP 6|2|PUNCT
+%trn:	pro:per|ta1=he v|gan4ma2=do_what end|end n:prop|jia1jia1 sfp|a1 .
+%grt:	1|2|SUBJ 2|0|INCROOT 3|4|ENDP 4|2|END 5|4|SFP 6|2|PUNCT
+*IN1:	快点 „ 佳佳 . 565082_569239
+%mor:	adv|kuai4dian3=hurrily end|end n:prop|jia1jia1 .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+%trn:	adv|kuai4dian3=hurrily end|end n:prop|jia1jia1 .
+%grt:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*IN1:	要不 我们 真的 走 了 (1.9) .
+%mor:	conj|yao4bu4=otherwise pro:per|wo3-PL=I adv|zhen1de=really
+	v:dirc|zou3=go_away asp|le .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+%trn:	conj|yao4bu4=otherwise pro:per|wo3-PL=I adv|zhen1de=really
+	v:dirc|zou3=go_away asp|le .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+*CHI:	&嗯 xxx . 569139_573133
+*HA2:	<这 个> [//] 这 [/] 这 小朋友 在 那 干吗 呢 (2.3) ? 573057_577957
+%mor:	pro:dem|zhe4=this n|xiao3peng2you3=little_child prep|zai4=at
+	pro:dem|na4=that v|gan4ma2=do_what sfp|ne ?
+%gra:	1|2|DET 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+%trn:	pro:dem|zhe4=this n|xiao3peng2you3=little_child prep|zai4=at
+	pro:dem|na4=that v|gan4ma2=do_what sfp|ne ?
+%grt:	1|2|DET 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|INCROOT 6|5|SFP 7|5|PUNCT
+*CHI:	抱 着 小 狗 . 577845_579343
+%mor:	v|bao4=hug asp|zhe adj|xiao3=small n|gou3=dog .
+%gra:	1|0|ROOT 2|1|ASP 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%trn:	v|bao4=hug asp|zhe adj|xiao3=small n|gou3=dog .
+%grt:	1|0|ROOT 2|1|ASP 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*IN1:	+< &嗯 对 ‡ 就 这样 讲 . 578797_580840
+%mor:	adj|dui4=correct beg|beg adv|jiu4=just adv|zhe4yang4=like_this
+	v|jiang3=say .
+%gra:	1|0|BEG 2|1|BEGP 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	adj|dui4=correct beg|beg adv|jiu4=just pro:dem|zhe4yang4=so_such
+	v|jiang3=say .
+%grt:	1|0|BEG 2|1|BEGP 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*HA2:	+<  那 就 那样 说 吗 ? 579935_581572
+%mor:	conj|na4=so adv|jiu4=just pro:dem|na4yang4=so v|shuo1=say sfp|ma ?
+%gra:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|SFP 6|4|PUNCT
+%trn:	conj|na4=so adv|jiu4=just adv|na4yang4=that_kind_of v|shuo1=say
+	sfp|ma ?
+%grt:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|SFP 6|4|PUNCT
+*IN1:	+< 就 这样 说 就 行 了 .
+%mor:	adv|jiu4=just pro:dem|zhe4yang4=so_such v|shuo1=say adv|jiu4=just
+	v|xing2=be_all_right asp|le .
+%gra:	1|3|JCT 2|3|JCT 3|5|CSUBJ 4|5|JCT 5|0|ROOT 6|5|ASP 7|5|PUNCT
+%trn:	adv|jiu4=just pro:dem|zhe4yang4=so_such v|shuo1=say adv|jiu4=just
+	v|xing2=be_all_right asp|le .
+%grt:	1|3|JCT 2|3|JCT 3|5|CSUBJ 4|5|JCT 5|0|ROOT 6|5|ASP 7|5|PUNCT
+*HA1:	对呀 . 583087_583691
+%mor:	co:int|dui4ya=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co:int|dui4ya=correct .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*IN1:	就 这样 . 583447_585049
+%mor:	adv|jiu4=just adv|zhe4yang4=like_this .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adv|jiu4=just pro:dem|zhe4yang4=so_such .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*HA2:	+<  &啊 [<] . 583448_584238
+*HA2:	&啊 这 个 呢 ? 585003_588091
+%mor:	det|zhe4=this cl|ge4 sfp|ne ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%trn:	det|zhe4=this cl|ge4 sfp|ne ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*IN1:	+< 这 个 呢 ? 585004_585862
+%mor:	det|zhe4=this cl|ge4 sfp|ne ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%trn:	det|zhe4=this cl|ge4 sfp|ne ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*CHI:	&嗯 (3.0) . 588017_592255
+*CHI:	那 个 小 男 孩儿 和 小 狗 叫 呢 . 592214_595372
+%mor:	det|na4=that cl|ge4 adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	conj|he2=and adj|xiao3=small n|gou3=dog v|jiao4=call sfp|ne .
+%gra:	1|5|DET 2|5|CLASS 3|5|MOD 4|5|MOD 5|9|SUBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|0|ROOT 10|9|SFP 11|9|PUNCT
+%trn:	det|na4=that cl|ge4 adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	conj|he2=and adj|xiao3=small n|gou3=dog v|jiao4=call sfp|ne .
+%grt:	1|5|DET 2|5|CLASS 3|5|MOD 4|5|MOD 5|9|SUBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|0|ROOT 10|9|SFP 11|9|PUNCT
+*IN1:	&嗯 真 不错 . 595326_597474
+%mor:	adv|zhen1=really adv|bu4cuo4=not_bad .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%trn:	adv|zhen1=really adv|bu4cuo4=not_bad .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*HA2:	这 不 挺 好 嘛 . 597324_598021
+%mor:	pro:dem|zhe4=this adv|bu4=not adv|ting3=very adj|hao3=good sfp|ma .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|PROOT 5|4|SFP 6|4|PUNCT
+%trn:	pro:dem|zhe4=this adv|bu4=not adv|ting3=very adj|hao3=good sfp|ma .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|PROOT 5|4|SFP 6|4|PUNCT
+*HA2:	+< xxx . 598095_599941
+*CHI:	&嗯 (3.2) . 599883_604272
+*CHI:	那 小 狗 想 吃 [/] 吃 那 个 马蜂窝 . 604236_608659
+%mor:	pro:dem|na4=that adj|xiao3=small n|gou3=dog v|xiang3=think
+	v|chi1=eat det|na4=that cl|ge4 n|ma3feng1wo1=wasp_nest .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|COBJ 6|8|DET 7|8|CLASS 8|5|OBJ
+	9|4|PUNCT
+%trn:	pro:dem|na4=that adj|xiao3=small n|gou3=dog v|xiang3=think
+	v|chi1=eat det|na4=that cl|ge4 n|ma3feng1wo1=wasp_nest .
+%grt:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|COBJ 6|8|DET 7|8|CLASS 8|5|OBJ
+	9|4|PUNCT
+*CHI:	那 个 小 [/] 小 男 孩儿 在 叫 呢 . 609210_612542
+%mor:	det|na4=that cl|ge4 adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	adv|zai4=currently v|jiao4=call sfp|ne .
+%gra:	1|5|DET 2|5|CLASS 3|5|MOD 4|5|MOD 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+%trn:	det|na4=that cl|ge4 adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	adv|zai4=currently v|jiao4=call sfp|ne .
+%grt:	1|5|DET 2|5|CLASS 3|5|MOD 4|5|MOD 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+*IN2:	&嗯 . 612426_612925
+*IN1:	+< &嗯 那 这 个 呢 (2.5) ? 612437_616698
+%mor:	conj|na4=so det|zhe4=this cl|ge4 sfp|ne ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+%trn:	conj|na4=so det|zhe4=this cl|ge4 sfp|ne ?
+%grt:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|SFP 5|3|PUNCT
+*CHI:	我 这 不 讲 .
+%mor:	pro:per|wo3=I pro:dem|zhe4=this adv|bu4=not v|jiang3=say .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%trn:	pro:per|wo3=I pro:dem|zhe4=this adv|bu4=not v|jiang3=say .
+%grt:	1|4|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	xxx 翻 过去 . 616658_620215
+%mor:	v|fan1=flip v:dirc|guo4qu4=over .
+%gra:	1|0|ROOT 2|1|VD 3|1|PUNCT
+%trn:	v|fan1=flip v:dirc|guo4qu4=over .
+%grt:	1|0|ROOT 2|1|VD 3|1|PUNCT
+*IN1:	这 个 . 620041_621004
+%mor:	det|zhe4=this cl|ge4 .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%trn:	det|zhe4=this cl|ge4 .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	&嗯嗯 (1.6) . 620946_626166
+*CHI:	小 男 孩儿 爬 着 树 上 . 626085_627922
+%mor:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|pa2=crawl asp|zhe
+	n|shu4=tree post|shang4=above .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|ASP 6|7|POSTO 7|4|JCT 8|4|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2-DIA=child v|pa2=crawl asp|zhe
+	n|shu4=tree post|shang4=above .
+%grt:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|ASP 6|7|POSTO 7|4|JCT
+	8|4|PUNCT
+*CHI:	叫 [: 让] 小 狗 也 想 爬 树 上 .
+%mor:	v|rang4=allow adj|xiao3=small n|gou3=dog adv|ye3=also
+	v|xiang3=think v|pa2=crawl n|shu4=tree post|shang4=above .
+%gra:	1|0|ROOT 2|3|MOD 3|5|SUBJ 4|5|JCT 5|1|COMP 6|5|COBJ 7|8|POSTO 8|6|JCT
+	9|1|PUNCT
+%trn:	v|rang4=allow adj|xiao3=small n|gou3=dog adv|ye3=also
+	v|xiang3=think v|pa2=crawl n|shu4=tree post|shang4=above .
+%grt:	1|0|ROOT 2|3|MOD 3|5|SUBJ 4|5|JCT 5|1|COMP 6|5|COBJ 7|8|POSTO 8|6|JCT
+	9|1|PUNCT
+*CHI:	但是 爬 不 上去 . 627910_630940
+%mor:	conj|dan4shi4=but v|pa2=crawl adv|bu4=not v:dirc|shang4qu4=up .
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|VD 5|2|PUNCT
+%trn:	conj|dan4shi4=but v|pa2=crawl adv|bu4=not v:dirc|shang4qu4=up .
+%grt:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|VD 5|2|PUNCT
+*CHI:	<有 个 鹰 从 洞> [//] 有 个 猫头鹰 从 洞 里 飞 出来 . 635550_640995
+%mor:	v|you3=have cl|ge4 n|mao1tou2ying1=owl prep|cong2=from n|dong4=hole
+	post|li3=inside v:resc|fei1=fly_away v:dirc|chu1lai2=go_out .
+%gra:	1|0|ROOT 2|3|CLASS 3|1|OBJ 4|7|JCT 5|6|POSTO 6|4|JCT 7|1|COMP 8|7|VD
+	9|1|PUNCT
+%trn:	v|you3=have cl|ge4 n|mao1tou2ying1=owl prep|cong2=from n|dong4=hole
+	post|li3=inside v:resc|fei1=fly_away v:dirc|chu1lai2=go_out .
+%grt:	1|0|ROOT 2|3|CLASS 3|1|OBJ 4|7|JCT 5|6|POSTO 6|4|JCT 7|1|COMP
+	8|7|VD 9|1|PUNCT
+*CHI:	把 那 小 男 孩儿 给 弄 倒 了 . 640955_643475
+%mor:	prep|ba3=object_marker det|na4=that adj|xiao3=small adj|nan2=male
+	n|hai2-DIA=child prep|gei3=for v|nong4=make v|dao4=pour asp|le .
+%gra:	1|7|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|1|PREPO 6|7|JCT 7|0|ROOT 8|7|VD
+	9|7|ASP 10|7|PUNCT
+%trn:	prep|ba3=object_marker pro:dem|na4=that adj|xiao3=small adj|nan2=male
+	n|hai2-DIA=child prep|gei3=for v|nong4=make v|dao4=pour asp|le .
+%grt:	1|7|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|1|PREPO 6|7|JCT 7|0|ROOT
+	8|7|VD 9|7|ASP 10|7|PUNCT
+*IN1:	&嗯 . 643405_643904
+*CHI:	那 个 马蜂 &呢 从 窝 里 飞 出 来 追 小 狗 去 了 . 643896_649399
+%mor:	det|na4=that cl|ge4 n|ma3feng1=wasp prep|cong2=from n|wo1=nest
+	post|li3=inside v:resc|fei1=fly_away v:dirc|chu1=go_out
+	v:dirc|lai2=come v|zhui1=pursue adj|xiao3=small n|gou3=dog
+	v:dirc|qu4=go asp|le .
+%gra:	1|3|DET 2|3|CLASS 3|7|SUBJ 4|7|JCT 5|6|POSTO 6|4|JCT 7|0|ROOT 8|7|VD
+	9|7|VD 10|7|SRL 11|12|MOD 12|10|OBJ 13|10|SRL 14|7|ASP 15|7|PUNCT
+%trn:	det|na4=that cl|ge4 n|ma3feng1=wasp prep|cong2=from
+	n|wo1=nest post|li3=inside v:resc|fei1=fly_away
+	v:dirc|chu1=go_out v:dirc|lai2=come v|zhui1=pursue adj|xiao3=small
+	n|gou3=dog v:dirc|qu4=go asp|le .
+%grt:	1|3|DET 2|3|CLASS 3|7|SUBJ 4|7|JCT 5|6|POSTO 6|4|JCT 7|0|ROOT
+	8|7|VD 9|7|VD 10|7|SRL 11|12|MOD 12|10|OBJ 13|10|SRL 14|7|ASP
+	15|7|PUNCT
+*HA2:	+< 说 得 挺 好的 . 650418_651869
+%mor:	v|shuo1=say stative|de=be_able_to adv|ting3=very adj|hao3-ISH=good
+	.
+%gra:	1|0|ROOT 2|1|LINK 3|4|JCT 4|1|JCT 5|1|PUNCT
+%trn:	v|shuo1=say stative|de=be_able_to adv|ting3=very adj|hao3-ISH=good .
+%grt:	1|0|ROOT 2|1|LINK 3|4|JCT 4|1|JCT 5|1|PUNCT
+*CHI:	那 [/] 那 个 鹰 &呢 又 飞 过来 啄 小 男 孩儿 一下 . 652627_656691
+%mor:	det|na4=that cl|ge4 n|ying1=hawk adv|you4=again
+	v:resc|fei1=fly_away v:dirc|guo4lai2=over v|zhuo2=peck
+	adj|xiao3=small adj|nan2=male n|hai2-DIA=child adv|yi1xia4=suddenly
+	.
+%gra:	1|3|DET 2|3|CLASS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|VD 7|5|SRL 8|10|MOD
+	9|10|MOD 10|7|OBJ 11|7|JCT 12|5|PUNCT
+%trn:	det|na4=that cl|ge4 n|ying1=hawk adv|you4=again v:resc|fei1=fly_away
+	v:dirc|guo4lai2=over v|zhuo2=peck adj|xiao3=small adj|nan2=male
+	n|hai2-DIA=child adv|yi1xia4=suddenly .
+%grt:	1|3|DET 2|3|CLASS 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|VD 7|5|SRL 8|10|MOD
+	9|10|MOD 10|7|OBJ 11|7|JCT 12|5|PUNCT
+*CHI:	那 个 小 狗 &呢 在 那 待 着 . 656656_659047
+%mor:	det|na4=that cl|ge4 adj|xiao3=small n|gou3=dog prep|zai4=at
+	pro:dem|na4=that v|dai1=stay asp|zhe .
+%gra:	1|4|DET 2|4|CLASS 3|4|MOD 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|0|ROOT 8|7|ASP
+	9|7|PUNCT
+%trn:	det|na4=that cl|ge4 adj|xiao3=small n|gou3=dog prep|zai4=at
+	pro:dem|na4=that v|dai1=stay asp|zhe .
+%grt:	1|4|DET 2|4|CLASS 3|4|MOD 4|7|SUBJ 5|7|JCT 6|5|PREPO 7|0|ROOT
+	8|7|ASP 9|7|PUNCT
+*IN1:	&嗯 . 659008_664093
+*IN2:	&嗯 . 659122_660492
+*CHI:	后来 小 男 孩儿 爬 [x 3] 到 那 个 鹿 那儿 . 664043_670266
+%mor:	adv|hou4lai2=later adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	v|pa2=crawl v:resc|dao4=arrive det|na4=that cl|ge4 n|lu4=deer
+	pro:dem|na4-DIA=that .
+%gra:	1|5|JCT 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|VR 7|9|DET 8|9|CLASS
+	9|10|MOD 10|5|JCT 11|5|PUNCT
+%trn:	adv|hou4lai2=later adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	v|pa2=crawl v:resc|dao4=arrive det|na4=that cl|ge4 n|lu4=deer
+	pro:dem|na4-DIA=that .
+%grt:	1|5|JCT 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|VR 7|9|DET 8|9|CLASS
+	9|10|MOD 10|5|JCT 11|5|PUNCT
+*CHI:	然后 那 鹰 就 飞 走 了 .
+%mor:	conj|ran2hou4=thereupon det|na4=that n|ying1=hawk adv|jiu4=just
+	v:resc|fei1=fly_away v:dirc|zou3=go_away asp|le .
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|VD 7|5|ASP 8|5|PUNCT
+%trn:	conj|ran2hou4=thereupon pro:dem|na4=that n|ying1=hawk adv|jiu4=just
+	v:resc|fei1=fly_away v:dirc|zou3=go_away asp|le .
+%grt:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|VD 7|5|ASP
+	8|5|PUNCT
+*CHI:	那 小 狗 在 那 躲 着 . 670214_673790
+%mor:	pro:dem|na4=that adj|xiao3=small n|gou3=dog prep|zai4=at
+	pro:dem|na4=that v|duo3=avoid asp|zhe .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|ASP 8|6|PUNCT
+%trn:	pro:dem|na4=that adj|xiao3=small n|gou3=dog prep|zai4=at pro:dem|na4=that
+	v|duo3=avoid asp|zhe .
+%grt:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|ASP 8|6|PUNCT
+*IN1:	&嗯 后来 呢 ? 673806_676477
+%mor:	adv|hou4lai2=later sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%trn:	adv|hou4lai2=later sfp|ne ?
+%grt:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*IN2:	+<  &嗯 . 673807_674493
+*CHI:	不 喜欢 这 个 东西 .
+%mor:	adv|bu4=not v|xi3huan1=like det|zhe4=this cl|ge4 n|dong1xi=thing .
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|CLASS 5|2|OBJ 6|2|PUNCT
+%trn:	adv|bu4=not v|xi3huan1=like det|zhe4=this cl|ge4 n|dong1xi=thing .
+%grt:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|CLASS 5|2|OBJ 6|2|PUNCT
+*CHI:	不 讲 这 个 了 . 676453_679904
+%mor:	adv|bu4=not v|jiang3=say det|zhe4=this cl|ge4 asp|le .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ASP 6|2|PUNCT
+%trn:	adv|bu4=not v|jiang3=say det|zhe4=this cl|ge4 asp|le .
+%grt:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ASP 6|2|PUNCT
+*CHI:	他 生气 了 (5.0) . 679852_686644
+%mor:	pro:per|ta1=he v|sheng1qi4=get_angry asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|2|PUNCT
+%trn:	pro:per|ta1=he v|sheng1qi4=get_angry asp|le .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|2|PUNCT
+*IN1:	大 一点 声音 .
+%mor:	adj|da4=great adv|yi1dian3=a_bit n|sheng1yin1=sound .
+%gra:	1|3|MOD 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%trn:	adj|da4=great adv|yi1dian3=a_bit n|sheng1yin1=sound .
+%grt:	1|3|MOD 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*IN1:	刚刚 我 听 不 到 你 说 了 . 686628_689473
+%mor:	adv|gang1&DIM=just pro:per|wo3=I v|ting1=listen adv|bu4=not
+	v:resc|dao4=arrive pro:per|ni3=you v|shuo1=say asp|le .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|VR 6|7|SUBJ 7|3|COMP 8|3|ASP
+	9|3|PUNCT
+%trn:	adv|gang1&DIM=just pro:per|wo3=I v|ting1=listen adv|bu4=not
+	v:resc|dao4=arrive pro:per|ni3=you v|shuo1=say asp|le .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|VR 6|7|SUBJ 7|3|COMP 8|3|ASP
+	9|3|PUNCT
+*HA2:	+<  <再 说说 听听 xxx> [//] 再 说说 听 啊 „ 听见 没 ? 686629_690624
+%mor:	adv|zai4=again v|shuo1&DIM=say v|ting1=listen sfp|a1 end|end
+	v|ting1jian4=listen adv|mei2=not ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SRL 4|2|SFP 5|6|ENDP 6|2|END 7|6|JCT 8|2|PUNCT
+%trn:	adv|zai4=again v|shuo1&DIM=say v|ting1=listen sfp|a1 end|end
+	v|ting1jian4=listen adv|mei2=not ?
+%grt:	1|2|JCT 2|0|ROOT 3|2|SRL 4|2|SFP 5|6|ENDP 6|2|END 7|6|JCT 8|2|PUNCT
+*CHI:	那 小 男 孩儿 骑 在 鹿 上 . 693240_695040
+%mor:	pro:dem|na4=that adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	v|qi2=ride prep|zai4=at n|lu4=deer post|shang4=above .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|POSTO 8|6|PREPO
+	9|5|PUNCT
+%trn:	pro:dem|na4=that adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	v|qi2=ride prep|zai4=at n|lu4=deer post|shang4=above .
+%grt:	1|4|DET 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|POSTO 8|6|PREPO
+	9|5|PUNCT
+*CHI:	把 小 狗 和 小 男 孩儿 一 顶 . 694975_699375
+%mor:	prep|ba3=object_marker adj|xiao3=small n|gou3=dog conj|he2=and
+	adj|xiao3=small adj|nan2=male n|hai2-DIA=child adv|yi1=just_as
+	v|ding3=gore .
+%gra:	1|9|JCT 2|3|MOD 3|1|PREPO 4|3|CONJ 5|7|MOD 6|7|MOD 7|4|COORD 8|9|JCT
+	9|0|ROOT 10|9|PUNCT
+%trn:	prep|ba3=object_marker adj|xiao3=small n|gou3=dog conj|he2=and
+	adj|xiao3=small adj|nan2=male n|hai2-DIA=child adv|yi1=just_as
+	v|ding3=gore .
+%grt:	1|9|JCT 2|3|MOD 3|1|PREPO 4|3|CONJ 5|7|MOD 6|7|MOD 7|4|COORD
+	8|9|JCT 9|0|ROOT 10|9|PUNCT
+*CHI:	顶 到 山 下 去 了 .
+%mor:	v|ding3=gore v:resc|dao4=arrive n|shan1=mountain
+	v:dirc|xia4=go_down v:dirc|qu4=go asp|le .
+%gra:	1|0|ROOT 2|1|VR 3|4|POSTO 4|1|JCT 5|1|SRL 6|1|ASP 7|1|PUNCT
+%trn:	v|ding3=gore v:resc|dao4=arrive n|shan1=mountain
+	v:dirc|xia4=go_down v:dirc|qu4=go asp|le .
+%grt:	1|0|ROOT 2|1|VR 3|4|POSTO 4|1|JCT 5|1|SRL 6|1|ASP 7|1|PUNCT
+*IN2:	+< &嗯 . 699365_700119
+*CHI:	&嗯嗯 (2.5) . 700704_704338
+*CHI:	后来 鹿 看 着 就 高兴 . 704240_706910
+%mor:	adv|hou4lai2=later n|lu4=deer v|kan4=look asp|zhe adv|jiu4=just
+	adj|gao1xing4=happy .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|6|JCT 6|3|JCT 7|3|PUNCT
+%trn:	adv|hou4lai2=later n|lu4=deer v|kan4=look asp|zhe adv|jiu4=just
+	adj|gao1xing4=happy .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|6|JCT 6|3|JCT 7|3|PUNCT
+*IN1:	&嗯 干吗 去 呀 (1.9) ? 706852_711113
+%mor:	v|gan4ma2=do_what v:dirc|qu4=go sfp|ya ?
+%gra:	1|0|ROOT 2|1|VD 3|1|SFP 4|1|PUNCT
+%trn:	v|gan4ma2=do_what v:dirc|qu4=go sfp|ya ?
+%grt:	1|0|ROOT 2|1|VD 3|1|SFP 4|1|PUNCT
+*CHI:	我 怎么 知道 xxx . 711075_719928
+%mor:	pro:per|wo3=I adv:wh|zen3me=how v|zhi1dao4=know .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%trn:	pro:per|wo3=I adv:wh|zen3me=how v|zhi1dao4=know .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	#5_2
+*CHI:	&嗯 . 719882_727795
+%com:	#7_2
+*CHI:	<那 小 狗 躲 在 树 [/] 树> [//] 那 小 狗 要 躲 在 树林 里 . 727722_733178
+%mor:	pro:dem|na4=that adj|xiao3=small n|gou3=dog v:aux|yao4=should
+	v|duo3=avoid prep|zai4=at n|shu4lin2=forest post|li3=inside .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|POSTO 8|6|JCT
+	9|5|PUNCT
+%trn:	pro:dem|na4=that adj|xiao3=small n|gou3=dog v:aux|yao4=should
+	v|duo3=avoid prep|zai4=at n|shu4lin2=forest post|li3=inside .
+%grt:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|POSTO 8|6|JCT
+	9|5|PUNCT
+*CHI:	那 小 男 孩儿 也 要 躲 在 树 里 . 733021_736307
+%mor:	pro:dem|na4=that adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	adv|ye3=also v:aux|yao4=should v|duo3=avoid prep|zai4=at n|shu4=tree
+	post|li3=inside .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|7|SUBJ 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|POSTO 10|8|JCT 11|7|PUNCT
+%trn:	pro:dem|na4=that adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	adv|ye3=also v:aux|yao4=should v|duo3=avoid prep|zai4=at n|shu4=tree
+	post|li3=inside .
+%grt:	1|4|DET 2|4|MOD 3|4|MOD 4|7|SUBJ 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|POSTO 10|8|JCT 11|7|PUNCT
+*IN1:	&嗯 . 736260_741551
+*IN2:	+< &嗯 (4.3) . 736260_741551
+*CHI:	&嗯嗯 (4.1) . 741539_746770
+*IN1:	然后 呢 ? 746705_748028
+%mor:	conj|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+%trn:	conj|ran2hou4=thereupon sfp|ne ?
+%grt:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	&嗯 (3.2) . 748017_752034
+*CHI:	小 [//] 那 小 男 孩儿 (和) 小 狗 看见 有 两 只 青蛙 . 751959_756974
+%mor:	pro:dem|na4=that adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	conj|he2=and adj|xiao3=small n|gou3=dog v|kan4jian4=see v|you3=have
+	num|liang3=two cl|zhi1 n|qing1wa1=frog .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|8|SUBJ 5|4|CONJ 6|7|MOD 7|5|COORD 8|0|ROOT
+	9|8|COBJ 10|11|QUANT 11|12|CLASS 12|9|OBJ 13|8|PUNCT
+%trn:	pro:dem|na4=that adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	conj|he2=and adj|xiao3=small n|gou3=dog v|kan4jian4=see v|you3=have
+	num|liang3=two cl|zhi1 n|qing1wa1=frog .
+%grt:	1|4|DET 2|4|MOD 3|4|MOD 4|8|SUBJ 5|4|CONJ 6|7|MOD 7|5|COORD 8|0|ROOT
+	9|8|COBJ 10|11|QUANT 11|12|CLASS 12|9|OBJ 13|8|PUNCT
+*IN1:	&嗯 (4.0) . 756933_762123
+*IN2:	+< &嗯 . 757138_757637
+*CHI:	&嗯嗯 &嗯 (3.5) . 762060_766889
+*CHI:	那 小 男 孩儿 抱 着 一 个 青蛙 . 766849_768916
+%mor:	pro:dem|na4=that adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	v|bao4=hug asp|zhe num|yi1=one cl|ge4 n|qing1wa1=frog .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|ASP 7|8|QUANT 8|9|CLASS
+	9|5|OBJ 10|5|PUNCT
+%trn:	pro:dem|na4=that adj|xiao3=small adj|nan2=male n|hai2-DIA=child
+	v|bao4=hug asp|zhe num|yi1=one cl|ge4 n|qing1wa1=frog .
+%grt:	1|4|DET 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|ASP 7|8|QUANT 8|9|CLASS
+	9|5|OBJ 10|5|PUNCT
+*CHI:	那 小 狗 也 想 抱 着 一 个 青蛙 . 768881_772573
+%mor:	det|na4=that adj|xiao3=small n|gou3=dog adv|ye3=also v|xiang3=think
+	v|bao4=hug asp|zhe num|yi1=one cl|ge4 n|qing1wa1=frog .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|COBJ 7|6|ASP 8|9|QUANT
+	9|10|CLASS 10|6|OBJ 11|5|PUNCT
+%trn:	pro:dem|na4=that adj|xiao3=small n|gou3=dog adv|ye3=also
+	v|xiang3=think v|bao4=hug asp|zhe num|yi1=one cl|ge4
+	n|qing1wa1=frog .
+%grt:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|COBJ 7|6|ASP 8|9|QUANT
+	9|10|CLASS 10|6|OBJ 11|5|PUNCT
+*CHI:	后来 小 狗 一 看 +"/.
+%mor:	adv|hou4lai2=later adj|xiao3=small n|gou3=dog adv|yi1=just_as
+	v|kan4=look +"/.
+%gra:	1|5|JCT 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%trn:	adv|hou4lai2=later adj|xiao3=small n|gou3=dog adv|yi1=just_as
+	v|kan4=look +"/.
+%grt:	1|5|JCT 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	+" 那边 有 好 多 青蛙 . 772462_775818
+%mor:	post|na4bian1=that_side v|you3=have adv|hao3=very adj|duo1=lots
+	n|qing1wa1=frog .
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%trn:	post|na4bian1=that_side v|you3=have adv|hao3=very adj|duo1=lots
+	n|qing1wa1=frog .
+%grt:	1|2|JCT 2|0|ROOT 3|4|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*IN1:	&嗯 讲 得 真 好 . 775760_777733
+%mor:	v|jiang3=say stative|de=be_able_to adv|zhen1=really adj|hao3=good .
+%gra:	1|0|ROOT 2|1|LINK 3|4|JCT 4|1|JCT 5|1|PUNCT
+%trn:	v|jiang3=say stative|de=be_able_to adv|zhen1=really adj|hao3=good .
+%grt:	1|0|ROOT 2|1|LINK 3|4|JCT 4|1|JCT 5|1|PUNCT
+*IN2:	+<  &嗯 . 775796_776364
+*IN1:	好了 . 777710_778453
+%mor:	co:int|hao3le=okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co:int|hao3le=okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+@End

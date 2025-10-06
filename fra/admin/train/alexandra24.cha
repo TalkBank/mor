@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/c-00029316&1
+@Begin
+@Languages:	fra
+@Participants:	CHI Alexandra Target_Child
+@ID:	fra|Paris-Corpus_Alexandra|CHI|2;0.|female|CTR|LI|Target_Child|nursery||
+@Situation:	replica task using FP play family house
+*CHI:	veux pas .
+%mor:	v:mdllex|vouloir&PRES&12s^v:mdl|vouloir&PRES&12s^v:mdl|vouloir&IMP&2s
+	neg|pas .
+%trn:	v:mdl|vouloir&IMP&2s neg|pas .
+*CHI:	là .
+%mor:	adv:place|là .
+%trn:	adv:place|là .
+*CHI:	est là .
+%mor:	v:exist|être&PRES&3s^v:aux|être&PRES&3s adv:place|là .
+%trn:	v:aux|être&PRES&3s adv:place|là .
+*CHI:	xxx chaise .
+%mor:	n|chaise&f .
+%trn:	n|chaise&f .
+*CHI:	ça .
+%mor:	pro:dem|ça .
+%trn:	pro:dem|ça .
+*CHI:	tiens .
+%mor:	co|tiens^n|tien&m-PL^adj|tien&m-PL^v|tenir-PRES&12s^v|tenir-IMP&2s
+	.
+%trn:	v|tenir-IMP&2s .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+*CHI:	est là .
+%mor:	v:exist|être&PRES&3s^v:aux|être&PRES&3s adv:place|là .
+%trn:	v:aux|être&PRES&3s adv:place|là .
+*CHI:	oh .
+%mor:	co|oh .
+%trn:	co|oh .
+*CHI:	coucou .
+%mor:	co|coucou=peekaboo .
+%trn:	co|coucou=peekaboo .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+*CHI:	non .
+%mor:	co|non=no .
+%trn:	co|non=no .
+@End

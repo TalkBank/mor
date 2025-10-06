@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	riego .
+%mor:	v|rega-1S&PRES=water .
+*T:	riegas .
+%mor:	v|rega-2S&PRES=water .
+*T:	riega .
+%mor:	v|rega-3S&PRES=water .
+*T:	regamos .
+%mor:	v|rega-1P&PRES&PRET=water .
+*T:	regáis .
+%mor:	v|rega-2P&PRES=water .
+*T:	riegan .
+%mor:	v|rega-3P&PRES=water .
+@Blank
+*T:	regaba .
+%mor:	v|rega-13S&PAS=water .
+*T:	regabas .
+%mor:	v|rega-2S&PAS=water .
+*T:	regaba .
+%mor:	v|rega-13S&PAS=water .
+*T:	regábamos .
+%mor:	v|rega-1P&PAS=water .
+*T:	regabais .
+%mor:	v|rega-2P&PAS=water .
+*T:	regaban .
+%mor:	v|rega-3P&PAS=water .
+@Blank
+*T:	regué .
+%mor:	v|rega-1S&PRET=water .
+*T:	regaste .
+%mor:	v|rega-2S&PRET=water .
+*T:	regó .
+%mor:	v|rega-3S&PRET=water .
+*T:	regamos .
+%mor:	v|rega-1P&PRES&PRET=water .
+*T:	regasteis .
+%mor:	v|rega-2P&PRET=water .
+*T:	regaron .
+%mor:	v|rega-3P&PRET=water .
+@Blank
+*T:	regaré .
+%mor:	v|rega-1S&FUT=water .
+*T:	regarás .
+%mor:	v|rega-2S&FUT=water .
+*T:	regará .
+%mor:	v|rega-3S&FUT=water .
+*T:	regaremos .
+%mor:	v|rega-1P&FUT=water .
+*T:	regaréis .
+%mor:	v|rega-2P&FUT=water .
+*T:	regarán .
+%mor:	v|rega-3P&FUT=water .
+@Blank
+*T:	riege .
+%mor:	v|rega-13S&SUB&PRES=water .
+*T:	rieges .
+%mor:	v|rega-2S&SUB&PRES=water .
+*T:	riege .
+%mor:	v|rega-13S&SUB&PRES=water .
+*T:	regemos .
+%mor:	imp|rega-1P&IMP=water .
+*T:	regéis .
+%mor:	v|rega-2P&SUB&PRES=water .
+*T:	riegen .
+%mor:	v|rega-3P&SUB&PRES=water .
+@Blank
+*T:	regara .
+%mor:	v|rega-13S&SUB&PAS=water .
+*T:	regaras .
+%mor:	v|rega-2S&SUB&PAS=water .
+*T:	regara .
+%mor:	v|rega-13S&SUB&PAS=water .
+*T:	regáramos .
+%mor:	v|rega-1P&SUB&PAS=water .
+*T:	regarais .
+%mor:	v|rega-2P&SUB&PAS=water .
+*T:	regaran .
+%mor:	v|rega-3P&SUB&PAS=water .
+@Blank
+*T:	regando .
+%mor:	ger|rega-PROG=water .
+*T:	regado .
+%mor:	part|rega-PPART-MASC=water .
+*T:	riega .
+%mor:	v|rega-3S&PRES=water .
+*T:	riege .
+%mor:	v|rega-13S&SUB&PRES=water .
+*T:	regad .
+%mor:	imp|rega-2P&IMP=water .
+*T:	riegen .
+%mor:	v|rega-3P&SUB&PRES=water .
+@End

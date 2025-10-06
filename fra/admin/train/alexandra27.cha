@@ -1,0 +1,159 @@
+@UTF8
+@PID:	11312/c-00029317&1
+@Begin
+@Languages:	fra
+@Participants:	CHI Alexandra Target_Child
+@ID:	fra|Paris-Corpus_Alexandra|CHI|2;3.|female|CTR|LI|Target_Child|nursery||
+*CHI:	des lits .
+%mor:	prep|de&les n|lit&m-PL .
+%trn:	prep|de&les n|lit&m-PL .
+*CHI:	la porte .
+%mor:	det:art|la&f&sg^pro:obj|la
+	n|porte&f=door^v|porter-IMP&2s^v|porter-PRES&SUB&13s .
+%trn:	det:art|la&f&sg n|porte&f=door .
+*CHI:	ah là voilà .
+%mor:	co|ah adv:place|là adv:place|voilà .
+%trn:	co|ah adv:place|là adv:place|voilà .
+*CHI:	la table .
+%mor:	det:art|la&f&sg^pro:obj|la n|table&f .
+%trn:	det:art|la&f&sg n|table&f .
+*CHI:	la table .
+%mor:	det:art|la&f&sg^pro:obj|la n|table&f .
+%trn:	det:art|la&f&sg n|table&f .
+*CHI:	elle est là .
+%mor:	pro:sub|elle v:exist|être&PRES&3s^v:aux|être&PRES&3s adv:place|là .
+%trn:	pro:sub|elle v:aux|être&PRES&3s adv:place|là .
+*CHI:	les chaises .
+%mor:	det:art|les&pl^pro:obj|les n|chaise&f-PL .
+%trn:	det:art|les&pl n|chaise&f-PL .
+*CHI:	elle est là .
+%mor:	pro:sub|elle v:exist|être&PRES&3s^v:aux|être&PRES&3s adv:place|là .
+%trn:	pro:sub|elle v:aux|être&PRES&3s adv:place|là .
+*CHI:	là .
+%mor:	adv:place|là .
+%trn:	adv:place|là .
+*CHI:	la poussette .
+%mor:	det:art|la&f&sg^pro:obj|la n|poussette&f .
+%trn:	det:art|la&f&sg n|poussette&f .
+*CHI:	là .
+%mor:	adv:place|là .
+%trn:	adv:place|là .
+*CHI:	ferme .
+%mor:	n|ferme&f^v|fermer-IMP&2s^v|fermer-PRES&SUB&13s .
+%trn:	v|fermer&IMP&2s .
+*CHI:	comme-ça .
+%mor:	adv|comme–ça .
+%trn:	adv|comme-ça .
+*CHI:	le lit ça .
+%mor:	det:art|le&m&sg^pro:obj|le n|lit&m^v|lire-PRES&3s pro:dem|ça .
+%trn:	det:art|le&m&sg n|lit&m pro:dem|ça .
+*CHI:	ça là .
+%mor:	pro:dem|ça adv:place|là .
+%trn:	pro:dem|ça adv:place|là .
+*CHI:	oh .
+%mor:	co|oh .
+%trn:	co|oh .
+*CHI:	là .
+%mor:	adv:place|là .
+%trn:	adv:place|là .
+*CHI:	il est tombé .
+%mor:	pro:sub|il v:exist|être&PRES&3s^v:aux|être&PRES&3s part|tomber-PP&m
+	.
+%trn:	pro:sub|il v:aux|être&PRES&3s part|tomber-PP&m .
+*CHI:	dans la chambre .
+%mor:	prep|dans det:art|la&f&sg^pro:obj|la
+	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	prep|dans det:art|la&f&sg n|chambre&f .
+*CHI:	dans la maison .
+%mor:	prep|dans det:art|la&f&sg^pro:obj|la n|maison&f .
+%trn:	prep|dans det:art|la&f&sg n|maison&f .
+*CHI:	ça met là .
+%mor:	pro:dem|ça v|mettre-PRES&3s adv:place|là .
+%trn:	pro:dem|ça v|mettre-PRES&3s adv:place|là .
+*CHI:	là .
+%mor:	adv:place|là .
+%trn:	adv:place|là .
+*CHI:	une maison .
+%mor:	det:art|une&f&sg^pro|une&f&sg n|maison&f .
+%trn:	det:art|une&f&sg n|maison&f .
+*CHI:	ça là .
+%mor:	pro:dem|ça adv:place|là .
+%trn:	pro:dem|ça adv:place|là .
+*CHI:	ça .
+%mor:	pro:dem|ça .
+%trn:	pro:dem|ça .
+*CHI:	chaise là .
+%mor:	n|chaise&f adv:place|là .
+%trn:	n|chaise&f adv:place|là .
+*CHI:	table .
+%mor:	n|table&f .
+%trn:	n|table&f .
+*CHI:	chaise .
+%mor:	n|chaise&f .
+%trn:	n|chaise&f .
+*CHI:	la poussette .
+%mor:	det:art|la&f&sg^pro:obj|la n|poussette&f .
+%trn:	det:art|la&f&sg n|poussette&f .
+*CHI:	ça là .
+%mor:	pro:dem|ça adv:place|là .
+%trn:	pro:dem|ça adv:place|là .
+*CHI:	lit là .
+%mor:	n|lit&m^v|lire-PRES&3s adv:place|là .
+%trn:	n|lit&m adv:place|là .
+*CHI:	chambre .
+%mor:	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	n|chambre&f .
+*CHI:	la chambre .
+%mor:	det:art|la&f&sg^pro:obj|la
+	n|chambre&f^v|chambrer-IMP&2s^v|chambrer-PRES&SUB&13s .
+%trn:	det:art|la&f&sg n|chambre&f .
+*CHI:	oui .
+%mor:	n|oui&m^co|oui=yes .
+%trn:	co|oui=yes .
+*CHI:	le chat .
+%mor:	det:art|le&m&sg^pro:obj|le n|chat&m .
+%trn:	det:art|le&m&sg n|chat&m .
+*CHI:	là .
+%mor:	adv:place|là .
+%trn:	adv:place|là .
+*CHI:	là ?
+%mor:	adv:place|là ?
+%trn:	adv:place|là ?
+*CHI:	encore .
+%mor:	adv|encore .
+%trn:	adv|encore .
+*CHI:	oui .
+%mor:	n|oui&m^co|oui=yes .
+%trn:	co|oui=yes .
+*CHI:	la porte .
+%mor:	det:art|la&f&sg^pro:obj|la
+	n|porte&f=door^v|porter-IMP&2s^v|porter-PRES&SUB&13s .
+%trn:	det:art|la&f&sg n|porte&f=door .
+*CHI:	dans la fenêtre .
+%mor:	prep|dans det:art|la&f&sg^pro:obj|la n|fenêtre&f .
+%trn:	prep|dans det:art|la&f&sg n|fenêtre&f .
+*CHI:	une fenêtre .
+%mor:	det:art|une&f&sg^pro|une&f&sg n|fenêtre&f .
+%trn:	det:art|une&f&sg n|fenêtre&f .
+*CHI:	la porte là .
+%mor:	det:art|la&f&sg^pro:obj|la
+	n|porte&f=door^v|porter-IMP&2s^v|porter-PRES&SUB&13s adv:place|là .
+%trn:	det:art|la&f&sg n|porte&f=door adv:place|là .
+*CHI:	fermer ça .
+%mor:	v|fermer-INF pro:dem|ça .
+%trn:	v|fermer-INF pro:dem|ça .
+*CHI:	la chaise .
+%mor:	det:art|la&f&sg^pro:obj|la n|chaise&f .
+%trn:	det:art|la&f&sg n|chaise&f .
+*CHI:	elle est là la chaise .
+%mor:	pro:sub|elle v:exist|être&PRES&3s^v:aux|être&PRES&3s adv:place|là
+	det:art|la&f&sg^pro:obj|la n|chaise&f .
+%trn:	pro:sub|elle v:aux|être&PRES&3s adv:place|là det:art|la&f&sg
+	n|chaise&f .
+*CHI:	la chaise là .
+%mor:	det:art|la&f&sg^pro:obj|la n|chaise&f adv:place|là .
+%trn:	det:art|la&f&sg n|chaise&f adv:place|là .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+%trn:	adv:place|voilà .
+@End

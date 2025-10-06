@@ -1,0 +1,2747 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Instructor Participant
+@ID:	eng|MICASE-train|PAR|||||Participant|||
+*PAR:	my horror of_course is the idea that I talk like other professors .
+%mor:	det:poss|my n|horror co|of_course cop|be&3S det:art|the n|idea
+	pro:rel|that pro:sub|I v|talk prep|like qn|other n|professor-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|COM 4|0|ROOT 5|6|DET 6|4|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|12|QUANT 12|10|POBJ 13|4|PUNCT
+%trn:	det:poss|my n|horror co|of_course cop|be&3S det:art|the n|idea
+	pro:rel|that pro:sub|I n|talk prep|like qn|other n|professor-PL .
+%grt:	1|2|DET 2|4|SUBJ 3|4|COM 4|0|ROOT 5|6|DET 6|4|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|12|QUANT 12|10|POBJ 13|4|PUNCT
+*PAR:	surely that's not the case .
+%mor:	adv|sure&dadj-LY pro:dem|that~cop|be&3S neg|not det:art|the n|case
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|3|PUNCT
+%trn:	adv|sure&dadj-LY pro:dem|that~cop|be&3S neg|not det:art|the n|case .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|3|PUNCT
+*PAR:	tell me that's not the case .
+%mor:	v|tell pro:obj|me pro:dem|that~cop|be&3S neg|not det:art|the n|case
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|4|SUBJ 4|1|COMP 5|4|NEG 6|7|DET 7|4|PRED 8|1|PUNCT
+%trn:	v|tell pro:obj|me pro:dem|that~cop|be&3S neg|not det:art|the
+	n|case .
+%grt:	1|0|ROOT 2|1|OBJ 3|4|SUBJ 4|1|COMP 5|4|CONJ 6|7|DET 7|4|PRED
+	8|1|PUNCT
+*PAR:	last time I tried to suggest to you <the agenda that> [//] the
+	conscious agenda that Henry James had in writing The American .
+%mor:	adj|last n|time pro:sub|I v|try-PAST inf|to v|suggest prep|to
+	pro:per|you det:art|the adj|conscious n|agenda pro:rel|that
+	n:prop|Henry n:prop|James v|have&PAST prep|in n:gerund|write-PRESP
+	n:prop|The n:prop|American .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|6|APP 12|14|LINK 13|14|NAME 14|15|SUBJ 15|11|CMOD
+	16|15|JCT 17|19|MOD 18|19|MOD 19|16|POBJ 20|2|PUNCT
+%trn:	adj|last n|time pro:sub|I v|try-PAST inf|to v|suggest prep|to
+	pro:per|you det:art|the adj|conscious n|agenda pro:rel|that
+	n:prop|Henry n:prop|James v|have&PAST prep|in n:gerund|write-PRESP
+	n:prop|The n:prop|American .
+%grt:	1|2|MOD 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT
+	8|7|POBJ 9|11|DET 10|11|MOD 11|6|OBJ 12|15|LINK 13|14|NAME
+	14|15|SUBJ 15|11|CMOD 16|15|JCT 17|16|POBJ 18|19|NAME 19|17|OBJ
+	20|4|PUNCT
+*PAR:	and if you recall that he said that he wanted to create a situation
+	in which an American , in some ways a [/] a typical American going
+	to Europe &i is dealt some grievous injustice by a society that
+	thinks itself superior to him in every way .
+%mor:	coord|and conj|if pro:per|you v|recall comp|that pro:sub|he
+	v|say&PAST comp|that pro:sub|he v|want-PAST inf|to v|create
+	det:art|a n|situate&dv-TION prep|in pro:rel|which det:art|a
+	n:prop|American cm|cm prep|in qn|some n|way-PL det:art|a adj|typical
+	n:prop|American part|go-PRESP prep|to n:prop|Europe aux|be&3S
+	part|deal&PASTP qn|some adj|grievous in#n|justice prep|by det:art|a
+	n|society pro:rel|that v|think-3S pro:refl|itself adj|superior
+	prep|to pro:obj|him prep|in qn|every n|way .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|10|LINK 9|10|SUBJ 10|7|COMP 11|12|INF 12|10|COMP 13|14|DET 14|12|OBJ 15|12|JCT
+	16|18|LINK 17|18|DET 18|15|POBJ 19|18|LP 20|30|LINK 21|22|QUANT
+	22|30|JCT 23|25|DET 24|25|MOD 25|30|SUBJ 26|25|XMOD 27|26|JCT 28|27|POBJ
+	29|30|AUX 30|18|CJCT 31|32|QUANT 32|30|JCT 33|32|PRED 34|33|JCT 35|36|DET
+	36|34|POBJ 37|38|LINK 38|36|CMOD 39|38|OBJ 40|39|PRED 41|40|JCT 42|41|POBJ
+	43|40|JCT 44|45|QUANT 45|43|POBJ 46|4|PUNCT
+%trn:	coord|and conj|if pro:per|you v|recall comp|that pro:sub|he
+	v|say&PAST comp|that pro:sub|he v|want-PAST inf|to v|create
+	det:art|a n|situate&dv-TION prep|in pro:rel|which det:art|a
+	n:prop|American cm|cm prep|in qn|some n|way-PL det:art|a adj|typical
+	n:prop|American part|go-PRESP prep|to n:prop|Europe aux|be&3S
+	part|deal&PASTP qn|some adj|grievous in#n|justice prep|by det:art|a
+	n|society pro:rel|that v|think-3S pro:refl|itself adj|superior
+	prep|to pro:obj|him prep|in qn|every n|way .
+%grt:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|10|LINK 9|10|SUBJ 10|7|COMP 11|12|INF 12|10|COMP 13|14|DET
+	14|12|OBJ 15|14|NJCT 16|18|LINK 17|18|DET 18|30|SUBJ 19|18|LP
+	20|25|NJCT 21|22|QUANT 22|20|POBJ 23|25|DET 24|25|MOD 25|18|APP
+	26|25|XMOD 27|26|JCT 28|27|POBJ 29|30|AUX 30|15|CPOBJ 31|33|QUANT
+	32|33|MOD 33|30|OBJ 34|30|JCT 35|36|DET 36|34|POBJ 37|38|LINK
+	38|36|CMOD 39|38|OBJ 40|39|POSTMOD 41|40|JCT 42|41|POBJ 43|40|JCT
+	44|45|QUANT 45|43|POBJ 46|4|PUNCT
+*PAR:	and that the occasion would arise for him to be able to exact some
+	kind of retribution or revenge for that injustice .
+%mor:	coord|and comp|that det:art|the n|occasion mod|will&COND v|arise
+	prep|for pro:obj|him inf|to cop|be adj|able inf|to v|exact qn|some
+	n|kind prep|of n|retribution coord|or n|revenge prep|for
+	det:dem|that in#n|justice .
+%gra:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|10|INF 10|6|XJCT 11|10|PRED 12|13|INF 13|11|XMOD 14|15|QUANT 15|13|OBJ
+	16|15|NJCT 17|16|POBJ 18|13|CONJ 19|18|COORD 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|6|PUNCT
+%trn:	coord|and comp|that det:art|the n|occasion mod|will&COND v|arise
+	prep|for pro:obj|him inf|to cop|be adj|able inf|to v|exact qn|some
+	n|kind prep|of n|retribution coord|or n|revenge prep|for
+	det:dem|that in#n|justice .
+%grt:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|10|INF 10|6|XJCT 11|10|PRED 12|13|INF 13|11|XMOD 14|15|QUANT 15|13|OBJ
+	16|15|NJCT 17|16|POBJ 18|17|CONJ 19|18|COORD 20|17|NJCT 21|22|DET
+	22|20|POBJ 23|6|PUNCT
+*PAR:	and the question that fascinated James was what would he do in that
+	case ?
+%mor:	coord|and det:art|the n|question pro:rel|that v|fascinate-PAST
+	n:prop|James cop|be&PAST&13S pro:int|what mod|will&COND pro:sub|he
+	v|do prep|in det:dem|that n|case ?
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|5|LINK 5|3|CMOD 6|5|OBJ 7|0|ROOT 8|11|OBJ
+	9|11|AUX 10|11|SUBJ 11|7|CPRED 12|11|JCT 13|14|DET 14|12|POBJ 15|7|PUNCT
+%trn:	coord|and det:art|the n|question pro:rel|that v|fascinate-PAST
+	n:prop|James cop|be&PAST&13S pro:int|what mod|will&COND pro:sub|he
+	v|do prep|in det:dem|that n|case ?
+%grt:	1|7|LINK 2|3|DET 3|7|SUBJ 4|5|LINK 5|3|CMOD 6|5|OBJ 7|0|ROOT
+	8|11|LINK 9|11|AUX 10|11|SUBJ 11|7|CPRED 12|11|JCT 13|14|DET
+	14|12|POBJ 15|7|PUNCT
+*PAR:	and so we get to that situation today when we [//] &co we'll come
+	in a bit to talk about the letter that he has that would inflict
+	some significant damage presumably on the Bellegardes and his
+	decision <not to do it> [//] not to use it in that way .
+%mor:	coord|and co|so pro:sub|we v|get prep|to det:dem|that
+	n|situate&dv-TION adv:tem|today conj|when pro:sub|we~mod|will v|come
+	prep|in det:art|a n|bit inf|to v|talk prep|about det:art|the
+	n|letter pro:rel|that pro:sub|he v|have&3S comp|that mod|will&COND
+	v|inflict qn|some adj|significant n|damage adv|presume&dadj-ABLE-LY
+	prep|on det:art|the n:prop|Bellegardes coord|and det:poss|his
+	n|decision neg|not inf|to v|use pro:per|it prep|in det:dem|that
+	n|way .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|4|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|17|INF 17|12|XJCT 18|17|JCT 19|20|DET 20|18|POBJ 21|23|LINK 22|23|SUBJ
+	23|20|CMOD 24|26|SUBJ 25|26|AUX 26|23|COMP 27|29|QUANT 28|29|MOD
+	29|26|OBJ 30|26|JCT 31|26|JCT 32|33|DET 33|31|POBJ 34|39|LINK 35|36|DET
+	36|39|SUBJ 37|36|NEG 38|39|INF 39|26|CJCT 40|39|OBJ 41|39|JCT 42|43|DET
+	43|41|POBJ 44|4|PUNCT
+%trn:	coord|and co|so pro:sub|we v|get prep|to det:dem|that
+	n|situate&dv-TION adv:tem|today conj|when pro:sub|we~mod|will v|come
+	prep|in det:art|a n|bit inf|to v|talk prep|about det:art|the n|letter
+	pro:rel|that pro:sub|he v|have&3S pro:rel|that mod|will&COND
+	v|inflict qn|some adj|significant n|damage adv|presume&dadj-ABLE-LY
+	prep|on det:art|the n:prop|Bellegardes coord|and det:poss|his
+	n|decision neg|not inf|to v|use pro:per|it prep|in det:dem|that
+	n|way .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|4|CJCT 13|12|JCT 14|15|DET
+	15|13|POBJ 16|17|INF 17|12|COMP 18|17|JCT 19|20|DET 20|18|POBJ
+	21|23|LINK 22|23|SUBJ 23|20|CMOD 24|26|LINK 25|26|AUX 26|20|CMOD
+	27|29|QUANT 28|29|MOD 29|26|OBJ 30|26|JCT 31|26|JCT 32|33|DET
+	33|31|POBJ 34|20|CONJ 35|36|DET 36|34|COORD 37|39|NEG 38|39|INF
+	39|36|XMOD 40|39|OBJ 41|39|JCT 42|43|DET 43|41|POBJ 44|4|PUNCT
+*PAR:	but with that in mind , the part of the novel that I had you read
+	for the first day , and that's a lot , over three hundred pages , in
+	some ways really doesn't develop that particular complexity very
+	much .
+%mor:	conj|but prep|with pro:dem|that prep|in n|mind cm|cm det:art|the
+	n|part prep|of det:art|the n|novel pro:rel|that pro:sub|I
+	v|have&PAST pro:per|you v|read&ZERO prep|for det:art|the adj|first
+	n|day cm|cm coord|and pro:dem|that~cop|be&3S det:art|a n|lot cm|cm
+	adv|over det:num|three det:num|hundred n|page-PL cm|cm prep|in
+	qn|some n|way-PL adv|real&dadj-LY mod|do&3S~neg|not v|develop
+	det:dem|that adj|particular n|complexity adv|very adv|much .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|NJCT 5|4|POBJ 6|2|LP 7|8|DET 8|2|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|16|SUBJ
+	16|14|COMP 17|24|JCT 18|20|DET 19|20|MOD 20|24|SUBJ 21|20|LP 22|20|CONJ
+	23|22|COORD 24|16|COMP 25|26|DET 26|39|SUBJ 27|26|LP 28|26|NJCT
+	29|31|QUANT 30|31|QUANT 31|28|POBJ 32|31|LP 33|31|NJCT 34|35|QUANT 35|33|POBJ
+	36|39|JCT 37|39|AUX 38|37|NEG 39|24|CPRED 40|42|DET 41|42|MOD 42|39|OBJ
+	43|44|JCT 44|39|JCT 45|1|PUNCT
+%trn:	conj|but prep|with pro:dem|that prep|in n|mind cm|cm det:art|the
+	n|part prep|of det:art|the n|novel pro:rel|that pro:sub|I
+	v|have&PAST pro:per|you v|read&ZERO prep|for det:art|the adj|first
+	n|day cm|cm coord|and pro:dem|that~cop|be&3S det:art|a n|lot cm|cm
+	adv|over det:num|three det:num|hundred n|page-PL cm|cm prep|in
+	qn|some n|way-PL adv|real&dadj-LY mod|do&3S~neg|not v|develop
+	det:dem|that adj|particular n|complexity adv|very adv|much .
+%grt:	1|39|LINK 2|39|JCT 3|2|POBJ 4|3|NJCT 5|4|POBJ 6|2|LP 7|8|DET
+	8|39|SUBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ
+	14|8|CMOD 15|14|OBJ 16|14|COMP 17|16|JCT 18|20|DET 19|20|MOD
+	20|17|POBJ 21|20|LP 22|24|LINK 23|24|SUBJ 24|39|CJCT 25|26|DET
+	26|24|PRED 27|26|LP 28|30|JCT 29|30|QUANT 30|31|QUANT 31|26|APP
+	32|31|LP 33|39|JCT 34|35|QUANT 35|33|POBJ 36|39|JCT 37|39|AUX
+	38|37|NEG 39|0|ROOT 40|42|DET 41|42|MOD 42|39|OBJ 43|44|JCT
+	44|39|JCT 45|39|PUNCT
+*PAR:	the wrong that is done to Christopher Newman that comes only in
+	chapter eighteen .
+%mor:	det:art|the n|wrong pro:rel|that aux|be&3S part|do&PASTP prep|to
+	n:prop|Christopher n:prop|Newman pro:rel|that v|come-3S adv|only
+	prep|in n|chapter det:num|eighteen .
+%gra:	1|2|DET 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|5|JCT 7|8|NAME 8|6|POBJ
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|10|JCT 13|12|POBJ 14|10|SUBJ
+	15|2|PUNCT
+%trn:	det:art|the n|wrong pro:rel|that aux|be&3S part|do&PASTP prep|to
+	n:prop|Christopher n:prop|Newman pro:rel|that v|come-3S adv|only
+	prep|in n|chapter det:num|eighteen .
+%grt:	1|2|DET 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|5|JCT 7|8|NAME
+	8|6|POBJ 9|10|LINK 10|2|CMOD 11|10|JCT 12|10|JCT 13|12|POBJ
+	14|13|POSTMOD 15|2|PUNCT
+*PAR:	and even then &i &i in one sense we wonder is this a grievous wrong
+	?
+%mor:	coord|and adv|even adv:tem|then prep|in det:num|one n|sense
+	pro:sub|we v|wonder cop|be&3S pro:dem|this det:art|a adj|grievous
+	n|wrong ?
+%gra:	1|8|LINK 2|3|JCT 3|8|JCT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|9|PRED 11|13|DET 12|13|MOD 13|10|OM 14|8|PUNCT
+%trn:	coord|and adv|even adv:tem|then prep|in det:num|one n|sense
+	pro:sub|we v|wonder cop|be&3S pro:dem|this det:art|a adj|grievous
+	n|wrong ?
+%grt:	1|8|LINK 2|3|JCT 3|8|JCT 4|8|JCT 5|6|QUANT 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|COMP 10|9|SUBJ 11|13|DET 12|13|MOD 13|9|PRED 14|8|PUNCT
+*PAR:	I_mean &i &i I guess in one way it is when her family forces Claire
+	to break off her engagement to him .
+%mor:	co|I_mean pro:sub|I v|guess prep|in det:num|one n|way pro:per|it
+	cop|be&3S conj|when det:poss|her n|family v|force-3S n:prop|Claire
+	inf|to v|break prep|off det:poss|her n|engage&dv-MENT prep|to
+	pro:obj|him .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|8|SUBJ 8|3|CJCT
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|8|CPRED 13|12|OBJ 14|15|INF 15|12|XJCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|15|JCT 20|19|POBJ 21|3|PUNCT
+%trn:	co|I_mean pro:sub|I v|guess prep|in det:num|one n|way pro:per|it
+	cop|be&3S conj|when det:poss|her n|family v|force-3S n:prop|Claire
+	inf|to v|break prep|off det:poss|her n|engage&dv-MENT prep|to
+	pro:obj|him .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|8|JCT 5|6|QUANT 6|4|POBJ 7|8|SUBJ
+	8|3|COMP 9|12|LINK 10|11|DET 11|12|SUBJ 12|8|CJCT 13|12|OBJ
+	14|15|INF 15|12|COMP 16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT
+	20|19|POBJ 21|3|PUNCT
+*PAR:	but in that chapter when Newman goes to the Bellegarde's home +//.
+%mor:	conj|but prep|in det:dem|that n|chapter conj|when n:prop|Newman
+	v|go-3S prep|to det:art|the adj|Bellegarde&dn-POSS n|home +//.
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|7|PUNCT
+%trn:	conj|but prep|in det:dem|that n|chapter conj|when n:prop|Newman
+	v|go-3S prep|to det:art|the adj|Bellegarde&dn-POSS n|home +//.
+%grt:	1|2|LINK 2|0|INCROOT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|JCT 9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*PAR:	that's after the night at the opera where Valentin becomes
+	embroiled in this situation that will lead to the duel and his death
+	.
+%mor:	pro:dem|that~cop|be&3S prep|after det:art|the n|night prep|at
+	det:art|the n|opera pro:rel|where n:prop|Valentin cop|become-3S
+	part|embroil-PASTP prep|in det:dem|this n|situate&dv-TION
+	pro:rel|that mod|will v|lead prep|to det:art|the n|duel coord|and
+	det:poss|his n|death .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|PRED 13|12|JCT 14|15|DET 15|13|POBJ
+	16|18|LINK 17|18|AUX 18|15|CMOD 19|18|JCT 20|21|DET 21|19|POBJ 22|18|CONJ
+	23|24|DET 24|22|COORD 25|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S prep|after det:art|the n|night prep|at
+	det:art|the n|opera pro:rel|where n:prop|Valentin cop|become-3S
+	part|embroil-PASTP prep|in det:dem|this n|situate&dv-TION
+	pro:rel|that mod|will v|lead prep|to det:art|the n|duel coord|and
+	det:poss|his n|death .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|5|CMOD 13|12|JCT 14|15|DET
+	15|13|POBJ 16|18|LINK 17|18|AUX 18|15|CMOD 19|18|JCT 20|21|DET
+	21|19|POBJ 22|21|CONJ 23|24|DET 24|22|COORD 25|2|PUNCT
+*PAR:	when [/] when Newman enters the house , their house , the next time
+	it says on page thirty twelve +"/.
+%mor:	conj|when n:prop|Newman v|enter-3S det:art|the n|house cm|cm
+	det:poss|their n|house cm|cm det:art|the adj|next n|time pro:per|it
+	v|say-3S prep|on n|page det:num|thirty det:num|twelve +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|LP 7|8|DET 8|5|ENUM
+	9|8|LP 10|12|DET 11|12|MOD 12|5|APP 13|14|SUBJ 14|12|CMOD 15|14|JCT
+	16|18|MOD 17|18|QUANT 18|15|POBJ 19|3|PUNCT
+%trn:	conj|when n:prop|Newman v|enter-3S det:art|the n|house cm|cm
+	det:poss|their n|house cm|cm det:art|the adj|next n|time pro:per|it
+	v|say-3S prep|on n|page det:num|thirty det:num|twelve +"/.
+%grt:	1|3|LINK 2|3|SUBJ 3|14|CJCT 4|5|DET 5|3|OBJ 6|5|LP 7|8|DET 8|5|APP
+	9|8|LP 10|12|DET 11|12|MOD 12|3|JCT 13|14|SUBJ 14|0|ROOT 15|14|JCT
+	16|15|POBJ 17|18|QUANT 18|16|POSTMOD 19|14|PUNCT
+*PAR:	+" he felt as_soon_as he entered the room that he was in the
+	presence of something evil .
+%mor:	pro:sub|he v|feel&PAST conj|as_soon_as pro:sub|he v|enter-PAST
+	det:art|the n|room pro:rel|that pro:sub|he cop|be&PAST&13S prep|in
+	det:art|the n|presence prep|of pro:indef|something adj|evil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|15|POSTMOD 17|2|PUNCT
+%trn:	pro:sub|he v|feel&PAST conj|as_soon_as pro:sub|he v|enter-PAST
+	det:art|the n|room comp|that pro:sub|he cop|be&PAST&13S prep|in
+	det:art|the n|presence prep|of pro:indef|something adj|evil .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|2|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT
+	15|14|POBJ 16|15|POSTMOD 17|2|PUNCT
+*PAR:	now there were a_lot_of reasons not to like the Bellegardes .
+%mor:	adv:tem|now pro:exist|there cop|be&PAST qn|a_lot_of n|reason-PL neg|not
+	inf|to v|like det:art|the n:prop|Bellegardes .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NEG 7|8|INF 8|5|XMOD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+%trn:	adv:tem|now pro:exist|there cop|be&PAST qn|a_lot_of n|reason-PL
+	neg|not inf|to v|like det:art|the n:prop|Bellegardes .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|8|NEG 7|8|INF
+	8|5|XMOD 9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	you_know they're snobbish , they're hidebound , they're on a high
+	horse and all this sort_of +...
+%mor:	co|you_know pro:sub|they~cop|be&PRES adj|snobbish cm|cm
+	pro:sub|they~cop|be&PRES adj|+n|hide+part|bound cm|cm
+	pro:sub|they~cop|be&PRES prep|on det:art|a adj|high n|horse
+	coord|and qn|all det:dem|this adv|sort_of +...
+%gra:	1|3|COM 2|3|SUBJ 3|11|CJCT 4|3|PRED 5|3|LP 6|11|SUBJ 7|11|AUX 8|7|PRED
+	9|8|LP 10|11|SUBJ 11|0|ROOT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|15|CONJ 17|18|QUANT 18|19|DET 19|16|COORD 20|11|PUNCT
+%trn:	co|you_know pro:sub|they~cop|be&PRES adj|snobbish cm|cm
+	pro:sub|they~cop|be&PRES adj|+n|hide+part|bound cm|cm
+	pro:sub|they~cop|be&PRES prep|on det:art|a adj|high n|horse
+	coord|and qn|all det:dem|this adv|sort_of +...
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|LP 6|7|SUBJ 7|3|CJCT 8|7|PRED
+	9|7|LP 10|11|SUBJ 11|3|CJCT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|15|CONJ 17|19|QUANT 18|19|DET 19|16|COORD 20|3|PUNCT
+*PAR:	but just <the night> [//] a few nights before Newman was well
+	sort_of teasing the old Marquis at the ball .
+%mor:	conj|but adv|just det:art|a qn|few n|night-PL prep|before
+	n:prop|Newman aux|be&PAST&13S co|well adv|sort_of part|tease-PRESP
+	det:art|the adj|old n:prop|Marquis prep|at det:art|the n|ball .
+%gra:	1|5|LINK 2|5|JCT 3|5|DET 4|5|QUANT 5|11|SUBJ 6|5|NJCT 7|6|POBJ 8|11|AUX
+	9|11|COM 10|11|JCT 11|0|ROOT 12|14|DET 13|14|MOD 14|11|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|11|PUNCT
+%trn:	conj|but adv|just det:art|a qn|few n|night-PL adv|before
+	n:prop|Newman aux|be&PAST&13S co|well adv|sort_of part|tease-PRESP
+	det:art|the adj|old n:prop|Marquis prep|at det:art|the n|ball .
+%grt:	1|11|LINK 2|5|JCT 3|5|DET 4|5|QUANT 5|11|JCT 6|5|NJCT 7|11|SUBJ
+	8|11|AUX 9|11|COM 10|11|JCT 11|0|ROOT 12|14|DET 13|14|MOD 14|11|OBJ
+	15|11|JCT 16|17|DET 17|15|POBJ 18|11|PUNCT
+*PAR:	he was in such a good mood and he was sort_of joshing with her and
+	joking with her and all this sort_of thing , &i &i you_know needling
+	her .
+%mor:	pro:sub|he cop|be&PAST&13S prep|in qn|such det:art|a adj|good
+	n|mood coord|and pro:sub|he aux|be&PAST&13S adv|sort_of
+	part|josh-PRESP prep|with pro:obj|her coord|and part|joke-PRESP
+	prep|with pro:obj|her coord|and qn|all det:dem|this adv|sort_of
+	n|thing cm|cm co|you_know part|needle-PRESP pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|QUANT 5|7|DET 6|7|MOD 7|3|POBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|7|CMOD 13|12|JCT 14|13|POBJ 15|12|CONJ
+	16|15|COORD 17|16|JCT 18|17|POBJ 19|16|CONJ 20|23|QUANT 21|23|DET
+	22|23|JCT 23|19|COORD 24|23|LP 25|26|COM 26|23|XJCT 27|26|OBJ 28|2|PUNCT
+%trn:	pro:sub|he cop|be&PAST&13S prep|in qn|such det:art|a adj|good
+	n|mood coord|and pro:sub|he aux|be&PAST&13S adv|sort_of
+	part|josh-PRESP prep|with pro:obj|her coord|and part|joke-PRESP
+	prep|with pro:obj|her coord|and qn|all det:dem|this adv|sort_of
+	n|thing cm|cm co|you_know part|needle-PRESP pro:obj|her .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|QUANT 5|7|DET 6|7|MOD 7|3|POBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|2|CJCT 13|12|JCT 14|13|POBJ
+	15|12|CONJ 16|15|COORD 17|16|JCT 18|17|POBJ 19|18|CONJ 20|23|QUANT
+	21|23|DET 22|23|JCT 23|19|COORD 24|23|LP 25|26|COM 26|23|XMOD
+	27|26|OBJ 28|2|PUNCT
+*PAR:	and she obviously didn't like this .
+%mor:	coord|and pro:sub|she adv|obvious&dadj-LY mod|do&PAST~neg|not
+	v|like pro:dem|this .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%trn:	coord|and pro:sub|she adv|obvious&dadj-LY mod|do&PAST~neg|not
+	v|like pro:dem|this .
+%grt:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	but the [/] the relationship between them is not one where he felt
+	that there was something evil .
+%mor:	conj|but det:art|the n|relate&dv-TION-SHIP prep|between
+	pro:obj|them cop|be&3S neg|not pro:indef|one pro:rel|where
+	pro:sub|he v|feel&PAST comp|that pro:exist|there cop|be&PAST&13S
+	pro:indef|something adj|evil .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|NEG 8|6|PRED
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|14|LINK 13|14|SUBJ 14|11|COMP
+	15|14|PRED 16|15|POSTMOD 17|6|PUNCT
+%trn:	conj|but det:art|the n|relate&dv-TION-SHIP prep|between
+	pro:obj|them cop|be&3S neg|not pro:indef|one pro:rel|where
+	pro:sub|he v|feel&PAST comp|that pro:exist|there cop|be&PAST&13S
+	pro:indef|something adj|evil .
+%grt:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|NEG
+	8|6|PRED 9|11|LINK 10|11|SUBJ 11|8|CMOD 12|14|LINK 13|14|SUBJ
+	14|11|COMP 15|14|PRED 16|15|POSTMOD 17|6|PUNCT
+*PAR:	what [/] what accounts in effect for the shift from a comedy of
+	manners ?
+%mor:	pro:int|what n|account-PL prep|in n|effect prep|for det:art|the
+	n|shift prep|from det:art|a n|comedy prep|of n|manner-PL ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|2|PUNCT
+%trn:	pro:int|what v|account-3S prep|in n|effect prep|for det:art|the
+	n|shift prep|from det:art|a n|comedy prep|of n|manner-PL ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|2|PUNCT
+*PAR:	what I suggested to you last time is that the first part of The
+	American is really a comedy of manners where you just have two
+	cultures clashing .
+%mor:	pro:int|what pro:sub|I v|suggest-PAST prep|to pro:per|you adj|last
+	n|time cop|be&3S comp|that det:art|the adj|first n|part prep|of
+	n:prop|The n:prop|American cop|be&3S adv|real&dadj-LY det:art|a
+	n|comedy prep|of n|manner-PL pro:rel|where pro:per|you adv|just
+	v|have det:num|two n|culture-PL part|clash-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|SUBJ 6|7|MOD 7|8|SUBJ 8|4|POBJ
+	9|16|LINK 10|12|DET 11|12|MOD 12|16|SUBJ 13|12|NJCT 14|13|POBJ 15|16|SUBJ
+	16|8|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|20|POBJ
+	22|25|LINK 23|25|SUBJ 24|25|JCT 25|21|CMOD 26|27|QUANT 27|25|OBJ 28|27|XMOD
+	29|3|PUNCT
+%trn:	pro:int|what pro:sub|I v|suggest-PAST prep|to pro:per|you adj|last
+	n|time cop|be&3S comp|that det:art|the adj|first n|part prep|of
+	n:prop|The n:prop|American cop|be&3S adv|real&dadj-LY det:art|a
+	n|comedy prep|of n|manner-PL pro:rel|where pro:per|you adv|just
+	v|have det:num|two n|culture-PL part|clash-PRESP .
+%grt:	1|3|LINK 2|3|SUBJ 3|8|CSUBJ 4|3|JCT 5|4|POBJ 6|7|MOD 7|3|JCT 8|0|ROOT
+	9|16|LINK 10|12|DET 11|12|MOD 12|16|SUBJ 13|12|NJCT 14|15|NAME
+	15|13|POBJ 16|8|CPRED 17|16|JCT 18|19|DET 19|16|PRED 20|19|NJCT
+	21|20|POBJ 22|25|LINK 23|25|SUBJ 24|25|JCT 25|19|CMOD 26|27|QUANT
+	27|25|OBJ 28|27|XMOD 29|8|PUNCT
+*PAR:	the brash frank spontaneous openhearted good+natured rather
+	ignorant American , Christopher Newman .
+%mor:	det:art|the adj|brash adj|frank adj|spontaneous
+	adj|+adj|open+part|hearted adj|+adj|good+part|natured adv|rather
+	adj|ignorant n:prop|American cm|cm n:prop|Christopher n:prop|Newman
+	.
+%gra:	1|3|DET 2|3|MOD 3|9|MOD 4|5|MOD 5|9|MOD 6|9|MOD 7|8|JCT 8|9|MOD
+	9|0|ROOT 10|9|LP 11|12|NAME 12|9|APP 13|9|PUNCT
+%trn:	det:art|the adj|brash adj|frank adj|spontaneous
+	adj|+adj|open+part|hearted adj|+adj|good+part|natured adv|rather
+	adj|ignorant n:prop|American cm|cm n:prop|Christopher n:prop|Newman
+	.
+%grt:	1|9|DET 2|9|MOD 3|9|MOD 4|9|MOD 5|9|MOD 6|9|MOD 7|8|JCT 8|9|MOD
+	9|0|INCROOT 10|9|LP 11|12|NAME 12|9|APP 13|9|PUNCT
+*PAR:	I_mean even that name is so symbolic isn't it ?
+%mor:	co|I_mean adv|even det:dem|that n|name cop|be&3S adv|so
+	adj|symbolic cop|be&3S~neg|not pro:per|it ?
+%gra:	1|4|COM 2|4|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PRED
+	9|8|NEG 10|8|SUBJ 11|5|PUNCT
+%trn:	co|I_mean adv|even det:dem|that n|name cop|be&3S adv|so adj|symbolic
+	cop|be&3S~neg|not pro:per|it ?
+%grt:	1|5|COM 2|4|NJCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|CJCT
+	9|8|NEG 10|8|SUBJ 11|5|PUNCT
+*PAR:	new man .
+%mor:	adj|new n|man .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%trn:	adj|new n|man .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	Christopher , the <founder of> [//] &the discoverer of the new
+	world at least in the old history .
+%mor:	n:prop|Christopher cm|cm det:art|the n|discover&dv-AGT prep|of
+	det:art|the adj|new n|world prep|at n|least prep|in det:art|the
+	adj|old n|history .
+%gra:	1|0|INCROOT 2|1|LP 3|4|DET 4|1|ENUM 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|1|PUNCT
+%trn:	n:prop|Christopher cm|cm det:art|the n|discover&dv-AGT prep|of
+	det:art|the adj|new n|world prep|at n|least prep|in det:art|the
+	adj|old n|history .
+%grt:	1|0|INCROOT 2|1|LP 3|4|DET 4|1|ENUM 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|NJCT 10|9|POBJ 11|4|NJCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|1|PUNCT
+*PAR:	so ‡ you have this [/] this figure on the one hand and then you
+	have the Bellegardes on the other , the upholders of tradition and
+	form and protocol and all the sort_of aristocratic prerogatives .
+%mor:	co|so beg|beg pro:per|you v|have det:dem|this n|figure prep|on
+	det:art|the det:num|one n|hand coord|and adv:tem|then pro:per|you
+	v|have det:art|the n:prop|Bellegardes prep|on det:art|the qn|other
+	cm|cm det:art|the up#n|hold&dv-AGT-PL prep|of n|tradition coord|and
+	n|form coord|and n|protocol coord|and qn|all det:art|the adv|sort_of
+	adj|aristocratic n|prerogative-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|14|LINK 12|14|JCT 13|14|SUBJ 14|4|CJCT 15|16|DET
+	16|14|OBJ 17|14|JCT 18|19|DET 19|17|POBJ 20|19|LP 21|22|DET 22|17|POBJ
+	23|22|NJCT 24|23|POBJ 25|24|CONJ 26|25|COORD 27|22|CONJ 28|27|COORD
+	29|22|CONJ 30|34|QUANT 31|34|DET 32|33|JCT 33|34|MOD 34|29|COORD 35|4|PUNCT
+%trn:	co|so beg|beg pro:per|you v|have det:dem|this n|figure prep|on
+	det:art|the det:num|one n|hand coord|and adv:tem|then pro:per|you
+	v|have det:art|the n:prop|Bellegardes prep|on det:art|the qn|other
+	cm|cm det:art|the up#n|hold&dv-AGT-PL prep|of n|tradition coord|and
+	n|form coord|and n|protocol coord|and qn|all det:art|the adv|sort_of
+	adj|aristocratic n|prerogative-PL .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|14|LINK 12|14|JCT 13|14|SUBJ 14|4|CJCT 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|19|LP 21|22|DET
+	22|16|APP 23|22|NJCT 24|23|POBJ 25|24|CONJ 26|25|COORD 27|26|CONJ
+	28|27|COORD 29|28|CONJ 30|34|QUANT 31|34|DET 32|33|JCT 33|34|MOD
+	34|29|COORD 35|4|PUNCT
+*PAR:	and the clash between these two is not really a moral one .
+%mor:	coord|and det:art|the n|clash prep|between det:dem|these
+	det:num|two cop|be&3S neg|not adv|real&dadj-LY det:art|a n|moral
+	pro:indef|one .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|NEG
+	9|12|JCT 10|12|DET 11|12|MOD 12|7|PRED 13|7|PUNCT
+%trn:	coord|and det:art|the n|clash prep|between det:dem|these
+	det:num|two cop|be&3S neg|not adv|real&dadj-LY det:art|a n|moral
+	pro:indef|one .
+%grt:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT
+	8|7|NEG 9|7|JCT 10|12|DET 11|12|MOD 12|7|PRED 13|7|PUNCT
+*PAR:	there's no right or wrong here so much as there is simply the ways
+	that two different cultures behave and the clash that occurs when
+	one [//] a figure from one of these cultures tries to insinuate
+	himself into the milieu of [/] of one of the others .
+%mor:	pro:exist|there~cop|be&3S qn|no adj|right coord|or n|wrong adv|here
+	adv|so adv|much conj|as pro:exist|there cop|be&3S adv|simple&dadj-LY
+	det:art|the n|way-PL pro:rel|that det:num|two adj|different
+	n|culture-PL v|behave coord|and det:art|the n|clash pro:rel|that
+	v|occur-3S conj|when det:art|a n|figure prep|from pro:indef|one
+	prep|of det:dem|these n|culture-PL v|try-3S inf|to v|insinuate
+	pro:refl|himself prep|into det:art|the n|milieu prep|of
+	pro:indef|one prep|of det:art|the n:pt|others .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|QUANT 4|7|JCT 5|4|CONJ 6|5|COORD 7|2|JCT 8|9|JCT
+	9|2|JCT 10|12|LINK 11|12|SUBJ 12|2|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|20|LINK 17|19|QUANT 18|19|MOD 19|20|SUBJ 20|15|CMOD 21|20|CONJ
+	22|23|DET 23|21|COORD 24|25|LINK 25|23|CMOD 26|34|LINK 27|28|DET 28|34|SUBJ
+	29|28|NJCT 30|29|POBJ 31|30|NJCT 32|33|DET 33|31|POBJ 34|25|CJCT 35|36|INF
+	36|34|COMP 37|36|OBJ 38|36|JCT 39|40|DET 40|38|POBJ 41|40|NJCT
+	42|41|POBJ 43|42|NJCT 44|45|DET 45|43|POBJ 46|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S qn|no adj|right coord|or adj|wrong
+	adv|here adv|so adv|much prep|as pro:exist|there cop|be&3S
+	adv|simple&dadj-LY det:art|the n|way-PL pro:rel|that det:num|two
+	adj|different n|culture-PL v|behave coord|and det:art|the n|clash
+	pro:rel|that v|occur-3S conj|when det:art|a n|figure prep|from
+	det:num|one prep|of det:dem|these n|culture-PL v|try-3S inf|to
+	v|insinuate pro:refl|himself prep|into det:art|the n|milieu prep|of
+	det:num|one prep|of det:art|the n:pt|others .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|CONJ 6|5|COORD 7|2|JCT
+	8|9|JCT 9|2|JCT 10|2|JCT 11|12|SUBJ 12|10|CPOBJ 13|12|JCT 14|15|DET
+	15|12|PRED 16|20|LINK 17|19|QUANT 18|19|MOD 19|20|SUBJ 20|15|CMOD
+	21|15|CONJ 22|23|DET 23|21|COORD 24|25|LINK 25|23|CMOD 26|34|LINK
+	27|28|DET 28|34|SUBJ 29|28|NJCT 30|29|POBJ 31|30|NJCT 32|33|DET
+	33|31|POBJ 34|25|CJCT 35|36|INF 36|34|COMP 37|36|OBJ 38|36|JCT
+	39|40|DET 40|38|POBJ 41|40|NJCT 42|41|POBJ 43|42|NJCT 44|45|DET
+	45|43|POBJ 46|2|PUNCT
+*PAR:	and so there's a certain degree of [/] of sort_of comic
+	misadventure going on here that in its own way is [/] is more
+	amusing than anything else .
+%mor:	coord|and co|so pro:exist|there~cop|be&3S det:art|a adj|certain
+	n|degree prep|of adv|sort_of adj|comic mis#n|adventure part|go-PRESP
+	prep|on n|here pro:rel|that prep|in det:poss|its adj|own n|way
+	aux|be&3S adv|more part|amuse-PRESP prep|than pro:indef|anything
+	post|else .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|10|JCT 10|8|POBJ 11|10|PRED 12|11|XMOD 13|12|JCT 14|13|POBJ 15|22|LINK
+	16|22|JCT 17|19|DET 18|19|MOD 19|22|SUBJ 20|22|AUX 21|22|JCT 22|14|CMOD
+	23|22|JCT 24|23|POBJ 25|24|PQ 26|4|PUNCT
+%trn:	coord|and co|so pro:exist|there~cop|be&3S det:art|a adj|certain
+	n|degree prep|of adv|sort_of adj|comic mis#n|adventure part|go-PRESP
+	prep|on adv|here pro:rel|that prep|in det:poss|its adj|own n|way
+	aux|be&3S adv|more part|amuse-PRESP prep|than pro:indef|anything
+	post|else .
+%grt:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|11|NJCT 10|11|MOD 11|8|POBJ 12|11|XMOD 13|12|JCT 14|12|JCT
+	15|22|LINK 16|22|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|22|AUX
+	21|22|JCT 22|11|CMOD 23|22|JCT 24|23|POBJ 25|24|PQ 26|4|PUNCT
+*PAR:	suddenly then in this next chapter Newman felt he was in the
+	presence of something evil .
+%mor:	adv|sudden&dadj-LY adv:tem|then prep|in det:dem|this adj|next
+	n|chapter n:prop|Newman v|feel&PAST pro:sub|he cop|be&PAST&13S
+	prep|in det:art|the n|presence prep|of pro:indef|something adj|evil
+	.
+%gra:	1|2|JCT 2|8|JCT 3|8|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|SUBJ 10|8|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|15|POSTMOD 17|8|PUNCT
+%trn:	adv|sudden&dadj-LY adv:tem|then prep|in det:dem|this adj|next
+	n|chapter n:prop|Newman v|feel&PAST pro:sub|he cop|be&PAST&13S
+	prep|in det:art|the n|presence prep|of pro:indef|something adj|evil
+	.
+%grt:	1|8|JCT 2|8|JCT 3|8|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|SUBJ 10|8|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|15|POSTMOD 17|8|PUNCT
+*PAR:	so_that at this point the novel turns from being novelistic to being
+	what James himself later identifies as +//.
+%mor:	conj|so_that prep|at det:dem|this n|point det:art|the n|novel
+	n|turn-PL prep|from n:gerund|be-PRESP adj|novel-IST-IC prep|to
+	n:gerund|be-PRESP pro:int|what n:prop|James pro:refl|himself
+	adv|later v|identify-3S prep|as +//.
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|DET 6|7|MOD 7|17|SUBJ 8|7|NJCT
+	9|8|POBJ 10|9|PRED 11|9|JCT 12|11|POBJ 13|15|DET 14|15|MOD 15|12|OBJ
+	16|17|JCT 17|0|ROOT 18|17|JCT 19|17|PUNCT
+%trn:	conj|so_that prep|at det:dem|this n|point det:art|the n|novel
+	v|turn-3S prep|from n:gerund|be-PRESP adj|novel-IST-IC prep|to
+	n:gerund|be-PRESP pro:int|what n:prop|James pro:refl|himself
+	adv|later v|identify-3S prep|as +//.
+%grt:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|6|DET 6|7|SUBJ 7|0|ROOT
+	8|7|NJCT 9|8|POBJ 10|9|PRED 11|7|JCT 12|11|POBJ 13|17|LINK
+	14|17|SUBJ 15|14|APP 16|17|JCT 17|12|CPRED 18|17|JCT 19|7|PUNCT
+*PAR:	we're &tur talking genre now .
+%mor:	pro:sub|we~aux|be&PRES part|talk-PRESP n|genre adv:tem|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%trn:	pro:sub|we~aux|be&PRES part|talk-PRESP n|genre adv:tem|now .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	a romance .
+%mor:	det:art|a n|romance .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%trn:	det:art|a n|romance .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	I said some of this to you last time but let me repeat it very
+	briefly .
+%mor:	pro:sub|I v|say&PAST pro:indef|some prep|of pro:dem|this prep|to
+	pro:per|you adj|last n|time conj|but v|let&ZERO pro:obj|me v|repeat
+	pro:per|it adv|very adv|brief&dadj-LY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|4|POBJ 6|2|JCT 7|9|MOD 8|9|MOD
+	9|6|POBJ 10|2|CONJ 11|10|COORD 12|11|OBJ 13|11|COMP 14|13|OBJ 15|16|JCT
+	16|13|JCT 17|2|PUNCT
+%trn:	pro:sub|I v|say&PAST pro:indef|some prep|of pro:dem|this prep|to
+	pro:per|you adj|last n|time conj|but v|let&ZERO pro:obj|me v|repeat
+	pro:per|it adv|very adv|brief&dadj-LY .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|4|POBJ 6|2|JCT 7|6|POBJ 8|9|MOD
+	9|2|JCT 10|11|LINK 11|2|XJCT 12|11|OBJ 13|11|COMP 14|13|OBJ
+	15|16|JCT 16|13|JCT 17|2|PUNCT
+*PAR:	the novel deals with the true to life , the ordinary , the everyday
+	.
+%mor:	det:art|the n|novel n|deal-PL prep|with det:art|the adj|true
+	prep|to n|life cm|cm det:art|the adj|ordinary cm|cm det:art|the
+	adj|everyday .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|INF 8|6|CMOD
+	9|8|LP 10|11|DET 11|8|ENUM 12|11|LP 13|14|DET 14|11|JCT 15|3|PUNCT
+%trn:	det:art|the n|novel v|deal-3S prep|with det:art|the adj|true prep|to
+	n|life cm|cm det:art|the adj|ordinary cm|cm det:art|the adj|everyday
+	.
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|6|LP 10|11|DET 11|6|ENUM 12|11|LP 13|14|DET 14|11|ENUM 15|3|PUNCT
+*PAR:	and to a great degree the criterion for judging a novel is
+	verisimilitude , trueness to life .
+%mor:	coord|and prep|to det:art|a adj|great n|degree det:art|the
+	n|criterion prep|for n:gerund|judge-PRESP det:art|a n|novel
+	cop|be&3S n|verisimilitude cm|cm n|true&dadj-NESS prep|to n|life .
+%gra:	1|2|LINK 2|0|INCROOT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|DET 7|2|POBJ 8|7|NJCT
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|8|CPOBJ 13|12|PRED 14|13|LP
+	15|13|ENUM 16|15|NJCT 17|16|POBJ 18|2|PUNCT
+%trn:	coord|and prep|to det:art|a adj|great n|degree det:art|the
+	n|criterion prep|for n:gerund|judge-PRESP det:art|a n|novel
+	cop|be&3S n|verisimilitude cm|cm n|true&dadj-NESS prep|to n|life .
+%grt:	1|12|LINK 2|12|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|DET 7|12|SUBJ
+	8|7|NJCT 9|8|POBJ 10|11|DET 11|9|OBJ 12|0|ROOT 13|12|PRED 14|13|LP
+	15|13|ENUM 16|15|NJCT 17|16|POBJ 18|12|PUNCT
+*PAR:	does that represent life as we live it , as we experience ?
+%mor:	mod|do&3S pro:dem|that v|represent n|life conj|as pro:sub|we v|live
+	pro:per|it cm|cm conj|as pro:sub|we v|experience ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|7|LP 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|3|PUNCT
+%trn:	mod|do&3S pro:dem|that v|represent n|life conj|as pro:sub|we v|live
+	pro:per|it cm|cm conj|as pro:sub|we v|experience ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|OBJ
+	9|7|LP 10|12|LINK 11|12|SUBJ 12|4|CMOD 13|3|PUNCT
+*PAR:	does it seem to us then true ?
+%mor:	mod|do&3S pro:per|it cop|seem prep|to pro:obj|us adv:tem|then
+	adj|true ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|JCT 7|4|POBJ 8|3|PUNCT
+%trn:	mod|do&3S pro:per|it cop|seem prep|to pro:obj|us adv:tem|then
+	adj|true ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|PRED 8|3|PUNCT
+*PAR:	this is not the criterion of [/] of the romance .
+%mor:	pro:dem|this cop|be&3S neg|not det:art|the n|criterion prep|of
+	det:art|the n|romance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%trn:	pro:dem|this cop|be&3S neg|not det:art|the n|criterion prep|of
+	det:art|the n|romance .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	the romance by its very nature deals with the extraordinary , often
+	with the supernatural , if not that maybe with the preternatural ,
+	so_that you get extreme situations and things happen in romances
+	that don't happen in everyday life .
+%mor:	det:art|the n|romance prep|by det:poss|its adv|very n|nature
+	n|deal-PL prep|with det:art|the extra#adj|ordinary cm|cm adv|often
+	prep|with det:art|the n|supernatural cm|cm conj|if neg|not
+	pro:dem|that adv|maybe prep|with det:art|the adj|preternatural cm|cm
+	conj|so_that pro:per|you v|get adj|extreme n|situate&dv-TION-PL
+	coord|and n|thing-PL v|happen prep|in n|romance-PL pro:rel|that
+	mod|do~neg|not v|happen prep|in adj|everyday n|life .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|7|DET 5|6|JCT 6|7|MOD 7|3|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|2|LP 12|2|ENUM 13|12|JCT 14|15|DET 15|13|POBJ
+	16|12|LP 17|32|LINK 18|17|NEG 19|17|ENUM 20|21|JCT 21|19|NJCT 22|23|DET
+	23|21|POBJ 24|19|LP 25|27|LINK 26|27|SUBJ 27|32|CJCT 28|29|MOD 29|32|SUBJ
+	30|29|CONJ 31|30|COORD 32|2|CJCT 33|32|JCT 34|33|POBJ 35|38|LINK 36|38|AUX
+	37|36|NEG 38|34|CMOD 39|38|JCT 40|41|MOD 41|39|POBJ 42|2|PUNCT
+%trn:	det:art|the n|romance prep|by det:poss|its adv|very n|nature
+	v|deal-3S prep|with det:art|the extra#adj|ordinary cm|cm adv|often
+	prep|with det:art|the n|supernatural cm|cm conj|if neg|not
+	pro:dem|that adv|maybe prep|with det:art|the adj|preternatural cm|cm
+	conj|so_that pro:per|you v|get adj|extreme n|situate&dv-TION-PL
+	coord|and n|thing-PL v|happen prep|in n|romance-PL pro:rel|that
+	mod|do~neg|not v|happen prep|in adj|everyday n|life .
+%grt:	1|2|DET 2|7|SUBJ 3|7|JCT 4|6|DET 5|6|NJCT 6|3|POBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|8|LP 12|13|JCT 13|8|ENUM 14|15|DET 15|13|POBJ
+	16|13|LP 17|19|LINK 18|19|NEG 19|21|JCT 20|21|JCT 21|13|ENUM
+	22|23|DET 23|21|POBJ 24|21|LP 25|27|LINK 26|27|SUBJ 27|7|CJCT
+	28|29|MOD 29|27|OBJ 30|32|LINK 31|32|SUBJ 32|27|CJCT 33|32|JCT
+	34|33|POBJ 35|38|LINK 36|38|AUX 37|36|NEG 38|31|CMOD 39|38|JCT
+	40|41|MOD 41|39|POBJ 42|7|PUNCT
+*PAR:	I remember when certain critics were objecting about that movie
+	Pocahontas .
+%mor:	pro:sub|I v|remember conj|when adj|certain n|critic-PL aux|be&PAST
+	part|object-PRESP prep|about det:dem|that n|movie n:prop|Pocahontas
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|5|MOD 5|7|SUBJ 6|7|AUX 7|2|CJCT 8|7|JCT
+	9|10|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+%trn:	pro:sub|I v|remember conj|when adj|certain n|critic-PL aux|be&PAST
+	part|object-PRESP prep|about det:dem|that n|movie n:prop|Pocahontas
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|5|MOD 5|7|SUBJ 6|7|AUX 7|2|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|APP 12|2|PUNCT
+*PAR:	did you see that ?
+%mor:	mod|do&PAST pro:per|you v|see pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%trn:	mod|do&PAST pro:per|you v|see pro:dem|that ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	that it wasn't historically accurate .
+%mor:	comp|that pro:per|it cop|be&PAST&13S~neg|not
+	adv|historic&dadj-AL-LY adj|accurate .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|PRED 7|3|PUNCT
+%trn:	comp|that pro:per|it cop|be&PAST&13S~neg|not
+	adv|historic&dadj-AL-LY adj|accurate .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|PRED 7|3|PUNCT
+*PAR:	and Mel Gibson said +"/.
+%mor:	coord|and n:prop|Mel n:prop|Gibson v|say&PAST +"/.
+%gra:	1|4|LINK 2|3|NAME 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	coord|and n:prop|Mel n:prop|Gibson v|say&PAST +"/.
+%grt:	1|4|LINK 2|3|NAME 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	+" for God's sake there's a raccoon in it that talks .
+%mor:	prep|for adj|God&dn-POSS n|sake pro:exist|there~cop|be&3S det:art|a
+	n|raccoon prep|in pro:per|it pro:rel|that v|talk-3S .
+%gra:	1|5|JCT 2|3|MOD 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|11|LINK 11|9|CMOD 12|5|PUNCT
+%trn:	prep|for adj|God&dn-POSS n|sake pro:exist|there~cop|be&3S det:art|a
+	n|raccoon prep|in pro:per|it pro:rel|that v|talk-3S .
+%grt:	1|5|JCT 2|3|MOD 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|11|LINK 11|7|CMOD 12|5|PUNCT
+*PAR:	+" &=laughs of_course it's not historically accurate .
+%mor:	co|of_course pro:per|it~cop|be&3S neg|not adv|historic&dadj-AL-LY
+	adj|accurate .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|PRED 7|3|PUNCT
+%trn:	co|of_course pro:per|it~cop|be&3S neg|not adv|historic&dadj-AL-LY
+	adj|accurate .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|PRED 7|3|PUNCT
+*PAR:	so ‡ &i you_know in other words you don't expect historical
+	accuracy of a work that never claims to be a work of history .
+%mor:	co|so beg|beg co|you_know prep|in qn|other n|word-PL pro:per|you
+	mod|do~neg|not v|expect adj|historic-AL n|accuracy prep|of det:art|a
+	n|work pro:rel|that adv:tem|never v|claim-3S inf|to cop|be det:art|a
+	n|work prep|of n|history .
+%gra:	1|0|BEG 2|1|BEGP 3|10|COM 4|10|JCT 5|6|QUANT 6|4|POBJ 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|0|ROOT 11|12|MOD 12|10|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|18|LINK 17|18|JCT 18|15|CMOD 19|20|INF 20|18|COMP 21|22|DET
+	22|20|PRED 23|22|NJCT 24|23|POBJ 25|10|PUNCT
+%trn:	co|so beg|beg co|you_know prep|in qn|other n|word-PL pro:per|you
+	mod|do~neg|not v|expect adj|historic-AL n|accuracy prep|of det:art|a
+	n|work pro:rel|that adv:tem|never v|claim-3S inf|to cop|be det:art|a
+	n|work prep|of n|history .
+%grt:	1|0|BEG 2|1|BEGP 3|10|COM 4|10|JCT 5|6|QUANT 6|4|POBJ 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|0|ROOT 11|12|MOD 12|10|OBJ 13|10|JCT 14|15|DET
+	15|13|POBJ 16|18|LINK 17|18|JCT 18|15|CMOD 19|20|INF 20|18|COMP
+	21|22|DET 22|20|PRED 23|22|NJCT 24|23|POBJ 25|10|PUNCT
+*PAR:	but it is instead a kind of fantasy so_that romance certainly
+	shades into fantasy or to the extraordinary the extreme the
+	preternatural something like that .
+%mor:	conj|but pro:per|it cop|be&3S adv|instead det:art|a n|kind prep|of
+	n|fantasy conj|so_that n|romance adv|certain&dadj-LY n|shade-PL
+	prep|into n|fantasy coord|or prep|to det:art|the extra#adj|ordinary
+	det:art|the adj|extreme det:art|the adj|preternatural
+	pro:indef|something prep|like pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|3|CJCT 13|12|NJCT 14|13|POBJ 15|12|CONJ
+	16|15|COORD 17|18|DET 18|16|POBJ 19|20|DET 20|16|POBJ 21|23|DET
+	22|23|MOD 23|20|CMOD 24|23|NJCT 25|24|POBJ 26|3|PUNCT
+%trn:	conj|but pro:per|it cop|be&3S adv|instead det:art|a n|kind prep|of
+	n|fantasy conj|so_that n|romance adv|certain&dadj-LY v|shade-3S
+	prep|into n|fantasy coord|or prep|to det:art|the extra#adj|ordinary
+	det:art|the adj|extreme det:art|the adj|preternatural
+	pro:indef|something prep|like pro:dem|that .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|3|CJCT 13|12|JCT 14|13|POBJ
+	15|13|CONJ 16|15|COORD 17|18|DET 18|16|POBJ 19|20|DET 20|18|ENUM
+	21|22|DET 22|20|ENUM 23|22|ENUM 24|23|NJCT 25|24|POBJ 26|3|PUNCT
+*PAR:	and so we [/] we suddenly move from being in the world of the novel
+	where we have this comic clash of manners to [/] to a world of
+	romance in the literary sense .
+%mor:	coord|and co|so pro:sub|we adv|sudden&dadj-LY v|move prep|from
+	n:gerund|be-PRESP prep|in det:art|the n|world prep|of det:art|the
+	n|novel pro:rel|where pro:sub|we v|have det:dem|this adj|comic
+	n|clash prep|of n|manner-PL prep|to det:art|a n|world prep|of
+	n|romance prep|in det:art|the adj|literary n|sense .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|SUBJ
+	16|13|CMOD 17|19|DET 18|19|MOD 19|16|OBJ 20|19|NJCT 21|20|POBJ 22|19|NJCT
+	23|24|DET 24|22|POBJ 25|24|NJCT 26|25|POBJ 27|26|NJCT 28|30|DET
+	29|30|MOD 30|27|POBJ 31|5|PUNCT
+%trn:	coord|and co|so pro:sub|we adv|sudden&dadj-LY v|move prep|from
+	n:gerund|be-PRESP prep|in det:art|the n|world prep|of det:art|the
+	n|novel pro:rel|where pro:sub|we v|have det:dem|this adj|comic
+	n|clash prep|of n|manner-PL prep|to det:art|a n|world prep|of
+	n|romance prep|in det:art|the adj|literary n|sense .
+%grt:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|SUBJ
+	16|10|CMOD 17|19|DET 18|19|MOD 19|16|OBJ 20|19|NJCT 21|20|POBJ
+	22|5|JCT 23|24|DET 24|22|POBJ 25|24|NJCT 26|25|POBJ 27|26|NJCT
+	28|30|DET 29|30|MOD 30|27|POBJ 31|5|PUNCT
+*PAR:	this has nothing to do with kissiekissie@n but to the strange , the
+	ominous , oh inexplicable .
+%mor:	pro:dem|this v|have&3S pro:indef|nothing inf|to v|do prep|with
+	neo|kissiekissie conj|but prep|to det:art|the adj|strange cm|cm
+	det:art|the adj|ominous cm|cm co|oh adj|inexplicable .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XJCT 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD 10|11|DET 11|9|POBJ 12|11|LP 13|14|DET 14|9|POBJ 15|14|LP
+	16|17|COM 17|14|ENUM 18|2|PUNCT
+%trn:	pro:dem|this v|have&3S pro:indef|nothing inf|to v|do prep|with
+	neo|kissiekissie conj|but prep|to det:art|the adj|strange cm|cm
+	det:art|the adj|ominous cm|cm co|oh adj|inexplicable .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XMOD 6|5|JCT 7|6|POBJ
+	8|6|CONJ 9|8|COORD 10|11|DET 11|9|POBJ 12|11|LP 13|14|DET
+	14|11|ENUM 15|14|LP 16|17|COM 17|14|ENUM 18|2|PUNCT
+*PAR:	so [/] so ‡ how is James going to make the Bellegardes seem not
+	just stuffy not just arrogant but evil ?
+%mor:	co|so beg|beg pro:int|how aux|be&3S n:prop|James part|go-PRESP
+	inf|to v|make det:art|the n:prop|Bellegardes cop|seem neg|not
+	adv|just adj|stuffy neg|not adv|just adj|arrogant conj|but adj|evil
+	?
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|11|SUBJ 11|8|COMP 12|11|NEG 13|14|JCT 14|11|PRED 15|14|NEG
+	16|17|JCT 17|14|JCT 18|17|CONJ 19|18|COORD 20|6|PUNCT
+%trn:	co|so beg|beg pro:int|how aux|be&3S n:prop|James part|go-PRESP
+	inf|to v|make det:art|the n:prop|Bellegardes cop|seem neg|not
+	adv|just adj|stuffy neg|not adv|just adj|arrogant conj|but adj|evil
+	?
+%grt:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|8|COMP 12|14|NEG 13|14|JCT 14|11|PRED
+	15|17|NEG 16|17|JCT 17|14|ENUM 18|17|CONJ 19|18|COORD 20|6|PUNCT
+*PAR:	and in what way then does that impact on [/] on Christopher Newman
+	?
+%mor:	coord|and prep|in det:int|what n|way adv:tem|then mod|do&3S
+	pro:dem|that v|impact prep|on n:prop|Christopher n:prop|Newman ?
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|2|POBJ 5|8|JCT 6|8|AUX 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|NAME 11|9|POBJ 12|8|PUNCT
+%trn:	coord|and prep|in det:int|what n|way adv:tem|then mod|do&3S
+	pro:dem|that v|impact prep|on n:prop|Christopher n:prop|Newman ?
+%grt:	1|8|LINK 2|8|JCT 3|4|DET 4|2|POBJ 5|8|JCT 6|8|AUX 7|8|SUBJ
+	8|0|ROOT 9|8|JCT 10|11|NAME 11|9|POBJ 12|8|PUNCT
+*PAR:	after all &i &i I think James later in his career would have been
+	perfectly able and willing to have made a novel out_of nothing more
+	than their forcing Claire to break off the engagement .
+%mor:	prep|after pro:indef|all pro:sub|I v|think n:prop|James adv|later
+	prep|in det:poss|his n|career mod|will&COND aux|have cop|be&PASTP
+	adv|perfect&dadj-LY adj|able coord|and adj|willing inf|to aux|have
+	part|make&PASTP det:art|a n|novel prep|out_of pro:indef|nothing
+	post|more prep|than det:poss|their n:gerund|force-PRESP
+	n:prop|Claire prep|to n|break prep|off det:art|the n|engage&dv-MENT
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|12|CJCT 5|4|OBJ 6|4|JCT 7|4|JCT 8|9|DET
+	9|7|POBJ 10|12|AUX 11|12|AUX 12|0|ROOT 13|14|JCT 14|12|PRED 15|12|CONJ
+	16|15|COORD 17|19|INF 18|19|AUX 19|16|XMOD 20|21|DET 21|19|OBJ 22|16|JCT
+	23|22|POBJ 24|23|PQ 25|16|JCT 26|27|DET 27|25|POBJ 28|27|OBJ 29|28|NJCT
+	30|29|POBJ 31|27|JCT 32|33|DET 33|31|POBJ 34|12|PUNCT
+%trn:	prep|after pro:indef|all pro:sub|I v|think n:prop|James adv|later
+	prep|in det:poss|his n|career mod|will&COND aux|have cop|be&PASTP
+	adv|perfect&dadj-LY adj|able coord|and adj|willing inf|to aux|have
+	part|make&PASTP det:art|a n|novel prep|out_of pro:indef|nothing
+	post|more prep|than det:poss|their n:gerund|force-PRESP n:prop|Claire
+	inf|to v|break prep|off det:art|the n|engage&dv-MENT .
+%grt:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|12|SUBJ 6|12|JCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|AUX 11|12|AUX 12|4|COMP 13|14|JCT 14|12|PRED
+	15|14|CONJ 16|15|COORD 17|19|INF 18|19|AUX 19|14|XMOD 20|21|DET
+	21|19|OBJ 22|19|JCT 23|22|POBJ 24|23|PQ 25|24|NJCT 26|27|DET
+	27|25|POBJ 28|27|OBJ 29|30|INF 30|27|COMP 31|30|JCT 32|33|DET
+	33|31|POBJ 34|4|PUNCT
+*PAR:	see ‡ you can get great literature out_of families getting in the
+	way of love , you_know Romeo and Juliet , all that sort of thing .
+%mor:	co|see beg|beg pro:per|you mod|can v|get adj|great n|literature
+	prep|out_of n|family-PL part|get-PRESP prep|in det:art|the n|way
+	prep|of n|love cm|cm co|you_know n:prop|Romeo coord|and
+	n:prop|Juliet cm|cm qn|all det:dem|that n|sort prep|of n|thing .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|5|XJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|5|LP 17|18|COM 18|5|CJCT 19|18|CONJ 20|19|COORD 21|18|LP 22|24|QUANT
+	23|24|DET 24|18|APP 25|24|NJCT 26|25|POBJ 27|5|PUNCT
+%trn:	co|see beg|beg pro:per|you mod|can v|get adj|great n|literature
+	prep|out_of n|family-PL part|get-PRESP prep|in det:art|the n|way
+	prep|of n|love cm|cm co|you_know n:prop|Romeo coord|and
+	n:prop|Juliet cm|cm qn|all det:dem|that n|sort prep|of n|thing .
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|10|SUBJ 10|8|CPOBJ 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT
+	15|14|POBJ 16|5|LP 17|18|COM 18|5|CJCT 19|18|CONJ 20|19|COORD
+	21|18|LP 22|24|QUANT 23|24|DET 24|18|ENUM 25|24|NJCT 26|25|POBJ
+	27|5|PUNCT
+*PAR:	and I think James would have done that .
+%mor:	coord|and pro:sub|I v|think n:prop|James mod|will&COND aux|have
+	part|do&PASTP pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|AUX 7|3|COMP 8|7|OBJ
+	9|3|PUNCT
+%trn:	coord|and pro:sub|I v|think n:prop|James mod|will&COND aux|have
+	part|do&PASTP pro:dem|that .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|AUX 7|3|COMP 8|7|OBJ
+	9|3|PUNCT
+*PAR:	here however he complicates it by wanting to make this in a sense
+	really a kind of melodrama of good and evil .
+%mor:	adv|here adv|however pro:sub|he v|complicate-3S pro:per|it adv|by
+	part|want-PRESP inf|to v|make pro:dem|this prep|in det:art|a n|sense
+	adv|real&dadj-LY det:art|a n|kind prep|of n|melodrama prep|of
+	adj|good coord|and adj|evil .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|XJCT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|9|JCT 15|16|DET
+	16|14|POBJ 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|19|POBJ 21|20|CONJ 22|21|COORD
+	23|4|PUNCT
+%trn:	adv|here adv|however pro:sub|he v|complicate-3S pro:per|it prep|by
+	n:gerund|want-PRESP inf|to v|make pro:dem|this prep|in det:art|a
+	n|sense adv|real&dadj-LY det:art|a n|kind prep|of n|melodrama prep|of
+	adj|good coord|and adj|evil .
+%grt:	1|4|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|9|INF
+	9|7|COMP 10|9|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|JCT 15|16|DET
+	16|10|POSTMOD 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|19|POBJ 21|20|CONJ
+	22|21|COORD 23|4|PUNCT
+*PAR:	and the Bellegardes then in some way hafta be &b &i or [//]
+	transmogrified +//?
+%mor:	coord|and det:art|the n:prop|Bellegardes adv:tem|then prep|in
+	qn|some n|way mod|have~inf|to aux|be part|transmogrify-PASTP +//?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|11|JCT 5|11|LINK 6|7|QUANT 7|11|JCT
+	8|11|AUX 9|11|INF 10|11|AUX 11|0|ROOT 12|11|PUNCT
+%trn:	coord|and det:art|the n:prop|Bellegardes adv:tem|then prep|in
+	qn|some n|way mod|have~inf|to aux|be part|transmogrify-PASTP +//?
+%grt:	1|11|LINK 2|3|DET 3|11|SUBJ 4|11|JCT 5|11|JCT 6|7|QUANT 7|5|POBJ
+	8|11|AUX 9|11|INF 10|11|AUX 11|0|ROOT 12|11|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's a big word for our recording today .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|big n|word prep|for
+	det:poss|our n:gerund|record-PRESP adv:tem|today .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|JCT 10|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S det:art|a adj|big n|word prep|for
+	det:poss|our n:gerund|record-PRESP adv:tem|today .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|2|PUNCT
+*PAR:	&=laughs:multiple hafta be transmogrified into something far more
+	sinister than simply arrogant aristocrats who say to Newman +"/.
+%mor:	mod|have~inf|to aux|be part|transmogrify-PASTP prep|into
+	pro:indef|something adv|far adv|more adj|sinister prep|than
+	adv|simple&dadj-LY adj|arrogant n|aristocrat-PL pro:rel|who v|say
+	prep|to n:prop|Newman +"/.
+%gra:	1|4|AUX 2|4|INF 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|JCT
+	9|4|JCT 10|9|JCT 11|12|JCT 12|13|MOD 13|10|POBJ 14|15|LINK 15|13|CMOD
+	16|15|JCT 17|16|POBJ 18|4|PUNCT
+%trn:	mod|have~inf|to aux|be part|transmogrify-PASTP prep|into
+	pro:indef|something adv|far adv|more adj|sinister prep|than
+	adv|simple&dadj-LY adj|arrogant n|aristocrat-PL pro:rel|who v|say
+	prep|to n:prop|Newman +"/.
+%grt:	1|4|AUX 2|4|INF 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|JCT 8|9|JCT
+	9|6|POSTMOD 10|9|JCT 11|13|NJCT 12|13|MOD 13|10|POBJ 14|15|LINK
+	15|13|CMOD 16|15|JCT 17|16|POBJ 18|4|PUNCT
+*PAR:	+" we made her break it off .
+%mor:	pro:sub|we v|make&PAST det:poss|her n|break pro:per|it adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|OBJ 6|5|JCT 7|2|PUNCT
+%trn:	pro:sub|we v|make&PAST pro:obj|her v|break pro:per|it adv|off .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*PAR:	says the Marquis +".
+%mor:	v|say-3S det:art|the n:prop|Marquis +".
+%gra:	1|0|ROOT 2|3|DET 3|1|SUBJ 4|1|PUNCT
+%trn:	v|say-3S det:art|the n:prop|Marquis +".
+%grt:	1|0|ROOT 2|3|DET 3|1|SUBJ 4|1|PUNCT
+*PAR:	+" I could not in the last analysis reconcile myself to a
+	commercial person .
+%mor:	pro:sub|I mod|could neg|not prep|in det:art|the adj|last n|analysis
+	v|reconcile pro:refl|myself prep|to det:art|a adj|commercial
+	n|person .
+%gra:	1|8|SUBJ 2|8|AUX 3|2|NEG 4|8|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|8|PUNCT
+%trn:	pro:sub|I mod|could neg|not prep|in det:art|the adj|last
+	n|analysis v|reconcile pro:refl|myself prep|to det:art|a
+	adj|commercial n|person .
+%grt:	1|8|SUBJ 2|8|AUX 3|2|NEG 4|8|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|8|PUNCT
+*PAR:	now you_know okay that might be , how would you say , unfair .
+%mor:	adv:tem|now co|you_know co|okay pro:dem|that mod|might cop|be cm|cm
+	pro:int|how mod|will&COND pro:per|you v|say cm|cm un#adj|fair .
+%gra:	1|6|JCT 2|6|COM 3|6|COM 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|LP 8|11|JCT
+	9|11|AUX 10|11|SUBJ 11|6|ENUM 12|11|LP 13|6|ENUM 14|6|PUNCT
+%trn:	adv:tem|now co|you_know co|okay pro:dem|that mod|might cop|be cm|cm
+	pro:int|how mod|will&COND pro:per|you v|say cm|cm un#adj|fair .
+%grt:	1|6|JCT 2|6|COM 3|6|COM 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|LP 8|11|LINK
+	9|11|AUX 10|11|SUBJ 11|6|CJCT 12|11|LP 13|6|PRED 14|6|PUNCT
+*PAR:	<it might be bad> [//] it might even be in bad faith .
+%mor:	pro:per|it mod|might adv|even cop|be prep|in adj|bad n|faith .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+%trn:	pro:per|it mod|might adv|even cop|be prep|in adj|bad n|faith .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*PAR:	they [/] &ha &a they had after all made a bargain of sorts with
+	Newman and then they're now acting in bad faith .
+%mor:	pro:sub|they aux|have&PAST prep|after pro:indef|all part|make&PASTP
+	det:art|a n|bargain prep|of n|sort-PL prep|with n:prop|Newman
+	coord|and adv:tem|then pro:sub|they~aux|be&PRES adv:tem|now
+	part|act-PRESP prep|in adj|bad n|faith .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|JCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|5|XJCT 18|17|JCT 19|20|MOD 20|18|POBJ 21|5|PUNCT
+%trn:	pro:sub|they aux|have&PAST prep|after pro:indef|all part|make&PASTP
+	det:art|a n|bargain prep|of n|sort-PL prep|with n:prop|Newman
+	coord|and adv:tem|then pro:sub|they~aux|be&PRES adv:tem|now
+	part|act-PRESP prep|in adj|bad n|faith .
+%grt:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|JCT 11|10|POBJ 12|17|LINK 13|17|JCT 14|17|SUBJ
+	15|17|AUX 16|17|JCT 17|5|CJCT 18|17|JCT 19|20|MOD 20|18|POBJ
+	21|5|PUNCT
+*PAR:	all that may be true but it's a long way from that to saying +"/.
+%mor:	qn|all pro:dem|that mod|may cop|be adj|true conj|but
+	pro:per|it~cop|be&3S det:art|a adj|long n|way prep|from pro:dem|that
+	prep|to n:gerund|say-PRESP +"/.
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|11|DET 10|11|MOD 11|8|PRED 12|11|NJCT 13|12|POBJ 14|11|NJCT
+	15|14|POBJ 16|4|PUNCT
+%trn:	qn|all pro:dem|that mod|may cop|be adj|true conj|but
+	pro:per|it~cop|be&3S det:art|a adj|long n|way prep|from pro:dem|that
+	prep|to n:gerund|say-PRESP +"/.
+%grt:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|8|LINK 7|8|SUBJ
+	8|4|CJCT 9|11|DET 10|11|MOD 11|8|PRED 12|11|NJCT 13|12|POBJ
+	14|11|NJCT 15|14|POBJ 16|4|PUNCT
+*PAR:	+" I felt I was in the presence of something evil .
+%mor:	pro:sub|I v|feel&PAST pro:sub|I cop|be&PAST&13S prep|in det:art|the
+	n|presence prep|of pro:indef|something adj|evil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|9|POSTMOD 11|2|PUNCT
+%trn:	pro:sub|I v|feel&PAST pro:sub|I cop|be&PAST&13S prep|in det:art|the
+	n|presence prep|of pro:indef|something adj|evil .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|9|POSTMOD 11|2|PUNCT
+*PAR:	and that the reader is supposed to share I think that feeling that
+	there's something very dark and sinister going on in the house of
+	Bellegarde .
+%mor:	coord|and comp|that det:art|the n|read&dv-AGT aux|be&3S
+	part|suppose-PASTP prep|to n|share pro:sub|I v|think comp|that
+	n:gerund|feel-PRESP comp|that pro:exist|there~cop|be&3S
+	pro:indef|something adv|very adj|dark coord|and adj|sinister
+	part|go-PRESP adv|on prep|in det:art|the n|house prep|of
+	n:prop|Bellegarde .
+%gra:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|10|SUBJ 10|6|CJCT 11|10|OBJ 12|11|OBJ 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|15|PRED 17|18|JCT 18|16|POSTMOD 19|18|CONJ 20|19|COORD 21|20|XMOD
+	22|21|JCT 23|21|JCT 24|25|DET 25|23|POBJ 26|25|NJCT 27|26|POBJ 28|6|PUNCT
+%trn:	coord|and comp|that det:art|the n|read&dv-AGT aux|be&3S
+	part|suppose-PASTP inf|to v|share pro:sub|I v|think det:dem|that
+	n:gerund|feel-PRESP pro:rel|that pro:exist|there~cop|be&3S
+	pro:indef|something adv|very adj|dark coord|and adj|sinister
+	part|go-PRESP adv|on prep|in det:art|the n|house prep|of
+	n:prop|Bellegarde .
+%grt:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|SUBJ 10|8|CJCT 11|12|DET 12|8|OBJ 13|15|LINK 14|15|SUBJ
+	15|12|CMOD 16|15|PRED 17|18|JCT 18|16|POSTMOD 19|18|CONJ 20|19|COORD
+	21|16|XMOD 22|21|JCT 23|21|JCT 24|25|DET 25|23|POBJ 26|25|NJCT
+	27|26|POBJ 28|6|PUNCT
+*PAR:	and indeed on his dying bed Valentin divulges that there's some
+	great dark family secret and that there's a letter that contains all
+	this and if Newman could only come into the possession of that
+	letter +...
+%mor:	coord|and adv|indeed adv|on det:poss|his n:gerund|die-PRESP n|bed
+	n:prop|Valentin v|divulge-3S comp|that pro:exist|there~cop|be&3S
+	qn|some adj|great adj|dark n|family n|secret coord|and pro:dem|that
+	pro:exist|there~cop|be&3S det:art|a n|letter pro:rel|that
+	v|contain-3S qn|all pro:dem|this coord|and conj|if n:prop|Newman
+	mod|could adv|only v|come prep|into det:art|the n|possession prep|of
+	det:dem|that n|letter +...
+%gra:	1|8|LINK 2|3|JCT 3|8|JCT 4|6|DET 5|6|MOD 6|8|SUBJ 7|6|APP 8|0|ROOT
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|16|QUANT 13|16|MOD 14|16|MOD 15|16|MOD
+	16|11|PRED 17|16|CONJ 18|17|COORD 19|20|SUBJ 20|11|CJCT 21|22|DET
+	22|20|PRED 23|24|LINK 24|22|CMOD 25|26|QUANT 26|24|OBJ 27|24|CONJ 28|32|LINK
+	29|32|SUBJ 30|32|AUX 31|32|JCT 32|27|COORD 33|32|JCT 34|35|DET 35|33|POBJ
+	36|35|NJCT 37|38|DET 38|36|POBJ 39|8|PUNCT
+%trn:	coord|and adv|indeed adv|on det:poss|his n:gerund|die-PRESP n|bed
+	n:prop|Valentin v|divulge-3S comp|that pro:exist|there~cop|be&3S
+	qn|some adj|great adj|dark n|family n|secret coord|and comp|that
+	pro:exist|there~cop|be&3S det:art|a n|letter pro:rel|that
+	v|contain-3S qn|all pro:dem|this coord|and conj|if n:prop|Newman
+	mod|could adv|only v|come prep|into det:art|the n|possession prep|of
+	det:dem|that n|letter +...
+%grt:	1|8|LINK 2|8|JCT 3|8|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|SUBJ 8|0|ROOT
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|16|QUANT 13|16|MOD 14|16|MOD 15|16|MOD
+	16|11|PRED 17|20|LINK 18|20|LINK 19|20|SUBJ 20|11|CJCT 21|22|DET
+	22|20|PRED 23|24|LINK 24|22|CMOD 25|26|QUANT 26|24|OBJ 27|32|LINK
+	28|32|LINK 29|32|SUBJ 30|32|AUX 31|32|JCT 32|11|CJCT 33|32|JCT
+	34|35|DET 35|33|POBJ 36|35|NJCT 37|38|DET 38|36|POBJ 39|8|PUNCT
+*PAR:	well okay if Newman could come into the possession of that letter
+	what +..?
+%mor:	co|well co|okay conj|if n:prop|Newman mod|could v|come prep|into
+	det:art|the n|possession prep|of det:dem|that n|letter pro:int|what
+	+..?
+%gra:	1|2|COM 2|13|COM 3|6|LINK 4|6|SUBJ 5|6|AUX 6|13|CJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|0|ROOT 14|13|PUNCT
+%trn:	co|well co|okay conj|if n:prop|Newman mod|could v|come prep|into
+	det:art|the n|possession prep|of det:dem|that n|letter pro:int|what
+	+..?
+%grt:	1|13|COM 2|13|COM 3|6|LINK 4|6|SUBJ 5|6|AUX 6|13|CJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|0|INCROOT 14|13|PUNCT
+*PAR:	you_see early on after they force Claire to break off the
+	engagement <as she> [//] which she does she enters a convent .
+%mor:	co|you_see adv|early adv|on prep|after pro:sub|they v|force
+	n:prop|Claire inf|to v|break prep|off det:art|the n|engage&dv-MENT
+	pro:int|which pro:sub|she v|do&3S pro:sub|she v|enter-3S det:art|a
+	n|convent .
+%gra:	1|3|COM 2|3|JCT 3|6|JCT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|INF
+	9|6|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|9|CJCT
+	16|17|SUBJ 17|15|COMP 18|19|DET 19|17|OBJ 20|6|PUNCT
+%trn:	co|you_see adv|early adv|on prep|after pro:sub|they v|force
+	n:prop|Claire inf|to v|break prep|off det:art|the n|engage&dv-MENT
+	pro:int|which pro:sub|she v|do&3S pro:sub|she v|enter-3S det:art|a
+	n|convent .
+%grt:	1|17|COM 2|3|JCT 3|6|JCT 4|6|JCT 5|6|SUBJ 6|17|CJCT 7|6|OBJ 8|9|INF
+	9|6|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ
+	15|9|CJCT 16|17|SUBJ 17|0|ROOT 18|19|DET 19|17|OBJ 20|17|PUNCT
+*PAR:	that's almost right out_of romance or Agatha Christie .
+%mor:	pro:dem|that~cop|be&3S adv|almost adv|right prep|out_of n|romance
+	coord|or n:prop|Agatha n:prop|Christie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|JCT 6|5|POBJ 7|6|CONJ 8|9|NAME
+	9|7|COORD 10|2|PUNCT
+%trn:	pro:dem|that~cop|be&3S adv|almost adv|right prep|out_of n|romance
+	coord|or n:prop|Agatha n:prop|Christie .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|JCT 6|5|POBJ 7|6|CONJ 8|9|NAME
+	9|7|COORD 10|2|PUNCT
+*PAR:	you have a unhappy love affair , you go to a convent .
+%mor:	pro:per|you v|have det:art|a un#adj|happy n|love n|affair cm|cm
+	pro:per|you v|go prep|to det:art|a n|convent .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|LP 8|9|SUBJ
+	9|2|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+%trn:	pro:per|you v|have det:art|a un#adj|happy n|love n|affair cm|cm
+	pro:per|you v|go prep|to det:art|a n|convent .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|LP 8|9|SUBJ
+	9|2|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*PAR:	it happens all the time in medieval romance .
+%mor:	pro:per|it v|happen-3S qn|all det:art|the n|time prep|in
+	adj|medieval n|romance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|DET 5|2|OBJ 6|2|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+%trn:	pro:per|it v|happen-3S qn|all det:art|the n|time prep|in
+	adj|medieval n|romance .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|DET 5|2|JCT 6|2|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+*PAR:	so ‡ what use will this letter be to Christopher even if he has it
+	?
+%mor:	co|so beg|beg det:int|what n|use mod|will det:dem|this n|letter
+	cop|be prep|to n:prop|Christopher adv|even conj|if pro:sub|he
+	v|have&3S pro:per|it ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|7|AUX 6|7|DET 7|8|SUBJ 8|4|COMP
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|14|LINK 13|14|SUBJ 14|8|CJCT 15|14|OBJ
+	16|4|PUNCT
+%trn:	co|so beg|beg det:int|what n|use mod|will det:dem|this n|letter
+	cop|be prep|to n:prop|Christopher adv|even conj|if pro:sub|he
+	v|have&3S pro:per|it ?
+%grt:	1|0|BEG 2|1|BEGP 3|4|DET 4|8|PRED 5|8|AUX 6|7|DET 7|8|SUBJ
+	8|0|ROOT 9|8|JCT 10|9|POBJ 11|12|JCT 12|14|LINK 13|14|SUBJ
+	14|8|CJCT 15|14|OBJ 16|8|PUNCT
+*PAR:	it won't get Claire back for him because she's now for a very
+	different reason unreachable .
+%mor:	pro:per|it mod|will~neg|not v|get n:prop|Claire adv|back prep|for
+	pro:obj|him conj|because pro:sub|she~cop|be&3S adv:tem|now prep|for
+	det:art|a adv|very adj|different n|reason un#adj|reach&dv-ABLE .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|7|POBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|11|JCT 13|11|JCT 14|17|DET 15|16|JCT
+	16|17|MOD 17|18|SUBJ 18|13|POBJ 19|4|PUNCT
+%trn:	pro:per|it mod|will~neg|not v|get n:prop|Claire adv|back prep|for
+	pro:obj|him conj|because pro:sub|she~cop|be&3S adv:tem|now prep|for
+	det:art|a adv|very adj|different n|reason un#adj|reach&dv-ABLE .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|7|POBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|11|JCT 13|11|JCT 14|17|DET 15|16|JCT
+	16|17|MOD 17|13|POBJ 18|11|PRED 19|4|PUNCT
+*PAR:	will it give him simply the satisfaction of revenge ?
+%mor:	mod|will pro:per|it v|give pro:obj|him adv|simple&dadj-LY
+	det:art|the n|satisfaction prep|of n|revenge ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+%trn:	mod|will pro:per|it v|give pro:obj|him adv|simple&dadj-LY
+	det:art|the n|satisfaction prep|of n|revenge ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|7|NJCT 6|7|DET 7|3|OBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	he says to Mrs Bread on page thirty seventy five +"/.
+%mor:	pro:sub|he v|say-3S prep|to n:prop|Mrs n:prop|Bread prep|on n|page
+	det:num|thirty det:num|seventy det:num|five +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|NAME 5|3|POBJ 6|2|JCT 7|6|POBJ 8|9|QUANT
+	9|10|QUANT 10|2|JCT 11|2|PUNCT
+%trn:	pro:sub|he v|say-3S prep|to n:prop|Mrs n:prop|Bread prep|on n|page
+	det:num|thirty det:num|seventy det:num|five +"/.
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|NAME 5|3|POBJ 6|2|JCT 7|6|POBJ
+	8|9|QUANT 9|10|QUANT 10|7|POSTMOD 11|2|PUNCT
+*PAR:	+" I want to bring them down , down , down .
+%mor:	pro:sub|I v|want inf|to v|bring pro:obj|them adv|down cm|cm
+	adv|down cm|cm adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|6|LP 8|4|JCT
+	9|8|LP 10|4|JCT 11|2|PUNCT
+%trn:	pro:sub|I v|want inf|to v|bring pro:obj|them adv|down cm|cm
+	adv|down cm|cm adv|down .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|6|LP 8|6|ENUM
+	9|8|LP 10|8|ENUM 11|2|PUNCT
+*PAR:	+" I want to turn the tables upon them .
+%mor:	pro:sub|I v|want inf|to v|turn det:art|the n|table-PL prep|upon
+	pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|2|PUNCT
+%trn:	pro:sub|I v|want inf|to v|turn det:art|the n|table-PL prep|upon
+	pro:obj|them .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|2|PUNCT
+*PAR:	+" I want to mortify them as they mortified me .
+%mor:	pro:sub|I v|want inf|to v|mortify pro:obj|them conj|as pro:sub|they
+	v|mortify-PAST pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|8|OBJ 10|2|PUNCT
+%trn:	pro:sub|I v|want inf|to v|mortify pro:obj|them conj|as pro:sub|they
+	v|mortify-PAST pro:obj|me .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ 10|2|PUNCT
+*PAR:	notice Claire's out_of the picture now .
+%mor:	v|notice n:prop|Claire~cop|be&3S prep|out_of det:art|the n|picture
+	adv:tem|now .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|1|PUNCT
+%trn:	v|notice n:prop|Claire~cop|be&3S prep|out_of det:art|the n|picture
+	adv:tem|now .
+%grt:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|1|PUNCT
+*PAR:	this is not gonna get Claire back .
+%mor:	pro:dem|this cop|be&3S neg|not part|go-PRESP~inf|to v|get
+	n:prop|Claire adv|back .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|XJCT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|2|PUNCT
+%trn:	pro:dem|this aux|be&3S neg|not part|go-PRESP~inf|to v|get
+	n:prop|Claire adv|back .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*PAR:	+" they took me up into a high place and they made me stand there
+	for all the world to see me .
+%mor:	pro:sub|they v|take&PAST pro:obj|me adv|up prep|into det:art|a
+	adj|high n|place coord|and pro:sub|they v|make&PAST pro:obj|me
+	n|stand adv|there prep|for qn|all det:art|the n|world inf|to v|see
+	pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|LINK 10|11|SUBJ 11|2|CJCT 12|11|OBJ2 13|11|OBJ 14|11|JCT 15|11|JCT
+	16|18|QUANT 17|18|DET 18|15|POBJ 19|20|INF 20|18|XMOD 21|20|OBJ 22|2|PUNCT
+%trn:	pro:sub|they v|take&PAST pro:obj|me adv|up prep|into det:art|a
+	adj|high n|place coord|and pro:sub|they v|make&PAST pro:obj|me
+	v|stand adv|there prep|for qn|all det:art|the n|world inf|to v|see
+	pro:obj|me .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|LINK 10|11|SUBJ 11|2|CJCT 12|11|OBJ 13|11|COMP 14|13|JCT
+	15|13|JCT 16|18|QUANT 17|18|DET 18|15|POBJ 19|20|INF 20|18|XMOD
+	21|20|OBJ 22|2|PUNCT
+*PAR:	+" and then they stole behind me and pushed me into this bottomless
+	pit where I lie howling and gnashing my teeth .
+%mor:	coord|and adv:tem|then pro:sub|they v|steal&PAST prep|behind
+	pro:obj|me coord|and v|push-PAST pro:obj|me prep|into det:dem|this
+	adj|bottom&dn-LESS n|pit pro:rel|where pro:sub|I v|lie
+	part|howl-PRESP coord|and part|gnash-PRESP det:poss|my n|tooth&PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|16|LINK 15|16|SUBJ
+	16|13|CMOD 17|16|COMP 18|17|CONJ 19|18|COORD 20|21|DET 21|19|OBJ
+	22|4|PUNCT
+%trn:	coord|and adv:tem|then pro:sub|they v|steal&PAST prep|behind
+	pro:obj|me coord|and v|push-PAST pro:obj|me prep|into det:dem|this
+	adj|bottom&dn-LESS n|pit pro:rel|where pro:sub|I v|lie
+	part|howl-PRESP coord|and part|gnash-PRESP det:poss|my n|tooth&PL .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|16|LINK 15|16|SUBJ
+	16|13|CMOD 17|16|XJCT 18|17|CONJ 19|18|COORD 20|21|DET 21|19|OBJ
+	22|4|PUNCT
+*PAR:	+" I made a fool of myself before their friends but I shall make
+	something worse of them .
+%mor:	pro:sub|I v|make&PAST det:art|a n|fool prep|of pro:refl|myself
+	prep|before det:poss|their n|friend-PL conj|but pro:sub|I mod|shall
+	v|make pro:indef|something adj|bad&CP prep|of pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|2|CJCT 14|13|OBJ 15|14|POSTMOD
+	16|15|JCT 17|16|POBJ 18|2|PUNCT
+%trn:	pro:sub|I v|make&PAST det:art|a n|fool prep|of pro:refl|myself
+	prep|before det:poss|their n|friend-PL conj|but pro:sub|I mod|shall
+	v|make pro:indef|something adj|bad&CP prep|of pro:obj|them .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|2|CJCT 14|13|OBJ 15|14|POSTMOD
+	16|13|JCT 17|16|POBJ 18|2|PUNCT
+*PAR:	or he says to the Marquise herself on page four fourteen when he's
+	presenting them with the evidence that he has of the murder and that
+	he will be able to use it against them .
+%mor:	coord|or pro:sub|he v|say-3S prep|to det:art|the n:prop|Marquise
+	pro:refl|herself prep|on n|page det:num|four det:num|fourteen
+	conj|when pro:sub|he~aux|be&3S part|present-PRESP pro:obj|them
+	prep|with det:art|the n|evidence pro:rel|that pro:sub|he v|have&3S
+	prep|of det:art|the n|murder coord|and comp|that pro:sub|he mod|will
+	cop|be adj|able inf|to v|use pro:per|it prep|against pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|XJCT 8|7|JCT
+	9|8|POBJ 10|11|QUANT 11|12|QUANT 12|15|LINK 13|15|SUBJ 14|15|AUX 15|9|CMOD
+	16|15|OBJ 17|15|JCT 18|19|DET 19|17|POBJ 20|22|LINK 21|22|SUBJ
+	22|19|CMOD 23|22|JCT 24|25|DET 25|23|POBJ 26|15|CONJ 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|26|COORD 31|30|PRED 32|33|INF 33|31|XMOD 34|33|OBJ 35|33|JCT
+	36|35|POBJ 37|3|PUNCT
+%trn:	coord|or pro:sub|he v|say-3S prep|to det:art|the n:prop|Marquise
+	pro:refl|herself prep|on n|page det:num|four det:num|fourteen
+	conj|when pro:sub|he~aux|be&3S part|present-PRESP pro:obj|them
+	prep|with det:art|the n|evidence pro:rel|that pro:sub|he v|have&3S
+	prep|of det:art|the n|murder coord|and comp|that pro:sub|he mod|will
+	cop|be adj|able inf|to v|use pro:per|it prep|against pro:obj|them .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|APP 8|3|JCT
+	9|8|POBJ 10|11|QUANT 11|9|POSTMOD 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|3|CJCT 16|15|OBJ 17|15|JCT 18|19|DET 19|17|POBJ 20|22|LINK
+	21|22|SUBJ 22|19|CMOD 23|19|JCT 24|25|DET 25|23|POBJ 26|19|CONJ
+	27|30|LINK 28|30|SUBJ 29|30|AUX 30|26|COORD 31|30|PRED 32|33|INF
+	33|31|XMOD 34|33|OBJ 35|33|JCT 36|35|POBJ 37|3|PUNCT
+*PAR:	but again it's not clear to what end .
+%mor:	conj|but adv:tem|again pro:per|it~cop|be&3S neg|not adj|clear prep|to
+	pro:int|what n|end .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+%trn:	conj|but adv:tem|again pro:per|it~cop|be&3S neg|not adj|clear prep|to
+	det:int|what n|end .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	there's nothing practical or instrumental that he can achieve by
+	this .
+%mor:	pro:exist|there~cop|be&3S pro:indef|nothing adj|practical coord|or
+	adj|instrument&dn-AL pro:rel|that pro:sub|he mod|can v|achieve
+	prep|by pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|POSTMOD 5|4|CONJ 6|5|COORD 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CMOD 11|10|JCT 12|11|POBJ 13|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S pro:indef|nothing adj|practical coord|or
+	adj|instrument&dn-AL pro:rel|that pro:sub|he mod|can v|achieve
+	prep|by pro:dem|this .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|POSTMOD 5|4|CONJ 6|5|COORD 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|3|CMOD 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*PAR:	as I say , it won't get Claire back .
+%mor:	conj|as pro:sub|I v|say cm|cm pro:per|it mod|will~neg|not v|get
+	n:prop|Claire adv|back .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|3|LP 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|8|PUNCT
+%trn:	conj|as pro:sub|I v|say cm|cm pro:per|it mod|will~neg|not v|get
+	n:prop|Claire adv|back .
+%grt:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|3|LP 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|8|PUNCT
+*PAR:	about halfway down the page +"/.
+%mor:	adv|about adv|+adj|half+n|way prep|down det:art|the n|page +"/.
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|5|DET 5|3|POBJ 6|3|PUNCT
+%trn:	adv|about adv|+adj|half+n|way prep|down det:art|the n|page +"/.
+%grt:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|5|DET 5|3|POBJ 6|3|PUNCT
+*PAR:	+" no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|no .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*PAR:	he says +".
+%mor:	pro:sub|he v|say-3S +".
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%trn:	pro:sub|he v|say-3S +".
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	+" I want to say a few words more .
+%mor:	pro:sub|I v|want inf|to v|say det:art|a qn|few n|word-PL adv|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|QUANT 7|4|OBJ 8|4|JCT
+	9|2|PUNCT
+%trn:	pro:sub|I v|want inf|to v|say det:art|a qn|few n|word-PL post|more .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|QUANT 7|4|OBJ 8|7|PQ
+	9|2|PUNCT
+*PAR:	+" I want to say that I hope you quite understand what I am about .
+%mor:	pro:sub|I v|want inf|to v|say comp|that pro:sub|I v|hope
+	pro:per|you adv|quite v|understand pro:int|what pro:sub|I cop|be&1S
+	adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|7|JCT 10|7|COMP 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|JCT 15|2|PUNCT
+%trn:	pro:sub|I v|want inf|to v|say comp|that pro:sub|I v|hope
+	pro:per|you adv|quite v|understand pro:int|what pro:sub|I cop|be&1S
+	adv|about .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|10|SUBJ 9|10|JCT 10|7|COMP 11|13|LINK 12|13|SUBJ 13|10|COMP
+	14|13|JCT 15|2|PUNCT
+*PAR:	+" this is my revenge „ you_know .
+%mor:	pro:dem|this cop|be&3S det:poss|my n|revenge end|end co|you_know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|ENDP 6|2|END 7|2|PUNCT
+%trn:	pro:dem|this cop|be&3S det:poss|my n|revenge end|end co|you_know .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|ENDP 6|2|END 7|2|PUNCT
+*PAR:	+" you have treated me before the world convened for the express
+	purpose as_if I were not good enough for you .
+%mor:	pro:per|you aux|have part|treat-PASTP pro:obj|me prep|before
+	det:art|the n|world v|convene-PAST prep|for det:art|the n|express
+	n|purpose conj|as_if pro:sub|I cop|be&PAST neg|not adj|good
+	adv|enough prep|for pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|JCT 6|7|DET 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|8|CJCT
+	16|15|NEG 17|15|PRED 18|19|JCT 19|17|JCT 20|19|POBJ 21|3|PUNCT
+%trn:	pro:per|you aux|have part|treat-PASTP pro:obj|me prep|before
+	det:art|the n|world part|convene-PASTP prep|for det:art|the
+	n|express n|purpose conj|as_if pro:sub|I cop|be&PAST neg|not
+	adj|good adv|enough prep|for pro:per|you .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|7|XMOD
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|15|NEG 17|15|PRED 18|17|JCT 19|17|JCT 20|19|POBJ 21|3|PUNCT
+*PAR:	+" I mean to show the world that however bad I may be you are not
+	quite the people to say it .
+%mor:	pro:sub|I v|mean inf|to v|show det:art|the n|world comp|that
+	adv|however adj|bad pro:sub|I mod|may cop|be pro:per|you cop|be&PRES
+	neg|not adv|quite det:art|the n|person&PL inf|to v|say pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|12|LINK 8|9|JCT
+	9|12|JCT 10|12|SUBJ 11|12|AUX 12|4|COMP 13|14|SUBJ 14|12|PRED 15|14|NEG
+	16|20|JCT 17|18|DET 18|20|SUBJ 19|20|INF 20|14|CPRED 21|20|OBJ 22|2|PUNCT
+%trn:	pro:sub|I v|mean inf|to v|show det:art|the n|world comp|that
+	adv|however adj|bad pro:sub|I mod|may cop|be pro:per|you cop|be&PRES
+	neg|not adv|quite det:art|the n|person&PL inf|to v|say pro:per|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|14|LINK 8|9|JCT
+	9|12|PRED 10|12|SUBJ 11|12|AUX 12|14|CJCT 13|14|SUBJ 14|6|COMP
+	15|16|NEG 16|14|JCT 17|18|DET 18|14|PRED 19|20|INF 20|18|XMOD
+	21|20|OBJ 22|2|PUNCT
+*PAR:	so ‡ is this then in some ways a kind of status battle ?
+%mor:	co|so beg|beg cop|be&3S pro:dem|this adv:tem|then prep|in qn|some
+	n|way-PL det:art|a n|kind prep|of n|status n|battle ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|10|DET 10|6|POBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|3|PUNCT
+%trn:	co|so beg|beg cop|be&3S pro:dem|this adv:tem|then prep|in qn|some
+	n|way-PL det:art|a n|kind prep|of n|status n|battle ?
+%grt:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|SUBJ 5|3|JCT 6|3|JCT 7|8|QUANT 8|6|POBJ
+	9|10|DET 10|3|PRED 11|10|NJCT 12|13|MOD 13|11|POBJ 14|3|PUNCT
+*PAR:	they acted so high and mighty .
+%mor:	pro:sub|they v|act-PAST adv|so adj|high coord|and adj|might&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|4|CONJ 6|5|COORD 7|2|PUNCT
+%trn:	pro:sub|they v|act-PAST adv|so adj|high coord|and adj|might&dn-Y .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	they mortified me in front of all the world , made a fool of me .
+%mor:	pro:sub|they v|mortify-PAST pro:obj|me prep|in n|front prep|of
+	qn|all det:art|the n|world cm|cm v|make&PAST det:art|a n|fool
+	prep|of pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|NJCT 7|9|QUANT 8|9|DET
+	9|6|POBJ 10|2|LP 11|2|ENUM 12|13|DET 13|11|OBJ 14|13|NJCT 15|14|POBJ
+	16|2|PUNCT
+%trn:	pro:sub|they v|mortify-PAST pro:obj|me prep|in n|front prep|of
+	qn|all det:art|the n|world cm|cm v|make&PAST det:art|a n|fool
+	prep|of pro:obj|me .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|NJCT 7|9|QUANT 8|9|DET
+	9|6|POBJ 10|2|LP 11|2|ENUM 12|13|DET 13|11|OBJ 14|11|JCT 15|14|POBJ
+	16|2|PUNCT
+*PAR:	well ‡ two can play at that game .
+%mor:	co|well beg|beg det:num|two mod|can v|play prep|at det:dem|that
+	n|game .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%trn:	co|well beg|beg det:num|two mod|can v|play prep|at det:dem|that
+	n|game .
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and I think I have a trump for their ace that I am planning to play
+	to show the world what they're like .
+%mor:	coord|and pro:sub|I v|think pro:sub|I v|have det:art|a n|trump
+	prep|for det:poss|their n|ace pro:rel|that pro:sub|I aux|be&1S
+	part|plan-PRESP inf|to v|play inf|to v|show det:art|the n|world
+	pro:int|what pro:sub|they~cop|be&PRES prep|like .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|16|INF
+	16|14|COMP 17|18|INF 18|16|COMP 19|20|DET 20|18|OBJ 21|23|LINK 22|23|SUBJ
+	23|14|CJCT 24|23|JCT 25|3|PUNCT
+%trn:	coord|and pro:sub|I v|think pro:sub|I v|have det:art|a n|trump
+	prep|for det:poss|their n|ace pro:rel|that pro:sub|I aux|be&1S
+	part|plan-PRESP inf|to v|play inf|to v|show det:art|the n|world
+	pro:int|what pro:sub|they~cop|be&PRES prep|like .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|7|CMOD
+	15|16|INF 16|14|COMP 17|18|INF 18|16|XJCT 19|20|DET 20|18|OBJ
+	21|23|LINK 22|23|SUBJ 23|18|COMP 24|23|JCT 25|3|PUNCT
+*PAR:	so ‡ that's the [/] the initial motive for his wanting to find this
+	letter and his stratagem for [/] for planning to use it .
+%mor:	co|so beg|beg pro:dem|that~cop|be&3S det:art|the adj|initial
+	n|motive prep|for det:poss|his n:gerund|want-PRESP inf|to v|find
+	det:dem|this n|letter coord|and det:poss|his n|stratagem prep|for
+	n:gerund|plan-PRESP inf|to v|use pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|10|COMP 13|14|DET 14|12|OBJ 15|14|CONJ
+	16|17|DET 17|15|COORD 18|17|NJCT 19|18|POBJ 20|21|INF 21|19|COMP 22|21|OBJ
+	23|4|PUNCT
+%trn:	co|so beg|beg pro:dem|that~cop|be&3S det:art|the adj|initial
+	n|motive prep|for det:poss|his n:gerund|want-PRESP inf|to v|find
+	det:dem|this n|letter coord|and det:poss|his n|stratagem prep|for
+	n:gerund|plan-PRESP inf|to v|use pro:per|it .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|10|COMP 13|14|DET 14|12|OBJ
+	15|7|CONJ 16|17|DET 17|15|COORD 18|17|NJCT 19|18|POBJ 20|21|INF
+	21|19|COMP 22|21|OBJ 23|4|PUNCT
+*PAR:	and we'll come <in to a minute> [//] to the question in a minute of
+	why doesn't he .
+%mor:	coord|and pro:sub|we~mod|will v|come prep|to det:art|the n|question
+	prep|in det:art|a n|minute prep|of pro:int|why mod|do&3S~neg|not
+	pro:sub|he .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|15|JCT 13|15|AUX 14|13|NEG 15|11|POBJ
+	16|4|PUNCT
+%trn:	coord|and pro:sub|we~mod|will v|come prep|to det:art|the n|question
+	prep|in det:art|a n|minute prep|of pro:int|why mod|do&3S~neg|not
+	pro:sub|he .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|7|NJCT 12|13|LINK 13|11|CPOBJ 14|13|NEG
+	15|13|SUBJ 16|4|PUNCT
+*PAR:	but let me take up one other matter for just a moment .
+%mor:	conj|but v|let&ZERO pro:obj|me v|take prep|up det:num|one qn|other
+	n|matter prep|for adv|just det:art|a n|moment .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|8|QUANT 7|8|QUANT 8|5|POBJ
+	9|4|JCT 10|12|JCT 11|12|DET 12|9|POBJ 13|2|PUNCT
+%trn:	conj|but v|let&ZERO pro:obj|me v|take prep|up det:num|one qn|other
+	n|matter prep|for adv|just det:art|a n|moment .
+%grt:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|8|QUANT 7|8|QUANT
+	8|5|POBJ 9|8|NJCT 10|12|NJCT 11|12|DET 12|9|POBJ 13|2|PUNCT
+*PAR:	one of the difficulties of this novel from almost every critic that
+	I've presumed for a_lot_of you ordinary readers , what Virginia
+	Woolf calls the common reader +//.
+%mor:	det:num|one prep|of det:art|the n|difficulty-PL prep|of
+	det:dem|this n|novel prep|from adv|almost qn|every n|critic
+	pro:rel|that pro:sub|I~aux|have part|presume-PASTP prep|for
+	qn|a_lot_of pro:per|you adj|ordinary n|read&dv-AGT-PL cm|cm
+	pro:int|what n:prop|Virginia n:prop|Woolf v|call-3S det:art|the
+	adj|common n|read&dv-AGT +//.
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|1|JCT
+	9|10|JCT 10|11|QUANT 11|8|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|11|CMOD 16|15|JCT 17|20|QUANT 18|20|SUBJ 19|20|MOD 20|16|POBJ 21|20|LP
+	22|25|LINK 23|24|NAME 24|25|SUBJ 25|20|CMOD 26|28|DET 27|28|MOD 28|25|OBJ
+	29|1|PUNCT
+%trn:	det:num|one prep|of det:art|the n|difficulty-PL prep|of
+	det:dem|this n|novel prep|from adv|almost qn|every n|critic
+	pro:rel|that pro:sub|I~aux|have part|presume-PASTP prep|for
+	qn|a_lot_of pro:per|you adj|ordinary n|read&dv-AGT-PL cm|cm
+	pro:int|what n:prop|Virginia n:prop|Woolf v|call-3S det:art|the
+	adj|common n|read&dv-AGT +//.
+%grt:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|NJCT 9|10|JCT 10|11|QUANT 11|8|POBJ 12|15|LINK 13|15|SUBJ
+	14|15|AUX 15|4|CMOD 16|15|JCT 17|18|QUANT 18|16|POBJ 19|20|MOD
+	20|18|APP 21|18|LP 22|25|LINK 23|24|NAME 24|25|SUBJ 25|18|CMOD
+	26|28|DET 27|28|MOD 28|25|OBJ 29|1|PUNCT
+*PAR:	she means well by that .
+%mor:	pro:sub|she v|mean-3S adv|well prep|by pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%trn:	pro:sub|she v|mean-3S adv|well prep|by pro:dem|that .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	she [/] she admires the common reader .
+%mor:	pro:sub|she v|admire-3S det:art|the adj|common n|read&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%trn:	pro:sub|she v|admire-3S det:art|the adj|common n|read&dv-AGT .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	+, is that the figure of Claire is very nebulous , very indistinct
+	in this novel .
+%mor:	cop|be&3S comp|that det:art|the n|figure prep|of n:prop|Claire
+	cop|be&3S adv|very adj|nebulous cm|cm adv|very in#adj|distinct
+	prep|in det:dem|this n|novel .
+%gra:	1|0|ROOT 2|7|LINK 3|4|DET 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|1|COMP 8|9|JCT
+	9|7|PRED 10|7|LP 11|12|JCT 12|7|PRED 13|12|JCT 14|15|DET 15|13|POBJ
+	16|1|PUNCT
+%trn:	cop|be&3S comp|that det:art|the n|figure prep|of n:prop|Claire
+	cop|be&3S adv|very adj|nebulous cm|cm adv|very in#adj|distinct
+	prep|in det:dem|this adj|novel .
+%grt:	1|0|ROOT 2|7|LINK 3|4|DET 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|1|COMP 8|9|JCT
+	9|7|PRED 10|9|LP 11|12|JCT 12|9|ENUM 13|12|JCT 14|15|DET 15|13|POBJ
+	16|1|PUNCT
+*PAR:	she doesn't emerge very vividly in her own right .
+%mor:	pro:sub|she mod|do&3S~neg|not v|emerge adv|very adv|vivid&dadj-LY
+	prep|in det:poss|her adj|own n|right .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+%trn:	pro:sub|she mod|do&3S~neg|not v|emerge adv|very adv|vivid&dadj-LY
+	prep|in det:poss|her adj|own n|right .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	and all sorts of questions arise about Claire's motivation .
+%mor:	coord|and qn|all n|sort-PL prep|of n|question-PL v|arise prep|about
+	adj|Claire&dn-POSS n|motivate&dv-TION .
+%gra:	1|6|LINK 2|3|QUANT 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|6|PUNCT
+%trn:	coord|and qn|all n|sort-PL prep|of n|question-PL v|arise prep|about
+	adj|Claire&dn-POSS n|motivate&dv-TION .
+%grt:	1|6|LINK 2|3|QUANT 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|6|PUNCT
+*PAR:	is she really in love with Newman ?
+%mor:	cop|be&3S pro:sub|she adv|real&dadj-LY prep|in n|love prep|with
+	n:prop|Newman ?
+%gra:	1|0|ROOT 2|1|PRED 3|6|JCT 4|3|JCT 5|4|POBJ 6|2|NJCT 7|6|POBJ 8|1|PUNCT
+%trn:	cop|be&3S pro:sub|she adv|real&dadj-LY prep|in n|love prep|with
+	n:prop|Newman ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|1|JCT 4|1|JCT 5|4|POBJ 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	does she have none of her family's aristocratic distaste for his
+	commercial background and origins ?
+%mor:	mod|do&3S pro:sub|she v|have pro:indef|none prep|of det:poss|her
+	adj|family&dn-POSS adj|aristocratic dis#n|taste prep|for
+	det:poss|his adj|commercial n|background coord|and n|origin-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|CONJ 15|14|COORD
+	16|3|PUNCT
+%trn:	mod|do&3S pro:sub|she v|have pro:indef|none prep|of det:poss|her
+	adj|family&dn-POSS adj|aristocratic dis#n|taste prep|for
+	det:poss|his adj|commercial n|background coord|and n|origin-PL ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|CONJ 15|14|COORD
+	16|3|PUNCT
+*PAR:	if they're so appalled by this , that he once made washtubs , why
+	not Claire ?
+%mor:	conj|if pro:sub|they~aux|be&PRES adv|so part|appall-PASTP prep|by
+	pro:dem|this cm|cm pro:rel|that pro:sub|he adv:tem|once v|make&PAST
+	n|+v|wash+n|tub-PL cm|cm pro:int|why neg|not n:prop|Claire ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|LP
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|7|CMOD 13|12|OBJ 14|12|LP 15|17|JCT
+	16|15|NEG 17|12|COMP 18|5|PUNCT
+%trn:	conj|if pro:sub|they~aux|be&PRES adv|so part|appall-PASTP prep|by
+	pro:dem|this cm|cm pro:rel|that pro:sub|he adv:tem|once v|make&PAST
+	n|+v|wash+n|tub-PL cm|cm pro:int|why neg|not n:prop|Claire ?
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|17|CJCT 6|5|JCT 7|6|POBJ 8|7|LP
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|7|CMOD 13|12|OBJ 14|12|LP
+	15|17|LINK 16|17|NEG 17|0|INCROOT 18|17|PUNCT
+*PAR:	why is she so accepting ?
+%mor:	pro:int|why cop|be&3S pro:sub|she adv|so part|accept-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|CPRED 6|2|PUNCT
+%trn:	pro:int|why aux|be&3S pro:sub|she adv|so part|accept-PRESP ?
+%grt:	1|5|JCT 2|5|AUX 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	is it some enormous charm that he has &=laughs or real love ?
+%mor:	cop|be&3S pro:per|it qn|some adj|enormous n|charm pro:rel|that
+	pro:sub|he v|have&3S coord|or adj|real n|love ?
+%gra:	1|0|ROOT 2|1|PRED 3|5|QUANT 4|5|MOD 5|2|OBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|CONJ 10|11|MOD 11|9|COORD 12|1|PUNCT
+%trn:	cop|be&3S pro:per|it qn|some adj|enormous n|charm pro:rel|that
+	pro:sub|he v|have&3S coord|or adj|real n|love ?
+%grt:	1|0|ROOT 2|1|SUBJ 3|5|QUANT 4|5|MOD 5|1|PRED 6|8|LINK 7|8|SUBJ
+	8|5|CMOD 9|5|CONJ 10|11|MOD 11|9|COORD 12|1|PUNCT
+*PAR:	okay is she simply wanting to get away from that wretched mother ?
+%mor:	co|okay aux|be&3S pro:sub|she adv|simple&dadj-LY part|want-PRESP
+	inf|to v|get adv|away prep|from det:dem|that adj|wretched n|mother ?
+%gra:	1|5|COM 2|5|AUX 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|5|PUNCT
+%trn:	co|okay aux|be&3S pro:sub|she adv|simple&dadj-LY part|want-PRESP
+	inf|to v|get adv|away prep|from det:dem|that adj|wretched n|mother ?
+%grt:	1|5|COM 2|5|AUX 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|5|PUNCT
+*PAR:	you can certainly understand that .
+%mor:	pro:per|you mod|can adv|certain&dadj-LY v|understand pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%trn:	pro:per|you mod|can adv|certain&dadj-LY v|understand pro:dem|that .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	<is there> [/] <is there> [//] &i does there seem to be any real
+	spark between them or chemistry between them ?
+%mor:	mod|do&3S adv|there cop|seem inf|to cop|be qn|any adj|real n|spark
+	prep|between pro:obj|them coord|or n|chemistry prep|between
+	pro:obj|them ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|8|QUANT 7|8|MOD 8|5|PRED
+	9|5|JCT 10|9|POBJ 11|5|CONJ 12|11|COORD 13|12|NJCT 14|13|POBJ 15|3|PUNCT
+%trn:	mod|do&3S adv|there cop|seem inf|to cop|be qn|any adj|real n|spark
+	prep|between pro:obj|them coord|or n|chemistry prep|between
+	pro:obj|them ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|CPRED 6|8|QUANT 7|8|MOD
+	8|5|PRED 9|8|NJCT 10|9|POBJ 11|8|CONJ 12|11|COORD 13|12|NJCT
+	14|13|POBJ 15|3|PUNCT
+*PAR:	if we were reviewing this as a movie you_know what would Roger say
+	?
+%mor:	conj|if pro:sub|we aux|be&PAST part|review-PRESP pro:dem|this
+	prep|as det:art|a n|movie co|you_know pro:int|what mod|will&COND
+	n:prop|Roger v|say ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|13|COM 10|13|SUBJ 11|13|AUX 12|13|SUBJ 13|4|CJCT 14|4|PUNCT
+%trn:	conj|if pro:sub|we aux|be&PAST part|review-PRESP pro:dem|this
+	prep|as det:art|a n|movie co|you_know pro:int|what mod|will&COND
+	n:prop|Roger v|say ?
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|13|CJCT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|13|COM 10|13|OBJ 11|13|AUX 12|13|SUBJ 13|0|ROOT 14|13|PUNCT
+*PAR:	+" there's no real chemistry between these two characters .
+%mor:	pro:exist|there~cop|be&3S qn|no adj|real n|chemistry prep|between
+	det:dem|these det:num|two n|character-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S qn|no adj|real n|chemistry prep|between
+	det:dem|these det:num|two n|character-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|2|PUNCT
+*PAR:	&a &a and there may not be .
+%mor:	coord|and pro:exist|there mod|may neg|not cop|be .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+%trn:	coord|and pro:exist|there mod|may neg|not cop|be .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	and then if so , if there really is some deep affection , why does
+	Claire so easily break off the engagement ?
+%mor:	coord|and adv:tem|then conj|if adv|so cm|cm conj|if pro:exist|there
+	adv|real&dadj-LY cop|be&3S qn|some adj|deep n|affection cm|cm
+	pro:int|why mod|do&3S n:prop|Claire adv|so adv|ease&dadj-Y-LY
+	v|break prep|off det:art|the n|engage&dv-MENT ?
+%gra:	1|19|LINK 2|19|JCT 3|16|LINK 4|6|JCT 5|4|LP 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|16|CJCT 10|12|QUANT 11|12|MOD 12|9|PRED 13|9|LP 14|16|JCT 15|16|AUX
+	16|19|SUBJ 17|19|JCT 18|19|JCT 19|0|ROOT 20|19|JCT 21|22|DET 22|20|POBJ
+	23|19|PUNCT
+%trn:	coord|and adv:tem|then conj|if adv|so cm|cm conj|if pro:exist|there
+	adv|real&dadj-LY cop|be&3S qn|some adj|deep n|affection cm|cm
+	pro:int|why mod|do&3S n:prop|Claire adv|so adv|ease&dadj-Y-LY
+	v|break prep|off det:art|the n|engage&dv-MENT ?
+%grt:	1|19|LINK 2|19|JCT 3|4|LINK 4|19|OM 5|4|LP 6|9|LINK 7|9|SUBJ
+	8|9|JCT 9|19|CJCT 10|12|QUANT 11|12|MOD 12|9|PRED 13|9|LP
+	14|19|JCT 15|19|AUX 16|19|SUBJ 17|18|JCT 18|19|JCT 19|0|ROOT
+	20|19|JCT 21|22|DET 22|20|POBJ 23|19|PUNCT
+*PAR:	her mother says +"/.
+%mor:	det:poss|her n|mother v|say-3S +"/.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	det:poss|her n|mother v|say-3S +"/.
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	+" I demanded that she do so and she obeyed .
+%mor:	pro:sub|I v|demand-PAST comp|that pro:sub|she v|do adv|so coord|and
+	pro:sub|she v|obey-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|2|PUNCT
+%trn:	pro:sub|I v|demand-PAST comp|that pro:sub|she v|do adv|so coord|and
+	pro:sub|she v|obey-PAST .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|2|PUNCT
+*PAR:	not much of an explanation .
+%mor:	neg|not adv|much prep|of det:art|a n|explanation .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%trn:	neg|not qn|much prep|of det:art|a n|explanation .
+%grt:	1|2|NEG 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	so_that the whole figure of Claire in some way remains sort_of
+	vague and nebulous .
+%mor:	conj|so_that det:art|the adj|whole n|figure prep|of n:prop|Claire
+	prep|in qn|some n|way cop|remain-3S adv|sort_of adj|vague coord|and
+	adj|nebulous .
+%gra:	1|10|LINK 2|4|DET 3|4|MOD 4|10|SUBJ 5|4|NJCT 6|5|POBJ 7|4|NJCT
+	8|9|QUANT 9|7|POBJ 10|0|ROOT 11|12|JCT 12|10|PRED 13|12|CONJ 14|13|COORD
+	15|10|PUNCT
+%trn:	conj|so_that det:art|the adj|whole n|figure prep|of n:prop|Claire
+	prep|in qn|some n|way cop|remain-3S adv|sort_of adj|vague coord|and
+	adj|nebulous .
+%grt:	1|10|LINK 2|4|DET 3|4|MOD 4|10|SUBJ 5|4|NJCT 6|5|POBJ 7|10|JCT
+	8|9|QUANT 9|7|POBJ 10|0|ROOT 11|12|JCT 12|10|PRED 13|12|CONJ
+	14|13|COORD 15|10|PUNCT
+*PAR:	and again many years later when James is writing his preface for
+	the New York edition of [/] of The American he perceives that
+	weakness .
+%mor:	coord|and adv:tem|again qn|many n|year-PL adv|later conj|when
+	n:prop|James aux|be&3S part|write-PRESP det:poss|his n|preface
+	prep|for det:art|the n:prop|New n:prop|York n|edition prep|of
+	n:prop|The n:prop|American pro:sub|he v|perceive-3S det:dem|that
+	n|weak&dadj-NESS .
+%gra:	1|3|LINK 2|3|JCT 3|4|QUANT 4|21|JCT 5|4|NJCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|21|CJCT 10|11|DET 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|16|MOD
+	16|19|MOD 17|16|NJCT 18|17|POBJ 19|14|APP 20|21|SUBJ 21|0|ROOT 22|23|DET
+	23|21|OBJ 24|21|PUNCT
+%trn:	coord|and adv:tem|again qn|many n|year-PL adv|later conj|when
+	n:prop|James aux|be&3S part|write-PRESP det:poss|his n|preface
+	prep|for det:art|the n:prop|New n:prop|York n|edition prep|of
+	n:prop|The n:prop|American pro:sub|he v|perceive-3S det:dem|that
+	n|weak&dadj-NESS .
+%grt:	1|21|LINK 2|21|JCT 3|4|QUANT 4|21|JCT 5|4|NJCT 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|21|CJCT 10|11|DET 11|9|OBJ 12|11|NJCT 13|16|DET 14|15|NAME
+	15|16|MOD 16|12|POBJ 17|16|NJCT 18|19|NAME 19|17|POBJ 20|21|SUBJ
+	21|0|ROOT 22|23|DET 23|21|OBJ 24|21|PUNCT
+*PAR:	but he tries in a certain way to make it into a virtue when he
+	tells us what he was trying to do .
+%mor:	conj|but pro:sub|he v|try-3S prep|in det:art|a adj|certain n|way
+	inf|to v|make pro:per|it prep|into det:art|a n|virtue conj|when
+	pro:sub|he v|tell-3S pro:obj|us pro:int|what pro:sub|he
+	aux|be&PAST&13S part|try-PRESP inf|to v|do .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|INF
+	9|3|XJCT 10|9|OBJ 11|3|JCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|SUBJ
+	16|3|CJCT 17|16|OBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|16|COMP 22|23|INF
+	23|21|COMP 24|3|PUNCT
+%trn:	conj|but pro:sub|he v|try-3S prep|in det:art|a adj|certain n|way
+	inf|to v|make pro:per|it prep|into det:art|a n|virtue conj|when
+	pro:sub|he v|tell-3S pro:obj|us pro:int|what pro:sub|he
+	aux|be&PAST&13S part|try-PRESP inf|to v|do .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|INF
+	9|3|COMP 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|SUBJ
+	16|3|CJCT 17|16|OBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|16|COMP 22|23|INF
+	23|21|COMP 24|3|PUNCT
+*PAR:	reading the prose of James at that later period is always a
+	challenge .
+%mor:	part|read-PRESP det:art|the n|prose prep|of n:prop|James prep|at
+	det:dem|that adj|late-CP n|period cop|be&3S adv|always det:art|a
+	n|challenge .
+%gra:	1|10|LINK 2|3|DET 3|10|SUBJ 4|3|NJCT 5|4|POBJ 6|3|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|0|ROOT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|PUNCT
+%trn:	n:gerund|read-PRESP det:art|the n|prose prep|of n:prop|James prep|at
+	det:dem|that adj|late-CP n|period cop|be&3S adv|always det:art|a
+	n|challenge .
+%grt:	1|10|SUBJ 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|3|NJCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|0|ROOT 11|10|JCT 12|13|DET 13|10|PRED
+	14|10|PUNCT
+*PAR:	it's extremely difficult .
+%mor:	pro:per|it~cop|be&3S adv|extreme&dadj-LY adj|difficult .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adv|extreme&dadj-LY adj|difficult .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	but let me try a [/] &f a couple sentences on you of what he was
+	saying about Claire and indeed all of the other characters in the
+	novel except Newman .
+%mor:	conj|but v|let&ZERO pro:obj|me v|try det:art|a qn|couple
+	n|sentence-PL prep|on pro:per|you prep|of pro:int|what pro:sub|he
+	aux|be&PAST&13S part|say-PRESP prep|about n:prop|Claire coord|and
+	adv|indeed pro:indef|all prep|of det:art|the qn|other n|character-PL
+	prep|in det:art|the adj|novel prep|except n:prop|Newman .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|7|QUANT 7|4|OBJ 8|4|JCT
+	9|8|POBJ 10|9|JCT 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CPOBJ 15|14|JCT
+	16|15|POBJ 17|16|CONJ 18|17|COORD 19|18|POBJ 20|19|NJCT 21|23|DET
+	22|23|QUANT 23|20|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|26|JCT 28|27|POBJ
+	29|2|PUNCT
+%trn:	conj|but v|let&ZERO pro:obj|me v|try det:art|a qn|couple
+	n|sentence-PL prep|on pro:per|you prep|of pro:int|what pro:sub|he
+	aux|be&PAST&13S part|say-PRESP prep|about n:prop|Claire coord|and
+	adv|indeed pro:indef|all prep|of det:art|the qn|other n|character-PL
+	prep|in det:art|the adj|novel prep|except n:prop|Newman .
+%grt:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|7|QUANT 7|4|OBJ 8|4|JCT
+	9|8|POBJ 10|7|NJCT 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CPOBJ
+	15|14|JCT 16|15|POBJ 17|16|CONJ 18|19|NJCT 19|17|COORD 20|19|NJCT
+	21|23|DET 22|23|QUANT 23|20|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ
+	27|23|NJCT 28|27|POBJ 29|2|PUNCT
+*PAR:	again Newman is the lighted figure if you think of this as a play .
+%mor:	adv:tem|again n:prop|Newman aux|be&3S det:art|the part|light-PASTP
+	n|figure conj|if pro:per|you v|think prep|of pro:dem|this prep|as
+	det:art|a n|play .
+%gra:	1|6|JCT 2|6|SUBJ 3|6|AUX 4|6|DET 5|6|MOD 6|0|INCROOT 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|10|POBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|6|PUNCT
+%trn:	adv:tem|again n:prop|Newman cop|be&3S det:art|the part|light-PASTP
+	n|figure conj|if pro:per|you v|think prep|of pro:dem|this prep|as
+	det:art|a n|play .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|XMOD 6|3|PRED 7|9|LINK
+	8|9|SUBJ 9|3|CJCT 10|9|JCT 11|10|POBJ 12|9|JCT 13|14|DET 14|12|POBJ
+	15|3|PUNCT
+*PAR:	the spotlight's on Newman .
+%mor:	det:art|the n|spotlight~cop|be&3S prep|on n:prop|Newman .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%trn:	det:art|the n|spotlight~cop|be&3S prep|on n:prop|Newman .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	the others including Claire , he says , were to be obscured .
+%mor:	det:art|the n:pt|others part|include-PRESP n:prop|Claire cm|cm
+	pro:sub|he v|say-3S cm|cm cop|be&PAST inf|to aux|be
+	part|obscure-PASTP .
+%gra:	1|2|DET 2|7|JCT 3|2|XMOD 4|3|OBJ 5|2|LP 6|7|SUBJ 7|0|ROOT 8|7|LP
+	9|7|ENUM 10|12|INF 11|12|AUX 12|9|XMOD 13|7|PUNCT
+%trn:	det:art|the n:pt|others part|include-PRESP n:prop|Claire cm|cm
+	pro:sub|he v|say-3S cm|cm cop|be&PAST inf|to aux|be
+	part|obscure-PASTP .
+%grt:	1|2|DET 2|9|SUBJ 3|2|XMOD 4|3|OBJ 5|2|LP 6|7|SUBJ 7|9|CJCT 8|7|LP
+	9|0|ROOT 10|12|INF 11|12|AUX 12|9|CPRED 13|9|PUNCT
+*PAR:	+" by which I should largely get the very effect most to be invoked
+	, that of a generous nature engaged with forces with difficulties
+	and with dangers that it only half understands .
+%mor:	prep|by pro:int|which pro:sub|I mod|should adv|large&dadj-LY v|get
+	det:art|the adv|very n|effect adv|most inf|to aux|be
+	part|invoke-PASTP cm|cm pro:rel|that prep|of det:art|a adj|generous
+	n|nature v|engage-PAST prep|with n|force-PL prep|with
+	n|difficulty-PL coord|and prep|with n|danger-PL pro:rel|that
+	pro:per|it adv|only n|half v|understand-3S .
+%gra:	1|0|INCROOT 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|JCT 6|1|CPOBJ 7|9|DET 8|9|JCT
+	9|6|OBJ 10|9|NJCT 11|13|INF 12|13|AUX 13|10|XMOD 14|13|LP 15|20|LINK
+	16|20|JCT 17|19|DET 18|19|MOD 19|20|SUBJ 20|9|CMOD 21|20|JCT 22|21|POBJ
+	23|22|NJCT 24|23|POBJ 25|24|CONJ 26|25|COORD 27|26|POBJ 28|32|LINK
+	29|32|SUBJ 30|32|JCT 31|32|SUBJ 32|27|CMOD 33|1|PUNCT
+%trn:	prep|by pro:int|which pro:sub|I mod|should adv|large&dadj-LY v|get
+	det:art|the adv|very n|effect adv|most inf|to aux|be
+	part|invoke-PASTP cm|cm pro:dem|that prep|of det:art|a adj|generous
+	n|nature part|engage-PASTP prep|with n|force-PL prep|with
+	n|difficulty-PL coord|and prep|with n|danger-PL pro:rel|that
+	pro:per|it adv|only n|half v|understand-3S .
+%grt:	1|6|JCT 2|1|POBJ 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|9|DET
+	8|9|NJCT 9|6|OBJ 10|13|JCT 11|13|INF 12|13|AUX 13|9|XMOD 14|9|LP
+	15|9|ENUM 16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|XMOD
+	21|20|JCT 22|21|POBJ 23|21|ENUM 24|23|POBJ 25|23|CONJ 26|25|COORD
+	27|26|POBJ 28|32|LINK 29|32|SUBJ 30|31|JCT 31|32|JCT 32|27|CMOD
+	33|6|PUNCT
+*PAR:	the other characters hafta be mysterious , obscure , their motives
+	not apparent , because the perception of them that &i we have is
+	only Newman's .
+%mor:	det:art|the qn|other n|character-PL mod|have~inf|to cop|be
+	adj|mysterious cm|cm adj|obscure cm|cm det:poss|their n|motive-PL
+	neg|not adj|apparent cm|cm conj|because det:art|the n|perception
+	prep|of pro:obj|them comp|that pro:sub|we v|have cop|be&3S adv|only
+	n:prop|Newman~cop|be&3S .
+%gra:	1|3|DET 2|3|QUANT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|PRED 8|7|LP
+	9|6|ENUM 10|9|LP 11|12|DET 12|6|PRED 13|12|NEG 14|12|ENUM 15|14|LP
+	16|12|NJCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|19|POBJ 21|23|LINK 22|23|SUBJ
+	23|18|CMOD 24|23|COMP 25|27|JCT 26|27|SUBJ 27|24|PRED 28|6|PUNCT
+%trn:	det:art|the qn|other n|character-PL mod|have~inf|to cop|be
+	adj|mysterious cm|cm adj|obscure cm|cm det:poss|their n|motive-PL
+	neg|not adj|apparent cm|cm conj|because det:art|the n|perception
+	prep|of pro:obj|them pro:rel|that pro:sub|we v|have cop|be&3S
+	adv|only adj|Newman&dn-POSS .
+%grt:	1|3|DET 2|3|QUANT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|PRED 8|7|LP
+	9|7|ENUM 10|9|LP 11|12|DET 12|9|PRED 13|14|NEG 14|12|POSTMOD 15|14|LP
+	16|24|JCT 17|18|DET 18|24|SUBJ 19|18|NJCT 20|19|POBJ 21|23|LINK
+	22|23|SUBJ 23|18|CMOD 24|6|CJCT 25|26|JCT 26|24|PRED 27|6|PUNCT
+*PAR:	he doesn't understand them .
+%mor:	pro:sub|he mod|do&3S~neg|not v|understand pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%trn:	pro:sub|he mod|do&3S~neg|not v|understand pro:obj|them .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	he doesn't know what they're up to .
+%mor:	pro:sub|he mod|do&3S~neg|not v|know pro:int|what
+	pro:sub|they~cop|be&PRES adv|up prep|to .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|7|JCT 10|4|PUNCT
+%trn:	pro:sub|he mod|do&3S~neg|not v|know pro:int|what
+	pro:sub|they~cop|be&PRES adv|up prep|to .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COBJ 8|7|JCT
+	9|7|JCT 10|4|PUNCT
+*PAR:	he doesn't gauge the complexity of their motives and so forth .
+%mor:	pro:sub|he mod|do&3S~neg|not v|gauge det:art|the n|complexity
+	prep|of det:poss|their n|motive-PL coord|and adv|so adv|forth .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|CONJ 11|12|JCT 12|10|COORD 13|4|PUNCT
+%trn:	pro:sub|he mod|do&3S~neg|not v|gauge det:art|the n|complexity
+	prep|of det:poss|their n|motive-PL coord|and adv|so adv|forth .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|12|JCT 12|10|COORD 13|4|PUNCT
+*PAR:	so ‡ James said I hadta leave those characters obscure to the
+	reader because they were obscure to him , you see .
+%mor:	co|so beg|beg n:prop|James v|say&PAST pro:sub|I
+	mod|have&PAST~inf|to v|leave det:dem|those n|character-PL
+	adj|obscure prep|to det:art|the n|read&dv-AGT conj|because
+	pro:sub|they cop|be&PAST adj|obscure prep|to pro:obj|him cm|cm
+	pro:per|you v|see .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|INF 8|4|COMP
+	9|10|DET 10|8|OBJ 11|10|POSTMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|23|CJCT 18|17|PRED 19|18|JCT 20|19|POBJ 21|17|LP
+	22|23|SUBJ 23|4|CJCT 24|4|PUNCT
+%trn:	co|so beg|beg n:prop|James v|say&PAST pro:sub|I
+	mod|have&PAST~inf|to v|leave det:dem|those n|character-PL
+	adj|obscure prep|to det:art|the n|read&dv-AGT conj|because
+	pro:sub|they cop|be&PAST adj|obscure prep|to pro:obj|him cm|cm
+	pro:per|you v|see .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|INF 8|4|COMP
+	9|10|DET 10|8|OBJ 11|10|POSTMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|8|CJCT 18|17|PRED 19|18|JCT 20|19|POBJ 21|4|LP
+	22|23|SUBJ 23|4|CJCT 24|4|PUNCT
+*PAR:	so ‡ to go into the background of that statement would take us too
+	far afield but what's happened by the time James comes to write the
+	preface here is that literary modernism has begun to emerge .
+%mor:	co|so beg|beg inf|to v|go prep|into det:art|the n|background
+	prep|of det:dem|that n|state&dv-MENT mod|will&COND v|take pro:obj|us
+	adv|too adv|far adv|afield conj|but pro:int|what~aux|be&3S
+	part|happen-PASTP prep|by det:art|the n|time n:prop|James v|come-3S
+	inf|to v|write det:art|the n|preface adv|here cop|be&3S det:dem|that
+	adj|literary n|modern&dadj-ISM aux|have&3S part|begin&PASTP inf|to
+	v|emerge .
+%gra:	1|0|BEG 2|1|BEGP 3|4|INF 4|12|SUBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|AUX 12|0|ROOT 13|12|OBJ 14|15|JCT 15|12|JCT
+	16|12|JCT 17|20|LINK 18|20|SUBJ 19|20|AUX 20|25|CJCT 21|20|JCT 22|23|DET
+	23|21|POBJ 24|25|SUBJ 25|12|CJCT 26|27|INF 27|25|COMP 28|29|DET 29|27|OBJ
+	30|31|JCT 31|27|CJCT 32|34|DET 33|34|MOD 34|36|SUBJ 35|36|AUX 36|31|PRED
+	37|38|INF 38|36|COMP 39|12|PUNCT
+%trn:	co|so beg|beg inf|to v|go prep|into det:art|the n|background
+	prep|of det:dem|that n|state&dv-MENT mod|will&COND v|take pro:obj|us
+	adv|too adv|far adv|afield conj|but pro:int|what~aux|be&3S
+	part|happen-PASTP prep|by det:art|the n|time n:prop|James v|come-3S
+	inf|to v|write det:art|the n|preface adv|here cop|be&3S comp|that
+	adj|literary n|modern&dadj-ISM aux|have&3S part|begin&PASTP inf|to
+	v|emerge .
+%grt:	1|0|BEG 2|1|BEGP 3|4|INF 4|12|CSUBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|AUX 12|0|ROOT 13|12|OBJ 14|15|JCT 15|16|JCT
+	16|12|JCT 17|31|LINK 18|20|SUBJ 19|20|AUX 20|31|CSUBJ 21|20|JCT
+	22|23|DET 23|21|POBJ 24|25|SUBJ 25|23|CMOD 26|27|INF 27|25|COMP
+	28|29|DET 29|27|OBJ 30|27|JCT 31|12|CJCT 32|36|LINK 33|34|MOD
+	34|36|SUBJ 35|36|AUX 36|31|CPRED 37|38|INF 38|36|COMP 39|12|PUNCT
+*PAR:	and often in that literary mode the concentration is entirely on
+	the single &s figure as it experiences the world .
+%mor:	coord|and adv|often prep|in det:dem|that adj|literary n|mode
+	det:art|the n|concentrate&dv-TION cop|be&3S adv|entire&dadj-LY
+	prep|on det:art|the n|single n|figure prep|as pro:per|it
+	v|experience-3S det:art|the n|world .
+%gra:	1|9|LINK 2|9|JCT 3|9|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|17|JCT
+	16|17|SUBJ 17|9|CJCT 18|19|DET 19|17|OBJ 20|9|PUNCT
+%trn:	coord|and adv|often prep|in det:dem|that adj|literary n|mode
+	det:art|the n|concentrate&dv-TION cop|be&3S adv|entire&dadj-LY
+	prep|on det:art|the adj|single n|figure conj|as pro:per|it
+	v|experience-3S det:art|the n|world .
+%grt:	1|9|LINK 2|9|JCT 3|9|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|17|LINK
+	16|17|SUBJ 17|9|CJCT 18|19|DET 19|17|OBJ 20|9|PUNCT
+*PAR:	and therefore it becomes an exercise in subjectivity rather_than
+	writing the kind of sociological novel where you have a vast cast of
+	characters and we can enter in the mind of any one of these
+	characters at any time because we have an omniscient author .
+%mor:	coord|and adv|therefore pro:per|it cop|become-3S det:art|a
+	n|exercise prep|in n|subjective&dadj-ITY prep|rather_than
+	n:gerund|write-PRESP det:art|the n|kind prep|of socio#adj|logical
+	n|novel pro:rel|where pro:per|you v|have det:art|a adj|vast n|cast
+	prep|of n|character-PL coord|and pro:sub|we mod|can v|enter prep|in
+	det:art|the n|mind prep|of qn|any pro:indef|one prep|of
+	det:dem|these n|character-PL prep|at qn|any n|time conj|because
+	pro:sub|we v|have det:art|a adj|omniscient n|author .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|6|NJCT 10|9|POBJ 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|21|DET 20|21|MOD 21|18|OBJ 22|21|NJCT
+	23|22|POBJ 24|27|LINK 25|27|SUBJ 26|27|AUX 27|18|CJCT 28|27|JCT
+	29|30|DET 30|28|POBJ 31|30|NJCT 32|33|QUANT 33|31|POBJ 34|33|NJCT 35|36|DET
+	36|34|POBJ 37|27|JCT 38|39|QUANT 39|37|POBJ 40|42|LINK 41|42|SUBJ 42|27|CJCT
+	43|45|DET 44|45|MOD 45|42|OBJ 46|4|PUNCT
+%trn:	coord|and adv|therefore pro:per|it cop|become-3S det:art|a
+	n|exercise prep|in n|subjective&dadj-ITY prep|rather_than
+	n:gerund|write-PRESP det:art|the n|kind prep|of socio#adj|logical
+	n|novel pro:rel|where pro:per|you v|have det:art|a adj|vast n|cast
+	prep|of n|character-PL coord|and pro:sub|we mod|can v|enter prep|in
+	det:art|the n|mind prep|of qn|any pro:indef|one prep|of
+	det:dem|these n|character-PL prep|at qn|any n|time conj|because
+	pro:sub|we v|have det:art|a adj|omniscient n|author .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|MOD
+	15|13|POBJ 16|18|LINK 17|18|SUBJ 18|15|CMOD 19|21|DET 20|21|MOD
+	21|18|OBJ 22|21|NJCT 23|22|POBJ 24|27|LINK 25|27|SUBJ 26|27|AUX
+	27|18|CJCT 28|27|JCT 29|30|DET 30|28|POBJ 31|30|NJCT 32|33|QUANT
+	33|31|POBJ 34|33|NJCT 35|36|DET 36|34|POBJ 37|27|JCT 38|39|QUANT
+	39|37|POBJ 40|42|LINK 41|42|SUBJ 42|27|CJCT 43|45|DET 44|45|MOD
+	45|42|OBJ 46|4|PUNCT
+*PAR:	and therefore you can see this is what this guy's thinking , that's
+	what this girl's thinking , this is what this man's thinking , this
+	is what his mother's thinking .
+%mor:	coord|and adv|therefore pro:per|you mod|can v|see pro:dem|this
+	cop|be&3S pro:int|what det:dem|this n|guy~aux|be&3S part|think-PRESP
+	cm|cm pro:dem|that~cop|be&3S pro:int|what det:dem|this
+	n|girl~aux|be&3S part|think-PRESP cm|cm pro:dem|this cop|be&3S
+	pro:int|what det:dem|this n|man~aux|be&3S part|think-PRESP cm|cm
+	pro:dem|this cop|be&3S pro:int|what det:poss|his n|mother~aux|be&3S
+	part|think-PRESP .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|12|LINK
+	9|10|DET 10|12|SUBJ 11|12|AUX 12|7|CPRED 13|12|LP 14|15|SUBJ 15|12|COMP
+	16|20|LINK 17|18|DET 18|20|SUBJ 19|20|AUX 20|15|CPRED 21|20|LP
+	22|23|SUBJ 23|20|COMP 24|28|LINK 25|26|DET 26|28|SUBJ 27|28|AUX 28|23|CPRED
+	29|28|LP 30|31|SUBJ 31|28|COMP 32|36|LINK 33|34|DET 34|36|SUBJ 35|36|AUX
+	36|31|CPRED 37|5|PUNCT
+%trn:	coord|and adv|therefore pro:per|you mod|can v|see pro:dem|this
+	cop|be&3S pro:int|what det:dem|this n|guy~aux|be&3S part|think-PRESP
+	cm|cm pro:dem|that~cop|be&3S pro:int|what det:dem|this
+	n|girl~aux|be&3S part|think-PRESP cm|cm pro:dem|this cop|be&3S
+	pro:int|what det:dem|this n|man~aux|be&3S part|think-PRESP cm|cm
+	pro:dem|this cop|be&3S pro:int|what det:poss|his n|mother~aux|be&3S
+	part|think-PRESP .
+%grt:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|SUBJ 7|5|COMP
+	8|12|LINK 9|10|DET 10|12|SUBJ 11|12|AUX 12|7|CPRED 13|7|LP
+	14|15|SUBJ 15|7|CJCT 16|20|LINK 17|18|DET 18|20|SUBJ 19|20|AUX
+	20|15|CPRED 21|15|LP 22|23|SUBJ 23|15|CJCT 24|28|LINK 25|26|DET
+	26|28|SUBJ 27|28|AUX 28|23|CPRED 29|23|LP 30|31|SUBJ 31|23|CJCT
+	32|36|LINK 33|34|DET 34|36|SUBJ 35|36|AUX 36|31|CPRED 37|5|PUNCT
+*PAR:	the [/] the [/] &om the omniscient author allows us to enter into
+	the mind of any character at any time and so we [//] &the they're in
+	some ways all equally imagined .
+%mor:	det:art|the adj|omniscient n|author v|allow-3S pro:obj|us inf|to
+	v|enter prep|into det:art|the n|mind prep|of qn|any n|character
+	prep|at qn|any n|time coord|and adv|so pro:sub|they~aux|be&PRES
+	prep|in qn|some n|way-PL post|all adv|equal&dadj-LY
+	part|imagine-PASTP .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|PUNCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|QUANT 13|11|POBJ 14|7|JCT 15|16|QUANT
+	16|14|POBJ 17|7|CONJ 18|19|JCT 19|17|COORD 20|19|ROOT 21|20|NJCT
+	22|23|QUANT 23|21|POBJ 24|23|POSTMOD 25|26|JCT 26|24|ROOT 27|26|PUNCT
+%trn:	det:art|the adj|omniscient n|author v|allow-3S pro:obj|us inf|to
+	v|enter prep|into det:art|the n|mind prep|of qn|any n|character
+	prep|at qn|any n|time coord|and adv|so pro:sub|they~aux|be&PRES
+	prep|in qn|some n|way-PL post|all adv|equal&dadj-LY
+	part|imagine-PASTP .
+%grt:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|QUANT 13|11|POBJ 14|7|JCT 15|16|QUANT
+	16|14|POBJ 17|26|LINK 18|26|JCT 19|26|SUBJ 20|26|AUX 21|26|JCT
+	22|23|QUANT 23|21|POBJ 24|19|PQ 25|26|JCT 26|4|CJCT 27|4|PUNCT
+*PAR:	if you think of a great novel like say Middlemarch , I think Eliot
+	must have there thirty or so major characters and at any moment <she
+	can> [/] she can tell us what this character's thinking , what his
+	motives are , why he's doing what he's doing .
+%mor:	conj|if pro:per|you v|think prep|of det:art|a adj|great n|novel
+	prep|like co|say n:prop|Middlemarch cm|cm pro:sub|I v|think
+	n:prop|Eliot mod|must v|have adv|there det:num|thirty coord|or
+	adv|so adj|major n|character-PL coord|and prep|at qn|any n|moment
+	pro:sub|she mod|can v|tell pro:obj|us pro:int|what det:dem|this
+	n|character~aux|be&3S part|think-PRESP cm|cm pro:int|what
+	det:poss|his n|motive-PL cop|be&PRES cm|cm pro:int|why
+	pro:sub|he~aux|be&3S part|do-PRESP pro:int|what pro:sub|he~aux|be&3S
+	part|do-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|JCT
+	9|10|COM 10|8|POBJ 11|3|LP 12|13|SUBJ 13|0|ROOT 14|16|SUBJ 15|16|AUX
+	16|13|COMP 17|18|JCT 18|29|CJCT 19|18|CONJ 20|21|JCT 21|22|MOD 22|19|COORD
+	23|18|CONJ 24|23|COORD 25|26|QUANT 26|24|POBJ 27|29|SUBJ 28|29|AUX
+	29|16|COMP 30|29|OBJ 31|35|LINK 32|33|DET 33|35|SUBJ 34|35|AUX 35|29|COMP
+	36|35|LP 37|40|LINK 38|39|DET 39|40|SUBJ 40|35|COMP 41|40|LP 42|45|LINK
+	43|45|SUBJ 44|45|AUX 45|40|CPRED 46|49|LINK 47|49|SUBJ 48|49|AUX 49|45|COMP
+	50|13|PUNCT
+%trn:	comp|if pro:per|you v|think prep|of det:art|a adj|great n|novel
+	prep|like co|say n:prop|Middlemarch cm|cm pro:sub|I v|think
+	n:prop|Eliot mod|must v|have adv|there det:num|thirty coord|or adv|so
+	adj|major n|character-PL coord|and prep|at qn|any n|moment
+	pro:sub|she mod|can v|tell pro:obj|us pro:int|what det:dem|this
+	n|character~aux|be&3S part|think-PRESP cm|cm pro:int|what
+	det:poss|his n|motive-PL cop|be&PRES cm|cm pro:int|why
+	pro:sub|he~aux|be&3S part|do-PRESP pro:int|what pro:sub|he~aux|be&3S
+	part|do-PRESP .
+%grt:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|NJCT
+	9|10|COM 10|8|POBJ 11|3|LP 12|13|SUBJ 13|0|ROOT 14|16|SUBJ 15|16|AUX
+	16|13|COMP 17|16|JCT 18|22|QUANT 19|18|CONJ 20|19|COORD 21|22|MOD
+	22|16|OBJ 23|29|LINK 24|29|JCT 25|26|QUANT 26|24|POBJ 27|29|SUBJ
+	28|29|AUX 29|16|CJCT 30|29|OBJ 31|35|LINK 32|33|DET 33|35|SUBJ
+	34|35|AUX 35|29|COMP 36|35|LP 37|40|LINK 38|39|DET 39|40|SUBJ
+	40|35|CJCT 41|40|LP 42|45|LINK 43|45|SUBJ 44|45|AUX 45|40|CJCT
+	46|49|LINK 47|49|SUBJ 48|49|AUX 49|45|COBJ 50|13|PUNCT
+*PAR:	but with modernism and the increase in subjectivity we begin to get
+	the world as experienced only through one sensibility .
+%mor:	conj|but prep|with n|modern&dadj-ISM coord|and det:art|the
+	n|increase prep|in n|subjective&dadj-ITY pro:sub|we v|begin inf|to
+	v|get det:art|the n|world prep|as part|experience-PASTP adv|only
+	prep|through det:num|one n|sensible&dadj-ITY .
+%gra:	1|10|LINK 2|10|JCT 3|2|POBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|6|NJCT
+	8|7|POBJ 9|10|SUBJ 10|0|ROOT 11|12|INF 12|10|COMP 13|14|DET 14|12|OBJ 15|12|JCT
+	16|15|POBJ 17|16|JCT 18|16|JCT 19|20|QUANT 20|18|POBJ 21|10|PUNCT
+%trn:	conj|but prep|with n|modern&dadj-ISM coord|and det:art|the
+	n|increase prep|in n|subjective&dadj-ITY pro:sub|we v|begin inf|to
+	v|get det:art|the n|world conj|as part|experience-PASTP adv|only
+	prep|through det:num|one n|sensible&dadj-ITY .
+%grt:	1|10|LINK 2|10|JCT 3|2|POBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|6|NJCT
+	8|7|POBJ 9|10|SUBJ 10|0|ROOT 11|12|INF 12|10|COMP 13|14|DET
+	14|12|OBJ 15|16|LINK 16|14|XMOD 17|18|JCT 18|16|JCT 19|20|DET
+	20|18|POBJ 21|10|PUNCT
+*PAR:	I suppose the most famous example of this is James Joyce's Portrait
+	of the Artist as a Young Man where Steven Daedelus is the only
+	reality of the novel .
+%mor:	pro:sub|I v|suppose det:art|the adv|most adj|famous n|example
+	prep|of pro:dem|this cop|be&3S n:prop|James n:prop|Joyce~cop|be&3S
+	n:prop|Portrait prep|of det:art|the n:prop|Artist prep|as det:art|a
+	n:prop|Young n:prop|Man pro:rel|where n:prop|Steven n:prop|Daedelus
+	cop|be&3S det:art|the qn|only n|real&dadj-ITY prep|of det:art|the
+	n|novel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|9|SUBJ 7|6|NJCT 8|7|POBJ
+	9|2|COMP 10|11|NAME 11|12|SUBJ 12|9|PRED 13|24|LINK 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|19|COORD 18|19|DET 19|20|NAME 20|24|SUBJ 21|22|LINK
+	22|23|NAME 23|24|SUBJ 24|12|PRED 25|27|DET 26|27|QUANT 27|24|PRED 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|2|PUNCT
+%trn:	pro:sub|I v|suppose det:art|the adv|most adj|famous n|example
+	prep|of pro:dem|this cop|be&3S n:prop|James adj|Joyce&dn-POSS
+	n:prop|Portrait prep|of det:art|the n:prop|Artist prep|as det:art|a
+	n:prop|Young n:prop|Man pro:rel|where n:prop|Steven n:prop|Daedelus
+	cop|be&3S det:art|the qn|only n|real&dadj-ITY prep|of det:art|the
+	n|novel .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|9|SUBJ 7|6|NJCT
+	8|7|POBJ 9|2|COMP 10|11|NAME 11|12|MOD 12|9|PRED 13|12|NJCT
+	14|15|DET 15|13|POBJ 16|15|NJCT 17|19|DET 18|19|NAME 19|16|POBJ
+	20|23|LINK 21|22|NAME 22|23|SUBJ 23|12|CMOD 24|26|DET 25|26|QUANT
+	26|23|PRED 27|26|NJCT 28|29|DET 29|27|POBJ 30|2|PUNCT
+*PAR:	everybody else exists only as Steven perceives them .
+%mor:	pro:indef|everybody post|else v|exist-3S adv|only prep|as
+	n:prop|Steven v|perceive-3S pro:obj|them .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|3|PUNCT
+%trn:	pro:indef|everybody post|else v|exist-3S adv|only conj|as
+	n:prop|Steven v|perceive-3S pro:obj|them .
+%grt:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|5|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|3|PUNCT
+*PAR:	and when he quits thinking about (th)em , for all practical
+	purposes they cease to exist .
+%mor:	coord|and conj|when pro:sub|he v|quit-3S part|think-PRESP
+	prep|about pro:obj|them cm|cm prep|for adv|all adj|practical
+	n|purpose-PL pro:sub|they v|cease inf|to v|exist .
+%gra:	1|14|LINK 2|4|LINK 3|4|SUBJ 4|14|CJCT 5|4|COMP 6|5|JCT 7|6|POBJ 8|4|LP
+	9|4|JCT 10|11|JCT 11|12|MOD 12|9|POBJ 13|14|SUBJ 14|0|ROOT 15|16|INF
+	16|14|COMP 17|14|PUNCT
+%trn:	coord|and conj|when pro:sub|he v|quit-3S part|think-PRESP prep|about
+	pro:obj|them cm|cm prep|for qn|all adj|practical n|purpose-PL
+	pro:sub|they v|cease inf|to v|exist .
+%grt:	1|14|LINK 2|4|LINK 3|4|SUBJ 4|14|CJCT 5|4|COMP 6|7|JCT 7|5|OBJ 8|4|LP
+	9|14|JCT 10|12|QUANT 11|12|MOD 12|9|POBJ 13|14|SUBJ 14|0|ROOT
+	15|16|INF 16|14|COMP 17|14|PUNCT
+*PAR:	it's a very sort_of solipsistic novel .
+%mor:	pro:per|it~cop|be&3S det:art|a adv|very adv|sort_of adj|solipsistic
+	n|novel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|5|JCT 5|6|JCT 6|7|MOD 7|2|PRED 8|2|PUNCT
+%trn:	pro:per|it~cop|be&3S det:art|a adv|very adv|sort_of adj|solipsistic
+	n|novel .
+%grt:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|6|JCT 5|6|JCT 6|7|MOD 7|2|PRED 8|2|PUNCT
+*PAR:	&th that is , the [/] the only reality that things have are [/] are
+	in the mind of the perceiver .
+%mor:	pro:dem|that cop|be&3S cm|cm det:art|the qn|only n|real&dadj-ITY
+	pro:rel|that n|thing-PL v|have cop|be&PRES prep|in det:art|the
+	n|mind prep|of det:art|the n|perceive&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LP 4|6|DET 5|6|QUANT 6|2|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|2|PUNCT
+%trn:	pro:dem|that cop|be&3S cm|cm det:art|the qn|only n|real&dadj-ITY
+	pro:rel|that n|thing-PL v|have cop|be&PRES prep|in det:art|the
+	n|mind prep|of det:art|the n|perceive&dv-AGT .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|LP 4|6|DET 5|6|QUANT 6|10|SUBJ 7|9|LINK
+	8|9|SUBJ 9|6|CMOD 10|2|CPRED 11|10|JCT 12|13|DET 13|11|POBJ
+	14|13|NJCT 15|16|DET 16|14|POBJ 17|2|PUNCT
+*PAR:	and in that novel his [//] even his very obscure love , the woman
+	Amarata , we don't even know her name .
+%mor:	coord|and prep|in det:dem|that n|novel adv|even det:poss|his
+	adv|very adj|obscure n|love cm|cm det:art|the n|woman n:prop|Amarata
+	cm|cm pro:sub|we mod|do~neg|not adv|even v|know det:poss|her n|name
+	.
+%gra:	1|9|LINK 2|9|JCT 3|4|DET 4|2|POBJ 5|9|JCT 6|9|DET 7|8|JCT 8|9|MOD
+	9|0|INCROOT 10|9|LP 11|12|DET 12|9|ENUM 13|12|APP 14|13|LP 15|19|SUBJ
+	16|19|AUX 17|16|NEG 18|19|JCT 19|12|CMOD 20|21|DET 21|19|OBJ 22|9|PUNCT
+%trn:	coord|and prep|in det:dem|that n|novel adv|even det:poss|his
+	adv|very adj|obscure n|love cm|cm det:art|the n|woman n:prop|Amarata
+	cm|cm pro:sub|we mod|do~neg|not adv|even v|know det:poss|her n|name
+	.
+%grt:	1|19|LINK 2|19|JCT 3|4|DET 4|2|POBJ 5|9|NJCT 6|9|DET 7|8|JCT 8|9|MOD
+	9|19|TOP 10|9|LP 11|12|DET 12|9|APP 13|12|APP 14|12|LP 15|19|SUBJ
+	16|19|AUX 17|16|NEG 18|19|JCT 19|0|ROOT 20|21|DET 21|19|OBJ
+	22|19|PUNCT
+*PAR:	we know he has a girlfriend .
+%mor:	pro:sub|we v|know pro:sub|he v|have&3S det:art|a n|+n|girl+n|friend
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%trn:	pro:sub|we v|know pro:sub|he v|have&3S det:art|a n|+n|girl+n|friend
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*PAR:	<we know her name is EC> [//] her [//] we know her initials are EC
+	.
+%mor:	pro:sub|we v|know pro:obj|her n:adj|initial-PL cop|be&PRES
+	n:prop|EC .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|5|PRED 7|2|PUNCT
+%trn:	pro:sub|we v|know pro:obj|her n:adj|initial-PL cop|be&PRES n:prop|EC
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|PRED 7|2|PUNCT
+*PAR:	but we don't even know what her name is &i so_that she remains
+	simply a floating fleeting figment of [/] of Steven's perception .
+%mor:	conj|but pro:sub|we mod|do~neg|not adv|even v|know pro:int|what
+	det:poss|her n|name cop|be&3S conj|so_that pro:sub|she cop|remain-3S
+	adv|simple&dadj-LY det:art|a n:gerund|float-PRESP part|fleet-PRESP
+	n|figment prep|of adj|Steven&dn-POSS n|perception .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|13|LINK 12|13|SUBJ 13|6|CJCT 14|13|PRED 15|16|DET
+	16|13|PRED 17|16|XMOD 18|17|OBJ 19|18|NJCT 20|21|MOD 21|19|POBJ
+	22|6|PUNCT
+%trn:	conj|but pro:sub|we mod|do~neg|not adv|even v|know pro:int|what
+	det:poss|her n|name cop|be&3S conj|so_that pro:sub|she cop|remain-3S
+	adv|simple&dadj-LY det:art|a part|float-PRESP part|fleet-PRESP
+	n|figment prep|of adj|Steven&dn-POSS n|perception .
+%grt:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|13|LINK 12|13|SUBJ 13|6|CJCT 14|13|JCT
+	15|18|DET 16|18|XMOD 17|18|XMOD 18|13|PRED 19|18|NJCT 20|21|MOD
+	21|19|POBJ 22|6|PUNCT
+*PAR:	so_that modernism will come to elevate that mode <to a a> [//] to a
+	particular &-uh: sort_of aesthetic modus_operandi that the only
+	character that you really hafta give great reality in life to is the
+	central consciousness , the figure who possesses that central
+	consciousness .
+%mor:	conj|so_that n|modern&dadj-ISM mod|will v|come inf|to v|elevate
+	det:dem|that n|mode prep|to det:art|a adj|particular adv|sort_of
+	adj|aesthetic n|modus_operandi pro:rel|that det:art|the qn|only
+	n|character pro:rel|that pro:per|you adv|real&dadj-LY
+	mod|have~inf|to v|give adj|great n|real&dadj-ITY prep|in n|life
+	prep|to cop|be&3S det:art|the adj|central n|conscious&dadj-NESS
+	cm|cm det:art|the n|figure pro:rel|who v|possess-3S det:dem|that
+	adj|central n|conscious&dadj-NESS .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|14|DET 11|14|MOD 12|13|JCT 13|14|MOD 14|9|POBJ 15|18|LINK
+	16|18|DET 17|18|QUANT 18|14|CMOD 19|24|LINK 20|24|SUBJ 21|24|JCT 22|24|AUX
+	23|24|INF 24|18|CMOD 25|26|MOD 26|24|OBJ 27|26|NJCT 28|27|POBJ 29|24|JCT
+	30|29|POBJ 31|33|DET 32|33|MOD 33|24|JCT 34|33|LP 35|36|DET 36|33|ENUM
+	37|38|LINK 38|36|CMOD 39|41|DET 40|41|MOD 41|38|OBJ 42|4|PUNCT
+%trn:	conj|so_that n|modern&dadj-ISM mod|will v|come inf|to v|elevate
+	det:dem|that n|mode prep|to det:art|a adj|particular adv|sort_of
+	adj|aesthetic n|modus_operandi pro:rel|that det:art|the qn|only
+	n|character pro:rel|that pro:per|you adv|real&dadj-LY
+	mod|have~inf|to v|give adj|great n|real&dadj-ITY prep|in n|life
+	prep|to cop|be&3S det:art|the adj|central n|conscious&dadj-NESS cm|cm
+	det:art|the n|figure pro:rel|who v|possess-3S det:dem|that
+	adj|central n|conscious&dadj-NESS .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|14|DET 11|14|MOD 12|13|JCT 13|14|MOD 14|8|APP 15|30|LINK
+	16|18|DET 17|18|QUANT 18|30|SUBJ 19|24|LINK 20|24|SUBJ 21|24|JCT
+	22|24|AUX 23|24|INF 24|18|CMOD 25|26|MOD 26|24|OBJ 27|26|NJCT
+	28|27|POBJ 29|24|JCT 30|14|CMOD 31|33|DET 32|33|MOD 33|30|PRED
+	34|33|LP 35|36|DET 36|33|ENUM 37|38|LINK 38|36|CMOD 39|41|DET
+	40|41|MOD 41|38|OBJ 42|4|PUNCT
+*PAR:	now as I say James writes the preface thirty five years after he
+	writes the novel and he wrote a novel in which you have a_lot_of
+	<not very well or> [//] not very believable characters .
+%mor:	adv:tem|now conj|as pro:sub|I v|say n:prop|James v|write-3S det:art|the
+	n|preface det:num|thirty det:num|five n|year-PL prep|after
+	pro:sub|he v|write-3S det:art|the n|novel coord|and pro:sub|he
+	v|write&PAST det:art|a n|novel prep|in pro:rel|which pro:per|you
+	v|have qn|a_lot_of neg|not adv|very adj|believe&dv-ABLE
+	n|character-PL .
+%gra:	1|6|JCT 2|4|LINK 3|4|SUBJ 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|11|QUANT 10|11|QUANT 11|8|APP 12|14|JCT 13|14|SUBJ 14|11|ENUM 15|16|DET
+	16|14|OBJ 17|19|LINK 18|19|SUBJ 19|11|CJCT 20|21|DET 21|19|OBJ 22|19|JCT
+	23|24|LINK 24|25|SUBJ 25|22|POBJ 26|27|QUANT 27|30|NEG 28|29|JCT
+	29|30|MOD 30|25|OBJ 31|6|PUNCT
+%trn:	adv:tem|now conj|as pro:sub|I v|say n:prop|James v|write-3S det:art|the
+	n|preface det:num|thirty det:num|five n|year-PL prep|after
+	pro:sub|he v|write-3S det:art|the n|novel coord|and pro:sub|he
+	v|write&PAST det:art|a n|novel prep|in pro:rel|which pro:per|you
+	v|have qn|a_lot_of neg|not adv|very adj|believe&dv-ABLE
+	n|character-PL .
+%grt:	1|6|JCT 2|4|LINK 3|4|SUBJ 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|10|ENUM 10|11|QUANT 11|6|JCT 12|11|NJCT 13|14|SUBJ 14|12|CPOBJ
+	15|16|DET 16|14|OBJ 17|19|LINK 18|19|SUBJ 19|6|CJCT 20|21|DET
+	21|19|OBJ 22|21|NJCT 23|25|LINK 24|25|SUBJ 25|22|CPOBJ 26|30|QUANT
+	27|28|NEG 28|29|JCT 29|30|MOD 30|25|OBJ 31|6|PUNCT
+*PAR:	certainly they don't have the [/] the richness and depth that we
+	would expect from James's later characters .
+%mor:	adv|certain&dadj-LY pro:sub|they mod|do~neg|not v|have det:art|the
+	n|rich&dadj-NESS coord|and n|depth pro:rel|that pro:sub|we
+	mod|will&COND v|expect prep|from adj|James&dn-POSS adj|late-CP
+	n|character-PL .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|8|COORD 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CMOD 14|13|JCT 15|17|MOD
+	16|17|MOD 17|14|POBJ 18|5|PUNCT
+%trn:	adv|certain&dadj-LY pro:sub|they mod|do~neg|not v|have det:art|the
+	n|rich&dadj-NESS coord|and n|depth pro:rel|that pro:sub|we
+	mod|will&COND v|expect prep|from adj|James&dn-POSS adj|late-CP
+	n|character-PL .
+%grt:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|8|COORD 10|13|LINK 11|13|SUBJ 12|13|AUX 13|7|CMOD 14|13|JCT
+	15|17|MOD 16|17|MOD 17|14|POBJ 18|5|PUNCT
+*PAR:	and so he's in some way trying to make a virtue out_of that by
+	saying +"/.
+%mor:	coord|and adv|so pro:sub|he~aux|be&3S prep|in qn|some n|way
+	part|try-PRESP inf|to v|make det:art|a n|virtue prep|out_of
+	pro:dem|that prep|by n:gerund|say-PRESP +"/.
+%gra:	1|8|LINK 2|8|JCT 3|8|SUBJ 4|8|AUX 5|8|JCT 6|7|QUANT 7|5|POBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ 15|10|JCT
+	16|15|POBJ 17|8|PUNCT
+%trn:	coord|and adv|so pro:sub|he~aux|be&3S prep|in qn|some n|way
+	part|try-PRESP inf|to v|make det:art|a n|virtue prep|out_of
+	pro:dem|that prep|by n:gerund|say-PRESP +"/.
+%grt:	1|8|LINK 2|8|JCT 3|8|SUBJ 4|8|AUX 5|8|JCT 6|7|QUANT 7|5|POBJ
+	8|0|ROOT 9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ
+	15|8|JCT 16|15|POBJ 17|8|PUNCT
+*PAR:	well ‡ you hafta understand the only character who really matters
+	in this novel is Christopher Newman .
+%mor:	co|well beg|beg pro:per|you mod|have~inf|to v|understand
+	det:art|the qn|only n|character pro:rel|who adv|real&dadj-LY
+	n|matter-PL prep|in det:dem|this n|novel cop|be&3S
+	n:prop|Christopher n:prop|Newman .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|9|DET 8|9|QUANT
+	9|16|SUBJ 10|12|LINK 11|12|JCT 12|9|CMOD 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|6|COMP 17|18|NAME 18|16|PRED 19|6|PUNCT
+%trn:	co|well beg|beg pro:per|you mod|have~inf|to v|understand
+	det:art|the qn|only n|character pro:rel|who adv|real&dadj-LY
+	v|matter-3S prep|in det:dem|this n|novel cop|be&3S
+	n:prop|Christopher n:prop|Newman .
+%grt:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|9|DET 8|9|QUANT
+	9|16|SUBJ 10|12|LINK 11|12|JCT 12|9|CMOD 13|12|JCT 14|15|DET
+	15|13|POBJ 16|6|COMP 17|18|NAME 18|16|PRED 19|6|PUNCT
+*PAR:	what we wanna see is a novel from his point of view , from his
+	perspective .
+%mor:	pro:int|what pro:sub|we v|want~inf|to v|see cop|be&3S det:art|a
+	n|novel prep|from det:poss|his n|point prep|of n|view cm|cm
+	prep|from det:poss|his n|perspective .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|COMP 7|8|DET 8|6|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|8|LP 15|8|NJCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+%trn:	pro:int|what pro:sub|we v|want~inf|to v|see cop|be&3S det:art|a
+	n|novel prep|from det:poss|his n|point prep|of n|view cm|cm
+	prep|from det:poss|his n|perspective .
+%grt:	1|3|OBJ 2|3|SUBJ 3|6|CSUBJ 4|5|INF 5|3|COMP 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|9|LP 15|9|ENUM
+	16|17|DET 17|15|POBJ 18|6|PUNCT
+*PAR:	and he didn't understand these people .
+%mor:	coord|and pro:sub|he mod|do&PAST~neg|not v|understand det:dem|these
+	n|person&PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%trn:	coord|and pro:sub|he mod|do&PAST~neg|not v|understand det:dem|these
+	n|person&PL .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	he didn't know what the depth and complexity of Claire's motives
+	and personality were .
+%mor:	pro:sub|he mod|do&PAST~neg|not v|know pro:int|what det:art|the
+	n|depth coord|and n|complexity prep|of adj|Claire&dn-POSS
+	n|motive-PL coord|and n|personal&dadj-ITY cop|be&PAST .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|15|LINK 6|7|DET 7|15|SUBJ 8|7|CONJ
+	9|8|COORD 10|9|NJCT 11|12|MOD 12|10|POBJ 13|7|CONJ 14|13|COORD 15|4|COMP
+	16|4|PUNCT
+%trn:	pro:sub|he mod|do&PAST~neg|not v|know pro:int|what det:art|the
+	n|depth coord|and n|complexity prep|of adj|Claire&dn-POSS
+	n|motive-PL coord|and n|personal&dadj-ITY cop|be&PAST .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|15|LINK 6|7|DET 7|15|SUBJ 8|7|CONJ
+	9|8|COORD 10|7|NJCT 11|12|MOD 12|10|POBJ 13|12|CONJ 14|13|COORD
+	15|4|COMP 16|4|PUNCT
+*PAR:	and therefore she remains to some degree an enigma in the novel
+	because she was an enigma to Christopher .
+%mor:	coord|and adv|therefore pro:sub|she cop|remain-3S prep|to qn|some
+	n|degree det:art|a n|enigma prep|in det:art|the n|novel conj|because
+	pro:sub|she cop|be&PAST&13S det:art|a n|enigma prep|to
+	n:prop|Christopher .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|4|CJCT
+	16|17|DET 17|15|PRED 18|17|NJCT 19|18|POBJ 20|4|PUNCT
+%trn:	coord|and adv|therefore pro:sub|she cop|remain-3S prep|to qn|some
+	n|degree det:art|a n|enigma prep|in det:art|the n|novel
+	conj|because pro:sub|she cop|be&PAST&13S det:art|a n|enigma prep|to
+	n:prop|Christopher .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|9|DET
+	9|4|PRED 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ
+	15|4|CJCT 16|17|DET 17|15|PRED 18|17|NJCT 19|18|POBJ 20|4|PUNCT
+*PAR:	and I suppose that &the there's some degree of legitimacy in that
+	claim .
+%mor:	coord|and pro:sub|I v|suppose comp|that pro:exist|there~cop|be&3S
+	qn|some n|degree prep|of n|legitimacy prep|in det:dem|that n|claim .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|QUANT
+	8|6|PRED 9|8|NJCT 10|9|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+%trn:	coord|and pro:sub|I v|suppose comp|that pro:exist|there~cop|be&3S
+	qn|some n|degree prep|of n|legitimacy prep|in det:dem|that n|claim .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|QUANT
+	8|6|PRED 9|8|NJCT 10|9|POBJ 11|6|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	I don't think there's any scene in the novel that he's not in .
+%mor:	pro:sub|I mod|do~neg|not v|think pro:exist|there~cop|be&3S qn|any
+	n|scene prep|in det:art|the n|novel pro:rel|that
+	pro:sub|he~cop|be&3S neg|not prep|in .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|QUANT 8|6|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|NEG
+	16|14|JCT 17|4|PUNCT
+%trn:	pro:sub|I mod|do~neg|not v|think pro:exist|there~cop|be&3S qn|any
+	n|scene prep|in det:art|the n|novel pro:rel|that
+	pro:sub|he~cop|be&3S neg|not prep|in .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|QUANT 8|6|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|8|CMOD
+	15|14|NEG 16|14|JCT 17|4|PUNCT
+*PAR:	we never have some scene where Claire is confiding in someone why
+	she's engaged to &h +//.
+%mor:	pro:sub|we adv:tem|never v|have qn|some n|scene pro:rel|where
+	n:prop|Claire aux|be&3S part|confide-PRESP prep|in pro:indef|someone
+	pro:int|why pro:sub|she~aux|be&3S part|engage-PASTP prep|to +//.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|10|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|9|XJCT
+	16|15|JCT 17|3|PUNCT
+%trn:	pro:sub|we adv:tem|never v|have qn|some n|scene pro:rel|where
+	n:prop|Claire aux|be&3S part|confide-PRESP prep|in pro:indef|someone
+	pro:int|why pro:sub|she~aux|be&3S part|engage-PASTP prep|to +//.
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|10|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|9|COMP 16|15|JCT 17|3|PUNCT
+*PAR:	of_course I_mean who would you confide to in that house ?
+%mor:	co|of_course co|I_mean pro:int|who mod|will&COND pro:per|you
+	v|confide prep|to prep|in det:dem|that n|house ?
+%gra:	1|6|COM 2|6|COM 3|6|LINK 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+%trn:	co|of_course co|I_mean pro:int|who mod|will&COND pro:per|you
+	v|confide prep|to prep|in det:dem|that n|house ?
+%grt:	1|6|COM 2|6|COM 3|6|OBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*PAR:	but [/] but you see the [x 3] problem that [/] that if Newman is in
+	every scene then there is never any sense of what's going on behind
+	what he sees , what the intricacies are , and so forth , unless some
+	other character tells him .
+%mor:	conj|but pro:per|you v|see det:art|the n|problem pro:rel|that
+	conj|if n:prop|Newman cop|be&3S prep|in qn|every n|scene
+	adv:tem|then pro:exist|there cop|be&3S adv:tem|never qn|any n|sense
+	prep|of pro:int|what~aux|be&3S part|go-PRESP adv|on prep|behind
+	pro:int|what pro:sub|he v|see-3S cm|cm pro:int|what det:art|the
+	n|intricacy-PL cop|be&PRES cm|cm coord|and adv|so adv|forth cm|cm
+	conj|unless qn|some qn|other n|character v|tell-3S pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|LINK 7|9|LINK 8|9|SUBJ
+	9|5|CMOD 10|9|JCT 11|12|QUANT 12|10|POBJ 13|15|JCT 14|15|SUBJ 15|9|CJCT
+	16|15|JCT 17|18|QUANT 18|16|POBJ 19|18|NJCT 20|22|SUBJ 21|22|AUX
+	22|19|CPOBJ 23|22|JCT 24|22|JCT 25|27|LINK 26|27|SUBJ 27|24|CPOBJ 28|22|LP
+	29|32|LINK 30|31|DET 31|32|SUBJ 32|22|COMP 33|32|LP 34|32|CONJ 35|36|JCT
+	36|34|COORD 37|36|LP 38|42|LINK 39|41|QUANT 40|41|QUANT 41|42|SUBJ
+	42|36|CJCT 43|42|OBJ 44|3|PUNCT
+%trn:	conj|but pro:per|you v|see det:art|the n|problem pro:rel|that
+	conj|if n:prop|Newman cop|be&3S prep|in qn|every n|scene
+	adv:tem|then pro:exist|there cop|be&3S adv:tem|never qn|any n|sense
+	prep|of pro:int|what~aux|be&3S part|go-PRESP adv|on prep|behind
+	pro:int|what pro:sub|he v|see-3S cm|cm pro:int|what det:art|the
+	n|intricacy-PL cop|be&PRES cm|cm coord|and adv|so adv|forth cm|cm
+	conj|unless qn|some qn|other n|character v|tell-3S pro:obj|him .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|15|LINK 7|9|LINK
+	8|9|SUBJ 9|15|CJCT 10|9|JCT 11|12|QUANT 12|10|POBJ 13|15|JCT
+	14|15|SUBJ 15|5|CMOD 16|15|JCT 17|18|QUANT 18|15|PRED 19|18|NJCT
+	20|22|SUBJ 21|22|AUX 22|19|CPOBJ 23|22|JCT 24|22|JCT 25|27|LINK
+	26|27|SUBJ 27|24|CPOBJ 28|22|LP 29|32|LINK 30|31|DET 31|32|SUBJ
+	32|22|ENUM 33|32|LP 34|32|CONJ 35|36|JCT 36|34|COORD 37|36|LP
+	38|42|LINK 39|41|QUANT 40|41|QUANT 41|42|SUBJ 42|15|CJCT 43|42|OBJ
+	44|3|PUNCT
+*PAR:	but then you hafta wonder what their motives are .
+%mor:	conj|but adv:tem|then pro:per|you mod|have~inf|to v|wonder
+	pro:int|what det:poss|their n|motive-PL cop|be&PRES .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|6|PUNCT
+%trn:	conj|but adv:tem|then pro:per|you mod|have~inf|to v|wonder
+	pro:int|what det:poss|their n|motive-PL cop|be&PRES .
+%grt:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|6|PUNCT
+*PAR:	they [//] are they always telling the truth and so forth ?
+%mor:	aux|be&PRES pro:sub|they adv|always part|tell-PRESP det:art|the
+	n|truth coord|and adv|so adv|forth ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|9|JCT
+	9|7|COORD 10|4|PUNCT
+%trn:	aux|be&PRES pro:sub|they adv|always part|tell-PRESP det:art|the
+	n|truth coord|and adv|so adv|forth ?
+%grt:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|9|JCT
+	9|7|COORD 10|4|PUNCT
+*PAR:	so ‡ <when you> [/] when you limit the novel as James does here to
+	the experience and perceptions of a single character then it means
+	that the &m motives and [/] and inner lives of the other characters
+	remain this [//] to a great degree a kind_of closed book .
+%mor:	co|so beg|beg conj|when pro:per|you v|limit det:art|the n|novel
+	conj|as n:prop|James v|do&3S adv|here prep|to det:art|the
+	n|experience coord|and n|perception-PL prep|of det:art|a n|single
+	n|character adv:tem|then pro:per|it v|mean-3S comp|that det:art|the
+	n|motive-PL coord|and adj|inner n|life-PL prep|of det:art|the
+	qn|other n|character-PL cop|remain prep|to det:art|a adj|great
+	n|degree det:art|a adv|kind_of part|close-PASTP n|book .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ 15|14|CONJ
+	16|15|COORD 17|16|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|23|JCT
+	22|23|SUBJ 23|10|CJCT 24|34|LINK 25|26|DET 26|34|SUBJ 27|26|CONJ 28|29|MOD
+	29|27|COORD 30|29|NJCT 31|33|DET 32|33|QUANT 33|30|POBJ 34|23|COMP 35|34|JCT
+	36|38|DET 37|38|MOD 38|35|POBJ 39|42|DET 40|41|JCT 41|42|MOD 42|38|APP
+	43|5|PUNCT
+%trn:	co|so beg|beg conj|when pro:per|you v|limit det:art|the n|novel
+	conj|as n:prop|James v|do&3S adv|here prep|to det:art|the
+	n|experience coord|and n|perception-PL prep|of det:art|a adj|single
+	n|character adv:tem|then pro:per|it v|mean-3S comp|that det:art|the
+	n|motive-PL coord|and adj|inner n|life-PL prep|of det:art|the
+	qn|other n|character-PL cop|remain prep|to det:art|a adj|great
+	n|degree det:art|a adv|kind_of part|close-PASTP n|book .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|23|CJCT 6|7|DET 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|5|CJCT 11|10|JCT 12|5|JCT 13|14|DET
+	14|12|POBJ 15|14|CONJ 16|15|COORD 17|14|NJCT 18|20|DET 19|20|MOD
+	20|17|POBJ 21|23|JCT 22|23|SUBJ 23|0|ROOT 24|34|LINK 25|26|DET
+	26|34|SUBJ 27|26|CONJ 28|29|MOD 29|27|COORD 30|26|NJCT 31|33|DET
+	32|33|QUANT 33|30|POBJ 34|23|COMP 35|34|JCT 36|38|DET 37|38|MOD
+	38|35|POBJ 39|42|DET 40|41|JCT 41|42|XMOD 42|34|PRED 43|23|PUNCT
+*PAR:	does that make sense to you ?
+%mor:	mod|do&3S pro:dem|that v|make n|sense prep|to pro:per|you ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%trn:	mod|do&3S pro:dem|that v|make n|sense prep|to pro:per|you ?
+%grt:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	so ‡ there is a_lot_of reader dissatisfaction I think with how
+	obscure and in some way unreal then the character of [/] of Claire
+	is .
+%mor:	co|so beg|beg pro:exist|there cop|be&3S qn|a_lot_of n|read&dv-AGT
+	dis#n|satisfaction pro:sub|I v|think prep|with pro:int|how
+	adj|obscure coord|and prep|in qn|some n|way un#adj|real adv:tem|then
+	det:art|the n|character prep|of n:prop|Claire cop|be&3S .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|12|JCT 12|10|POBJ 13|12|CONJ 14|23|JCT 15|16|QUANT
+	16|14|POBJ 17|23|SUBJ 18|23|JCT 19|20|DET 20|23|SUBJ 21|20|NJCT
+	22|21|POBJ 23|13|COORD 24|4|PUNCT
+%trn:	co|so beg|beg pro:exist|there cop|be&3S qn|a_lot_of n|read&dv-AGT
+	dis#n|satisfaction pro:sub|I v|think prep|with pro:int|how
+	adj|obscure coord|and prep|in qn|some n|way un#adj|real adv:tem|then
+	det:art|the n|character prep|of n:prop|Claire cop|be&3S .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|PRED
+	8|9|SUBJ 9|7|CMOD 10|7|NJCT 11|12|LINK 12|23|PRED 13|12|CONJ
+	14|17|JCT 15|16|QUANT 16|14|POBJ 17|13|COORD 18|23|JCT 19|20|DET
+	20|23|SUBJ 21|20|NJCT 22|21|POBJ 23|10|CPOBJ 24|4|PUNCT
+*PAR:	because for example Valentin is a much better developed character .
+%mor:	conj|because prep|for n|example n:prop|Valentin aux|be&3S det:art|a
+	adv|much adv|good&CP part|develop-PASTP n|character .
+%gra:	1|9|LINK 2|9|JCT 3|4|MOD 4|2|POBJ 5|9|AUX 6|7|DET 7|9|JCT 8|9|JCT
+	9|0|ROOT 10|9|OBJ 11|9|PUNCT
+%trn:	conj|because prep|for n|example n:prop|Valentin cop|be&3S det:art|a
+	adv|much adv|good&CP part|develop-PASTP n|character .
+%grt:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|10|DET 7|8|JCT
+	8|9|JCT 9|10|XMOD 10|5|PRED 11|5|PUNCT
+*PAR:	James doesn't hafta sacrifice the depth of character development as
+	you can see with [/] with that character who's [//] who comes much
+	more to life , has much more reality to him , than [/] than his
+	sister does .
+%mor:	n:prop|James mod|do&3S~neg|not mod|have~inf|to v|sacrifice
+	det:art|the n|depth prep|of n|character n|develop&dv-MENT conj|as
+	pro:per|you mod|can v|see prep|with det:dem|that n|character
+	pro:rel|who v|come-3S adv|much adv|more prep|to n|life cm|cm
+	v|have&3S adv|much qn|more n|real&dadj-ITY prep|to pro:obj|him cm|cm
+	prep|than det:poss|his n|sister mod|do&3S .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|8|APP 12|15|LINK 13|15|SUBJ 14|15|AUX 15|6|PUNCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|20|LINK 20|18|CMOD 21|20|JCT 22|20|JCT
+	23|20|JCT 24|23|POBJ 25|15|LP 26|15|ENUM 27|26|JCT 28|29|QUANT 29|26|OBJ
+	30|29|NJCT 31|30|POBJ 32|26|LP 33|26|JCT 34|35|DET 35|33|POBJ 36|35|INCROOT
+	37|36|PUNCT
+%trn:	n:prop|James mod|do&3S~neg|not mod|have~inf|to v|sacrifice
+	det:art|the n|depth prep|of n|character n|develop&dv-MENT conj|as
+	pro:per|you mod|can v|see prep|with det:dem|that n|character
+	pro:rel|who v|come-3S adv|much adv|more prep|to n|life cm|cm
+	v|have&3S adv|much qn|more n|real&dadj-ITY prep|to pro:obj|him
+	cm|cm prep|than det:poss|his n|sister mod|do&3S .
+%grt:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|6|CJCT 16|15|JCT 17|18|DET 18|16|POBJ 19|20|LINK 20|18|CMOD
+	21|22|JCT 22|20|JCT 23|20|JCT 24|23|POBJ 25|20|LP 26|20|ENUM
+	27|28|JCT 28|29|QUANT 29|26|OBJ 30|29|NJCT 31|30|POBJ 32|26|LP
+	33|20|JCT 34|35|DET 35|36|SUBJ 36|33|CPOBJ 37|6|PUNCT
+*PAR:	but in a way James is committed to keeping Claire as this kind_of
+	ideal , this treasure , this sort_of almost unattainable item , the
+	best item in the market you_see which Newman is wanting to buy .
+%mor:	conj|but prep|in det:art|a n|way n:prop|James aux|be&3S
+	part|commit-PASTP prep|to n:gerund|keep-PRESP n:prop|Claire prep|as
+	det:dem|this adv|kind_of adj|ideal cm|cm det:dem|this n|treasure
+	cm|cm det:dem|this adv|sort_of adv|almost un#adj|attain&dv-ABLE
+	n|item cm|cm det:art|the adj|good&SP n|item prep|in det:art|the
+	n|market co|you_see pro:rel|which n:prop|Newman aux|be&3S
+	part|want-PRESP inf|to v|buy .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|9|OBJ 11|10|NJCT 12|14|DET 13|14|JCT 14|11|POBJ 15|14|LP
+	16|17|DET 17|14|ENUM 18|17|LP 19|22|DET 20|22|JCT 21|22|JCT 22|7|CJCT
+	23|22|OBJ 24|23|LP 25|27|DET 26|27|MOD 27|23|APP 28|27|NJCT 29|30|DET 30|28|POBJ
+	31|35|COM 32|35|LINK 33|35|SUBJ 34|35|AUX 35|27|XMOD 36|37|INF
+	37|35|COMP 38|7|PUNCT
+%trn:	conj|but prep|in det:art|a n|way n:prop|James aux|be&3S
+	part|commit-PASTP prep|to n:gerund|keep-PRESP n:prop|Claire prep|as
+	det:dem|this adv|kind_of adj|ideal cm|cm det:dem|this n|treasure
+	cm|cm det:dem|this adv|sort_of adv|almost un#adj|attain&dv-ABLE
+	n|item cm|cm det:art|the adj|good&SP n|item prep|in det:art|the
+	n|market co|you_see pro:rel|which n:prop|Newman aux|be&3S
+	part|want-PRESP inf|to v|buy .
+%grt:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|9|OBJ 11|9|JCT 12|14|DET 13|14|JCT 14|11|POBJ 15|14|LP
+	16|17|DET 17|14|ENUM 18|17|LP 19|23|DET 20|22|JCT 21|22|JCT
+	22|23|MOD 23|17|ENUM 24|23|LP 25|27|DET 26|27|MOD 27|23|ENUM
+	28|27|NJCT 29|30|DET 30|28|POBJ 31|35|COM 32|35|LINK 33|35|SUBJ
+	34|35|AUX 35|27|CMOD 36|37|INF 37|35|COMP 38|7|PUNCT
+*PAR:	to some degree that may depend upon the distance from it .
+%mor:	prep|to qn|some n|degree pro:rel|that mod|may v|depend prep|upon
+	det:art|the n|distance prep|from pro:per|it .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|6|JCT 11|10|POBJ 12|1|PUNCT
+%trn:	prep|to qn|some n|degree pro:dem|that mod|may v|depend prep|upon
+	det:art|the n|distance prep|from pro:per|it .
+%grt:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT
+	8|9|DET 9|7|POBJ 10|9|NJCT 11|10|POBJ 12|6|PUNCT
+*PAR:	you_see if you get up close then you begin to see you_know maybe
+	she has bad breath or you_know there may be a [/] a wart on her [/]
+	her nose that he hadn't seen before .
+%mor:	co|you_see conj|if pro:per|you v|get adv|up adj|close adv:tem|then
+	pro:per|you v|begin inf|to v|see co|you_know adv|maybe pro:sub|she
+	v|have&3S adj|bad n|breath coord|or co|you_know pro:exist|there
+	mod|may cop|be det:art|a n|wart prep|on det:poss|her n|nose
+	pro:rel|that pro:sub|he aux|have&PAST~neg|not part|see&PASTP
+	prep|before .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PRED 7|9|JCT 8|9|SUBJ
+	9|6|CMOD 10|11|INF 11|9|COMP 12|15|COM 13|15|JCT 14|15|SUBJ 15|11|COMP
+	16|17|MOD 17|15|OBJ 18|22|LINK 19|22|COM 20|22|SUBJ 21|22|AUX 22|17|CJCT
+	23|24|DET 24|22|PRED 25|24|NJCT 26|27|DET 27|25|POBJ 28|32|LINK 29|32|SUBJ
+	30|32|AUX 31|30|NEG 32|27|CMOD 33|32|JCT 34|4|PUNCT
+%trn:	co|you_see conj|if pro:per|you v|get adv|up adj|close adv:tem|then
+	pro:per|you v|begin inf|to v|see co|you_know adv|maybe pro:sub|she
+	v|have&3S adj|bad n|breath coord|or co|you_know pro:exist|there
+	mod|may cop|be det:art|a n|wart prep|on det:poss|her n|nose
+	pro:rel|that pro:sub|he aux|have&PAST~neg|not part|see&PASTP
+	adv|before .
+%grt:	1|9|COM 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|4|JCT 6|4|PRED 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|11|INF 11|9|COMP 12|15|COM 13|15|JCT 14|15|SUBJ
+	15|11|COMP 16|17|MOD 17|15|OBJ 18|22|LINK 19|22|COM 20|22|SUBJ
+	21|22|AUX 22|15|CJCT 23|24|DET 24|22|PRED 25|24|NJCT 26|27|DET
+	27|25|POBJ 28|32|LINK 29|32|SUBJ 30|32|AUX 31|30|NEG 32|24|CMOD
+	33|32|JCT 34|9|PUNCT
+*PAR:	in other words the [x 4] [//] this idealization of Claire may to
+	some degree depend upon her always remaining sort_of this distant
+	idealized figure .
+%mor:	prep|in qn|other n|word-PL det:dem|this n|ideal&dv-IZE-TION prep|of
+	n:prop|Claire mod|may prep|to qn|some n|degree v|depend prep|upon
+	pro:obj|her adv|always part|remain-PRESP adv|sort_of det:dem|this
+	adj|distant part|ideal-IZE-PASTP n|figure .
+%gra:	1|12|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|12|SUBJ 6|5|NJCT 7|6|POBJ
+	8|12|AUX 9|12|JCT 10|11|QUANT 11|12|SUBJ 12|0|ROOT 13|12|JCT 14|13|POBJ
+	15|16|JCT 16|12|XJCT 17|16|JCT 18|21|DET 19|21|MOD 20|21|MOD 21|16|JCT
+	22|12|PUNCT
+%trn:	prep|in qn|other n|word-PL det:dem|this n|ideal&dv-IZE-TION prep|of
+	n:prop|Claire mod|may prep|to qn|some n|degree v|depend prep|upon
+	pro:obj|her adv|always part|remain-PRESP adv|sort_of det:dem|this
+	adj|distant part|ideal-IZE-PASTP n|figure .
+%grt:	1|12|JCT 2|3|QUANT 3|1|POBJ 4|5|DET 5|12|SUBJ 6|5|NJCT 7|6|POBJ
+	8|12|AUX 9|12|JCT 10|11|QUANT 11|9|POBJ 12|0|ROOT 13|12|JCT
+	14|13|POBJ 15|16|JCT 16|14|XMOD 17|16|JCT 18|21|DET 19|21|MOD
+	20|21|XMOD 21|16|PRED 22|12|PUNCT
+*PAR:	&w but then we come to I think the even more difficult figure of
+	the [/] the Marquis her mother .
+%mor:	conj|but adv:tem|then pro:sub|we v|come prep|to pro:sub|I v|think
+	det:art|the adv|even adv|more adj|difficult n|figure prep|of
+	det:art|the n:prop|Marquis det:poss|her n|mother .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|12|DET
+	9|11|JCT 10|11|JCT 11|12|MOD 12|7|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|17|DET 17|15|OBJ 18|7|PUNCT
+%trn:	conj|but adv:tem|then pro:sub|we v|come prep|to pro:sub|I v|think
+	det:art|the adv|even adv|more adj|difficult n|figure prep|of
+	det:art|the n:prop|Marquis det:poss|her n|mother .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|12|CMOD
+	8|12|DET 9|10|JCT 10|11|JCT 11|12|MOD 12|5|POBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|17|DET 17|15|APP 18|4|PUNCT
+*PAR:	there's a kind_of comic figure early on in the novel .
+%mor:	pro:exist|there~cop|be&3S det:art|a adv|kind_of adj|comic n|figure
+	adv|early adv|on prep|in det:art|the n|novel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|8|JCT 8|6|NJCT
+	9|6|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S det:art|a adv|kind_of adj|comic n|figure
+	adv|early adv|on prep|in det:art|the n|novel .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|2|JCT 8|7|JCT
+	9|2|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	you_know appalled that her daughter might marry this [//] &a not
+	only this American but this American businessman , this [/] this
+	savage , this boor .
+%mor:	co|you_know v|appall-PAST comp|that det:poss|her n|daughter
+	mod|might v|marry neg|not adv|only det:dem|this n:prop|American
+	conj|but det:dem|this n:prop|American n|businessman cm|cm
+	det:dem|this adj|savage cm|cm det:dem|this n|boor .
+%gra:	1|2|COM 2|0|ROOT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|COMP 8|7|NEG
+	9|7|JCT 10|11|DET 11|9|POBJ 12|2|CONJ 13|15|DET 14|15|MOD 15|12|COORD
+	16|15|LP 17|18|DET 18|15|ENUM 19|18|LP 20|21|DET 21|15|ENUM 22|2|PUNCT
+%trn:	co|you_know part|appall-PASTP comp|that det:poss|her n|daughter
+	mod|might v|marry neg|not adv|only det:dem|this n:prop|American
+	conj|but det:dem|this n:prop|American n|businessman cm|cm
+	det:dem|this n|savage cm|cm det:dem|this n|boor .
+%grt:	1|2|COM 2|0|ROOT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|COMP 8|9|NEG
+	9|11|NJCT 10|11|DET 11|7|OBJ 12|11|CONJ 13|15|DET 14|15|MOD
+	15|12|COORD 16|15|LP 17|18|DET 18|15|ENUM 19|18|LP 20|21|DET
+	21|18|ENUM 22|2|PUNCT
+*PAR:	and certainly that scene where they're giving the great ball and
+	Newman is pushing it for all it's worth , you_know making her walk
+	around , meeting all her friends , and you_know she's chagrined by
+	the whole thing .
+%mor:	coord|and adv|certain&dadj-LY det:dem|that n|scene pro:rel|where
+	pro:sub|they~aux|be&PRES part|give-PRESP det:art|the adj|great
+	n|ball coord|and n:prop|Newman aux|be&3S part|push-PRESP pro:per|it
+	prep|for pro:indef|all pro:per|it~cop|be&3S adj|worth cm|cm
+	co|you_know part|make-PRESP det:poss|her n|walk adv|around cm|cm
+	part|meet-PRESP qn|all det:poss|her n|friend-PL cm|cm coord|and
+	co|you_know pro:sub|she~cop|be&3S adj|chagrined prep|by det:art|the
+	adj|whole n|thing .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|15|SUBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|CONJ 13|12|COORD 14|15|AUX 15|0|ROOT
+	16|15|OBJ 17|15|JCT 18|17|POBJ 19|20|SUBJ 20|18|CMOD 21|20|PRED 22|18|LP
+	23|24|COM 24|15|CJCT 25|26|DET 26|24|OBJ 27|26|POSTMOD 28|26|LP
+	29|26|XJCT 30|32|QUANT 31|32|DET 32|29|OBJ 33|26|LP 34|37|LINK 35|37|COM
+	36|37|SUBJ 37|26|CJCT 38|37|PRED 39|37|JCT 40|42|DET 41|42|MOD 42|39|POBJ
+	43|15|PUNCT
+%trn:	coord|and adv|certain&dadj-LY pro:dem|that n|scene pro:rel|where
+	pro:sub|they~aux|be&PRES part|give-PRESP det:art|the adj|great
+	n|ball coord|and n:prop|Newman aux|be&3S part|push-PRESP pro:per|it
+	prep|for pro:indef|all pro:per|it~cop|be&3S adj|worth cm|cm
+	co|you_know part|make-PRESP pro:obj|her v|walk adv|around cm|cm
+	part|meet-PRESP qn|all det:poss|her n|friend-PL cm|cm coord|and
+	co|you_know pro:sub|she~cop|be&3S adj|chagrined prep|by det:art|the
+	adj|whole n|thing .
+%grt:	1|4|LINK 2|4|NJCT 3|4|DET 4|0|INCROOT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|11|DET 10|11|MOD 11|8|OBJ 12|15|LINK 13|15|SUBJ
+	14|15|AUX 15|8|CJCT 16|15|OBJ 17|15|JCT 18|17|POBJ 19|20|SUBJ
+	20|18|CMOD 21|20|PRED 22|15|LP 23|24|COM 24|15|XJCT 25|24|OBJ
+	26|24|COMP 27|26|JCT 28|24|LP 29|24|XJCT 30|32|QUANT 31|32|DET
+	32|29|OBJ 33|32|LP 34|37|LINK 35|37|COM 36|37|SUBJ 37|29|CJCT
+	38|37|PRED 39|38|JCT 40|42|DET 41|42|MOD 42|39|POBJ 43|15|PUNCT
+*PAR:	&b but all of that has its [x 3] sort_of comic side .
+%mor:	conj|but pro:indef|all prep|of pro:dem|that v|have&3S det:poss|its
+	adv|sort_of adj|comic n|side .
+%gra:	1|5|LINK 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|OBJ 10|5|PUNCT
+%trn:	conj|but pro:indef|all prep|of pro:dem|that v|have&3S det:poss|its
+	adv|sort_of adj|comic n|side .
+%grt:	1|5|LINK 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|OBJ 10|5|PUNCT
+*PAR:	and then suddenly we're told in this chapter there's something evil
+	in this house something sinister and indeed there is because it
+	turns out the Marquis in addition to being a stuffed shirt is a
+	murderess .
+%mor:	coord|and adv:tem|then adv|sudden&dadj-LY pro:sub|we~aux|be&PRES
+	part|tell&PASTP prep|in det:dem|this n|chapter
+	pro:exist|there~cop|be&3S pro:indef|something adj|evil prep|in
+	det:dem|this n|house pro:indef|something adj|sinister coord|and
+	adv|indeed pro:exist|there cop|be&3S conj|because pro:per|it
+	v|turn-3S prep|out det:art|the n:prop|Marquis prep|in n|addition
+	prep|to n:gerund|be-PRESP det:art|a part|stuff-PASTP n|shirt
+	cop|be&3S det:art|a n|murderess .
+%gra:	1|6|LINK 2|6|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|6|CJCT 12|11|PRED 13|12|NJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|14|POBJ 18|17|POSTMOD 19|17|CONJ 20|22|JCT 21|22|SUBJ
+	22|19|COORD 23|25|LINK 24|25|SUBJ 25|6|CJCT 26|25|JCT 27|28|DET 28|26|POBJ
+	29|25|JCT 30|29|POBJ 31|25|JCT 32|36|LINK 33|35|DET 34|35|MOD 35|36|SUBJ
+	36|31|CPOBJ 37|38|DET 38|36|PRED 39|6|PUNCT
+%trn:	coord|and adv:tem|then adv|sudden&dadj-LY pro:sub|we~aux|be&PRES
+	part|tell&PASTP prep|in det:dem|this n|chapter
+	pro:exist|there~cop|be&3S pro:indef|something adj|evil prep|in
+	det:dem|this n|house pro:indef|something adj|sinister coord|and
+	adv|indeed pro:exist|there cop|be&3S conj|because pro:per|it
+	v|turn-3S prep|out det:art|the n:prop|Marquis prep|in n|addition
+	prep|to n:gerund|be-PRESP det:art|a part|stuff-PASTP n|shirt
+	cop|be&3S det:art|a n|murderess .
+%grt:	1|6|LINK 2|6|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|6|COMP 12|11|PRED 13|12|POSTMOD 14|12|NJCT
+	15|16|DET 16|14|POBJ 17|12|APP 18|17|POSTMOD 19|22|LINK 20|22|JCT
+	21|22|SUBJ 22|6|CJCT 23|25|LINK 24|25|SUBJ 25|22|CJCT 26|25|JCT
+	27|28|DET 28|36|SUBJ 29|36|JCT 30|29|POBJ 31|30|NJCT 32|31|POBJ
+	33|35|DET 34|35|XMOD 35|32|PRED 36|26|CPOBJ 37|38|DET 38|36|PRED
+	39|6|PUNCT
+*PAR:	now where did that come from ?
+%mor:	adv:tem|now pro:int|where mod|do&PAST pro:dem|that v|come prep|from ?
+%gra:	1|5|JCT 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%trn:	adv:tem|now pro:int|where mod|do&PAST pro:dem|that v|come prep|from ?
+%grt:	1|5|JCT 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+@End

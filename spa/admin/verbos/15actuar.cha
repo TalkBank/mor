@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	actúo .
+%mor:	v|actua-1S&PRES=act .
+*T:	actúas .
+%mor:	v|actua-2S&PRES=act .
+*T:	actúa .
+%mor:	v|actua-3S&PRES=act .
+*T:	actuamos .
+%mor:	v|actua-1P&PRES&PRET=act .
+*T:	actuáis .
+%mor:	v|actua-2P&PRES=act .
+*T:	actúan .
+%mor:	v|actua-3P&PRES=act .
+@Blank
+*T:	actuaba .
+%mor:	v|actua-13S&PAS=act .
+*T:	actuabas .
+%mor:	v|actua-2S&PAS=act .
+*T:	actuaba .
+%mor:	v|actua-13S&PAS=act .
+*T:	actuábamos .
+%mor:	v|actua-1P&PAS=act .
+*T:	actuabais .
+%mor:	v|actua-2P&PAS=act .
+*T:	actuaban .
+%mor:	v|actua-3P&PAS=act .
+@Blank
+*T:	actué .
+%mor:	v|actua-1S&PRET=act .
+*T:	actuaste .
+%mor:	v|actua-2S&PRET=act .
+*T:	actuó .
+%mor:	v|actua-3S&PRET=act .
+*T:	actuamos .
+%mor:	v|actua-1P&PRES&PRET=act .
+*T:	actuasteis .
+%mor:	v|actua-2P&PRET=act .
+*T:	actuaron .
+%mor:	v|actua-3P&PRET=act .
+@Blank
+*T:	actuaré .
+%mor:	v|actua-1S&FUT=act .
+*T:	actuarás .
+%mor:	v|actua-2S&FUT=act .
+*T:	actuará .
+%mor:	v|actua-3S&FUT=act .
+*T:	actuaremos .
+%mor:	v|actua-1P&FUT=act .
+*T:	actuaréis .
+%mor:	v|actua-2P&FUT=act .
+*T:	actuarán .
+%mor:	v|actua-3P&FUT=act .
+@Blank
+*T:	actúe .
+%mor:	v|actua-13S&SUB&PRES=act .
+*T:	actúes .
+%mor:	v|actua-2S&SUB&PRES=act .
+*T:	actúe .
+%mor:	v|actua-13S&SUB&PRES=act .
+*T:	actuemos .
+%mor:	imp|actua-1P&IMP=act .
+*T:	actuéis .
+%mor:	v|actua-2P&SUB&PRES=act .
+*T:	actúen .
+%mor:	v|actua-3P&SUB&PRES=act .
+@Blank
+*T:	actuara .
+%mor:	v|actua-13S&SUB&PAS=act .
+*T:	actuaras .
+%mor:	v|actua-2S&SUB&PAS=act .
+*T:	actuara .
+%mor:	v|actua-13S&SUB&PAS=act .
+*T:	actuáramos .
+%mor:	v|actua-1P&SUB&PAS=act .
+*T:	actuarais .
+%mor:	v|actua-2P&SUB&PAS=act .
+*T:	actuaran .
+%mor:	v|actua-3P&SUB&PAS=act .
+@Blank
+*T:	actuando .
+%mor:	ger|actua-PROG=act .
+*T:	actuado .
+%mor:	part|actua-PPART-MASC=act .
+*T:	actúa .
+%mor:	v|actua-3S&PRES=act .
+*T:	actúe .
+%mor:	v|actua-13S&SUB&PRES=act .
+*T:	actuad .
+%mor:	imp|actua-2P&IMP=act .
+*T:	actúen .
+%mor:	v|actua-3P&SUB&PRES=act .
+@Blank
+@End

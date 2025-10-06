@@ -1,0 +1,94 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	venzo .
+%mor:	v|vence-1S&PRES=conquer .
+*T:	vences .
+%mor:	v|vence-2S&PRES=conquer .
+*T:	vence .
+%mor:	imp|vence-2S&IMP=conquer .
+*T:	vencemos .
+%mor:	v|vence-1P&PRES=conquer .
+*T:	vencéis .
+%mor:	v|vence-2P&PRES=conquer .
+*T:	vencen .
+%mor:	v|vence-3P&PRES=conquer .
+@Blank
+*T:	vencía .
+%mor:	v|vence-13S&PAS=conquer .
+*T:	vencías .
+%mor:	v|vence-2S&PAS=conquer .
+*T:	vencía .
+%mor:	v|vence-13S&PAS=conquer .
+*T:	vencíamos .
+%mor:	v|vence-1P&PAS=conquer .
+*T:	vencíais vencían .
+%mor:	v|vence-2P&PAS=conquer v|vence-3P&PAS=conquer .
+@Blank
+*T:	vencí .
+%mor:	v|vence-1S&PRET=conquer .
+*T:	venciste .
+%mor:	v|vence-2S&PRET=conquer .
+*T:	venció .
+%mor:	v|vence-3S&PRET=conquer .
+*T:	vencimos .
+%mor:	v|vence-1P&PRES&PRET=conquer .
+*T:	vencisteis .
+%mor:	v|vence-2P&PRET=conquer .
+*T:	vencieron .
+%mor:	v|vence-3P&PRET=conquer .
+@Blank
+*T:	venceré .
+%mor:	v|vence-1S&FUT=conquer .
+*T:	vencerás .
+%mor:	v|vence-2S&FUT=conquer .
+*T:	vencerá .
+%mor:	v|vence-3S&FUT=conquer .
+*T:	venceremos .
+%mor:	v|vence-1P&FUT=conquer .
+*T:	venceréis .
+%mor:	v|vence-2P&FUT=conquer .
+*T:	vencerán .
+%mor:	v|vence-3P&FUT=conquer .
+@Blank
+*T:	venza .
+%mor:	v|vence-13S&SUB&PRES=conquer .
+*T:	venzas .
+%mor:	v|vence-2S&SUB&PRES=conquer .
+*T:	venza .
+%mor:	v|vence-13S&SUB&PRES=conquer .
+*T:	venzamos .
+%mor:	imp|vence-1P&IMP=conquer .
+*T:	venzáis .
+%mor:	v|vence-2P&SUB&PRES=conquer .
+*T:	venzan .
+%mor:	v|vence-3P&SUB&PRES=conquer .
+@Blank
+*T:	venciera .
+%mor:	v|vence-13S&SUB&PAS=conquer .
+*T:	vencieras .
+%mor:	v|vence-2S&SUB&PAS=conquer .
+*T:	venciera .
+%mor:	v|vence-13S&SUB&PAS=conquer .
+*T:	venciéramos .
+%mor:	v|vence-1P&SUB&PAS=conquer .
+*T:	vencierais .
+%mor:	v|vence-2P&SUB&PAS=conquer .
+*T:	vencieran .
+%mor:	v|vence-3P&SUB&PAS=conquer .
+@Blank
+*T:	venciendo .
+%mor:	ger|vence-PROG=conquer .
+*T:	vencido .
+%mor:	part|vence-PPART-MASC=conquer .
+*T:	vence .
+%mor:	imp|vence-2S&IMP=conquer .
+*T:	venza .
+%mor:	v|vence-13S&SUB&PRES=conquer .
+*T:	venced .
+%mor:	imp|vence-2P&IMP=conquer .
+*T:	venzan .
+%mor:	v|vence-3P&SUB&PRES=conquer .
+@End

@@ -1,0 +1,94 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	pago .
+%mor:	v|paga-1S&PRES=pay .
+*T:	pagas .
+%mor:	v|paga-2S&PRES=pay .
+*T:	paga .
+%mor:	imp|paga-2S&IMP=pay .
+*T:	pagamos .
+%mor:	v|paga-1P&PRES&PRET=pay .
+*T:	pagáis .
+%mor:	v|paga-2P&PRES=pay .
+*T:	pagan .
+%mor:	v|paga-3P&PRES=pay .
+@Blank
+*T:	pagaba .
+%mor:	v|paga-13S&PAS=pay .
+*T:	pagabas .
+%mor:	v|paga-2S&PAS=pay .
+*T:	pagaba .
+%mor:	v|paga-13S&PAS=pay .
+*T:	pagábamos .
+%mor:	v|paga-1P&PAS=pay .
+*T:	pagabais .
+%mor:	v|paga-2P&PAS=pay .
+*T:	pagaban .
+%mor:	v|paga-3P&PAS=pay .
+@Blank
+*T:	pagué .
+%mor:	v|paga-1S&PRET=pay .
+*T:	pagaste .
+%mor:	v|paga-2S&PRET=pay .
+*T:	pagó .
+%mor:	v|paga-3S&PRET=pay .
+*T:	pagamos .
+%mor:	v|paga-1P&PRES&PRET=pay .
+*T:	pagasteis .
+%mor:	v|paga-2P&PRET=pay .
+*T:	pagaron .
+%mor:	v|paga-3P&PRET=pay .
+@Blank
+*T:	pagaré .
+%mor:	v|paga-1S&FUT=pay .
+*T:	pagarás .
+%mor:	v|paga-2S&FUT=pay .
+*T:	pagaremos .
+%mor:	v|paga-1P&FUT=pay .
+*T:	pagaréis .
+%mor:	v|paga-2P&FUT=pay .
+*T:	pagarán .
+%mor:	v|paga-3P&FUT=pay .
+@Blank
+*T:	pague .
+%mor:	v|paga-13S&SUB&PRES=pay .
+*T:	pagues .
+%mor:	v|paga-2S&SUB&PRES=pay .
+*T:	pague .
+%mor:	v|paga-13S&SUB&PRES=pay .
+*T:	paguemos .
+%mor:	imp|paga-1P&IMP=pay .
+*T:	paguéis .
+%mor:	v|paga-2P&SUB&PRES=pay .
+*T:	paguen .
+%mor:	v|paga-3P&SUB&PRES=pay .
+@Blank
+*T:	pagara .
+%mor:	v|paga-13S&SUB&PAS=pay .
+*T:	pagaras .
+%mor:	v|paga-2S&SUB&PAS=pay .
+*T:	pagara .
+%mor:	v|paga-13S&SUB&PAS=pay .
+*T:	pagáramos .
+%mor:	v|paga-1P&SUB&PAS=pay .
+*T:	pagarais .
+%mor:	v|paga-2P&SUB&PAS=pay .
+*T:	pagaran .
+%mor:	v|paga-3P&SUB&PAS=pay .
+@Blank
+*T:	pagando .
+%mor:	ger|paga-PROG=pay .
+*T:	pagado .
+%mor:	part|paga-PPART-MASC=pay .
+*T:	paga .
+%mor:	imp|paga-2S&IMP=pay .
+*T:	pague .
+%mor:	v|paga-13S&SUB&PRES=pay .
+*T:	pagad .
+%mor:	imp|paga-2P&IMP=pay .
+*T:	paguen .
+%mor:	v|paga-3P&SUB&PRES=pay .
+@End

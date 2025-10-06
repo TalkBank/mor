@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	sé .
+%mor:	v|sabe-1S&PRES=know .
+*T:	sabes .
+%mor:	co|sabes=you_know .
+*T:	sabe .
+%mor:	imp|sabe-2S&IMP=know .
+*T:	sabemos .
+%mor:	v|sabe-1P&PRES=know .
+*T:	sabéis .
+%mor:	v|sabe-2P&PRES=know .
+*T:	saben .
+%mor:	v|sabe-3P&PRES=know .
+@Blank
+*T:	sabía .
+%mor:	v|sabe-13S&PAS=know .
+*T:	sabías .
+%mor:	v|sabe-2S&PAS=know .
+*T:	sabía .
+%mor:	v|sabe-13S&PAS=know .
+*T:	sabíamos .
+%mor:	v|sabe-1P&PAS=know .
+*T:	sabíais .
+%mor:	v|sabe-2P&PAS=know .
+*T:	sabían .
+%mor:	v|sabe-3P&PAS=know .
+@Blank
+*T:	supe .
+%mor:	v|sabe-1S&PRET=know .
+*T:	supiste .
+%mor:	v|sabe-2S&PRET=know .
+*T:	supo .
+%mor:	v|sabe-3S&PRET=know .
+*T:	supimos .
+%mor:	v|sabe-1P&PRES&PRET=know .
+*T:	supisteis .
+%mor:	v|sabe-2P&PRET=know .
+*T:	supieron .
+%mor:	v|sabe-3P&PRET=know .
+@Blank
+*T:	sabré .
+%mor:	v|sabe-1S&FUT=know .
+*T:	sabrás .
+%mor:	v|sabe-2S&FUT=know .
+*T:	sabrá .
+%mor:	v|sabe-3S&FUT=know .
+*T:	sabremos .
+%mor:	v|sabe-1P&FUT=know .
+*T:	sabréis .
+%mor:	v|sabe-2P&FUT=know .
+*T:	sabrán .
+%mor:	v|sabe-3P&FUT=know .
+@Blank
+*T:	sepa .
+%mor:	v|sabe-13S&SUB&PRES=know .
+*T:	sepas .
+%mor:	v|sabe-2S&SUB&PRES=know .
+*T:	sepa .
+%mor:	v|sabe-13S&SUB&PRES=know .
+*T:	sepamos .
+%mor:	imp|sabe-1P&IMP=know .
+*T:	sepáis .
+%mor:	v|sabe-2P&SUB&PRES=know .
+*T:	sepan .
+%mor:	v|sabe-3P&SUB&PRES=know .
+@Blank
+*T:	supiera .
+%mor:	v|sabe-13S&SUB&PAS=know .
+*T:	supieras .
+%mor:	v|sabe-2S&SUB&PAS=know .
+*T:	supiera .
+%mor:	v|sabe-13S&SUB&PAS=know .
+*T:	supiéramos .
+%mor:	v|sabe-1P&SUB&PAS=know .
+*T:	supierais .
+%mor:	v|sabe-2P&SUB&PAS=know .
+*T:	supieran .
+%mor:	v|sabe-3P&SUB&PAS=know .
+@Blank
+*T:	sabiendo .
+%mor:	ger|sabe-PROG=know .
+*T:	sabido .
+%mor:	part|sabe-PPART-MASC=know .
+*T:	sabe .
+%mor:	imp|sabe-2S&IMP=know .
+*T:	sepa .
+%mor:	v|sabe-13S&SUB&PRES=know .
+*T:	sabed .
+%mor:	imp|sabe-2P&IMP=know .
+*T:	sepan .
+%mor:	v|sabe-3P&SUB&PRES=know .
+@Blank
+@End

@@ -1,0 +1,75 @@
+@UTF8
+@Window:	85_1361_1163_779_-1_-1_0_0_0_0
+dé {[scat imp][allo irr]} "da-3S&IMP" =give=
+dé {[scat vsub][allo irr]} "da-13S&SUB&PRES" =give=
+% dá {[scat imp][allo irr]} "da-2S&IMP" =give=
+di {[scat v][allo irr]} "da-1S&PRET" =give=
+dieron {[scat v][allo irr]} "da-3P&PRET" =give=
+dio {[scat v][allo irr]} "da-3S&PRET" =give=
+dimos {[scat v][allo irr]} "da-1P&PRET" =give=
+doy {[scat v][allo irr]} "da-1S&PRES" =give=
+dais {[scat v][allo irr]} "da-2S&PRES" =give=
+
+di {[scat imp][allo irr]} "deci-2S&IMP" =say=
+dí {[scat imp][allo irr]} "deci-2S&IMP" =say=
+dije {[scat v][allo irr]} "deci-1S&PRET" =say=
+dijo {[scat v][allo irr]} "deci-3S&PRET" =say=
+dijimos {[scat v][allo irr]} "deci-1P&PRET" =say=
+dijeron {[scat v][allo irr]} "deci-3P&PRET" =say=
+
+esté {[scat imp][allo irr]} "esta-3S&IMP" =be=
+esté {[scat vsub][allo irr]} "esta-13S&SUB&PRES" =be=
+estén {[scat imp][allo irr]} "esta-3P&IMP" =be=
+estén {[scat vsub][allo irr]} "esta-3P&SUB&PRES" =be=
+estés {[scat vsub][allo irr]} "esta-2S&SUB&PRES" =be=
+está {[scat imp][allo irr]} "esta-2S&IMP" =be=
+
+hemos {[scat v][allo irr]} "habe-1P&PRES" =have=
+he {[scat v][allo irr]} "habe-1S&PRES" =have=
+habéis {[scat v][allo irr]} "habe-2P&PRES" =have=
+hay {[scat v][allo irr]} "habe-3S&PRES&SPEC" =have=
+haz {[scat imp][allo irr]} "hace-2S&IMP" =do=
+ház {[scat imp][allo irr]} "hace-2S&IMP" =do=
+
+oí {[scat v][allo irr]} "oí-1S&PRET" =hear=
+oír {[scat v][allo irr]} "oí-INF" =hear=
+óiga {[scat v][allo irr]} "oí-2S&IMP" =hear=
+pón {[scat imp][allo irr]} "pone-2S&IMP" =put=
+pon {[scat imp][allo irr]} "pone-2S&IMP" =put=
+sé {[scat v][allo irr]} "sabe-1S&PRES" =know=
+tén {[scat imp][allo irr]} "tene-2S&IMP" =have=
+ten {[scat imp][allo irr]} "tene-2S&IMP" =have=
+detén {[scat imp][allo irr]} "detene-2S&IMP" =stop=
+deten {[scat imp][allo irr]} "detene-2S&IMP" =have=
+
+vámonos {[scat imp][allo irr]} "i-1P&IMP" =go=
+va {[scat v][allo irr]} "i-3S&PRES" =go=
+vais {[scat v][allo irr]} "i-2P&PRES" =go=
+vamos {[scat v][allo irr]} "i-1P&PRES" =go=
+van {[scat v][allo irr]} "i-3P&PRES" =go=
+vas {[scat v][allo irr]} "i-2S&PRES" =go=
+ve {[scat imp][allo irr]} "i-2S&IMP" =go=
+vé {[scat imp][allo irr]} "i-2S&IMP" =go=
+voy {[scat v][allo irr]} "i-1S&PRES" =go=
+fue {[scat v][allo irr]} "i-3S&PRET" =go=
+fuimos {[scat v][allo irr]} "i-1P&PRET" =go=
+iba {[scat v][allo irr]} "i-13S&PAS" =go=
+ibais {[scat v][allo irr]} "i-2P&PAS" =go=
+iban {[scat v][allo irr]} "i-3P&PAS" =go=
+ibas {[scat v][allo irr]} "i-2S&PAS" =go=
+id {[scat imp][allo irr]} "i-2P&IMP" =go=
+íbamos {[scat v][allo irr]} "i-1P&PAS" =go=
+ir {[scat inf][allo irr]} "i-INF" =go=
+
+ven {[scat imp][allo irr]} "veni-2S&IMP" =come=
+
+véase {[scat imp][allo irr]} "ve-IMP^pro|clit" =see=
+ver {[scat inf][allo irr]} "ve-INF" =see=
+ved {[scat imp][allo irr]} "ve-2P&IMP" =see=
+vea {[scat imp][allo irr]} "ve-2S&IMP" =see=
+véa {[scat imp][allo irr]} "ve-3S&IMP" =see=
+veis {[scat v][allo irr]} "ve-2P&PRES" =see=
+vísteis {[scat v][allo irr]} "ve-2P&PRE" =see=
+vi {[scat v][allo irr]} "ve-1S&PRET" =see=
+vio {[scat v][allo irr]} "ve-3S&PRET" =see=
+

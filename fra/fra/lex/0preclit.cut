@@ -1,0 +1,30 @@
+@UTF8
+@Window:	4_1372_770_1024_-1_-1_0_0_0_0
+% verbal preclitics
+c' {[scat pro:dem][pcat vpreclit][bare no]} "pro:dem|ce"
+j' {[scat pro:sub][pcat vpreclit][bare no]} "pro:sub|je"
+s' {[scat pro:refl][pcat vpreclit][bare no]} "pro:refl|se"
+l' {[scat pro:obj][pcat vpreclit][bare no][pre obj]} "pro:obj|le"
+l' {[scat pro:sub][pcat vpreclit][bare no][pre subj]} "pro:sub|il"
+m' {[scat pro:obj][pcat vpreclit][bare no]} "pro:obj|me"
+t' {[scat pro:obj][pcat vpreclit][bare no][pre obj]} "pro:obj|te"
+t' {[scat pro:sub][pcat vpreclit][bare no][pre subj]} "pro:sub|tu"
+n' {[scat neg][pcat vpreclit][bare no]} "neg|ne"
+qu' {[scat pro:int][pcat vpreclit][bare no]} "pro:int|que"
+% noun preclitics
+d' {[scat prep][pcat npreclit][bare no]} "prep|de"
+l' {[scat det][pcat npreclit][bare no]} "det:art|le"
+% clause preclitics
+qu' {[scat pro:rel][pcat cpreclit][bare no]} "pro:rel|que"
+s' {[scat conj][pcat cpreclit][bare no]} "conj|si"
+quelqu' {[scat det:gen][pcat cpreclit][bare no]} "det:gen|quelque"
+jusqu' {[scat prep][pcat cpreclit][bare no]} "prep|jusque"
+lorsqu' {[scat conj][pcat cpreclit][bare no]} "conj|lorsque"
+puisqu' {[scat conj][pcat cpreclit][bare no]} "conj|puisque"
+presqu' {[scat adv][pcat cpreclit][bare no]} "adv|presque"
+parcequ' {[scat adv][pcat cpreclit][bare no]} "adv|parceque"
+pourqu' {[scat adv][pcat cpreclit][bare no]} "adv|pourque"
+ce-qu' {[scat pro:rel][pcat cpreclit][bare no]} "pro:rel|ce_que"
+
+
+

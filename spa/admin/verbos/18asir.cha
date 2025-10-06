@@ -1,0 +1,96 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	asgo .
+%mor:	v|asi-1S&PRES=seize .
+*T:	ases .
+%mor:	v|asi-2S&PRES=seize .
+*T:	ase .
+%mor:	v|asi-3S&PRES=seize .
+*T:	asimos .
+%mor:	v|asi-1P&PRES&PRET=seize .
+*T:	asís .
+%mor:	v|asi-2P&PRES=seize .
+*T:	asen .
+%mor:	v|asi-3P&PRES=seize .
+@Blank
+*T:	asía .
+%mor:	v|asi-13S&PAS=seize .
+*T:	asías .
+%mor:	v|asi-2S&PAS=seize .
+*T:	asía .
+%mor:	v|asi-13S&PAS=seize .
+*T:	asíamos .
+%mor:	v|asi-1P&PAS=seize .
+*T:	asíais .
+%mor:	v|asi-2P&PAS=seize .
+*T:	asían .
+%mor:	v|asi-3P&PAS=seize .
+@Blank
+*T:	así .
+%mor:	adv|así=thus .
+*T:	asiste .
+%mor:	v|asi-2S&PRET=seize .
+*T:	asió .
+%mor:	v|asi-3S&PRET=seize .
+*T:	asimos .
+%mor:	v|asi-1P&PRES&PRET=seize .
+*T:	asisteis .
+%mor:	v|asi-2P&PRET=seize .
+*T:	asieron .
+%mor:	v|asi-3P&PRET=seize .
+@Blank
+*T:	asiré .
+%mor:	v|asi-1S&FUT=seize .
+*T:	asirás .
+%mor:	v|asi-2S&FUT=seize .
+*T:	asirá .
+%mor:	v|asi-3S&FUT=seize .
+*T:	asiremos .
+%mor:	v|asi-1P&FUT=seize .
+*T:	asiréis .
+%mor:	v|asi-2P&FUT=seize .
+*T:	asirán .
+%mor:	v|asi-3P&FUT=seize .
+@Blank
+*T:	asga .
+%mor:	v|asi-13S&SUB&PRES=seize .
+*T:	asgas .
+%mor:	v|asi-2S&SUB&PRES=seize .
+*T:	asga .
+%mor:	v|asi-13S&SUB&PRES=seize .
+*T:	asgamos .
+%mor:	v|asi-1P&SUB&PRES=seize .
+*T:	asgáis .
+%mor:	v|asi-2P&SUB&PRES=seize .
+*T:	asgan .
+%mor:	v|asi-3P&SUB&PRES=seize .
+@Blank
+*T:	asiera .
+%mor:	v|asi-13S&SUB&PAS=seize .
+*T:	asieras .
+%mor:	v|asi-2S&SUB&PAS=seize .
+*T:	asiera .
+%mor:	v|asi-13S&SUB&PAS=seize .
+*T:	asiéramos .
+%mor:	v|asi-1P&SUB&PAS=seize .
+*T:	asierais .
+%mor:	v|asi-2P&SUB&PAS=seize .
+*T:	asieran .
+%mor:	v|asi-3P&SUB&PAS=seize .
+@Blank
+*T:	asiendo .
+%mor:	ger|asi-PROG=seize .
+*T:	asido .
+%mor:	part|asi-PPART-MASC=seize .
+*T:	ase .
+%mor:	v|asi-3S&PRES=seize .
+*T:	asga .
+%mor:	v|asi-13S&SUB&PRES=seize .
+*T:	asid .
+%mor:	imp|asi-2P&IMP=seize .
+*T:	asgan .
+%mor:	v|asi-3P&SUB&PRES=seize .
+@End

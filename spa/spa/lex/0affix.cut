@@ -1,0 +1,283 @@
+@UTF8
+@Window:	425_786_770_1024_-1_-1_305_0_305_0
+%prefixes
+hiper {[scat pfx][pcat n][block video][a 0]}
+mini {[scat pfx][pcat n][block mini][a 0]}
+anti {[scat pfx][pcat n][block anti][a 0]}
+archi {[scat pfx][pcat n][block archi][a 0]}
+ex- {[scat pfx][pcat n][block ex][a 0]}
+mega {[scat pfx][pcat n][block mega][a 0]}
+semi- {[scat pfx][pcat n][block semi][a 0]}
+super {[scat pfx][pcat n][block super][a 0]}
+re {[scat pfx][pcat v][block re][a 0]}
+auto {[scat pfx][pcat adj][block auto][a 0]}
+re {[scat pfx][pcat adj][block re][a 0]}
+des {[scat pfx][pcat v][block des][a 0]}
+
+%derivationals
+mente {[pcat adv:adj] [allo adv][a 0]} "ADV"
+dor {[pcat n:v][gen m][allo vfc][a 0]} "AGT&m"
+dores {[pcat n:v][gen m][allo vfc][a 0]} "AGT&m-PL"
+dora {[pcat n:v][gen f][allo vfc][a 0]} "AGT-f"
+doras {[pcat n:v][gen f][allo vfc][a 0]} "AGT-f-PL"
+ción {[pcat n:v][gen f][allo vfc][a 0]} "NOM"
+
+% nominals
+s {[scat nsfx][num pl][allo pl-s][a 0]} "PL"
+-s {[scat nsfx][num pl][allo pl-s][a 0]} "PL"
+es {[scat nsfx][num pl][allo pl-es][a 0]} "PL"
+-es {[scat nsfx][num pl][allo pl-es][a 0]} "PL"
+a {[scat nsfx][gen f][a 0]} "f"
+o {[scat nsfx][gen m][a 0]} "m"
+
+ito {[scat ndim][gen m][a 0][allo adv][block ito]} "DIM"
+ita {[scat ndim][gen f][a 0][allo adv][block ito]} "DIM"
+ito {[scat ndim][gen m][allo dim][a 0][block ito]} "DIM"
+ita {[scat ndim][gen f][allo dim][a 0][block ito]} "DIM"
+eta {[scat ndim][gen f][allo dim][a 0][block eto]} "DIM"
+etita {[scat ndim][gen f][allo dim][a 0][block eto]} "DIM-DIM"
+cito {[scat ndim][gen m][allo dim][a 0][block ito]} "DIM"
+cita {[scat ndim][gen f][allo dim][a 0][block ito]} "DIM"
+acita {[scat ndim][gen f][allo dim][a 0][block ito]} "DIM"
+ecito {[scat ndim][gen m][allo dim][a 0][block ito]} "DIM"
+ecita {[scat ndim][gen f][allo dim][a 0][block ito]} "DIM"
+cecito {[scat ndim][gen m][allo dim][a 0][block ito]} "DIM-DIM"
+itillo {[scat ndim][gen m][allo dim][a 0][block ito]} "DIM-DIM"
+itilla {[scat ndim][gen f][allo dim][a 0][block ito]} "DIM-DIM"
+etillo {[scat ndim][gen m][allo dim][a 0][block ito]} "DIM-DIM"
+etilla {[scat ndim][gen f][allo dim][a 0][block ito]} "DIM-DIM"
+itito {[scat ndim][gen m][allo dim][a 0][block ito]} "DIM-DIM"
+itita {[scat ndim][gen f][allo dim][a 0][block ito]} "DIM-DIM"
+ititito {[scat ndim][gen m][allo dim][a 0][block ito]} "DIM-DIM-DIM"
+ititita {[scat ndim][gen f][allo dim][a 0][block ito]} "DIM-DIM-DIM"
+illo {[scat ndim][gen m][allo dim][a 0][block illo]} "DIM"
+illito {[scat ndim][gen m][allo dim][a 0][block illo]} "DIM-DIM"
+illa {[scat ndim][gen f][allo dim][a 0][block illo]} "DIM"
+illita {[scat ndim][gen f][allo dim][a 0][block illo]} "DIM-DIM"
+ecillo {[scat ndim][gen m][allo dim][a 0][block illo]} "DIM"
+ecilla {[scat ndim][gen f][allo dim][a 0][block illo]} "DIM"
+ico {[scat ndim][gen m][allo dim][a 0][block ico]} "DIM"
+ica {[scat ndim][gen f][allo dim][a 0][block ico]} "DIM"
+
+ón {[scat naug][gen m][allo dim][a 0][block on]} "AUG"
+ona {[scat naug][gen f][allo dim][a 0][block on]} "AUG"
+ones {[scat naug][gen m][allo dim][a 0][block on]} "AUG-PL"
+onas {[scat naug][gen f][allo dim][a 0][block on]} "AUG-PL"
+ín {[scat naug][gen m][allo dim][a 0][block in]} "AUG"
+ines {[scat naug][gen m][allo dim][a 0][block in]} "AUG-PL"
+ino {[scat naug][gen m][allo dim][a 0][block ino]} "AUG"
+ina {[scat naug][gen f][allo dim][a 0][block ino]} "AUG"
+azo {[scat naug][gen m][allo dim][a 0][block azo]} "AUG"
+ete {[scat naug][gen m][allo dim][a 0][block ete]} "AUG"
+ote {[scat naug][gen m][allo dim][a 0][block ote]} "AUG"
+otote {[scat naug][gen m][allo dim][a 0][block ote]} "AUG-AUG"
+aza {[scat naug][gen f][allo dim][a 0][block azo]} "AUG"
+azo {[scat naug][gen m][allo dim][a 0][block azo]} "AUG"
+ota {[scat naug][gen f][allo dim][a 0][block oto]} "AUG"
+otota {[scat naug][gen f][allo dim][a 0][block oto]} "AUG-AUG"
+zote {[scat naug][gen m][allo diim][a 0][block zote]} "AUG"
+
+ísimo {[scat nsfx][gen m][a 0]} "SUPER-m"
+ísima {[scat nsfx][gen f][a 0][adv super]} "SUPER-f"
+idísimo {[scat part][gen m][conj OR v2 v3][allo vz]} "PPART-SUPER-m"
+idísima {[scat part][gen f][conj OR v2 v3][allo vz][adv super]} "PPART-SUPER-f"
+adísimo {[scat part][gen m][conj v1][allo vz]} "PPART-SUPER-m"
+adísima {[scat part][gen f][conj v2][allo vz][adv super]} "PPART-SUPER-f"
+isísimo {[scat nsfx][gen m][a 0]} "SUPER-SUPER-m"
+isísima {[scat nsfx][gen f][a 0]} "SUPER-SUPER-m"
+isisísimo {[scat nsfx][gen m][a 0]} "SUPER-SUPER-SUPER-m"
+isisísima {[scat nsfx][gen f][a 0][adv super]} "SUPER-SUPER-SUPER-f"
+
+% verb suffixes
+
+% non-shifted imperatives:
+e {[scat imp][allo vz][conj v1][a 0][block imp]} "3S&IMP"
+en {[scat imp][allo vz][conj v1][a 0]} "3P&IMP"
+a {[scat imp][allo vz][conj v1][a 0][block imp]} "2S&IMP" % this is the dangerous one
+a {[scat imp][allo OR vz vpr1][conj OR v2 v3][a 0]} "3S&IMP"
+an {[scat imp][allo OR vz vpr1][conj OR v2 v3][a 0]} "3P&IMP"
+e {[scat imp][allo vz][conj OR v2 v3][a 0]} "2S&IMP"
+á {[scat imp][allo vz][conj v1][a 0]} "2S&IMP" % not sure these are needed
+é {[scat imp][allo vz][conj v2][a 0]} "2S&IMP" % not sure these are needed
+í {[scat imp][allo vz][conj v3][a 0]} "2S&IMP"
+ad {[scat imp][allo OR vz vpr1][conj v1][a 0]} "2P&IMP"
+ed {[scat imp][allo OR vz vpr1][conj v2][a 0]} "2P&IMP"
+id {[scat imp][allo OR vz vpr1][conj v3][a 0]} "2P&IMP"
+d {[scat imp][allo shinf][conj v3][a 0]} "2P&IMP" % reíd, freíd
+amos {[scat imp][allo vsub][conj v2][a 0]} "1P&IMP"
+emos {[scat imp][allo vsub][conj v1][a 0]} "1P&IMP"
+imos {[scat imp][allo vsub][conj v3][a 0]} "1P&IMP"
+
+% shifted imperatives
+e {[scat imp][allo shimp][conj v1][a 0]} "3S&IMP"
+en {[scat imp][allo shimp][conj v1][a 0]} "3P&IMP"
+a {[scat imp][allo shimp][conj v1][a 0]} "2S&IMP"
+á {[scat imp][allo shimp][conj v1][a 0]} "2S&IMP"
+a {[scat imp][allo shimp][conj OR v2 v3][a 0]} "3S&IMP"
+an {[scat imp][allo shimp][conj OR v2 v3][a 0]} "3P&IMP"
+e {[scat imp][allo shimp][conj OR v2 v3][a 0]} "2S&IMP"
+ad {[scat imp][allo shimp][conj v1][a 0]} "2P&IMP"
+ed {[scat imp][allo shimp][conj v2][a 0]} "2P&IMP"
+
+% these take shinf or vsub allos
+d {[scat imp][allo shinf][conj v3][a 0]} "2P&IMP" %escribídmelo, note shinf
+émonos {[scat imp][allo vpsub][conj OR v1 v2][a 0]} "1P&IMP&REFL"
+ámonos {[scat imp][allo vpsub][conj v1][a 0]} "1P&IMP&REFL"
+ímonos {[scat imp][allo vpsub][conj v3][a 0]} "1P&IMP&REFL"
+ámos {[scat imp][allo vsub][conj v2][a 0]} "1P&IMP"
+émos {[scat imp][allo vsub][conj v1][a 0]} "1P&IMP"
+ímos {[scat imp][allo vsub][conj OR v2 v3][a 0]} "1P&IMP"
+
+% clitics
+se {[scat vclit1][a 0]} "pro:clit|3S&REFL"
+me {[scat vclit2][a 0]} "pro:clit|1S"
+te {[scat vclit2][a 0]} "pro:clit|2S"
+nos {[scat vclit2][a 0]} "pro:clit|1P"
+os {[scat vclit2][a 0]} "pro:clit|2P"
+le {[scat vclit2][a 0]} "pro:clit|3S"
+les {[scat vclit2][a 0]} "pro:clit|3P"
+lo {[scat vclit3][a 0]} "pro:clit|OBJ&m"
+la {[scat vclit3][a 0]} "pro:clit|OBJ&f"
+los {[scat vclit3][a 0]} "pro:clit|OBJ&m&PL"
+las {[scat vclit3][a 0]} "pro:clit|OBJ&f&PL"
+
+% infinitives
+ar {[scat inf][allo vz][conj v1][a 0]} "INF"
+er {[scat inf][allo vz][conj v2][a 0]} "INF"
+ir {[scat inf][allo vz][conj v3][a 0]} "INF"
+r {[scat inf][allo shinf][conj OR v1 v2 v3][a 0]} "INF"
+
+% participles
+ándo {[scat part][allo part][shift yes][conj v1][a 0]} "PRPART"
+éndo {[scat part][allo part][shift yes][conj OR v2 v3][a 0]} "PRPART"
+ando {[scat part][allo part][conj v1][a 0]} "PRPART"
+endo {[scat part][allo part][conj OR v2 v3][a 0]} "PRPART"
+
+% participles - should pull out the gender to make them analytic
+ado {[scat part][allo vz][conj v1][gen m][a 0]} "PPART-m"
+ada {[scat part][allo vz][conj v1][gen f][a 0]} "PPART-f"
+ido {[scat part][allo vz][conj OR v2 v3][gen m][a 0]} "PPART-m"
+ida {[scat part][allo vz][conj OR v2 v3][gen f][a 0]} "PPART-f"
+ído {[scat part][allo vz][conj OR v2 v3][gen m][a 0]} "PPART-m"
+ída {[scat part][allo vz][conj OR v2 v3][gen f][a 0]} "PPART-f"
+
+adito {[scat part][allo vz][conj v1][gen m][a 0]} "PPART-m&DIM"
+adita {[scat part][allo vz][conj v1][gen f][a 0]} "PPART-f&DIM"
+idito {[scat part][allo vz][conj OR v2 v3][gen m][a 0]} "PPART-m&DIM"
+idita {[scat part][allo vz][conj OR v2 v3][gen f][a 0]} "PPART-f&DIM"
+
+adico {[scat part][allo vz][conj v1][gen m][a 0]} "PPART-m&DIM"
+adica {[scat part][allo vz][conj v1][gen f][a 0]} "PPART-f&DIM"
+idico {[scat part][allo vz][conj OR v2 v3][gen m][a 0]} "PPART-m&DIM"
+idica {[scat part][allo vz][conj OR v2 v3][gen f][a 0]} "PPART-f&DIM"
+
+% present vpr=basic, vpr1=boot, vpr2=unboot, vpr3=hago vpr4=oyís vpr5=conduzco
+o {[dcat vpres][allo OR vpr vpr1 vpr3][conj OR v1 v2 v3][a 0]} "1S&PRES"
+go {[dcat vpres][allo vpr3][conj OR v1 v2 v3][a 0]} "1S&PRES" % should redo from vsub
+o {[dcat vpres][allo vpr5][conj OR v1 v2 v3][a 0]} "1S&PRES"
+as {[dcat vpres][allo OR vpr vpr1][conj v1][a 0]} "2S&PRES"
+ás {[dcat vpres][allo vz][conj v1][a 0]} "2S&PRES"
+a {[dcat vpres][allo OR vpr vpr1][conj v1][a 0]} "3S&PRES"
+amos {[dcat vpres][allo OR vpr vpr2][conj OR v1 v2][a 0]} "1P&PRES&PRET"
+áis {[dcat vpres][allo OR vpr vpr2][conj v1][a 0]} "2P&PRES"
+an {[dcat vpres][allo OR vpr vpr1][conj v1][a 0]} "3P&PRES"
+
+es {[dcat vpres][allo OR vpr vpr1][conj OR v2 v3][a 0]} "2S&PRES"
+és {[dcat vpres][allo vz][conj v2][a 0]} "2S&PRES"	% Argentinean
+e {[dcat vpres][allo OR vpr vpr1][conj OR v2 v3][a 0]} "3S&PRES"
+emos {[dcat vpres][allo OR vpr vpr2][conj v2][a 0]} "1P&PRES"
+mos {[dcat vpres][allo shinf][conj OR v2 v3][a 0]} "1P&PRES"
+imos {[dcat vpres][allo OR vpret1 vpret6 vpr vpr2][conj OR v2 v3][a 0]} "1P&PRES&PRET"
+éis {[dcat vpres][allo OR vpr vpr2][conj v2][a 0]} "2P&PRES"
+ís {[dcat vpres][allo OR vpr vpr2 vpr4][conj v3][a 0]} "2P&PRES"
+en {[dcat vpres][allo OR vpr vpr1][conj OR v2 v3][a 0]} "3P&PRES"
+
+% imperfective
+aba {[dcat vpas][allo vz][conj v1][a 0]} "13S&PAS"
+abas {[dcat vpas][allo vz][conj v1][a 0]} "2S&PAS"
+ábamos {[dcat vpas][allo vz][conj v1][a 0]} "1P&PAS"
+abais {[dcat vpas][allo vz][conj v1][a 0]} "2P&PAS"
+aban {[dcat vpas][allo vz][conj v1][a 0]} "3P&PAS"
+
+ía {[dcat vpas][allo vz][conj OR v2 v3][a 0]} "13S&PAS"
+ías {[dcat vpas][allo vz][conj OR v2 v3][a 0]} "2S&PAS"
+íamos {[dcat vpas][allo vz][conj OR v2 v3][a 0]} "1P&PAS"
+íais {[dcat vpas][allo vz][conj OR v2 v3][a 0]} "2P&PAS"
+ían {[dcat vpas][allo vz][conj OR v2 v3][a 0]} "3P&PAS"
+
+%vpret = basic, vpret1=anduvo, vpret2=cayó vpret3=gruñó
+%vpret4 and vpret5 split off 3S/3P for dormir, sentir etc.
+%vpret6 is for traer, conducir, and fueron
+%vpret7 and vpret8 are for reír, freír, etc.
+
+é {[dcat vpret][allo OR vpret vpret1][conj v1][a 0]} "1S&PRET"
+aste {[dcat vpret][allo vpret][conj v1][a 0]} "2S&PRET"
+ó {[dcat vpret][allo vpret][conj v1][a 0]} "3S&PRET"
+asteis {[dcat vpret][allo vpret][conj v1][a 0]} "2P&PRET"
+aron {[dcat vpret][allo vpret][conj v1][a 0]} "3P&PRET"
+
+í {[dcat vpret][allo OR vpret vpret2 vpret3 vpret4 vpret7][conj OR v2 v3][a 0]} "1S&PRET"
+e {[dcat vpret][allo OR vpret1 vpret6][conj OR v2 v3][a 0]} "1S&PRET" %anduve
+iste {[dcat vpret][allo OR vpret vpret1 vpret2 vpret3 vpret4 vpret6][conj OR v2 v3][a 0]} "2S&PRET"
+íste {[dcat vpret][allo OR vpret2 vpret7][conj OR v2 v3][a 0]} "2S&PRET"
+ió {[dcat vpret][allo OR vpret vpret5][conj OR v2 v3][a 0]} "3S&PRET"
+o {[dcat vpret][allo OR vpret1 vpret6][conj OR v2 v3][a 0]} "3S&PRET" %anduvo
+yó {[dcat vpret][allo vpret2][conj OR v2 v3][a 0]} "3S&PRET"
+ó {[dcat vpret][allo OR vpret3 vpret5 vpret8][conj OR v2 v3][a 0]} "3S&PRET"
+
+ímos {[dcat vpret][allo OR vpret2][conj OR v2 v3][a 0]} "1P&PRES" % removed vpret7
+isteis {[dcat vpret][allo OR vpret vpret1 vpret3 vpret4 vpret6][conj OR v2 v3][a 0]} "2P&PRET"
+ísteis {[dcat vpret][allo OR vpret2 vpret7][conj OR v2 v3][a 0]} "2P&PRET"
+ieron {[dcat vpret][allo OR vpret vpret1 vpret5][conj OR v2 v3][a 0]} "3P&PRET"
+eron {[dcat vpret][allo OR vpret3 vpret6 vpret8][conj OR v2 v3][a 0]} "3P&PRET"
+yeron {[dcat vpret][allo vpret2][conj OR v2 v3][a 0]} "3P&PRET"
+
+ré {[dcat vfut][allo vfc][conj OR v1 v2 v3][a 0]} "1S&FUT"
+rás {[dcat vfut][allo vfc][conj OR v1 v2 v3][a 0]} "2S&FUT"
+rá {[dcat vfut][allo vfc][conj OR v1 v2 v3][a 0]} "3S&FUT"
+remos {[dcat vfut][allo vfc][conj OR v1 v2 v3][a 0]} "1P&FUT"
+réis {[dcat vfut][allo vfc][conj OR v1 v2 v3][a 0]} "2P&FUT"
+rán {[dcat vfut][allo vfc][conj OR v1 v2 v3][a 0]} "3P&FUT"
+
+ría {[dcat vcond][allo vfc][conj OR v1 v2 v3][a 0]} "13S&COND"
+rías {[dcat vcond][allo vfc][conj OR v1 v2 v3][a 0]} "2S&COND"
+ríamos {[dcat vcond][allo vfc][conj OR v1 v2 v3][a 0]} "1P&COND"
+ríais {[dcat vcond][allo vfc][conj OR v1 v2 v3][a 0]} "2P&COND"
+rían {[dcat vcond][allo vfc][conj OR v1 v2 v3][a 0]} "3P&COND"
+
+e {[dcat vsub][allo OR vsub vpr1][conj v1][a 0]} "13S&SUB&PRES"
+es {[dcat vsub][allo OR vsub vpr1][conj v1][a 0]} "2S&SUB&PRES"
+emos {[dcat vsub][allo vsub][conj v1][a 0]} "1P&SUB&PRES"
+éis {[dcat vsub][allo vsub][conj v1][a 0]} "2P&SUB&PRES"
+en {[dcat vsub][allo OR vsub vpr1][conj v1][a 0]} "3P&SUB&PRES"
+
+a {[dcat vsub][allo OR vsub vpr1][conj OR v2 v3][a 0]} "13S&SUB&PRES"
+as {[dcat vsub][allo OR vsub vpr1][conj OR v2 v3][a 0]} "2S&SUB&PRES"
+amos {[dcat vsub][allo vsub][conj OR v2 v3][a 0]} "1P&SUB&PRES"
+áis {[dcat vsub][allo vsub][conj OR v2 v3][a 0]} "2P&SUB&PRES"
+an {[dcat vsub][allo OR vsub vpr2][conj OR v2 v3][a 0]} "3P&SUB&PRES"
+
+ara {[dcat vpsub][allo vz][conj v1][a 0]} "13S&SUB&PAS"
+aras {[dcat vpsub][allo vz][conj v1][a 0]} "2S&SUB&PAS"
+áramos {[dcat vpsub][allo vz][conj v1][a 0]} "1P&SUB&PAS"
+arais {[dcat vpsub][allo vz][conj v1][a 0]} "2P&SUB&PAS"
+aran {[dcat vpsub][allo vz][conj v1][a 0]} "3P&SUB&PAS"
+
+era {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "13S&SUB&PAS"
+eras {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "2S&SUB&PAS"
+éramos {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "1P&SUB&PAS"
+erais {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "2P&SUB&PAS"
+eran {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "3P&SUB&PAS"
+
+ase {[dcat vpsub][allo vpsub][conj v1][a 0]} "13S&SUB&PAS"
+ases {[dcat vpsub][allo vpsub][conj v1][a 0]} "2S&SUB&PAS"
+ásemos {[dcat vpsub][allo vpsub][conj v1][a 0]} "1P&SUB&PAS"
+aseis {[dcat vpsub][allo vpsub][conj v1][a 0]} "2P&SUB&PAS"
+asen {[dcat vpsub][allo vpsub][conj v1][a 0]} "3P&SUB&PAS"
+
+ese {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "13S&SUB&PAS"
+eses {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "2S&SUB&PAS"
+ésemos {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "1P&SUB&PAS"
+eseis {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "2P&SUB&PAS"
+esen {[dcat vpsub][allo vpsub][conj OR v2 v3][a 0]} "3P&SUB&PAS"
+

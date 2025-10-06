@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	frío .
+%mor:	v|freí-1S&PRES=fry .
+*T:	fríes .
+%mor:	v|freí-2S&PRES=fry .
+*T:	fríe .
+%mor:	imp|freí-2S&IMP=fry .
+*T:	freímos .
+%mor:	v|freí-1P&PRES=fry .
+*T:	freís .
+%mor:	v|freí-2P&PRES=fry .
+*T:	fríen .
+%mor:	v|freí-3P&PRES=fry .
+@Blank
+*T:	freía .
+%mor:	v|freí-13S&PAS=fry .
+*T:	freías .
+%mor:	v|freí-2S&PAS=fry .
+*T:	freía .
+%mor:	v|freí-13S&PAS=fry .
+*T:	freíamos .
+%mor:	v|freí-1P&PAS=fry .
+*T:	freíais .
+%mor:	v|freí-2P&PAS=fry .
+*T:	freían .
+%mor:	v|freí-3P&PAS=fry .
+@Blank
+*T:	freí .
+%mor:	imp|freí-2S&IMP=fry .
+*T:	freíste .
+%mor:	v|freí-2S&PRET=fry .
+*T:	frió .
+%mor:	v|freí-3S&PRET=fry .
+*T:	freímos .
+%mor:	v|freí-1P&PRES=fry .
+*T:	freísteis .
+%mor:	v|freí-2P&PRET=fry .
+*T:	frieron .
+%mor:	v|freí-3P&PRET=fry .
+@Blank
+*T:	freiré .
+%mor:	v|freí-1S&FUT=fry .
+*T:	freirás .
+%mor:	v|freí-2S&FUT=fry .
+*T:	freirá .
+%mor:	v|freí-3S&FUT=fry .
+*T:	freiremos .
+%mor:	v|freí-1P&FUT=fry .
+*T:	freiréis .
+%mor:	v|freí-2P&FUT=fry .
+*T:	freirán .
+%mor:	v|freí-3P&FUT=fry .
+@Blank
+*T:	fría .
+%mor:	v|freí-13S&SUB&PRES=fry .
+*T:	frías .
+%mor:	v|freí-2S&SUB&PRES=fry .
+*T:	fría .
+%mor:	v|freí-13S&SUB&PRES=fry .
+*T:	fríamos .
+%mor:	v|freí-1P&SUB&PRES=fry .
+*T:	fríáis .
+%mor:	v|freí-2P&SUB&PRES=fry .
+*T:	frían .
+%mor:	imp|freí-3P&IMP=fry .
+@Blank
+*T:	friera .
+%mor:	v|freí-13S&SUB&PAS=fry .
+*T:	frieras .
+%mor:	v|freí-2S&SUB&PAS=fry .
+*T:	friera .
+%mor:	v|freí-13S&SUB&PAS=fry .
+*T:	friéramos .
+%mor:	v|freí-1P&SUB&PAS=fry .
+*T:	frierais .
+%mor:	v|freí-2P&SUB&PAS=fry .
+*T:	frieran .
+%mor:	v|freí-3P&SUB&PAS=fry .
+@Blank
+*T:	friendo .
+%mor:	ger|freí-PROG=fry .
+*T:	frito .
+%mor:	part|hace-PPART-MASC=fry .
+*T:	fríe .
+%mor:	imp|freí-2S&IMP=fry .
+*T:	fría .
+%mor:	v|freí-13S&SUB&PRES=fry .
+*T:	freíd .
+%mor:	imp|freí-2P&IMP=fry .
+*T:	frían .
+%mor:	imp|freí-3P&IMP=fry .
+@Blank
+@End

@@ -1,0 +1,25 @@
+@UTF8
+ante {[scat prep]} =before=
+con {[scat prep]} =with=
+contra {[scat prep]} =against=
+debajo {[scat prep]} =under=
+de {[scat prep]} =of=
+del {[scat prep]} "de~det:art|el&m" =of=
+desde {[scat prep]} =from=
+en {[scat prep]} =in=
+entre {[scat prep]} =between=
+hacia {[scat prep]} =towards=
+hasta {[scat prep]} =until=
+mediante {[scat prep]} =through=
+pá {[scat prep]} =for=
+para {[scat prep]} =for=
+por {[scat prep]} =for=
+según {[scat prep]} =according_to=
+sin {[scat prep]} =without=
+sobre {[scat prep]} =above=
+sobrecito {[scat prep]} =over=
+tras {[scat prep]} =across=
+que {[scat prep]} =than=
+a_través {[scat prep]} =across=
+en_vez_de {[scat prep]} =instead_of=
+

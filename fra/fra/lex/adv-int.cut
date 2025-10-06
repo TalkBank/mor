@@ -1,0 +1,8 @@
+@UTF8
+combien {[scat adv:int]} ==
+comment {[scat adv:int]} ==
+pourquoi {[scat adv:int]} ==
+quand {[scat adv:int]} ==
+est-ce {[scat v:int]} ==
+
+

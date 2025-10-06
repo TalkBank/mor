@@ -1,0 +1,3005 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Instructor Participant
+@ID:	eng|MICASE-train|PAR|||||Participant|||
+*PAR:	so ‡ what I wanna do is to kind_of pick up where Deetz left off
+	with the late eighteenth century , the period of the revolution .
+%mor:	co|so beg|beg pro:int|what pro:sub|I v|want~inf|to v|do cop|be&3S
+	inf|to adv|kind_of v|pick adv|up pro:int|where n:prop|Deetz
+	v|leave&PAST adv|off prep|with det:art|the adj|late adj|eighteenth
+	n|century cm|cm det:art|the n|period prep|of det:art|the
+	n|revolution .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|11|INF 10|11|JCT 11|8|CPRED 12|11|JCT 13|15|LINK 14|15|SUBJ 15|11|COMP
+	16|15|JCT 17|15|JCT 18|21|DET 19|21|MOD 20|21|MOD 21|17|POBJ 22|21|LP
+	23|24|DET 24|15|OBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|5|PUNCT
+%trn:	co|so beg|beg pro:int|what pro:sub|I v|want~inf|to v|do cop|be&3S
+	inf|to adv|kind_of v|pick adv|up pro:rel|where n:prop|Deetz
+	v|leave&PAST adv|off prep|with det:art|the adj|late adj|eighteenth
+	n|century cm|cm det:art|the n|period prep|of det:art|the
+	n|revolution .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|8|CSUBJ 6|7|INF 7|5|COMP
+	8|0|ROOT 9|11|INF 10|11|JCT 11|8|CPRED 12|11|JCT 13|15|LINK
+	14|15|SUBJ 15|11|CJCT 16|15|JCT 17|11|JCT 18|21|DET 19|21|MOD
+	20|21|MOD 21|17|POBJ 22|21|LP 23|24|DET 24|21|APP 25|24|NJCT
+	26|27|DET 27|25|POBJ 28|8|PUNCT
+*PAR:	in the mid eighteenth century colonial towns <started to> [//]
+	really &st started to be transformed into cities .
+%mor:	prep|in det:art|the adj|mid adj|eighteenth n|century adj|colonial
+	n|town-PL adv|real&dadj-LY v|start-PAST inf|to aux|be
+	part|transform-PASTP prep|into n|city-PL .
+%gra:	1|9|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|7|MOD 6|7|MOD 7|1|POBJ 8|9|JCT
+	9|0|ROOT 10|12|INF 11|12|AUX 12|9|COMP 13|12|JCT 14|13|POBJ 15|9|PUNCT
+%trn:	prep|in det:art|the adj|mid adj|eighteenth n|century adj|colonial
+	n|town-PL adv|real&dadj-LY v|start-PAST inf|to aux|be
+	part|transform-PASTP prep|into n|city-PL .
+%grt:	1|9|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|1|POBJ 6|7|MOD 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|12|INF 11|12|AUX 12|9|COMP 13|12|JCT 14|13|POBJ
+	15|9|PUNCT
+*PAR:	and this was in part because_of a population increase that was
+	happening across the nation and in part because_of economics and
+	certain changes that were occurring in the colonial economy .
+%mor:	coord|and pro:dem|this cop|be&PAST&13S prep|in n|part
+	prep|because_of det:art|a n|populate&dv-TION n|increase pro:rel|that
+	aux|be&PAST&13S part|happen-PRESP prep|across det:art|the n|nation
+	coord|and prep|in n|part prep|because_of n:pt|economics coord|and
+	adj|certain n|change-PL pro:rel|that aux|be&PAST part|occur-PRESP
+	prep|in det:art|the adj|colonial n|economy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|LINK 11|12|AUX 12|9|CMOD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|12|CONJ 17|16|COORD 18|17|POBJ 19|17|JCT 20|19|POBJ 21|20|CONJ 22|23|MOD
+	23|21|COORD 24|26|LINK 25|26|AUX 26|20|CMOD 27|26|JCT 28|30|DET
+	29|30|MOD 30|27|POBJ 31|3|PUNCT
+%trn:	coord|and pro:dem|this cop|be&PAST&13S prep|in n|part
+	prep|because_of det:art|a n|populate&dv-TION n|increase pro:rel|that
+	aux|be&PAST&13S part|happen-PRESP prep|across det:art|the n|nation
+	coord|and prep|in n|part prep|because_of n:pt|economics coord|and
+	adj|certain n|change-PL pro:rel|that aux|be&PAST part|occur-PRESP
+	prep|in det:art|the adj|colonial n|economy .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|4|POBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|LINK 11|12|AUX 12|9|CMOD 13|12|JCT 14|15|DET
+	15|13|POBJ 16|3|CONJ 17|19|JCT 18|17|POBJ 19|16|COORD 20|19|POBJ
+	21|20|CONJ 22|23|MOD 23|21|COORD 24|26|LINK 25|26|AUX 26|23|CMOD
+	27|26|JCT 28|30|DET 29|30|MOD 30|27|POBJ 31|3|PUNCT
+*PAR:	and it is <a process> [//] this urbanization process that led to
+	the American Industrial Revolution as_well_as significant changes in
+	everyday life and material life .
+%mor:	coord|and pro:per|it cop|be&3S det:dem|this n|urban&dv-IZE-TION
+	n|process pro:rel|that v|lead&PAST prep|to det:art|the
+	n:prop|American n:prop|Industrial n:prop|Revolution prep|as_well_as
+	adj|significant n|change-PL prep|in adj|everyday n|life coord|and
+	adj|material n|life .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|13|NAME 13|8|CJCT 14|13|NJCT 15|16|MOD
+	16|14|POBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|13|CONJ 21|22|MOD 22|20|COORD
+	23|3|PUNCT
+%trn:	coord|and pro:per|it cop|be&3S det:dem|this n|urban&dv-IZE-TION
+	n|process pro:rel|that v|lead&PAST prep|to det:art|the
+	n:prop|American n:prop|Industrial n:prop|Revolution prep|as_well_as
+	adj|significant n|change-PL prep|in adj|everyday n|life coord|and
+	adj|material n|life .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|8|LINK
+	8|6|CMOD 9|8|JCT 10|13|DET 11|13|NAME 12|13|NAME 13|9|POBJ
+	14|13|CONJ 15|16|MOD 16|14|COORD 17|16|JCT 18|19|MOD 19|17|POBJ
+	20|19|CONJ 21|22|MOD 22|20|COORD 23|3|PUNCT
+*PAR:	you &n need to remember that before the revolution only five
+	percent of the North American colonial population lived in cities .
+%mor:	pro:per|you v|need inf|to v|remember comp|that prep|before
+	det:art|the n|revolution adv|only det:num|five n|percent prep|of
+	det:art|the n:prop|North n:prop|American adj|colonial
+	n|populate&dv-TION part|live-PASTP prep|in n|city-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|11|LINK 6|10|JCT 7|8|DET 8|6|POBJ
+	9|10|JCT 10|11|QUANT 11|4|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|17|MOD
+	16|17|MOD 17|14|OBJ 18|17|XMOD 19|18|JCT 20|19|POBJ 21|2|PUNCT
+%trn:	pro:per|you v|need inf|to v|remember comp|that prep|before
+	det:art|the n|revolution adv|only det:num|five n|percent prep|of
+	det:art|the n:prop|North n:prop|American adj|colonial
+	n|populate&dv-TION v|live-PAST prep|in n|city-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|18|LINK 6|18|JCT 7|8|DET
+	8|6|POBJ 9|10|JCT 10|11|QUANT 11|18|SUBJ 12|11|NJCT 13|17|DET
+	14|15|NAME 15|17|MOD 16|17|MOD 17|12|POBJ 18|4|COMP 19|18|JCT
+	20|19|POBJ 21|2|PUNCT
+*PAR:	the vast majority of the country lived in rural settings and
+	possibly villages or hamlets .
+%mor:	det:art|the adj|vast n|majority prep|of det:art|the n|country
+	v|live-PAST prep|in adj|rural n:gerund|set-PRESP-PL coord|and
+	adv|possible&dadj-LY n|village-PL coord|or n|hamlet-PL .
+%gra:	1|3|DET 2|3|MOD 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|7|CONJ 12|13|JCT 13|11|COORD 14|13|CONJ 15|14|COORD
+	16|7|PUNCT
+%trn:	det:art|the adj|vast n|majority prep|of det:art|the n|country
+	v|live-PAST prep|in adj|rural n:gerund|set-PRESP-PL coord|and
+	adv|possible&dadj-LY n|village-PL coord|or n|hamlet-PL .
+%grt:	1|3|DET 2|3|MOD 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|10|CONJ 12|13|NJCT 13|11|COORD 14|13|CONJ
+	15|14|COORD 16|7|PUNCT
+*PAR:	but this would change rapidly over the next &s several decades ,
+	about seventeen sixties forward .
+%mor:	conj|but pro:dem|this mod|will&COND v|change adv|rapid&dadj-LY
+	prep|over det:art|the adj|next qn|several n|decade-PL cm|cm
+	prep|about det:num|seventeen n|sixty-PL adv|forward .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|10|DET 8|10|MOD
+	9|10|QUANT 10|6|POBJ 11|4|LP 12|4|JCT 13|14|QUANT 14|12|POBJ 15|14|NJCT
+	16|4|PUNCT
+%trn:	conj|but pro:dem|this mod|will&COND v|change adv|rapid&dadj-LY
+	prep|over det:art|the adj|next qn|several n|decade-PL cm|cm
+	prep|about det:num|seventeen n|sixty-PL adv|forward .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|10|DET
+	8|10|MOD 9|10|QUANT 10|6|POBJ 11|10|LP 12|14|NJCT 13|14|QUANT
+	14|10|APP 15|14|NJCT 16|4|PUNCT
+*PAR:	so [//] and you see a [/] a number of trends beginning in the
+	seventeen sixties in cities such_as Boston , New_Orleans ,
+	Philadelphia , Charleston , New_York .
+%mor:	coord|and pro:per|you v|see det:art|a n|number prep|of n|trend-PL
+	part|begin-PRESP prep|in det:art|the det:num|seventeen n|sixty-PL
+	prep|in n|city-PL prep|such_as n:prop|Boston cm|cm
+	n:prop|New_Orleans cm|cm n:prop|Philadelphia cm|cm n:prop|Charleston
+	cm|cm n:prop|New_York .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|XJCT
+	9|8|JCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|12|NJCT 14|13|POBJ 15|8|JCT
+	16|15|POBJ 17|8|LP 18|8|ENUM 19|18|LP 20|8|ENUM 21|20|LP 22|20|ENUM
+	23|22|LP 24|20|ENUM 25|3|PUNCT
+%trn:	coord|and pro:per|you v|see det:art|a n|number prep|of n|trend-PL
+	part|begin-PRESP prep|in det:art|the det:num|seventeen n|sixty-PL
+	prep|in n|city-PL prep|such_as n:prop|Boston cm|cm
+	n:prop|New_Orleans cm|cm n:prop|Philadelphia cm|cm n:prop|Charleston
+	cm|cm n:prop|New_York .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|7|XMOD
+	9|8|JCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|8|JCT 14|13|POBJ
+	15|14|JCT 16|15|POBJ 17|16|LP 18|16|ENUM 19|18|LP 20|16|ENUM
+	21|20|LP 22|16|ENUM 23|22|LP 24|16|ENUM 25|3|PUNCT
+*PAR:	there's a kind of &s centralization going on of economic powers
+	where [//] as_well_as political power .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|kind prep|of
+	n|central&dv-IZE-TION part|go-PRESP adv|on prep|of adj|economic
+	n|power-PL prep|as_well_as adj|politic-AL n|power .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|4|XMOD 8|7|JCT
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|7|JCT 13|14|MOD 14|12|POBJ 15|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S det:art|a n|kind prep|of
+	n|central&dv-IZE-TION part|go-PRESP adv|on prep|of adj|economic
+	n|power-PL prep|as_well_as adj|politic-AL n|power .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|6|XMOD
+	8|7|JCT 9|6|NJCT 10|11|MOD 11|9|POBJ 12|11|JCT 13|14|MOD 14|12|POBJ
+	15|2|PUNCT
+*PAR:	you see in these cities the creation for the first time really of
+	an urban elite .
+%mor:	pro:per|you v|see prep|in det:dem|these n|city-PL det:art|the
+	n|create&dv-TION prep|for det:art|the adj|first n|time
+	adv|real&dadj-LY prep|of det:art|a adj|urban n|elite .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|DET 7|2|OBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|2|PUNCT
+%trn:	pro:per|you v|see prep|in det:dem|these n|city-PL det:art|the
+	n|create&dv-TION prep|for det:art|the adj|first n|time
+	adv|real&dadj-LY prep|of det:art|a adj|urban n|elite .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|DET 7|2|OBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|7|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|2|PUNCT
+*PAR:	and this urban elite started to purchase food and clothing not only
+	from abroad but also started &purchas purchasing it from other
+	colonists .
+%mor:	coord|and det:dem|this adj|urban n|elite v|start-PAST prep|to
+	n|purchase n|food coord|and n|clothing neg|not adv|only prep|from
+	adv|abroad conj|but adv|also part|start-PASTP part|purchase-PRESP
+	pro:per|it prep|from qn|other n|colony-IST-PL .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|10|NEG 12|10|NJCT 13|12|JCT 14|13|POBJ 15|14|CONJ
+	16|17|JCT 17|15|COORD 18|17|XJCT 19|18|OBJ 20|18|JCT 21|22|QUANT
+	22|20|POBJ 23|5|PUNCT
+%trn:	coord|and det:dem|this adj|urban n|elite v|start-PAST inf|to
+	v|purchase n|food coord|and n|clothing neg|not adv|only prep|from
+	adv|abroad conj|but adv|also v|start-PAST part|purchase-PRESP
+	pro:per|it prep|from qn|other n|colony-IST-PL .
+%grt:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|CONJ 10|9|COORD 11|12|NEG 12|13|JCT 13|7|JCT 14|13|POBJ
+	15|5|CONJ 16|17|JCT 17|15|COORD 18|17|COMP 19|18|OBJ 20|18|JCT
+	21|22|QUANT 22|20|POBJ 23|5|PUNCT
+*PAR:	and this leads to a whole new wave of domestic manufacturers which
+	Deetz does begin to talk about .
+%mor:	coord|and det:dem|this n|lead-PL prep|to det:art|a adj|whole
+	adj|new n|wave prep|of n|domestic n|manufacture&dv-AGT-PL
+	pro:rel|which n:prop|Deetz mod|do&3S v|begin inf|to v|talk adv|about
+	.
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|13|LINK 13|15|SUBJ 14|15|AUX 15|11|CMOD
+	16|17|INF 17|15|COMP 18|17|JCT 19|3|PUNCT
+%trn:	coord|and pro:dem|this v|lead-3S prep|to det:art|a adj|whole
+	adj|new n|wave prep|of n|domestic n|manufacture&dv-AGT-PL
+	pro:rel|which n:prop|Deetz mod|do&3S v|begin inf|to v|talk adv|about
+	.
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|DET 6|8|MOD 7|8|MOD
+	8|4|POBJ 9|8|NJCT 10|11|MOD 11|9|POBJ 12|15|LINK 13|15|SUBJ
+	14|15|AUX 15|11|CMOD 16|17|INF 17|15|COMP 18|17|JCT 19|3|PUNCT
+*PAR:	but in his earlier period , in that Americanization period , this
+	really hadta do with development of regional folk cultures .
+%mor:	conj|but prep|in det:poss|his adj|early-CP n|period cm|cm prep|in
+	det:dem|that n:prop|Americanization n|period cm|cm pro:dem|this
+	adv|real&dadj-LY mod|have&PAST~inf|to v|do prep|with
+	n|develop&dv-MENT prep|of adj|region&dn-AL n|folk n|culture-PL .
+%gra:	1|16|LINK 2|16|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|5|LP 7|5|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|2|LP 12|16|SUBJ 13|16|JCT 14|16|AUX 15|16|INF
+	16|0|ROOT 17|16|JCT 18|17|POBJ 19|18|NJCT 20|22|MOD 21|22|MOD 22|19|POBJ
+	23|16|PUNCT
+%trn:	conj|but prep|in det:poss|his adj|early-CP n|period cm|cm adv|in
+	det:dem|that n:prop|Americanization n|period cm|cm pro:dem|this
+	adv|real&dadj-LY mod|have&PAST~inf|to v|do prep|with
+	n|develop&dv-MENT prep|of adj|region&dn-AL n|folk n|culture-PL .
+%grt:	1|16|LINK 2|16|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|5|LP 7|16|JCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|10|LP 12|16|SUBJ 13|16|JCT 14|16|AUX
+	15|16|INF 16|0|ROOT 17|16|JCT 18|17|POBJ 19|18|NJCT 20|22|MOD
+	21|22|MOD 22|19|POBJ 23|16|PUNCT
+*PAR:	well ‡ in this later period it really starts to conform to elite
+	urban tastes and to really supply this kind_of cosmopolitan culture
+	that's developing .
+%mor:	co|well beg|beg prep|in det:dem|this adj|late-CP n|period
+	pro:per|it adv|real&dadj-LY v|start-3S inf|to v|conform prep|to
+	adj|elite adj|urban n|taste-PL coord|and inf|to adv|real&dadj-LY
+	n|supply pro:dem|this adv|kind_of adj|cosmopolitan n|culture
+	pro:rel|that~aux|be&3S part|develop-PRESP .
+%gra:	1|0|BEG 2|1|BEGP 3|9|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|11|INF 11|9|COMP 12|11|JCT 13|15|MOD 14|15|MOD 15|12|POBJ
+	16|15|CONJ 17|19|INF 18|19|JCT 19|16|COORD 20|23|DET 21|22|JCT 22|23|MOD
+	23|19|PRED 24|26|LINK 25|26|AUX 26|23|CMOD 27|9|PUNCT
+%trn:	co|well beg|beg prep|in det:dem|this adj|late-CP n|period pro:per|it
+	adv|real&dadj-LY v|start-3S inf|to v|conform prep|to adj|elite
+	adj|urban n|taste-PL coord|and inf|to adv|real&dadj-LY n|supply
+	pro:dem|this adv|kind_of adj|cosmopolitan n|culture
+	pro:rel|that~aux|be&3S part|develop-PRESP .
+%grt:	1|0|BEG 2|1|BEGP 3|9|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|11|INF 11|9|COMP 12|11|JCT 13|15|MOD 14|15|MOD
+	15|12|POBJ 16|11|CONJ 17|19|INF 18|19|JCT 19|16|COORD 20|19|PRED
+	21|22|JCT 22|23|MOD 23|20|OBJ 24|26|LINK 25|26|AUX 26|23|CMOD
+	27|9|PUNCT
+*PAR:	<you see a> [//] &r you see rising levels of consumption for all
+	classes &a and this means kind_of two things .
+%mor:	pro:per|you v|see part|rise-PRESP n|level-PL prep|of n|consumption
+	prep|for qn|all n|class-PL coord|and pro:dem|this v|mean-3S
+	adv|kind_of det:num|two n|thing-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|3|JCT 8|9|QUANT
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|3|CJCT 13|12|JCT 14|15|QUANT
+	15|13|POBJ 16|2|PUNCT
+%trn:	pro:per|you v|see part|rise-PRESP n|level-PL prep|of n|consumption
+	prep|for qn|all n|class-PL coord|and pro:dem|this v|mean-3S
+	adv|kind_of det:num|two n|thing-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|XMOD 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|4|NJCT
+	8|9|QUANT 9|7|POBJ 10|12|LINK 11|12|SUBJ 12|2|CJCT 13|15|NJCT
+	14|15|QUANT 15|12|OBJ 16|2|PUNCT
+*PAR:	when you talk about consumption it means people are buying more of
+	their goods rather_than making it themselves or [/] or bartering
+	with neighbors .
+%mor:	conj|when pro:per|you v|talk prep|about n|consumption pro:per|it
+	v|mean-3S n|person&PL aux|be&PRES part|buy-PRESP pro:indef|more
+	prep|of det:poss|their n:pt|goods prep|rather_than
+	n:gerund|make-PRESP pro:per|it pro:refl|themselves coord|or
+	part|barter-PRESP prep|with n|neighbor-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|10|SUBJ
+	9|10|AUX 10|7|COMP 11|10|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|10|JCT
+	16|15|POBJ 17|18|SUBJ 18|16|OBJ 19|18|CONJ 20|19|COORD 21|20|JCT
+	22|21|POBJ 23|7|PUNCT
+%trn:	conj|when pro:per|you v|talk prep|about n|consumption pro:per|it
+	v|mean-3S n|person&PL aux|be&PRES part|buy-PRESP pro:indef|more
+	prep|of det:poss|their n:pt|goods prep|rather_than part|make-PRESP
+	pro:per|it pro:refl|themselves coord|or part|barter-PRESP prep|with
+	n|neighbor-PL .
+%grt:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT
+	8|10|SUBJ 9|10|AUX 10|7|COMP 11|10|OBJ 12|11|JCT 13|14|DET
+	14|12|POBJ 15|10|JCT 16|15|CPOBJ 17|16|OBJ 18|16|JCT 19|16|CONJ
+	20|19|COORD 21|20|JCT 22|21|POBJ 23|7|PUNCT
+*PAR:	so ‡ you're using a cash economy to purchase goods made elsewhere
+	usually .
+%mor:	co|so beg|beg pro:per|you~aux|be&PRES part|use-PRESP det:art|a
+	n|cash n|economy inf|to v|purchase n:adj|good-PL v|make&PAST
+	adv|elsewhere adv|usual&dadj-LY .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|INF 10|5|XJCT 11|12|SUBJ 12|10|COMP 13|12|JCT 14|12|JCT 15|5|PUNCT
+%trn:	co|so beg|beg pro:per|you~aux|be&PRES part|use-PRESP det:art|a
+	n|cash n|economy inf|to v|purchase n:adj|good-PL v|make&PAST
+	adv|elsewhere adv|usual&dadj-LY .
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD
+	8|5|OBJ 9|10|INF 10|5|XJCT 11|10|OBJ 12|11|XMOD 13|12|JCT
+	14|12|JCT 15|5|PUNCT
+*PAR:	and it just means simply an increase in the amount of goods that
+	are going into their everyday lives .
+%mor:	coord|and pro:per|it adv|just v|mean-3S adv|simple&dadj-LY
+	det:art|a n|increase prep|in det:art|the n|amount prep|of
+	n:adj|good-PL pro:rel|that aux|be&PRES part|go-PRESP prep|into
+	det:poss|their adj|everyday n|life-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|15|LINK 14|15|AUX 15|12|CMOD
+	16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|4|PUNCT
+%trn:	coord|and pro:per|it adv|just v|mean-3S adv|simple&dadj-LY
+	det:art|a n|increase prep|in det:art|the n|amount prep|of
+	n:adj|good-PL pro:rel|that aux|be&PRES part|go-PRESP prep|into
+	det:poss|their adj|everyday n|life-PL .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|4|OBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|15|LINK
+	14|15|AUX 15|12|CMOD 16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ
+	20|4|PUNCT
+*PAR:	but overall despite this kind_of emergence of an urban elite and
+	rising levels of consumption for everyone , at the same time you're
+	also getting an increase in the stratification of classes .
+%mor:	conj|but adj|overall prep|despite det:dem|this adv|kind_of
+	n|emergence prep|of det:art|a adj|urban n|elite coord|and
+	part|rise-PRESP n|level-PL prep|of n|consumption prep|for
+	pro:indef|everyone cm|cm prep|at det:art|the adj|same n|time
+	pro:per|you~aux|be&PRES adv|also part|get-PRESP det:art|a n|increase
+	prep|in det:art|the n|stratify&dv-TION prep|of n|class-PL .
+%gra:	1|2|LINK 2|26|CJCT 3|2|JCT 4|6|DET 5|6|JCT 6|3|POBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|2|CONJ 12|11|COORD 13|12|OBJ 14|13|NJCT 15|14|POBJ
+	16|2|JCT 17|16|POBJ 18|2|LP 19|2|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|26|SUBJ 24|26|AUX 25|26|JCT 26|0|ROOT 27|28|DET 28|26|OBJ 29|26|JCT
+	30|31|DET 31|29|POBJ 32|31|NJCT 33|32|POBJ 34|26|PUNCT
+%trn:	conj|but adj|overall prep|despite det:dem|this adv|kind_of
+	n|emergence prep|of det:art|a adj|urban n|elite coord|and
+	part|rise-PRESP n|level-PL prep|of n|consumption prep|for
+	pro:indef|everyone cm|cm prep|at det:art|the adj|same n|time
+	pro:per|you~aux|be&PRES adv|also part|get-PRESP det:art|a n|increase
+	prep|in det:art|the n|stratify&dv-TION prep|of n|class-PL .
+%grt:	1|26|LINK 2|26|JCT 3|26|JCT 4|6|DET 5|6|NJCT 6|3|POBJ 7|6|NJCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|6|CONJ 12|13|XMOD 13|11|COORD
+	14|13|NJCT 15|14|POBJ 16|13|NJCT 17|16|POBJ 18|3|LP 19|26|JCT
+	20|22|DET 21|22|MOD 22|19|POBJ 23|26|SUBJ 24|26|AUX 25|26|JCT
+	26|0|ROOT 27|28|DET 28|26|OBJ 29|28|NJCT 30|31|DET 31|29|POBJ
+	32|31|NJCT 33|32|POBJ 34|26|PUNCT
+*PAR:	and this was really starting in the seventeen sixties and continues
+	into the early nineteenth century you_know until you really get the
+	identifiable beginnings of the American Industrial Revolution .
+%mor:	coord|and pro:dem|this aux|be&PAST&13S adv|real&dadj-LY
+	part|start-PRESP prep|in det:art|the det:num|seventeen n|sixty-PL
+	coord|and v|continue-3S prep|into det:art|the adj|early
+	adj|nineteenth n|century co|you_know conj|until pro:per|you
+	adv|real&dadj-LY v|get det:art|the adj|identify&dv-ABLE
+	n|beginning-PL prep|of det:art|the n:prop|American n:prop|Industrial
+	n:prop|Revolution .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|5|CONJ 11|10|COORD 12|11|JCT 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|POBJ 17|21|COM 18|21|LINK 19|21|SUBJ 20|21|JCT 21|11|CJCT 22|24|DET
+	23|24|MOD 24|21|OBJ 25|24|NJCT 26|27|DET 27|29|NAME 28|29|NAME 29|25|POBJ
+	30|5|PUNCT
+%trn:	coord|and pro:dem|this aux|be&PAST&13S adv|real&dadj-LY
+	part|start-PRESP prep|in det:art|the det:num|seventeen n|sixty-PL
+	coord|and v|continue-3S prep|into det:art|the adj|early
+	adj|nineteenth n|century co|you_know conj|until pro:per|you
+	adv|real&dadj-LY v|get det:art|the adj|identify&dv-ABLE
+	n|beginning-PL prep|of det:art|the n:prop|American n:prop|Industrial
+	n:prop|Revolution .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|9|DET
+	8|9|QUANT 9|6|POBJ 10|5|CONJ 11|10|COORD 12|11|JCT 13|16|DET
+	14|16|MOD 15|16|MOD 16|12|POBJ 17|21|COM 18|21|LINK 19|21|SUBJ
+	20|21|JCT 21|11|CJCT 22|24|DET 23|24|MOD 24|21|OBJ 25|24|NJCT
+	26|29|DET 27|29|NAME 28|29|NAME 29|25|POBJ 30|5|PUNCT
+*PAR:	it's [/] &st it's kind_of the precursor social &eco and economic
+	conditions that are gonna lead to an American version of the
+	industrial revolution .
+%mor:	pro:per|it~cop|be&3S adv|kind_of det:art|the n|precursor adj|social
+	coord|and adj|economic n|condition-PL pro:rel|that aux|be&PRES
+	part|go-PRESP~inf|to v|lead prep|to det:art|a n:prop|American
+	n|version prep|of det:art|the adj|industrial n|revolution .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|PRED 6|5|PRED 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|12|LINK 11|12|AUX 12|6|CMOD 13|14|INF 14|12|COMP 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|2|PUNCT
+%trn:	pro:per|it~cop|be&3S adv|kind_of det:art|the n|precursor adj|social
+	coord|and adj|economic n|condition-PL pro:rel|that aux|be&PRES
+	part|go-PRESP~inf|to v|lead prep|to det:art|a n:prop|American
+	n|version prep|of det:art|the adj|industrial n|revolution .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|9|DET 5|9|MOD 6|9|MOD 7|6|CONJ 8|7|COORD
+	9|2|PRED 10|12|LINK 11|12|AUX 12|9|CMOD 13|14|INF 14|12|COMP
+	15|14|JCT 16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|22|DET
+	21|22|MOD 22|19|POBJ 23|2|PUNCT
+*PAR:	you start to see a greater dependence on machine labor than human
+	labor .
+%mor:	pro:per|you v|start inf|to v|see det:art|a adj|great-CP
+	n|dependence prep|on n|machine n|labor prep|than adj|human n|labor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|10|MOD 10|8|POBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|2|PUNCT
+%trn:	pro:per|you v|start inf|to v|see det:art|a adj|great-CP
+	n|dependence prep|on n|machine n|labor prep|than adj|human n|labor .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|7|NJCT 12|13|MOD 13|11|POBJ 14|2|PUNCT
+*PAR:	what I would like to do is then kind_of bring these historic trends
+	down to a more local level and talk about four example cities and
+	some things that were happening on the ground in daily life there .
+%mor:	pro:int|what pro:sub|I mod|will&COND v|like inf|to v|do cop|be&3S
+	adv:tem|then adv|kind_of v|bring det:dem|these adj|historic
+	n|trend-PL adv|down prep|to det:art|a adv|more adj|local n|level
+	coord|and n|talk prep|about det:num|four n|example n|city-PL
+	coord|and qn|some n|thing-PL pro:rel|that aux|be&PAST
+	part|happen-PRESP prep|on det:art|the n|ground prep|in adj|daily
+	n|life adv|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|10|SUBJ 5|6|INF 6|4|COMP 7|10|AUX 8|10|JCT
+	9|10|JCT 10|0|ROOT 11|13|DET 12|13|MOD 13|10|OBJ 14|10|JCT 15|10|JCT
+	16|19|DET 17|18|JCT 18|19|MOD 19|15|POBJ 20|19|CONJ 21|20|COORD 22|21|NJCT
+	23|24|QUANT 24|25|MOD 25|22|POBJ 26|25|CONJ 27|28|QUANT 28|26|COORD
+	29|31|LINK 30|31|AUX 31|28|CMOD 32|31|JCT 33|34|DET 34|32|POBJ 35|34|NJCT
+	36|37|MOD 37|35|POBJ 38|31|JCT 39|10|PUNCT
+%trn:	pro:int|what pro:sub|I mod|will&COND v|like inf|to v|do cop|be&3S
+	adv:tem|then adv|kind_of v|bring det:dem|these adj|historic
+	n|trend-PL adv|down prep|to det:art|a adv|more adj|local n|level
+	coord|and v|talk prep|about det:num|four n|example n|city-PL
+	coord|and qn|some n|thing-PL pro:rel|that aux|be&PAST
+	part|happen-PRESP prep|on det:art|the n|ground prep|in adj|daily
+	n|life adv|there .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|7|CSUBJ 5|6|INF 6|4|COMP 7|0|ROOT
+	8|7|JCT 9|10|JCT 10|7|CPRED 11|13|DET 12|13|MOD 13|10|OBJ 14|10|JCT
+	15|10|JCT 16|19|DET 17|18|JCT 18|19|MOD 19|15|POBJ 20|10|CONJ
+	21|20|COORD 22|21|JCT 23|25|QUANT 24|25|MOD 25|22|POBJ 26|25|CONJ
+	27|28|QUANT 28|26|COORD 29|31|LINK 30|31|AUX 31|28|CMOD 32|31|JCT
+	33|34|DET 34|32|POBJ 35|31|JCT 36|37|MOD 37|35|POBJ 38|31|JCT
+	39|7|PUNCT
+*PAR:	and my first example is Philadelphia in the seventeen sixties just
+	to give you an idea of ethnic diversity and to remind you about the
+	context of slavery which we'll talk about on Wednesday .
+%mor:	coord|and det:poss|my adj|first n|example cop|be&3S
+	n:prop|Philadelphia prep|in det:art|the det:num|seventeen n|sixty-PL
+	adj|just inf|to v|give pro:per|you det:art|a n|idea prep|of
+	adj|ethnic n|diverse&dadj-ITY coord|and inf|to v|remind pro:per|you
+	prep|about det:art|the n|context prep|of n|slavery pro:rel|which
+	pro:sub|we~mod|will v|talk adv|about prep|on n:prop|Wednesday .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|NJCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|6|ENUM 12|13|INF 13|11|XMOD 14|13|OBJ2 15|16|DET
+	16|13|OBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|16|CONJ 21|22|INF
+	22|20|COORD 23|22|OBJ 24|22|JCT 25|26|DET 26|24|POBJ 27|26|NJCT 28|27|POBJ
+	29|32|LINK 30|32|SUBJ 31|32|AUX 32|28|CMOD 33|32|JCT 34|32|JCT 35|34|POBJ
+	36|5|PUNCT
+%trn:	coord|and det:poss|my adj|first n|example cop|be&3S
+	n:prop|Philadelphia prep|in det:art|the det:num|seventeen n|sixty-PL
+	adv|just inf|to v|give pro:per|you det:art|a n|idea prep|of
+	adj|ethnic n|diverse&dadj-ITY coord|and inf|to v|remind pro:per|you
+	prep|about det:art|the n|context prep|of n|slavery pro:rel|which
+	pro:sub|we~mod|will v|talk adv|about prep|on n:prop|Wednesday .
+%grt:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|NJCT
+	8|10|DET 9|10|QUANT 10|7|POBJ 11|13|JCT 12|13|INF 13|5|XJCT
+	14|13|OBJ2 15|16|DET 16|13|OBJ 17|16|NJCT 18|19|MOD 19|17|POBJ
+	20|13|CONJ 21|22|INF 22|20|COORD 23|22|OBJ 24|22|JCT 25|26|DET
+	26|24|POBJ 27|26|NJCT 28|27|POBJ 29|32|LINK 30|32|SUBJ 31|32|AUX
+	32|28|CMOD 33|32|JCT 34|32|JCT 35|34|POBJ 36|5|PUNCT
+*PAR:	one fifth of Philadelphia's population was enslaved in the
+	seventeen sixties .
+%mor:	det:num|one adj|fifth prep|of adj|Philadelphia&dn-POSS
+	n|populate&dv-TION aux|be&PAST&13S part|enslave-PASTP prep|in
+	det:art|the det:num|seventeen n|sixty-PL .
+%gra:	1|7|LINK 2|7|JCT 3|2|JCT 4|5|MOD 5|3|POBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|7|PUNCT
+%trn:	det:num|one adj|fifth prep|of adj|Philadelphia&dn-POSS
+	n|populate&dv-TION aux|be&PAST&13S part|enslave-PASTP prep|in
+	det:art|the det:num|seventeen n|sixty-PL .
+%grt:	1|2|QUANT 2|7|SUBJ 3|2|JCT 4|5|MOD 5|3|POBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|7|PUNCT
+*PAR:	and at this time Philadelphia was not only the largest city in
+	North America , it was the largest city of all the British colonies
+	.
+%mor:	coord|and prep|at det:dem|this n|time n:prop|Philadelphia
+	cop|be&PAST&13S neg|not adv|only det:art|the adj|large-SP n|city
+	prep|in n:prop|North n:prop|America cm|cm pro:per|it cop|be&PAST&13S
+	det:art|the adj|large-SP n|city prep|of qn|all det:art|the
+	n:prop|British n|colony-PL .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|NEG 8|11|JCT
+	9|11|DET 10|11|MOD 11|6|PRED 12|6|JCT 13|14|NAME 14|12|POBJ 15|6|LP
+	16|17|SUBJ 17|6|CJCT 18|20|DET 19|20|MOD 20|17|PRED 21|20|NJCT 22|25|QUANT
+	23|25|DET 24|25|MOD 25|21|POBJ 26|6|PUNCT
+%trn:	coord|and prep|at det:dem|this n|time n:prop|Philadelphia
+	cop|be&PAST&13S neg|not adv|only det:art|the adj|large-SP n|city
+	prep|in n:prop|North n:prop|America cm|cm pro:per|it cop|be&PAST&13S
+	det:art|the adj|large-SP n|city prep|of qn|all det:art|the
+	n:prop|British n|colony-PL .
+%grt:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|NEG
+	8|11|NJCT 9|11|DET 10|11|MOD 11|6|PRED 12|11|NJCT 13|14|NAME
+	14|12|POBJ 15|6|LP 16|17|SUBJ 17|6|CJCT 18|20|DET 19|20|MOD
+	20|17|PRED 21|20|NJCT 22|25|QUANT 23|25|DET 24|25|MOD 25|21|POBJ
+	26|6|PUNCT
+*PAR:	it was the Megapolis as Ken_Azure liked to talk about .
+%mor:	pro:per|it cop|be&PAST&13S det:art|the n:prop|Megapolis conj|as
+	n:prop|Ken_Azure v|like-PAST inf|to v|talk adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|9|INF
+	9|7|COMP 10|9|JCT 11|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S det:art|the n:prop|Megapolis conj|as
+	n:prop|Ken_Azure v|like-PAST inf|to v|talk adv|about .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|SUBJ 7|2|CJCT
+	8|9|INF 9|7|COMP 10|9|JCT 11|2|PUNCT
+*PAR:	commerce grew quickly once things started to be centralized in [//]
+	through Philadelphia particularly in iron and textiles .
+%mor:	n|commerce v|grow&PAST adv|quick&dadj-LY conj|once n|thing-PL
+	v|start-PAST inf|to aux|be part|central-IZE-PASTP prep|through
+	n:prop|Philadelphia adv|particular&dadj-LY prep|in n|iron coord|and
+	n|textile-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|9|INF 8|9|AUX
+	9|6|COMP 10|9|JCT 11|10|POBJ 12|9|JCT 13|9|JCT 14|13|POBJ 15|14|CONJ
+	16|15|COORD 17|2|PUNCT
+%trn:	n|commerce v|grow&PAST adv|quick&dadj-LY conj|once n|thing-PL
+	v|start-PAST inf|to aux|be part|central-IZE-PASTP prep|through
+	n:prop|Philadelphia adv|particular&dadj-LY prep|in n|iron coord|and
+	n|textile-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|9|INF
+	8|9|AUX 9|6|COMP 10|9|JCT 11|10|POBJ 12|13|JCT 13|9|JCT 14|13|POBJ
+	15|14|CONJ 16|15|COORD 17|2|PUNCT
+*PAR:	those were two areas of kind_of American Industrial Revolution that
+	kind_of had their beginnings in Philadelphia .
+%mor:	pro:dem|those cop|be&PAST det:num|two n|area-PL prep|of adv|kind_of
+	n:prop|American n:prop|Industrial n:prop|Revolution pro:rel|that
+	adv|kind_of v|have&PAST det:poss|their n|beginning-PL prep|in
+	n:prop|Philadelphia .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|JCT 7|5|POBJ 8|9|NAME
+	9|4|APP 10|12|LINK 11|12|JCT 12|9|CMOD 13|14|DET 14|12|OBJ 15|12|JCT
+	16|15|POBJ 17|2|PUNCT
+%trn:	pro:dem|those cop|be&PAST det:num|two n|area-PL prep|of adv|kind_of
+	n:prop|American n:prop|Industrial n:prop|Revolution pro:rel|that
+	adv|kind_of v|have&PAST det:poss|their n|beginning-PL prep|in
+	n:prop|Philadelphia .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|9|NJCT 7|9|NAME
+	8|9|NAME 9|5|POBJ 10|12|LINK 11|12|JCT 12|4|CMOD 13|14|DET 14|12|OBJ
+	15|12|JCT 16|15|POBJ 17|2|PUNCT
+*PAR:	I_mean ‡ textiles are obviously important also in Massachusetts and
+	New England but Philadelphia they're important to the kind_of
+	explosive growth of Philadelphia .
+%mor:	co|I_mean beg|beg n|textile-PL cop|be&PRES adv|obvious&dadj-LY
+	adj|important adv|also prep|in n:prop|Massachusetts coord|and
+	n:prop|New n:prop|England conj|but n:prop|Philadelphia
+	pro:sub|they~cop|be&PRES adj|important prep|to det:art|the
+	adv|kind_of adj|explosive n|growth prep|of n:prop|Philadelphia .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|JCT 8|4|JCT
+	9|8|POBJ 10|9|CONJ 11|12|NAME 12|10|COORD 13|16|LINK 14|16|JCT 15|16|SUBJ
+	16|4|CJCT 17|16|PRED 18|17|JCT 19|22|DET 20|21|JCT 21|22|MOD 22|18|POBJ
+	23|22|NJCT 24|23|POBJ 25|4|PUNCT
+%trn:	co|I_mean beg|beg n|textile-PL cop|be&PRES adv|obvious&dadj-LY
+	adj|important adv|also prep|in n:prop|Massachusetts coord|and
+	n:prop|New n:prop|England conj|but n:prop|Philadelphia
+	pro:sub|they~cop|be&PRES adj|important prep|to det:art|the
+	adv|kind_of adj|explosive n|growth prep|of n:prop|Philadelphia .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PRED 7|4|JCT 8|4|JCT
+	9|8|POBJ 10|9|CONJ 11|12|NAME 12|10|COORD 13|16|LINK 14|16|TOP
+	15|16|SUBJ 16|4|CJCT 17|16|PRED 18|17|JCT 19|22|DET 20|21|JCT
+	21|22|MOD 22|18|POBJ 23|22|NJCT 24|23|POBJ 25|4|PUNCT
+*PAR:	in &ph Philadelphia historians have calculated looking at economic
+	figures that a male laborer , you_know someone who maybe laid bricks
+	or plastered houses , dug ditches , something like that , a male
+	laborer could not support a family .
+%mor:	prep|in n:prop|Philadelphia n|historian-PL aux|have
+	part|calculate-PASTP part|look-PRESP prep|at adj|economic
+	n|figure-PL pro:rel|that det:art|a adj|male n|labor&dv-AGT cm|cm
+	co|you_know pro:indef|someone pro:rel|who adv|maybe v|lay&PAST
+	n|brick-PL coord|or v|plaster-PAST n|house-PL cm|cm v|dig&PAST
+	n|ditch-PL cm|cm pro:indef|something prep|like pro:dem|that cm|cm
+	det:art|a adj|male n|labor&dv-AGT mod|could neg|not v|support
+	det:art|a n|family .
+%gra:	1|5|JCT 2|3|MOD 3|1|POBJ 4|5|AUX 5|0|ROOT 6|5|XJCT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|13|LINK 11|13|DET 12|13|MOD 13|9|CMOD 14|13|LP 15|16|COM
+	16|37|SUBJ 17|19|LINK 18|19|JCT 19|16|CMOD 20|19|OBJ 21|16|CONJ 22|21|COORD
+	23|22|OBJ 24|16|LP 25|16|ENUM 26|25|OBJ 27|25|LP 28|37|XJCT 29|28|NJCT
+	30|29|POBJ 31|28|LP 32|34|DET 33|34|MOD 34|37|SUBJ 35|37|AUX 36|35|NEG
+	37|13|ENUM 38|39|DET 39|37|OBJ 40|5|PUNCT
+%trn:	prep|in n:prop|Philadelphia n|historian-PL aux|have
+	part|calculate-PASTP part|look-PRESP prep|at adj|economic
+	n|figure-PL comp|that det:art|a adj|male n|labor&dv-AGT cm|cm
+	co|you_know pro:indef|someone pro:rel|who adv|maybe v|lay&PAST
+	n|brick-PL coord|or v|plaster-PAST n|house-PL cm|cm v|dig&PAST
+	n|ditch-PL cm|cm pro:indef|something prep|like pro:dem|that cm|cm
+	det:art|a adj|male n|labor&dv-AGT mod|could neg|not v|support
+	det:art|a n|family .
+%grt:	1|5|JCT 2|5|POBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|XJCT 7|6|JCT
+	8|9|MOD 9|7|POBJ 10|37|LINK 11|13|DET 12|13|MOD 13|34|APP 14|13|LP
+	15|16|COM 16|34|APP 17|19|LINK 18|19|JCT 19|16|CMOD 20|19|OBJ
+	21|19|CONJ 22|21|COORD 23|22|OBJ 24|22|LP 25|22|ENUM 26|25|OBJ
+	27|25|LP 28|25|ENUM 29|28|NJCT 30|29|POBJ 31|28|LP 32|34|DET
+	33|34|MOD 34|37|SUBJ 35|37|AUX 36|35|NEG 37|5|COMP 38|39|DET
+	39|37|OBJ 40|5|PUNCT
+*PAR:	could not support [//] say give house and [/] and food to a wife
+	and children .
+%mor:	mod|could neg|not co|say v|give n|house coord|and n|food prep|to
+	det:art|a n|wife coord|and n|child&PL .
+%gra:	1|4|AUX 2|1|NEG 3|4|COM 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|CONJ 12|11|COORD 13|4|PUNCT
+%trn:	mod|could neg|not co|say v|give n|house coord|and n|food prep|to
+	det:art|a n|wife coord|and n|child&PL .
+%grt:	1|4|AUX 2|1|NEG 3|4|COM 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|6|COORD
+	8|4|JCT 9|10|DET 10|8|POBJ 11|10|CONJ 12|11|COORD 13|4|PUNCT
+*PAR:	it simply was not possible in late eighteenth century Philadelphia
+	.
+%mor:	pro:per|it adv|simple&dadj-LY cop|be&PAST&13S neg|not adj|possible
+	adv|in adv|late adj|eighteenth n|century n:prop|Philadelphia .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|NEG 5|9|MOD 6|5|JCT 7|8|JCT 8|9|MOD
+	9|3|PRED 10|3|PRED 11|3|PUNCT
+%trn:	pro:per|it adv|simple&dadj-LY cop|be&PAST&13S neg|not adj|possible
+	adv|in adj|late adj|eighteenth n|century n:prop|Philadelphia .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|JCT 7|8|JCT 8|9|MOD
+	9|10|MOD 10|6|POBJ 11|3|PUNCT
+*PAR:	so ‡ as a result women and children were employed .
+%mor:	co|so beg|beg prep|as det:art|a n|result n|woman&PL coord|and
+	n|child&PL aux|be&PAST part|employ-PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|10|LINK 4|6|DET 5|6|MOD 6|10|SUBJ 7|6|CONJ 8|7|COORD
+	9|10|AUX 10|0|ROOT 11|10|PUNCT
+%trn:	co|so beg|beg prep|as det:art|a n|result n|woman&PL coord|and
+	n|child&PL aux|be&PAST part|employ-PASTP .
+%grt:	1|0|BEG 2|1|BEGP 3|10|JCT 4|5|DET 5|3|POBJ 6|10|SUBJ 7|6|CONJ
+	8|7|COORD 9|10|AUX 10|0|ROOT 11|10|PUNCT
+*PAR:	they either worked jobs , sold &g goods on the street .
+%mor:	pro:sub|they adv|either v|work-PAST n|job-PL cm|cm v|sell&PAST
+	n:adj|good-PL prep|on det:art|the n|street .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|LP 6|3|ENUM 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%trn:	pro:sub|they adv|either v|work-PAST n|job-PL cm|cm v|sell&PAST
+	n:adj|good-PL prep|on det:art|the n|street .
+*PAR:	perhaps the woman took in some piece work sewing to do .
+%mor:	adv|perhaps det:art|the n|woman v|take&PAST prep|in qn|some n|piece
+	n|work part|sew-PRESP inf|to v|do .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|8|MOD 8|5|POBJ
+	9|4|XJCT 10|11|INF 11|9|COMP 12|4|PUNCT
+%trn:	adv|perhaps det:art|the n|woman v|take&PAST prep|in qn|some n|piece
+	n|work n:gerund|sew-PRESP inf|to v|do .
+*PAR:	so ‡ at the lower levels all members of the family were involved in
+	production or work of some kind in some fashion .
+%mor:	co|so beg|beg prep|at det:art|the adj|low-CP n|level-PL qn|all
+	n|member-PL prep|of det:art|the n|family aux|be&PAST
+	part|involve-PASTP prep|in n|production coord|or n|work prep|of
+	qn|some n|kind prep|in qn|some n|fashion .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|QUANT
+	8|13|SUBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|13|AUX 13|6|XMOD 14|13|JCT 15|14|POBJ
+	16|13|CONJ 17|16|COORD 18|17|NJCT 19|20|QUANT 20|18|POBJ 21|20|NJCT
+	22|23|QUANT 23|21|POBJ 24|3|PUNCT
+%trn:	co|so beg|beg prep|at det:art|the adj|low-CP n|level-PL qn|all
+	n|member-PL prep|of det:art|the n|family aux|be&PAST
+	part|involve-PASTP prep|in n|production coord|or n|work prep|of
+	qn|some n|kind prep|in qn|some n|fashion .
+%grt:	1|0|BEG 2|1|BEGP 3|13|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|QUANT
+	8|13|SUBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|13|AUX 13|0|ROOT 14|13|JCT
+	15|14|POBJ 16|15|CONJ 17|16|COORD 18|17|NJCT 19|20|QUANT 20|18|POBJ
+	21|13|JCT 22|23|QUANT 23|21|POBJ 24|13|PUNCT
+*PAR:	on the other hand you do see one of the other trends very clearly
+	in Philadelphia and that is that the elites of Philadelphia , as the
+	elites of the larger [//] largest and at this time most cosmopolitan
+	town <in British> [//] in the British colonies , really started to
+	create a culture of their own .
+%mor:	prep|on det:art|the qn|other n|hand pro:per|you mod|do v|see
+	pro:indef|one prep|of det:art|the qn|other n|trend-PL adv|very
+	adv|clear&dadj-LY prep|in n:prop|Philadelphia coord|and pro:dem|that
+	cop|be&3S comp|that det:art|the n|elite-PL prep|of
+	n:prop|Philadelphia cm|cm prep|as det:art|the n|elite-PL prep|of
+	det:art|the adj|large-SP coord|and prep|at det:dem|this n|time
+	qn|most adj|cosmopolitan n|town prep|in det:art|the n:prop|British
+	n|colony-PL cm|cm adv|real&dadj-LY v|start-PAST inf|to v|create
+	det:art|a n|culture prep|of det:poss|their adj|own .
+%gra:	1|7|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|8|NJCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|14|JCT 14|7|JCT 15|7|JCT
+	16|15|POBJ 17|19|LINK 18|19|SUBJ 19|7|CJCT 20|19|PRED 21|22|DET 22|20|OBJ
+	23|22|NJCT 24|23|POBJ 25|22|LP 26|22|NJCT 27|28|DET 28|26|POBJ 29|28|NJCT
+	30|31|DET 31|29|POBJ 32|45|LINK 33|45|JCT 34|35|DET 35|33|POBJ
+	36|38|QUANT 37|38|MOD 38|45|SUBJ 39|38|NJCT 40|42|DET 41|42|MOD 42|39|POBJ
+	43|38|LP 44|45|JCT 45|31|CMOD 46|47|INF 47|45|COMP 48|49|DET 49|47|OBJ
+	50|49|NJCT 51|52|DET 52|50|POBJ 53|7|PUNCT
+%trn:	prep|on det:art|the qn|other n|hand pro:per|you mod|do v|see
+	pro:indef|one prep|of det:art|the qn|other n|trend-PL adv|very
+	adv|clear&dadj-LY prep|in n:prop|Philadelphia coord|and pro:dem|that
+	cop|be&3S comp|that det:art|the n|elite-PL prep|of
+	n:prop|Philadelphia cm|cm prep|as det:art|the n|elite-PL prep|of
+	det:art|the adj|large-SP coord|and prep|at det:dem|this n|time
+	qn|most adj|cosmopolitan n|town prep|in det:art|the n:prop|British
+	n|colony-PL cm|cm adv|real&dadj-LY v|start-PAST inf|to v|create
+	det:art|a n|culture prep|of det:poss|their adj|own .
+%grt:	1|7|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT
+	8|7|OBJ 9|8|NJCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|14|JCT 14|7|JCT
+	15|7|JCT 16|15|POBJ 17|19|LINK 18|19|SUBJ 19|7|CJCT 20|45|LINK
+	21|22|DET 22|45|SUBJ 23|22|NJCT 24|23|POBJ 25|22|LP 26|22|NJCT
+	27|28|DET 28|26|POBJ 29|28|NJCT 30|38|DET 31|38|MOD 32|31|CONJ
+	33|37|JCT 34|35|DET 35|33|POBJ 36|37|QUANT 37|32|COORD 38|29|POBJ
+	39|38|NJCT 40|42|DET 41|42|MOD 42|39|POBJ 43|26|LP 44|45|JCT
+	45|19|CPRED 46|47|INF 47|45|COMP 48|49|DET 49|47|OBJ 50|49|NJCT
+	51|52|DET 52|50|POBJ 53|7|PUNCT
+*PAR:	they did participate in &w what Deetz starts to identify as kind_of
+	Anglophilia , the love of all things English .
+%mor:	pro:sub|they mod|do&PAST v|participate adv|in det:int|what
+	n:prop|Deetz v|start-3S inf|to v|identify prep|as adv|kind_of
+	n:prop|Anglophilia cm|cm det:art|the n|love prep|of qn|all
+	n|thing-PL n:prop|English .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|SUBJ 7|3|COMP 8|9|INF
+	9|7|COMP 10|12|COORD 11|12|JCT 12|9|COMP 13|12|LP 14|15|DET 15|12|ENUM
+	16|15|NJCT 17|18|QUANT 18|19|MOD 19|16|POBJ 20|3|PUNCT
+%trn:	pro:sub|they mod|do&PAST v|participate prep|in pro:int|what
+	n:prop|Deetz v|start-3S inf|to v|identify prep|as adv|kind_of
+	n:prop|Anglophilia cm|cm det:art|the n|love prep|of qn|all
+	n|thing-PL n:prop|English .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|4|CPOBJ
+	8|9|INF 9|7|COMP 10|9|JCT 11|12|NJCT 12|10|POBJ 13|12|LP 14|15|DET
+	15|12|ENUM 16|15|NJCT 17|18|QUANT 18|16|POBJ 19|18|POSTMNOD
+	20|3|PUNCT
+*PAR:	and remember this is where Georgian architecture comes from .
+%mor:	coord|and v|remember pro:dem|this cop|be&3S pro:int|where
+	n:prop|Georgian n|architecture v|come-3S prep|from .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|8|LINK 6|7|MOD 7|8|SUBJ 8|4|CPRED
+	9|8|JCT 10|2|PUNCT
+%trn:	coord|and v|remember pro:dem|this cop|be&3S pro:int|where
+	n:prop|Georgian n|architecture v|come-3S prep|from .
+%grt:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|8|LINK 6|7|MOD 7|8|SUBJ
+	8|4|CPRED 9|8|JCT 10|2|PUNCT
+*PAR:	and if you look at Philadelphia , colonial townhouses are kind_of a
+	[/] a miniature squished &=laughs urban version of Georgian
+	architecture .
+%mor:	coord|and conj|if pro:per|you v|look prep|at n:prop|Philadelphia
+	cm|cm adj|colonial n|+n|town+n|house-PL cop|be&PRES adv|kind_of
+	det:art|a adj|miniature part|squish-PASTP adj|urban n|version
+	prep|of n:prop|Georgian n|architecture .
+%gra:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|5|POBJ 7|4|LP 8|9|MOD
+	9|10|SUBJ 10|0|ROOT 11|10|JCT 12|14|DET 13|14|MOD 14|11|CPOBJ 15|16|MOD
+	16|14|OBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|10|PUNCT
+%trn:	coord|and conj|if pro:per|you v|look prep|at n:prop|Philadelphia
+	cm|cm adj|colonial n|+n|town+n|house-PL cop|be&PRES adv|kind_of
+	det:art|a adj|miniature part|squish-PASTP adj|urban n|version prep|of
+	n:prop|Georgian n|architecture .
+%grt:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|5|POBJ 7|4|LP 8|9|MOD
+	9|10|SUBJ 10|0|ROOT 11|10|JCT 12|16|DET 13|16|MOD 14|16|XMOD
+	15|16|MOD 16|10|PRED 17|16|NJCT 18|19|MOD 19|17|POBJ 20|10|PUNCT
+*PAR:	they're very symmetrical , very clean .
+%mor:	pro:sub|they~cop|be&PRES adv|very adj|symmetric-AL cm|cm adv|very
+	adj|clean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|LP 6|7|JCT 7|2|PRED 8|2|PUNCT
+%trn:	pro:sub|they~cop|be&PRES adv|very adj|symmetric-AL cm|cm adv|very
+	adj|clean .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|LP 6|7|JCT 7|4|ENUM
+	8|2|PUNCT
+*PAR:	they have very simple Greco_Roman elements to them .
+%mor:	pro:sub|they v|have adv|very adj|simple n:prop|Greco_Roman
+	n|element-PL prep|to pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|6|MOD 5|6|MOD 6|2|OBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+%trn:	pro:sub|they v|have adv|very adj|simple n:prop|Greco_Roman
+	n|element-PL prep|to pro:obj|them .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|6|MOD 5|6|MOD 6|2|OBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+*PAR:	and this Georgian architecture is really an imitation of country
+	houses of the aristocracy in eighteenth century England .
+%mor:	coord|and det:dem|this n:prop|Georgian n|architecture cop|be&3S
+	adv|real&dadj-LY det:art|a n|imitate&dv-TION prep|of n|country
+	n|house-PL prep|of det:art|the n|aristocracy prep|in adj|eighteenth
+	n|century n:prop|England .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|8|APP 19|5|PUNCT
+%trn:	coord|and pro:dem|this n:prop|Georgian n|architecture cop|be&3S
+	adv|real&dadj-LY det:art|a n|imitate&dv-TION prep|of n|country
+	n|house-PL prep|of det:art|the n|aristocracy prep|in adj|eighteenth
+	n|century n:prop|England .
+%grt:	1|5|LINK 2|5|SUBJ 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET
+	8|5|PRED 9|8|NJCT 10|11|MOD 11|9|POBJ 12|11|JCT 13|14|DET 14|12|POBJ
+	15|14|NJCT 16|17|MOD 17|18|MOD 18|15|POBJ 19|5|PUNCT
+*PAR:	but they get transformed in [/] in Philadelphia &t to the [//]
+	those classic narrow townhouses .
+%mor:	conj|but pro:sub|they aux|get part|transform-PASTP prep|in
+	n:prop|Philadelphia prep|to det:dem|those adj|classic adj|narrow
+	n|+n|town+n|house-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|4|PUNCT
+%trn:	conj|but pro:sub|they aux|get part|transform-PASTP prep|in
+	n:prop|Philadelphia prep|to det:dem|those adj|classic adj|narrow
+	n|+n|town+n|house-PL .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT
+	8|11|DET 9|11|JCT 10|11|MOD 11|7|POBJ 12|4|PUNCT
+*PAR:	&any anyone know what I'm looking [//] thinking of ?
+%mor:	pro:indef|anyone v|know pro:int|what pro:sub|I~aux|be&1S
+	part|think-PRESP prep|of ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|2|PUNCT
+%trn:	pro:indef|anyone v|know pro:int|what pro:sub|I~aux|be&1S
+	part|think-PRESP prep|of ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT
+	8|2|PUNCT
+*PAR:	been to Philadelphia ?
+%mor:	cop|be&PASTP prep|to n:prop|Philadelphia ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%trn:	cop|be&PASTP prep|to n:prop|Philadelphia ?
+%grt:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	part of this Anglophilia also meant that the elites were really
+	interested in imports coming from England through the river system .
+%mor:	n|part prep|of det:dem|this n:prop|Anglophilia adv|also v|mean&PAST
+	comp|that det:art|the n|elite-PL aux|be&PAST adv|real&dadj-LY
+	part|interest-PASTP prep|in n|import-PL part|come-PRESP prep|from
+	n:prop|England prep|through det:art|the n|river n|system .
+%gra:	1|6|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|JCT 6|0|ROOT 7|12|LINK 8|9|DET
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|6|COMP 13|12|JCT 14|13|POBJ 15|12|XJCT
+	16|15|JCT 17|16|POBJ 18|15|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|6|PUNCT
+%trn:	n|part prep|of det:dem|this n:prop|Anglophilia adv|also v|mean&PAST
+	comp|that det:art|the n|elite-PL aux|be&PAST adv|real&dadj-LY
+	part|interest-PASTP prep|in n|import-PL part|come-PRESP prep|from
+	n:prop|England prep|through det:art|the n|river n|system .
+%grt:	1|6|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|JCT 6|0|ROOT 7|12|LINK
+	8|9|DET 9|12|SUBJ 10|12|AUX 11|12|JCT 12|6|COMP 13|12|JCT 14|13|POBJ
+	15|14|XMOD 16|15|JCT 17|16|POBJ 18|15|JCT 19|21|DET 20|21|MOD
+	21|18|POBJ 22|6|PUNCT
+*PAR:	Philadelphia was a port city of sorts , supported by its river port
+	.
+%mor:	n:prop|Philadelphia cop|be&PAST&13S det:art|a n|port n|city prep|of
+	n|sort-PL cm|cm v|support-PAST prep|by det:poss|its n|river n|port .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|LP
+	9|2|ENUM 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+%trn:	n:prop|Philadelphia cop|be&PAST&13S det:art|a n|port n|city prep|of
+	n|sort-PL cm|cm part|support-PASTP prep|by det:poss|its n|river
+	n|port .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|5|LP
+	9|5|XMOD 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+*PAR:	and there , colonial merchants , doctors , lawyers tried to emulate
+	British upper classes not only through their architecture but
+	through concerts , plays , dance , dress , fashion .
+%mor:	coord|and adv|there cm|cm adj|colonial n|merchant-PL cm|cm
+	n|doctor-PL cm|cm n|lawyer-PL v|try-PAST inf|to v|emulate
+	n:prop|British adj|upper n|class-PL neg|not adv|only prep|through
+	det:poss|their n|architecture conj|but prep|through n|concert-PL
+	cm|cm n|play-PL cm|cm n|dance cm|cm n|dress cm|cm n|fashion .
+%gra:	1|10|LINK 2|10|JCT 3|2|LP 4|5|MOD 5|10|JCT 6|5|LP 7|5|ENUM 8|7|LP
+	9|10|SUBJ 10|0|ROOT 11|12|INF 12|10|COMP 13|15|MOD 14|15|MOD 15|12|OBJ
+	16|15|NEG 17|15|JCT 18|15|NJCT 19|20|DET 20|18|POBJ 21|10|CONJ 22|21|COORD
+	23|22|POBJ 24|22|LP 25|22|POBJ 26|25|LP 27|25|ENUM 28|27|LP 29|25|ENUM
+	30|29|LP 31|25|ENUM 32|10|PUNCT
+%trn:	coord|and adv|there cm|cm adj|colonial n|merchant-PL cm|cm
+	n|doctor-PL cm|cm n|lawyer-PL v|try-PAST inf|to v|emulate
+	n:prop|British adj|upper n|class-PL neg|not adv|only prep|through
+	det:poss|their n|architecture conj|but prep|through n|concert-PL
+	cm|cm n|play-PL cm|cm n|dance cm|cm n|dress cm|cm n|fashion .
+%grt:	1|10|LINK 2|10|JCT 3|2|LP 4|5|MOD 5|10|SUBJ 6|5|LP 7|5|ENUM 8|7|LP
+	9|5|ENUM 10|0|ROOT 11|12|INF 12|10|COMP 13|15|MOD 14|15|MOD
+	15|12|OBJ 16|17|NEG 17|18|JCT 18|12|JCT 19|20|DET 20|18|POBJ
+	21|18|CONJ 22|21|COORD 23|22|POBJ 24|23|LP 25|23|ENUM 26|25|LP
+	27|23|ENUM 28|27|LP 29|23|ENUM 30|29|LP 31|23|ENUM 32|10|PUNCT
+*PAR:	and they also filled their houses with fine furniture .
+%mor:	coord|and pro:sub|they adv|also part|fill-PASTP det:poss|their
+	n|house-PL prep|with adj|fine n|furniture .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+%trn:	coord|and pro:sub|they adv|also v|fill-PAST det:poss|their
+	n|house-PL prep|with adj|fine n|furniture .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+*PAR:	however &a &a as much as they had pretensions towards emulating the
+	British aristocracy they didn't really quite have the resources .
+%mor:	adv|however adv|as adv|much conj|as pro:sub|they v|have&PAST
+	n|pretension-PL prep|towards n:gerund|emulate-PRESP det:art|the
+	n:prop|British n|aristocracy pro:sub|they mod|do&PAST~neg|not
+	adv|real&dadj-LY adv|quite v|have det:art|the n|resource-PL .
+%gra:	1|3|JCT 2|3|COORD 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|OBJ
+	8|6|JCT 9|8|POBJ 10|12|DET 11|12|MOD 12|9|OBJ 13|18|SUBJ 14|18|AUX 15|14|NEG
+	16|18|JCT 17|18|JCT 18|12|CMOD 19|20|DET 20|18|OBJ 21|3|PUNCT
+%trn:	adv|however adv|as adv|much adv|as pro:sub|they v|have&PAST
+	n|pretension-PL prep|towards n:gerund|emulate-PRESP det:art|the
+	n:prop|British n|aristocracy pro:sub|they mod|do&PAST~neg|not
+	adv|real&dadj-LY adv|quite v|have det:art|the n|resource-PL .
+%grt:	1|18|JCT 2|3|COORD 3|18|JCT 4|6|COORD 5|6|SUBJ 6|3|ENUM 7|6|OBJ
+	8|7|JCT 9|8|POBJ 10|12|DET 11|12|MOD 12|9|OBJ 13|18|SUBJ 14|18|AUX
+	15|14|NEG 16|18|JCT 17|18|JCT 18|0|ROOT 19|20|DET 20|18|OBJ
+	21|18|PUNCT
+*PAR:	particularly once you start importing things that greatly increased
+	the cost .
+%mor:	adv|particular&dadj-LY conj|once pro:per|you v|start
+	part|import-PRESP n|thing-PL pro:rel|that adv|great&dadj-LY
+	v|increase-PAST det:art|the n|cost .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|OBJ 7|9|LINK 8|9|JCT
+	9|6|CMOD 10|11|DET 11|9|OBJ 12|4|PUNCT
+%trn:	adv|particular&dadj-LY conj|once pro:per|you v|start
+	part|import-PRESP n|thing-PL pro:rel|that adv|great&dadj-LY
+	v|increase-PAST det:art|the n|cost .
+%grt:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|OBJ 7|9|LINK
+	8|9|JCT 9|6|CMOD 10|11|DET 11|9|OBJ 12|4|PUNCT
+*PAR:	you hafta add transportation &co costs as_well_as duties .
+%mor:	pro:per|you mod|have~inf|to v|add n|transport&dv-TION n|cost-PL
+	prep|as_well_as n|duty-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+%trn:	pro:per|you mod|have~inf|to v|add n|transport&dv-TION n|cost-PL
+	prep|as_well_as n|duty-PL .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|MOD 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|4|PUNCT
+*PAR:	and as a result Philadelphia artisans became particularly known for
+	producing &magni magnificent copies of works of Thomas Chippendale
+	which many of you might have heard about .
+%mor:	coord|and prep|as det:art|a n|result n:prop|Philadelphia
+	n|artisan-PL cop|become&PAST adv|particular&dadj-LY part|know&PASTP
+	prep|for n:gerund|produce-PRESP adj|magnificent n|copy-PL prep|of
+	n|work-PL prep|of n:prop|Thomas n:prop|Chippendale pro:int|which
+	pro:indef|many prep|of pro:per|you mod|might aux|have
+	part|hear&PASTP adv|about .
+%gra:	1|7|LINK 2|6|COORD 3|4|DET 4|6|MOD 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|XJCT 10|9|JCT 11|10|POBJ 12|13|MOD 13|11|OBJ 14|13|NJCT 15|14|POBJ
+	16|15|NJCT 17|16|POBJ 18|13|APP 19|20|LINK 20|13|CJCT 21|20|NJCT 22|25|SUBJ
+	23|25|AUX 24|25|AUX 25|21|POBJ 26|25|JCT 27|7|PUNCT
+%trn:	coord|and prep|as det:art|a n|result n:prop|Philadelphia
+	n|artisan-PL cop|become&PAST adv|particular&dadj-LY part|know&PASTP
+	prep|for n:gerund|produce-PRESP adj|magnificent n|copy-PL prep|of
+	n|work-PL prep|of n:prop|Thomas n:prop|Chippendale pro:int|which
+	pro:indef|many prep|of pro:per|you mod|might aux|have
+	part|hear&PASTP adv|about .
+%grt:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|6|MOD 6|7|SUBJ 7|0|ROOT
+	8|9|JCT 9|7|COMP 10|9|JCT 11|10|POBJ 12|13|MOD 13|11|OBJ 14|13|NJCT
+	15|14|POBJ 16|15|NJCT 17|18|NAME 18|16|POBJ 19|25|LINK 20|25|SUBJ
+	21|20|NJCT 22|21|POBJ 23|25|AUX 24|25|AUX 25|15|CMOD 26|25|JCT
+	27|7|PUNCT
+*PAR:	Great Britain's most famous furniture designer .
+%mor:	n:prop|Great n:prop|Britain~cop|be&3S adv|most adj|famous
+	n|furniture n|design&dv-AGT .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|7|MOD 6|7|MOD 7|3|PRED 8|3|PUNCT
+%trn:	n:prop|Great adj|Britain&dn-POSS qn|most adj|famous n|furniture
+	n|design&dv-AGT .
+%grt:	1|2|NAME 2|6|MOD 3|4|QUANT 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*PAR:	and the [/] <the work> [//] the name Chippendale is so associated
+	with US artisans right now you may not realize that the original
+	Chippendale was actually British .
+%mor:	coord|and det:art|the n|name n:prop|Chippendale aux|be&3S adv|so
+	part|associate-PASTP prep|with n:prop|US n|artisan-PL adv|right
+	adv:tem|now pro:per|you mod|may neg|not v|realize comp|that det:art|the
+	adj|origin&dn-AL n:prop|Chippendale cop|be&PAST&13S
+	adv|actual&dadj-LY n:prop|British .
+%gra:	1|16|LINK 2|3|DET 3|16|SUBJ 4|7|SUBJ 5|7|AUX 6|7|JCT 7|16|XJCT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|12|JCT 12|7|JCT 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|0|ROOT 17|16|OBJ 18|19|DET 19|17|PRED 20|21|SUBJ 21|19|CMOD 22|23|JCT
+	23|21|PRED 24|16|PUNCT
+%trn:	coord|and det:art|the n|name n:prop|Chippendale aux|be&3S adv|so
+	part|associate-PASTP prep|with n:prop|US n|artisan-PL adv|right
+	adv:tem|now pro:per|you mod|may neg|not v|realize comp|that det:art|the
+	adj|origin&dn-AL n:prop|Chippendale cop|be&PAST&13S
+	adv|actual&dadj-LY n:prop|British .
+%grt:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|APP 5|7|AUX 6|7|JCT 7|0|ROOT
+	8|7|JCT 9|10|MOD 10|8|POBJ 11|12|JCT 12|7|JCT 13|16|SUBJ 14|16|AUX
+	15|14|NEG 16|7|CJCT 17|21|LINK 18|20|DET 19|20|MOD 20|21|SUBJ
+	21|16|COMP 22|23|JCT 23|21|PRED 24|7|PUNCT
+*PAR:	because now there is a widespread American furniture style called
+	American Chippendale .
+%mor:	conj|because adv:tem|now pro:exist|there cop|be&3S det:art|a
+	adj|widespread n:prop|American n|furniture n|style part|call-PASTP
+	n:prop|American n:prop|Chippendale .
+%gra:	1|2|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|9|DET 6|7|MOD 7|9|MOD 8|9|MOD
+	9|4|PRED 10|9|XMOD 11|12|NAME 12|10|OBJ 13|4|PUNCT
+%trn:	conj|because adv:tem|now pro:exist|there cop|be&3S det:art|a
+	adj|widespread n:prop|American n|furniture n|style part|call-PASTP
+	n:prop|American n:prop|Chippendale .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|9|DET 6|9|MOD 7|9|MOD 8|9|MOD
+	9|4|PRED 10|9|XMOD 11|12|NAME 12|10|OBJ 13|4|PUNCT
+*PAR:	it has nothing to do with the dancers &=laughs:multiple that I'm
+	aware of .
+%mor:	pro:per|it v|have&3S pro:indef|nothing inf|to v|do prep|with
+	det:art|the n|dance&dv-AGT-PL pro:rel|that pro:sub|I~cop|be&1S
+	adj|aware prep|of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|PRED 13|12|JCT 14|2|PUNCT
+%trn:	pro:per|it v|have&3S pro:indef|nothing inf|to v|do prep|with
+	det:art|the n|dance&dv-AGT-PL pro:rel|that pro:sub|I~cop|be&1S
+	adj|aware prep|of .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|3|CMOD 12|11|PRED 13|12|JCT 14|2|PUNCT
+*PAR:	<maybe there's some> [//] maybe if someone wants to research this
+	and let me know if there's any connection .
+%mor:	adv|maybe conj|if pro:indef|someone v|want-3S inf|to v|research
+	pro:dem|this coord|and v|let&ZERO pro:obj|me v|know comp|if
+	pro:exist|there~cop|be&3S qn|any n|connection .
+%gra:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|CONJ
+	9|8|COORD 10|9|OBJ 11|9|COMP 12|14|LINK 13|14|SUBJ 14|11|COMP 15|16|QUANT
+	16|14|PRED 17|4|PUNCT
+%trn:	adv|maybe conj|if pro:indef|someone v|want-3S inf|to v|research
+	pro:dem|this coord|and v|let&ZERO pro:obj|me v|know comp|if
+	pro:exist|there~cop|be&3S qn|any n|connection .
+%grt:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ
+	8|6|CONJ 9|8|COORD 10|9|OBJ 11|9|COMP 12|14|LINK 13|14|SUBJ
+	14|11|COMP 15|16|QUANT 16|14|PRED 17|4|PUNCT
+*PAR:	but if you watch like the Antiques Road Show or something like that
+	you'll [//] they'll often talk about Chippendale style furniture .
+%mor:	conj|but conj|if pro:per|you v|watch prep|like det:art|the
+	n:prop|Antiques n:prop|Road n:prop|Show coord|or pro:indef|something
+	prep|like pro:dem|that pro:sub|they~mod|will adv|often v|talk
+	prep|about n:prop|Chippendale n|style n|furniture .
+%gra:	1|17|LINK 2|4|LINK 3|4|SUBJ 4|17|CJCT 5|4|JCT 6|7|DET 7|8|NAME 8|9|NAME
+	9|5|POBJ 10|9|CONJ 11|10|COORD 12|11|NJCT 13|12|POBJ 14|17|SUBJ
+	15|17|AUX 16|17|JCT 17|0|ROOT 18|17|JCT 19|21|MOD 20|21|MOD 21|18|POBJ
+	22|17|PUNCT
+%trn:	conj|but conj|if pro:per|you v|watch co|like det:art|the
+	n:prop|Antiques n:prop|Road n:prop|Show coord|or pro:indef|something
+	prep|like pro:dem|that pro:sub|they~mod|will adv|often v|talk
+	prep|about n:prop|Chippendale n|style n|furniture .
+%grt:	1|17|LINK 2|4|LINK 3|4|SUBJ 4|17|SUBJ 5|9|COM 6|9|DET 7|9|NAME
+	8|9|NAME 9|4|OBJ 10|9|CONJ 11|10|COORD 12|11|NJCT 13|12|POBJ
+	14|17|SUBJ 15|17|AUX 16|17|JCT 17|0|ROOT 18|17|JCT 19|20|MOD
+	20|21|MOD 21|18|POBJ 22|17|PUNCT
+*PAR:	so ‡ this combined with some folk elements in furniture design
+	(be)cause the craftsmen who are producing it you_know weren't
+	necessarily coming out_of this British tradition .
+%mor:	co|so beg|beg pro:dem|this part|combine-PASTP prep|with qn|some
+	n|folk n|element-PL prep|in n|furniture n|design conj|because
+	det:art|the n|craftsman&PL pro:rel|who aux|be&PRES
+	part|produce-PRESP pro:per|it co|you_know aux|be&PAST~neg|not
+	adv|necessary&dadj-LY part|come-PRESP prep|out_of det:dem|this
+	n:prop|British n|tradition .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|QUANT 7|8|MOD 8|11|MOD
+	9|8|NJCT 10|9|POBJ 11|5|POBJ 12|4|JCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|AUX 17|14|CMOD 18|17|OBJ 19|23|COM 20|23|AUX 21|20|NEG 22|23|JCT
+	23|17|COMP 24|23|JCT 25|27|DET 26|27|MOD 27|24|POBJ 28|4|PUNCT
+%trn:	co|so beg|beg pro:dem|this v|combine-PAST prep|with qn|some n|folk
+	n|element-PL prep|in n|furniture n|design conj|because det:art|the
+	n|craftsman&PL pro:rel|who aux|be&PRES part|produce-PRESP pro:per|it
+	co|you_know aux|be&PAST~neg|not adv|necessary&dadj-LY
+	part|come-PRESP prep|out_of det:dem|this n:prop|British n|tradition
+	.
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|QUANT 7|8|MOD
+	8|5|POBJ 9|8|NJCT 10|11|MOD 11|9|POBJ 12|23|LINK 13|14|DET 14|23|SUBJ
+	15|17|LINK 16|17|AUX 17|14|CMOD 18|17|OBJ 19|23|COM 20|23|AUX
+	21|20|NEG 22|23|JCT 23|4|XJCT 24|23|JCT 25|27|DET 26|27|MOD
+	27|24|POBJ 28|4|PUNCT
+*PAR:	they may have been in the colonies for a number of generations
+	already .
+%mor:	pro:sub|they mod|may aux|have cop|be&PASTP prep|in det:art|the
+	n|colony-PL prep|for det:art|a n|number prep|of
+	n|generate&dv-TION-PL adv|already .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|4|JCT 14|4|PUNCT
+%trn:	pro:sub|they mod|may aux|have cop|be&PASTP prep|in det:art|the
+	n|colony-PL prep|for det:art|a n|number prep|of
+	n|generate&dv-TION-PL adv|already .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|4|JCT 14|4|PUNCT
+*PAR:	and [/] &e and eventually the style , much as the &graves
+	gravestone styles that Deetz identified , changed through a
+	combination of urban popular culture .
+%mor:	coord|and adv|eventual&dadj-LY det:art|the n|style cm|cm adv|much
+	prep|as det:art|the n|gravestone n|style-PL pro:rel|that
+	n:prop|Deetz v|identify-PAST cm|cm v|change-PAST prep|through
+	det:art|a n|combine&dv-TION prep|of adj|urban adj|popular n|culture
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|15|SUBJ 5|4|LP 6|15|JCT 7|10|COORD 8|10|DET
+	9|10|MOD 10|15|SUBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|13|LP 15|0|ROOT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|22|MOD 21|22|MOD 22|19|POBJ
+	23|15|PUNCT
+%trn:	coord|and adv|eventual&dadj-LY det:art|the n|style cm|cm adv|much
+	prep|as det:art|the n|gravestone n|style-PL pro:rel|that n:prop|Deetz
+	part|identify-PASTP cm|cm v|change-PAST prep|through det:art|a
+	n|combine&dv-TION prep|of adj|urban adj|popular n|culture .
+%grt:	1|15|LINK 2|15|JCT 3|4|DET 4|15|SUBJ 5|4|LP 6|7|JCT 7|4|NJCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|13|LINK 12|13|AUX 13|10|COMP 14|13|LP
+	15|0|ROOT 16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|22|MOD
+	21|22|MOD 22|19|POBJ 23|15|PUNCT
+*PAR:	and this would be an example of popular culture right ?
+%mor:	coord|and pro:dem|this mod|will&COND cop|be det:art|a n|example
+	prep|of adj|popular n|culture adj|right ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|6|POSTMOD 11|4|PUNCT
+%trn:	coord|and pro:dem|this mod|will&COND cop|be det:art|a n|example
+	prep|of adj|popular n|culture co|right ?
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT
+	8|9|MOD 9|7|POBJ 10|4|COM 11|4|PUNCT
+*PAR:	(be)cause it's being imported into an urban center and diffusing
+	from there „ right ?
+%mor:	conj|because pro:per|it~aux|be&3S part|be-PRESP part|import-PASTP
+	prep|into det:art|a adj|urban n|center coord|and part|diffuse-PRESP
+	prep|from n|there end|end co|right ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|CONJ 11|10|COORD 12|11|JCT 13|12|POBJ 14|15|ENDP 15|4|END
+	16|4|PUNCT
+%trn:	conj|because pro:per|it~aux|be&3S part|be-PRESP part|import-PASTP
+	prep|into det:art|a adj|urban n|center coord|and part|diffuse-PRESP
+	prep|from pro:indef|there end|end co|right ?
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|CONJ 11|10|COORD 12|11|JCT 13|12|POBJ 14|15|ENDP
+	15|5|END 16|5|PUNCT
+*PAR:	but in this case one thing that happened was that this popular
+	American Chippendale furniture design melded with some folk designs
+	to become identifiably American Chippendale .
+%mor:	conj|but prep|in det:dem|this n|case det:num|one n|thing
+	pro:rel|that v|happen-PAST cop|be&PAST&13S comp|that det:dem|this
+	adj|popular n:prop|American n:prop|Chippendale n|furniture n|design
+	v|meld-PAST prep|with qn|some n|folk n|design-PL inf|to cop|become
+	adv|identify&dadj-ABLE-LY n:prop|American n:prop|Chippendale .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|QUANT 6|2|POBJ 7|8|LINK
+	8|6|CMOD 9|8|OBJ 10|17|LINK 11|13|DET 12|13|MOD 13|17|JCT 14|16|MOD 15|16|MOD
+	16|17|SUBJ 17|9|CPRED 18|17|JCT 19|21|QUANT 20|21|MOD 21|18|POBJ
+	22|23|INF 23|21|COMP 24|23|JCT 25|26|NAME 26|23|PRED 27|1|PUNCT
+%trn:	conj|but prep|in det:dem|this n|case det:num|one n|thing
+	pro:rel|that v|happen-PAST cop|be&PAST&13S comp|that det:dem|this
+	adj|popular n:prop|American n:prop|Chippendale n|furniture n|design
+	v|meld-PAST prep|with qn|some n|folk n|design-PL inf|to cop|become
+	adv|identify&dadj-ABLE-LY n:prop|American n:prop|Chippendale .
+%grt:	1|9|LINK 2|9|JCT 3|4|DET 4|2|POBJ 5|6|QUANT 6|9|SUBJ 7|8|LINK
+	8|6|CMOD 9|0|ROOT 10|17|LINK 11|16|DET 12|16|MOD 13|14|NAME 14|16|MOD
+	15|16|MOD 16|17|SUBJ 17|9|CPRED 18|17|JCT 19|21|QUANT 20|21|SUBJ
+	21|18|CPOBJ 22|23|INF 23|17|XJCT 24|26|NJCT 25|26|NAME 26|23|PRED
+	27|9|PUNCT
+*PAR:	such_that you_know connoisseurs can tell the difference with one
+	look .
+%mor:	conj|such_that co|you_know n|connoisseur-PL mod|can v|tell
+	det:art|the n|difference prep|with det:num|one n|look .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|QUANT 10|8|POBJ 11|5|PUNCT
+%trn:	conj|such_that co|you_know n|connoisseur-PL mod|can v|tell
+	det:art|the n|difference prep|with det:num|one n|look .
+%grt:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|QUANT 10|8|POBJ 11|5|PUNCT
+*PAR:	whether it's a British Chippendale or an American Chippendale .
+%mor:	conj|whether pro:per|it~cop|be&3S det:art|a n:prop|British
+	n:prop|Chippendale coord|or det:art|a n:prop|American
+	n:prop|Chippendale .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|APP 7|5|CONJ 8|10|DET
+	9|10|MOD 10|7|COORD 11|3|PUNCT
+%trn:	conj|whether pro:per|it~cop|be&3S det:art|a n:prop|British
+	n:prop|Chippendale coord|or det:art|a n:prop|American
+	n:prop|Chippendale .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|NAME 6|3|PRED 7|6|CONJ
+	8|10|DET 9|10|NAME 10|7|COORD 11|3|PUNCT
+*PAR:	does &any anyone know what I'm talking about in terms of the
+	furniture ?
+%mor:	mod|do&3S pro:indef|anyone v|know pro:int|what pro:sub|I~aux|be&1S
+	part|talk-PRESP adv|about prep|in n|term-PL prep|of det:art|the
+	n|furniture ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+%trn:	mod|do&3S pro:indef|anyone v|know pro:int|what pro:sub|I~aux|be&1S
+	part|talk-PRESP adv|about prep|in n|term-PL prep|of det:art|the
+	n|furniture ?
+%grt:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP
+	8|7|JCT 9|7|JCT 10|9|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and what it looks like ?
+%mor:	coord|and pro:int|what pro:per|it v|look-3S prep|like ?
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%trn:	coord|and pro:int|what pro:per|it v|look-3S conj|like ?
+%grt:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	I [/] I can try to bring in some books with pictures .
+%mor:	pro:sub|I mod|can v|try inf|to v|bring prep|in qn|some n|book-PL
+	prep|with n|picture-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|5|JCT 10|9|POBJ 11|3|PUNCT
+%trn:	pro:sub|I mod|can v|try inf|to v|bring prep|in qn|some n|book-PL
+	prep|with n|picture-PL .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|QUANT
+	8|6|POBJ 9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	a classic Chippendale mirror might be an oval shape gilded with
+	a_lot_of [/] a_lot_of circular facets .
+%mor:	det:art|a adj|classic n:prop|Chippendale n|mirror mod|might cop|be
+	det:art|a adj|oval n|shape v|gild-PAST prep|with qn|a_lot_of
+	adj|circular n|facet-PL .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|6|SUBJ 5|6|AUX 6|10|LINK 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|0|ROOT 11|10|JCT 12|14|QUANT 13|14|MOD 14|11|POBJ 15|10|PUNCT
+%trn:	det:art|a adj|classic n:prop|Chippendale n|mirror mod|might cop|be
+	det:art|a adj|oval n|shape part|gild-PASTP prep|with qn|a_lot_of
+	adj|circular n|facet-PL .
+%grt:	1|4|DET 2|4|MOD 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|XMOD 11|10|JCT 12|14|QUANT 13|14|MOD 14|11|POBJ
+	15|6|ROOT
+*PAR:	and then what's classically American Chippendale is you would put
+	an eagle at the top , an eagle design .
+%mor:	coord|and adv:tem|then pro:int|what~cop|be&3S
+	adv|classic&dadj-AL-LY n:prop|American n:prop|Chippendale cop|be&3S
+	pro:per|you mod|will&COND v|put&ZERO det:art|a n|eagle prep|at
+	det:art|the n|top cm|cm det:art|a n|eagle n|design .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|JCT 6|7|NAME 7|8|SUBJ 8|4|PRED
+	9|11|SUBJ 10|11|AUX 11|8|CPRED 12|13|DET 13|11|OBJ 14|11|JCT 15|16|DET
+	16|14|POBJ 17|11|LP 18|20|DET 19|20|MOD 20|11|OBJ 21|4|PUNCT
+%trn:	coord|and adv:tem|then pro:int|what~cop|be&3S
+	adv|classic&dadj-AL-LY n:prop|American n:prop|Chippendale cop|be&3S
+	pro:per|you mod|will&COND v|put&ZERO det:art|a n|eagle prep|at
+	det:art|the n|top cm|cm det:art|a n|eagle n|design .
+%grt:	1|8|LINK 2|8|JCT 3|4|SUBJ 4|8|CSUBJ 5|7|NJCT 6|7|NAME 7|4|PRED
+	8|0|ROOT 9|11|SUBJ 10|11|AUX 11|8|CPRED 12|13|DET 13|11|OBJ
+	14|13|NJCT 15|16|DET 16|14|POBJ 17|13|LP 18|20|DET 19|20|MOD
+	20|13|APP 21|8|PUNCT
+*PAR:	because the eagle was one of the symbolic representations of
+	liberty .
+%mor:	conj|because det:art|the n|eagle cop|be&PAST&13S det:num|one
+	prep|of det:art|the adj|symbolic n|represent&dv-TION-PL prep|of
+	n|liberty .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|10|POBJ 12|4|PUNCT
+%trn:	conj|because det:art|the n|eagle cop|be&PAST&13S det:num|one
+	prep|of det:art|the adj|symbolic n|represent&dv-TION-PL prep|of
+	n|liberty .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|9|NJCT 11|10|POBJ 12|4|PUNCT
+*PAR:	so ‡ that was one example of [//] in [/] in [/] &wh in which this
+	originally British popular style got transformed into something
+	American and became quintessentially American .
+%mor:	co|so beg|beg pro:dem|that cop|be&PAST&13S det:num|one n|example
+	prep|in pro:rel|which det:dem|this adv|origin&dadj-AL-LY
+	n:prop|British adj|popular n|style aux|get&PAST part|transform-PASTP
+	prep|into pro:indef|something n:prop|American coord|and
+	cop|become&PAST adv|quintessential&dadj-LY n:prop|American .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|6|NJCT
+	8|15|LINK 9|15|DET 10|15|JCT 11|13|MOD 12|13|MOD 13|15|SUBJ 14|15|AUX 15|7|POBJ
+	16|15|JCT 17|18|MOD 18|16|POBJ 19|15|CONJ 20|19|COORD 21|22|JCT
+	22|20|PRED 23|4|PUNCT
+%trn:	co|so beg|beg pro:dem|that cop|be&PAST&13S det:num|one n|example
+	prep|in pro:rel|which det:dem|this adv|origin&dadj-AL-LY
+	n:prop|British adj|popular n|style aux|get&PAST part|transform-PASTP
+	prep|into pro:indef|something n:prop|American coord|and
+	cop|become&PAST adv|quintessential&dadj-LY n:prop|American .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|8|JCT
+	8|15|LINK 9|13|DET 10|11|JCT 11|13|MOD 12|13|MOD 13|15|SUBJ
+	14|15|AUX 15|6|CMOD 16|15|JCT 17|16|POBJ 18|17|POSTMOD 19|15|CONJ
+	20|19|COORD 21|22|JCT 22|20|PRED 23|4|PUNCT
+*PAR:	alright moving on to my next example , Williamsburg .
+%mor:	co|alright part|move-PRESP adv|on prep|to det:poss|my adj|next
+	n|example cm|cm n:prop|Williamsburg .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|LP
+	9|7|ENUM 10|2|PUNCT
+%trn:	co|alright part|move-PRESP adv|on prep|to det:poss|my adj|next
+	n|example cm|cm n:prop|Williamsburg .
+%grt:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|LP
+	9|7|ENUM 10|2|PUNCT
+*PAR:	Williamsburg was kind_of a Southern capital city in [/] in many
+	ways .
+%mor:	n:prop|Williamsburg cop|be&PAST&13S adv|kind_of det:art|a
+	n:prop|Southern n|capital n|city prep|in qn|many n|way-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|DET 5|7|MOD 6|7|MOD 7|2|PRED 8|7|NJCT
+	9|10|QUANT 10|8|POBJ 11|2|PUNCT
+%trn:	n:prop|Williamsburg cop|be&PAST&13S adv|kind_of det:art|a
+	n:prop|Southern n|capital n|city prep|in qn|many n|way-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|7|NJCT 4|7|DET 5|7|MOD 6|7|MOD 7|2|PRED 8|7|NJCT
+	9|10|QUANT 10|8|POBJ 11|2|PUNCT
+*PAR:	it was made the capital of Virginia in sixteen ninety nine .
+%mor:	pro:per|it aux|be&PAST&13S part|make&PASTP det:art|the n|capital
+	prep|of n:prop|Virginia prep|in det:num|sixteen det:num|ninety
+	det:num|nine .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|JCT
+	9|10|QUANT 10|11|QUANT 11|8|POBJ 12|3|PUNCT
+%trn:	pro:per|it aux|be&PAST&13S part|make&PASTP det:art|the n|capital
+	prep|of n:prop|Virginia prep|in det:num|sixteen det:num|ninety
+	det:num|nine .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|JCT
+	9|10|DATE 10|11|DATE 11|8|POBJ 12|3|PUNCT
+*PAR:	and in another kind_of fit of Anglophilia it was renamed from +//.
+%mor:	coord|and prep|in qn|another adv|kind_of n|fit prep|of
+	n:prop|Anglophilia pro:per|it aux|be&PAST&13S re#part|name-PASTP
+	prep|from +//.
+%gra:	1|9|LINK 2|9|JCT 3|5|QUANT 4|5|JCT 5|2|POBJ 6|5|NJCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|PRED 11|10|OM 12|9|PUNCT
+%trn:	coord|and prep|in qn|another adv|kind_of n|fit prep|of
+	n:prop|Anglophilia pro:per|it aux|be&PAST&13S re#part|name-PASTP
+	prep|from +//.
+%grt:	1|10|LINK 2|10|JCT 3|5|QUANT 4|5|NJCT 5|2|POBJ 6|5|NJCT 7|6|POBJ
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|10|JCT 12|10|PUNCT
+*PAR:	it useta be called Middleburg .
+%mor:	pro:per|it mod|used~inf|to aux|be part|call-PASTP n:prop|Middleburg
+	.
+%gra:	1|5|SUBJ 2|5|AUX 3|5|INF 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%trn:	pro:per|it mod|used~inf|to aux|be part|call-PASTP n:prop|Middleburg
+	.
+%grt:	1|5|SUBJ 2|5|AUX 3|5|INF 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	it got renamed Williamsburg in the honor of William the Third of
+	England .
+%mor:	pro:per|it aux|get&PAST re#part|name-PASTP n:prop|Williamsburg
+	prep|in det:art|the n|honor prep|of n:prop|William det:art|the
+	n:prop|Third prep|of n:prop|England .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|11|DET 11|4|APP 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+%trn:	pro:per|it aux|get&PAST re#part|name-PASTP n:prop|Williamsburg
+	prep|in det:art|the n|honor prep|of n:prop|William det:art|the
+	n:prop|Third prep|of n:prop|England .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|8|POBJ 10|11|DET 11|9|APP 12|11|NJCT 13|12|POBJ
+	14|3|PUNCT
+*PAR:	and it subsequently became a social and cultural &c center and it
+	was especially notable for political debates held in the House of
+	Burgesses there preceding the American Revolution .
+%mor:	coord|and pro:per|it adv|subsequent&dadj-LY cop|become&PAST
+	det:art|a adj|social coord|and adj|cultural n|center coord|and
+	pro:per|it cop|be&PAST&13S adv|especial&dadj-LY adj|note&dv-ABLE
+	prep|for adj|politic-AL n|debate-PL part|hold&PASTP prep|in
+	det:art|the n:prop|House prep|of n:prop|Burgesses adv|there
+	part|precede-PRESP det:art|the n:prop|American n:prop|Revolution .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|PRED 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|12|LINK 11|12|SUBJ 12|4|CJCT 13|14|JCT 14|12|PRED 15|14|JCT
+	16|17|MOD 17|15|POBJ 18|14|XMOD 19|18|JCT 20|21|DET 21|19|POBJ 22|21|NJCT
+	23|22|POBJ 24|18|JCT 25|18|XJCT 26|27|DET 27|25|OBJ 28|27|APP
+	29|4|PUNCT
+%trn:	coord|and pro:per|it adv|subsequent&dadj-LY cop|become&PAST
+	det:art|a adj|social coord|and adj|cultural n|center coord|and
+	pro:per|it cop|be&PAST&13S adv|especial&dadj-LY adj|note&dv-ABLE
+	prep|for adj|politic-AL n|debate-PL part|hold&PASTP prep|in
+	det:art|the n:prop|House prep|of n:prop|Burgesses adv|there
+	part|precede-PRESP det:art|the n:prop|American n:prop|Revolution .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|9|DET 6|9|MOD 7|6|CONJ
+	8|7|COORD 9|4|PRED 10|12|LINK 11|12|SUBJ 12|4|CJCT 13|14|JCT
+	14|12|PRED 15|14|JCT 16|17|MOD 17|15|POBJ 18|17|XMOD 19|18|JCT
+	20|21|DET 21|19|POBJ 22|21|NJCT 23|22|POBJ 24|18|JCT 25|18|XJCT
+	26|28|DET 27|28|NAME 28|25|OBJ 29|4|PUNCT
+*PAR:	if you think about the American Revolution and the kind_of
+	coalescence of political action and political life in America , it
+	[/] it had three basic centers , Williamsburg , Philadelphia , and
+	in a more kind_of chaotic state in Boston .
+%mor:	conj|if pro:per|you v|think prep|about det:art|the n:prop|American
+	n:prop|Revolution coord|and det:art|the adv|kind_of n|coalescence
+	prep|of adj|politic-AL n|action coord|and adj|politic-AL n|life
+	prep|in n:prop|America cm|cm pro:per|it v|have&PAST det:num|three
+	adj|basic n|center-PL cm|cm n:prop|Williamsburg cm|cm
+	n:prop|Philadelphia cm|cm coord|and prep|in det:art|a qn|more
+	adv|kind_of adj|chaotic n|state prep|in n:prop|Boston .
+%gra:	1|3|LINK 2|3|SUBJ 3|22|CJCT 4|3|JCT 5|6|DET 6|7|NAME 7|4|POBJ 8|7|CONJ
+	9|20|DET 10|9|NJCT 11|10|POBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|11|CONJ
+	16|17|MOD 17|15|COORD 18|11|NJCT 19|18|POBJ 20|8|COORD 21|22|SUBJ
+	22|0|ROOT 23|25|QUANT 24|25|MOD 25|22|OBJ 26|25|LP 27|25|ENUM 28|27|LP
+	29|25|ENUM 30|29|LP 31|25|CONJ 32|31|COORD 33|34|DET 34|37|QUANT 35|36|JCT
+	36|37|MOD 37|32|POBJ 38|37|NJCT 39|38|POBJ 40|22|PUNCT
+%trn:	conj|if pro:per|you v|think prep|about det:art|the n:prop|American
+	n:prop|Revolution coord|and det:art|the adv|kind_of n|coalescence
+	prep|of adj|politic-AL n|action coord|and adj|politic-AL n|life
+	prep|in n:prop|America cm|cm pro:per|it v|have&PAST det:num|three
+	adj|basic n|center-PL cm|cm n:prop|Williamsburg cm|cm
+	n:prop|Philadelphia cm|cm coord|and prep|in det:art|a qn|more
+	adv|kind_of adj|chaotic n|state prep|in n:prop|Boston .
+%grt:	1|3|LINK 2|3|SUBJ 3|22|CJCT 4|3|JCT 5|6|DET 6|7|NAME 7|4|POBJ
+	8|7|CONJ 9|11|DET 10|11|NJCT 11|8|COORD 12|11|NJCT 13|14|MOD
+	14|12|POBJ 15|14|CONJ 16|17|MOD 17|15|COORD 18|11|NJCT 19|18|POBJ
+	20|3|LP 21|22|SUBJ 22|0|ROOT 23|25|QUANT 24|25|MOD 25|22|OBJ
+	26|25|LP 27|25|APP 28|27|LP 29|27|ENUM 30|29|LP 31|27|CONJ
+	32|31|COORD 33|37|DET 34|36|JCT 35|36|JCT 36|37|MOD 37|32|POBJ
+	38|37|NJCT 39|38|POBJ 40|22|PUNCT
+*PAR:	I say chaotic because it was more put on the streets through
+	popular movements in Boston .
+%mor:	pro:sub|I v|say adj|chaotic conj|because pro:per|it aux|be&PAST&13S
+	adv|more part|put&PASTP prep|on det:art|the n|street-PL prep|through
+	adj|popular n|movement-PL prep|in n:prop|Boston .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT 8|2|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|14|MOD 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|2|PUNCT
+%trn:	pro:sub|I v|say adj|chaotic conj|because pro:per|it aux|be&PAST&13S
+	adv|more part|put&PASTP prep|on det:art|the n|street-PL prep|through
+	adj|popular n|movement-PL prep|in n:prop|Boston .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT
+	8|2|CJCT 9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|14|MOD 14|12|POBJ
+	15|14|NJCT 16|15|POBJ 17|2|PUNCT
+*PAR:	but in Philadelphia and Williamsburg it was happening in the local
+	colonial representative bodies .
+%mor:	conj|but prep|in n:prop|Philadelphia coord|and n:prop|Williamsburg
+	pro:per|it aux|be&PAST&13S part|happen-PRESP prep|in det:art|the
+	adj|local adj|colonial adj|representative n|body-PL .
+%gra:	1|8|LINK 2|8|JCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|14|DET 11|14|MOD 12|14|MOD 13|14|MOD 14|9|POBJ 15|8|PUNCT
+%trn:	conj|but prep|in n:prop|Philadelphia coord|and n:prop|Williamsburg
+	pro:per|it aux|be&PAST&13S part|happen-PRESP prep|in det:art|the
+	adj|local adj|colonial adj|representative n|body-PL .
+%grt:	1|8|LINK 2|8|JCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|8|JCT 10|14|DET 11|14|MOD 12|14|MOD 13|14|MOD 14|9|POBJ
+	15|8|PUNCT
+*PAR:	<they were called> [//] it was called the House of Burgesses in
+	Virginia .
+%mor:	pro:per|it aux|be&PAST&13S part|call-PASTP det:art|the n:prop|House
+	prep|of n:prop|Burgesses prep|in n:prop|Virginia .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+%trn:	pro:per|it aux|be&PAST&13S part|call-PASTP det:art|the n:prop|House
+	prep|of n:prop|Burgesses prep|in n:prop|Virginia .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ
+	8|3|JCT 9|8|POBJ 10|3|PUNCT
+*PAR:	in Philadelphia I'm not sure .
+%mor:	prep|in n:prop|Philadelphia pro:sub|I~cop|be&1S neg|not adj|sure .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|PUNCT
+%trn:	prep|in n:prop|Philadelphia pro:sub|I~cop|be&1S neg|not adj|sure .
+%grt:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|6|NEG 6|4|PRED 7|4|PUNCT
+*PAR:	it might have been called the Colonial Congress .
+%mor:	pro:per|it mod|might aux|have aux|be&PASTP part|call-PASTP
+	det:art|the n:prop|Colonial n:prop|Congress .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|AUX 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+%trn:	pro:per|it mod|might aux|have aux|be&PASTP part|call-PASTP
+	det:art|the n:prop|Colonial n:prop|Congress .
+%grt:	1|5|SUBJ 2|5|AUX 3|5|AUX 4|5|AUX 5|0|ROOT 6|8|DET 7|8|NAME 8|5|OBJ
+	9|5|PUNCT
+*PAR:	and what's interesting about Williamsburg is that +...
+%mor:	coord|and pro:int|what~cop|be&3S adj|interesting prep|about
+	n:prop|Williamsburg cop|be&3S pro:dem|that +...
+%gra:	1|3|LINK 2|3|SUBJ 3|7|SUBJ 4|3|PRED 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+%trn:	coord|and pro:int|what~cop|be&3S adj|interesting prep|about
+	n:prop|Williamsburg cop|be&3S comp|that +...
+%grt:	1|7|LINK 2|3|SUBJ 3|7|CSUBJ 4|3|PRED 5|4|JCT 6|5|POBJ 7|0|ROOT
+	8|7|OM 9|7|PUNCT
+*PAR:	&wh who here (ha)s been to Williamsburg ?
+%mor:	pro:int|who adv|here aux|have&3S aux|be&PASTP prep|to
+	n:prop|Williamsburg ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|PRED 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+%trn:	pro:int|who adv|here aux|have&3S aux|be&PASTP prep|to
+	n:prop|Williamsburg ?
+%grt:	1|4|SUBJ 2|1|NJCT 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	know what I'm talking about ?
+%mor:	v|know pro:int|what pro:sub|I~aux|be&1S part|talk-PRESP adv|about ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|JCT 7|1|PUNCT
+%trn:	v|know pro:int|what pro:sub|I~aux|be&1S part|talk-PRESP adv|about ?
+%grt:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|JCT 7|1|PUNCT
+*PAR:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|wow .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*PAR:	you_know this is like &th the second most visited tourist site in
+	all of the United States and only two of you have been there .
+%mor:	co|you_know pro:dem|this cop|be&3S co|like det:art|the adj|second
+	qn|most part|visit-PASTP n|tour-IST n|site prep|in qn|all prep|of
+	det:art|the n:prop|United n:prop|States coord|and qn|only
+	det:num|two prep|of pro:per|you aux|have aux|be&PASTP adv|there .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|DET 6|3|PRED 7|8|QUANT 8|3|PUNCT
+	9|10|MOD 10|8|OBJ 11|8|JCT 12|13|QUANT 13|11|POBJ 14|15|DET 15|16|NAME
+	16|13|POBJ 17|16|CONJ 18|19|QUANT 19|17|COORD 20|19|NJCT 21|20|POBJ
+	22|16|ROOT 23|22|INCROOT 24|23|JCT 25|23|PUNCT
+%trn:	co|you_know pro:dem|this cop|be&3S co|like det:art|the adj|second
+	qn|most part|visit-PASTP n|tour-IST n|site prep|in pro:indef|all
+	prep|of det:art|the n:prop|United n:prop|States coord|and qn|only
+	det:num|two prep|of pro:per|you aux|have aux|be&PASTP adv|there .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COM 5|10|DET 6|7|MOD 7|8|SUBJ
+	8|10|XMOD 9|10|MOD 10|3|PRED 11|10|NJCT 12|11|POBJ 13|12|NJCT
+	14|16|DET 15|16|NAME 16|13|POBJ 17|23|LINK 18|19|QUANT 19|23|SUBJ
+	20|19|JCT 21|20|POBJ 22|23|AUX 23|3|CJCT 24|23|JCT 25|3|PUNCT
+*PAR:	it's the Grand Canyon , Williamsburg , and then maybe Disneyland
+	and New York .
+%mor:	pro:per|it~cop|be&3S det:art|the n:prop|Grand n:prop|Canyon cm|cm
+	n:prop|Williamsburg cm|cm coord|and adv:tem|then adv|maybe
+	n:prop|Disneyland coord|and n:prop|New n:prop|York .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|APP 6|5|LP 7|4|ENUM 8|7|LP
+	9|4|CONJ 10|12|JCT 11|12|JCT 12|9|COORD 13|4|CONJ 14|15|NAME 15|13|COORD
+	16|2|PUNCT
+%trn:	pro:per|it~cop|be&3S det:art|the n:prop|Grand n:prop|Canyon cm|cm
+	n:prop|Williamsburg cm|cm coord|and adv:tem|then adv|maybe
+	n:prop|Disneyland coord|and n:prop|New n:prop|York .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|NAME 5|2|PRED 6|5|LP 7|5|ENUM 8|7|LP
+	9|5|CONJ 10|12|NJCT 11|12|NJCT 12|9|COORD 13|12|CONJ 14|15|NAME
+	15|13|COORD 16|2|PUNCT
+*PAR:	something like that .
+%mor:	pro:indef|something prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%trn:	pro:indef|something prep|like pro:dem|that .
+%grt:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	and you guys have never heard of Williamsburg ?
+%mor:	coord|and pro:per|you n|guy-PL aux|have adv:tem|never part|hear&PASTP
+	prep|of n:prop|Williamsburg ?
+%gra:	1|6|LINK 2|3|SUBJ 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+%trn:	coord|and pro:per|you n|guy-PL aux|have adv:tem|never part|hear&PASTP
+	prep|of n:prop|Williamsburg ?
+%grt:	1|6|LINK 2|6|SUBJ 3|2|APP 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT
+	8|7|POBJ 9|6|PUNCT
+*PAR:	it's a reconstructed historic town and it's on the original site of
+	Williamsburg .
+%mor:	pro:per|it~aux|be&3S det:art|a re#part|construct-PASTP adj|historic
+	n|town coord|and pro:per|it~cop|be&3S prep|on det:art|the
+	adj|origin&dn-AL n|site prep|of n:prop|Williamsburg .
+%gra:	1|6|SUBJ 2|6|AUX 3|6|DET 4|6|MOD 5|6|MOD 6|9|SUBJ 7|6|CONJ 8|7|COORD
+	9|0|ROOT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|NJCT 15|14|POBJ
+	16|9|PUNCT
+%trn:	pro:per|it~cop|be&3S det:art|a re#part|construct-PASTP adj|historic
+	n|town coord|and pro:per|it~cop|be&3S prep|on det:art|the
+	adj|origin&dn-AL n|site prep|of n:prop|Williamsburg .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|XMOD 5|6|MOD 6|2|PRED 7|9|LINK
+	8|9|SUBJ 9|2|CJCT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|NJCT
+	15|14|POBJ 16|2|PUNCT
+*PAR:	and it's kind_of frozen in time around the period of the revolution
+	.
+%mor:	coord|and pro:per|it~aux|be&3S adv|kind_of part|freeze&PASTP
+	prep|in n|time prep|around det:art|the n|period prep|of det:art|the
+	n|revolution .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+%trn:	coord|and pro:per|it~aux|be&3S adv|kind_of part|freeze&PASTP
+	prep|in n|time prep|around det:art|the n|period prep|of det:art|the
+	n|revolution .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	whereas in Philadelphia you see a real kind_of bifurcation in [/]
+	in styles and housing +//.
+%mor:	conj|whereas prep|in n:prop|Philadelphia pro:per|you v|see
+	det:art|a adj|real adv|kind_of n|bifurcate&dv-TION prep|in
+	n|style-PL coord|and n|housing +//.
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|9|DET 7|9|MOD 8|9|JCT
+	9|5|OBJ 10|9|NJCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|5|PUNCT
+%trn:	conj|whereas prep|in n:prop|Philadelphia pro:per|you v|see
+	det:art|a adj|real adv|kind_of n|bifurcate&dv-TION prep|in
+	n|style-PL coord|and n|housing +//.
+%grt:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|9|DET 7|9|MOD 8|9|NJCT
+	9|5|OBJ 10|9|NJCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|5|PUNCT
+*PAR:	particularly the elites are getting these huge mansions in one part
+	of town whereas the laborer and people who work <on the> [//] &sh in
+	the shipyards are living in another part of town in these very dense
+	tenements .
+%mor:	adv|particular&dadj-LY det:art|the n|elite-PL aux|be&PRES
+	part|get-PRESP det:dem|these adj|huge n|mansion-PL prep|in
+	det:num|one n|part prep|of n|town conj|whereas det:art|the
+	n|labor&dv-AGT coord|and n|person&PL pro:rel|who v|work prep|in
+	det:art|the n|+n|ship+n|yard-PL aux|be&PRES part|live-PRESP prep|in
+	qn|another n|part prep|of n|town prep|in det:dem|these adv|very
+	adj|dense n|tenement-PL .
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|11|QUANT 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|25|LINK 15|16|DET
+	16|25|SUBJ 17|16|CONJ 18|17|COORD 19|20|LINK 20|16|CMOD 21|20|JCT 22|23|DET
+	23|21|POBJ 24|25|AUX 25|5|CJCT 26|25|JCT 27|28|QUANT 28|26|POBJ
+	29|28|NJCT 30|29|POBJ 31|25|JCT 32|35|DET 33|34|JCT 34|35|MOD 35|31|POBJ
+	36|5|PUNCT
+%trn:	adv|particular&dadj-LY det:art|the n|elite-PL aux|be&PRES
+	part|get-PRESP det:dem|these adj|huge n|mansion-PL prep|in
+	det:num|one n|part prep|of n|town conj|whereas det:art|the
+	n|labor&dv-AGT coord|and n|person&PL pro:rel|who v|work prep|in
+	det:art|the n|+n|ship+n|yard-PL aux|be&PRES part|live-PRESP prep|in
+	qn|another n|part prep|of n|town prep|in det:dem|these adv|very
+	adj|dense n|tenement-PL .
+%grt:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|11|QUANT 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|25|LINK
+	15|16|DET 16|25|SUBJ 17|16|CONJ 18|17|COORD 19|20|LINK 20|18|CMOD
+	21|20|JCT 22|23|DET 23|21|POBJ 24|25|AUX 25|5|CJCT 26|25|JCT
+	27|28|QUANT 28|26|POBJ 29|28|NJCT 30|29|POBJ 31|25|JCT 32|35|DET
+	33|34|JCT 34|35|MOD 35|31|POBJ 36|5|PUNCT
+*PAR:	in Williamsburg everyone has some little Georgian piece of
+	architecture .
+%mor:	prep|in n:prop|Williamsburg pro:indef|everyone v|have&3S qn|some
+	adj|little n:prop|Georgian n|piece prep|of n|architecture .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|8|NJCT 10|9|POBJ 11|4|PUNCT
+%trn:	prep|in n:prop|Williamsburg pro:indef|everyone v|have&3S qn|some
+	adj|little n:prop|Georgian n|piece prep|of n|architecture .
+%grt:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|8|QUANT 6|8|MOD 7|8|MOD
+	8|4|OBJ 9|8|NJCT 10|9|POBJ 11|4|PUNCT
+*PAR:	and <if you look at> [//] if you visit Williamsburg you'll kind_of
+	be struck because all of the buildings are reconstructed in Georgian
+	style .
+%mor:	coord|and conj|if pro:per|you v|visit n:prop|Williamsburg
+	pro:per|you~mod|will adv|kind_of aux|be part|strike&PASTP
+	conj|because pro:indef|all prep|of det:art|the n|building-PL
+	aux|be&PRES re#part|construct-PASTP prep|in n:prop|Georgian n|style
+	.
+%gra:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|OBJ 6|10|SUBJ 7|10|AUX
+	8|10|JCT 9|10|AUX 10|0|ROOT 11|17|LINK 12|17|SUBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|17|AUX 17|10|CJCT 18|17|JCT 19|20|MOD 20|18|POBJ 21|10|PUNCT
+%trn:	coord|and conj|if pro:per|you v|visit n:prop|Williamsburg
+	pro:per|you~mod|will adv|kind_of aux|be part|strike&PASTP
+	conj|because pro:indef|all prep|of det:art|the n|building-PL
+	aux|be&PRES re#part|construct-PASTP prep|in n:prop|Georgian n|style .
+%grt:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|OBJ 6|10|SUBJ 7|10|AUX
+	8|10|JCT 9|10|AUX 10|0|ROOT 11|17|LINK 12|17|SUBJ 13|12|NJCT
+	14|15|DET 15|13|POBJ 16|17|AUX 17|10|CJCT 18|17|JCT 19|20|MOD
+	20|18|POBJ 21|10|PUNCT
+*PAR:	the vast majority of the structures in Williamsburg though are made
+	out_of wood or clapboard .
+%mor:	det:art|the adj|vast n|majority prep|of det:art|the n|structure-PL
+	prep|in n:prop|Williamsburg adv|though aux|be&PRES part|make&PASTP
+	prep|out_of n|wood coord|or n|+n|clap+n|board .
+%gra:	1|3|DET 2|3|MOD 3|11|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|NJCT 8|7|POBJ
+	9|11|JCT 10|11|AUX 11|0|ROOT 12|11|JCT 13|12|POBJ 14|13|CONJ 15|14|COORD
+	16|11|PUNCT
+%trn:	det:art|the adj|vast n|majority prep|of det:art|the n|structure-PL
+	prep|in n:prop|Williamsburg adv|though aux|be&PRES part|make&PASTP
+	prep|out_of n|wood coord|or n|+n|clap+n|board .
+%grt:	1|3|DET 2|3|MOD 3|11|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|7|POBJ 9|11|JCT 10|11|AUX 11|0|ROOT 12|11|JCT 13|12|POBJ
+	14|13|CONJ 15|14|COORD 16|11|PUNCT
+*PAR:	but even though in England there would be no such thing as a wooden
+	Georgian structure , in Williamsburg in_order_to let everyone kind_of
+	participate in this new style , there &w is a local style that
+	developed of wooden [//] very simple wooden Georgian architecture .
+%mor:	conj|but adv|even adv|though prep|in n:prop|England adv|there
+	mod|will&COND cop|be qn|no qn|such n|thing prep|as det:art|a
+	adj|wooden n:prop|Georgian n|structure cm|cm prep|in
+	n:prop|Williamsburg inf|in_order_to v|let&ZERO pro:indef|everyone
+	adv|kind_of v|participate prep|in det:dem|this adj|new n|style cm|cm
+	adv|there cop|be&3S det:art|a n|local n|style pro:rel|that
+	v|develop-PAST prep|of adv|very adj|simple adj|wooden
+	n:prop|Georgian n|architecture .
+%gra:	1|8|LINK 2|3|JCT 3|8|JCT 4|3|JCT 5|4|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|11|QUANT 10|11|QUANT 11|8|PRED 12|16|COORD 13|16|DET 14|16|MOD 15|16|MOD
+	16|11|ENUM 17|11|LP 18|8|JCT 19|18|POBJ 20|21|INF 21|8|XJCT 22|21|OBJ
+	23|24|JCT 24|21|COMP 25|24|JCT 26|28|DET 27|28|MOD 28|25|POBJ 29|24|LP
+	30|31|SUBJ 31|24|CJCT 32|34|DET 33|34|MOD 34|31|PRED 35|36|LINK 36|34|CMOD
+	37|36|JCT 38|39|JCT 39|42|MOD 40|42|MOD 41|42|MOD 42|36|JCT 43|8|PUNCT
+%trn:	conj|but adv|even conj|though prep|in n:prop|England pro:exist|there
+	mod|will&COND cop|be qn|no qn|such n|thing prep|as det:art|a
+	adj|wooden n:prop|Georgian n|structure cm|cm prep|in
+	n:prop|Williamsburg inf|in_order_to v|let&ZERO pro:indef|everyone
+	adv|kind_of v|participate prep|in det:dem|this adj|new n|style cm|cm
+	pro:exist|there cop|be&3S det:art|a adj|local n|style pro:rel|that
+	v|develop-PAST prep|of adv|very adj|simple adj|wooden
+	n:prop|Georgian n|architecture .
+%grt:	1|31|LINK 2|3|JCT 3|8|LINK 4|8|JCT 5|4|POBJ 6|8|SUBJ 7|8|AUX
+	8|31|CJCT 9|11|QUANT 10|11|QUANT 11|8|PRED 12|11|NJCT 13|16|DET
+	14|16|MOD 15|16|MOD 16|12|POBJ 17|8|LP 18|31|JCT 19|18|POBJ
+	20|21|INF 21|31|XJCT 22|21|OBJ 23|24|JCT 24|21|COMP 25|24|JCT
+	26|28|DET 27|28|MOD 28|25|POBJ 29|21|LP 30|31|SUBJ 31|0|ROOT
+	32|34|DET 33|34|MOD 34|31|PRED 35|36|LINK 36|34|CMOD 37|36|JCT
+	38|39|JCT 39|42|MOD 40|42|MOD 41|42|MOD 42|37|POBJ 43|31|PUNCT
+*PAR:	one of the things that happened to Williamsburg was after seventeen
+	eighty , after the revolution , the capital of Virginia was moved to
+	Richmond and the city for all intents and purposes died completely .
+%mor:	det:num|one prep|of det:art|the n|thing-PL pro:rel|that
+	v|happen-PAST prep|to n:prop|Williamsburg cop|be&PAST&13S prep|after
+	det:num|seventeen det:num|eighty cm|cm prep|after det:art|the
+	n|revolution cm|cm det:art|the n|capital prep|of n:prop|Virginia
+	aux|be&PAST&13S part|move-PASTP prep|to n:prop|Richmond coord|and
+	det:art|the n|city prep|for qn|all n|intent-PL coord|and
+	n|purpose-PL v|die-PAST adv|complete&dadj-LY .
+%gra:	1|9|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|LINK 6|4|CMOD 7|6|JCT 8|7|POBJ
+	9|0|ROOT 10|9|JCT 11|12|QUANT 12|23|JCT 13|12|LP 14|12|NJCT 15|16|DET
+	16|14|POBJ 17|12|LP 18|19|DET 19|23|SUBJ 20|19|NJCT 21|20|POBJ 22|23|AUX
+	23|10|POBJ 24|23|JCT 25|24|POBJ 26|23|CONJ 27|28|DET 28|26|COORD
+	29|34|LINK 30|31|QUANT 31|34|SUBJ 32|31|CONJ 33|32|COORD 34|28|CMOD 35|34|JCT
+	36|9|PUNCT
+%trn:	pro:indef|one prep|of det:art|the n|thing-PL pro:rel|that
+	v|happen-PAST prep|to n:prop|Williamsburg cop|be&PAST&13S prep|after
+	det:num|seventeen det:num|eighty cm|cm prep|after det:art|the
+	n|revolution cm|cm det:art|the n|capital prep|of n:prop|Virginia
+	aux|be&PAST&13S part|move-PASTP prep|to n:prop|Richmond coord|and
+	det:art|the n|city prep|for qn|all n|intent-PL coord|and
+	n|purpose-PL v|die-PAST adv|complete&dadj-LY .
+%grt:	1|9|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|LINK 6|4|CMOD 7|6|JCT
+	8|7|POBJ 9|0|ROOT 10|23|JCT 11|12|DATE 12|10|POBJ 13|10|LP 14|23|JCT
+	15|16|DET 16|14|POBJ 17|14|LP 18|19|DET 19|23|SUBJ 20|19|NJCT
+	21|20|POBJ 22|23|AUX 23|9|CPRED 24|23|JCT 25|24|POBJ 26|34|LINK
+	27|28|DET 28|34|SUBJ 29|34|JCT 30|31|QUANT 31|29|POBJ 32|31|CONJ
+	33|32|COORD 34|23|CJCT 35|34|JCT 36|9|PUNCT
+*PAR:	it was it [//] just a tiny little village afterwards but had some
+	remarkable preservation of its colonial buildings which inspired
+	John_D_Rockefeller to invest in its reconstruction .
+%mor:	pro:per|it cop|be&PAST&13S adv|just det:art|a adj|tiny adj|little
+	n|village adv:tem|afterwards conj|but v|have&PAST qn|some
+	adj|remark&dv-ABLE n|preservation prep|of det:poss|its adj|colonial
+	n|building-PL pro:int|which v|inspire-PAST n:prop|John_D_Rockefeller
+	inf|to v|invest prep|in det:poss|its re#n|construction .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|DET 5|7|MOD 6|7|MOD 7|2|PRED 8|7|NJCT
+	9|2|CONJ 10|9|COORD 11|13|QUANT 12|13|MOD 13|10|OBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|19|LINK 19|2|CJCT 20|22|SUBJ 21|22|INF 22|19|COMP
+	23|22|JCT 24|25|DET 25|23|POBJ 26|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S adv|just det:art|a adj|tiny adj|little
+	n|village adv:tem|afterwards conj|but v|have&PAST qn|some
+	adj|remark&dv-ABLE n|preservation prep|of det:poss|its adj|colonial
+	n|building-PL pro:int|which v|inspire-PAST n:prop|John_D_Rockefeller
+	inf|to v|invest prep|in det:poss|its re#n|construction .
+%grt:	1|2|SUBJ 2|0|ROOT 3|7|NJCT 4|7|DET 5|7|MOD 6|7|MOD 7|2|PRED 8|2|JCT
+	9|2|CONJ 10|9|COORD 11|13|QUANT 12|13|MOD 13|10|OBJ 14|13|NJCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|19|LINK 19|10|CJCT 20|19|OBJ
+	21|22|INF 22|19|COMP 23|22|JCT 24|25|DET 25|23|POBJ 26|2|PUNCT
+*PAR:	and we'll see a little bit about that in a film we're gonna watch
+	on Wednesday .
+%mor:	coord|and pro:sub|we~mod|will v|see det:art|a adj|little n|bit
+	prep|about pro:dem|that prep|in det:art|a n|film
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|watch prep|on
+	n:prop|Wednesday .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|15|JCT 8|7|NJCT
+	9|8|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|SUBJ 14|15|AUX 15|4|COMP
+	16|17|INF 17|15|COMP 18|17|JCT 19|18|POBJ 20|4|PUNCT
+%trn:	coord|and pro:sub|we~mod|will v|see det:art|a adj|little n|bit
+	prep|about pro:dem|that prep|in det:art|a n|film
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|watch prep|on
+	n:prop|Wednesday .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ
+	8|7|NJCT 9|8|POBJ 10|4|JCT 11|12|DET 12|10|POBJ 13|15|SUBJ
+	14|15|AUX 15|12|CMOD 16|17|INF 17|15|COMP 18|17|JCT 19|18|POBJ
+	20|4|PUNCT
+*PAR:	one thing that is kind_of typical of the South in particular is
+	this +//.
+%mor:	det:num|one n|thing pro:rel|that cop|be&3S adv|kind_of adj|typical
+	prep|of det:art|the n:prop|South prep|in n|particular cop|be&3S
+	pro:dem|this +//.
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|6|JCT 6|4|PRED 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|9|NJCT 11|10|POBJ 12|6|ENUM 13|12|PRED 14|2|PUNCT
+%trn:	det:num|one n|thing pro:rel|that cop|be&3S adv|kind_of adj|typical
+	prep|of det:art|the n:prop|South prep|in n|particular cop|be&3S
+	pro:dem|this +//.
+%grt:	1|2|QUANT 2|12|SUBJ 3|4|LINK 4|2|CMOD 5|6|JCT 6|4|PRED 7|6|JCT
+	8|9|DET 9|7|POBJ 10|9|NJCT 11|10|POBJ 12|0|ROOT 13|12|PRED
+	14|12|PUNCT
+*PAR:	you_know I've painted this picture of this overall urbanization
+	going on in late eighteenth century America .
+%mor:	co|you_know pro:sub|I~aux|have part|paint-PASTP det:dem|this
+	n|picture prep|of det:dem|this adj|overall n|urban&dv-IZE-TION
+	part|go-PRESP adv|on adv|in adv|late adj|eighteenth n|century
+	n:prop|America .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|17|XJCT 12|11|JCT 13|11|JCT 14|15|JCT 15|17|MOD
+	16|17|MOD 17|6|APP 18|4|PUNCT
+%trn:	co|you_know pro:sub|I~aux|have part|paint-PASTP det:dem|this
+	n|picture prep|of det:dem|this adj|overall n|urban&dv-IZE-TION
+	part|go-PRESP adv|on adv|in adv|late adj|eighteenth n|century
+	n:prop|America .
+%grt:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|XMOD 12|11|JCT 13|11|JCT 14|15|JCT 15|16|MOD
+	16|17|MOD 17|13|POBJ 18|4|PUNCT
+*PAR:	one exception is the South .
+%mor:	det:num|one n|exception cop|be&3S det:art|the n:prop|South .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%trn:	det:num|one n|exception cop|be&3S det:art|the n:prop|South .
+%grt:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	there're only a few places <where cities really> [//] in this
+	period where towns really were becoming cities .
+%mor:	pro:exist|there~cop|be&PRES adv|only det:art|a qn|few n|place-PL
+	prep|in det:dem|this n|period pro:rel|where n|town-PL
+	adv|real&dadj-LY aux|be&PAST part|become-PRESP n|city-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|QUANT 6|2|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|14|LINK 11|14|SUBJ 12|11|NJCT 13|14|AUX 14|9|CMOD 15|14|OBJ
+	16|2|PUNCT
+%trn:	pro:exist|there~cop|be&PRES adv|only det:art|a qn|few n|place-PL
+	prep|in det:dem|this n|period pro:rel|where n|town-PL
+	adv|real&dadj-LY aux|be&PAST part|become-PRESP n|city-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|2|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|14|LINK 11|14|SUBJ 12|14|JCT 13|14|AUX 14|6|CMOD
+	15|14|PRED 16|2|PUNCT
+*PAR:	Williamsburg is kind_of a great failure that way .
+%mor:	n:prop|Williamsburg cop|be&3S adv|kind_of det:art|a adj|great
+	n|failure det:dem|that n|way .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+%trn:	n:prop|Williamsburg cop|be&3S adv|kind_of det:art|a adj|great
+	n|failure det:dem|that n|way .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|NJCT 4|6|DET 5|6|MOD 6|2|PRED 7|8|DET 8|2|JCT
+	9|2|PUNCT
+*PAR:	it had potential but you took away its political capital and it had
+	nothing there .
+%mor:	pro:per|it v|have&PAST n|potential conj|but pro:per|you v|take&PAST
+	adv|away det:poss|its adj|politic-AL n|capital coord|and pro:per|it
+	v|have&PAST pro:indef|nothing adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|6|SUBJ 6|4|COORD 7|6|JCT 8|10|DET
+	9|10|MOD 10|6|OBJ 11|13|LINK 12|13|SUBJ 13|6|CJCT 14|13|OBJ 15|13|JCT
+	16|2|PUNCT
+%trn:	pro:per|it v|have&PAST n|potential conj|but pro:per|you
+	v|take&PAST adv|away det:poss|its adj|politic-AL n|capital coord|and
+	pro:per|it v|have&PAST pro:indef|nothing adv|there .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|JCT
+	8|10|DET 9|10|MOD 10|6|OBJ 11|13|LINK 12|13|SUBJ 13|6|CJCT 14|13|OBJ
+	15|13|JCT 16|2|PUNCT
+*PAR:	<it didn't> [/] &off it didn't have an economic engine to it .
+%mor:	pro:per|it mod|do&PAST~neg|not v|have det:art|a adj|economic
+	n|engine prep|to pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|8|POBJ 10|4|PUNCT
+%trn:	pro:per|it mod|do&PAST~neg|not v|have det:art|a adj|economic
+	n|engine prep|to pro:per|it .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	it was not a port .
+%mor:	pro:per|it cop|be&PAST&13S neg|not det:art|a n|port .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S neg|not det:art|a n|port .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+*PAR:	the political center was moved away before the Industrial
+	Revolution so there was no industry there .
+%mor:	det:art|the adj|politic-AL n|center aux|be&PAST&13S part|move-PASTP
+	adv|away prep|before det:art|the n:prop|Industrial n:prop|Revolution
+	adv|so pro:exist|there cop|be&PAST&13S qn|no n|industry adv|there .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|10|NAME 10|7|POBJ 11|13|JCT 12|13|SUBJ 13|5|CJCT 14|15|QUANT 15|13|PRED
+	16|15|NJCT 17|5|PUNCT
+%trn:	det:art|the adj|politic-AL n|center aux|be&PAST&13S part|move-PASTP
+	adv|away prep|before det:art|the n:prop|Industrial n:prop|Revolution
+	adv|so pro:exist|there cop|be&PAST&13S qn|no n|industry adv|there .
+%grt:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|NAME 10|7|POBJ 11|13|LINK 12|13|SUBJ 13|5|CJCT 14|15|QUANT
+	15|13|PRED 16|13|JCT 17|5|PUNCT
+*PAR:	the exceptional cities who &whi actually deserve the name are
+	basically Charleston and New Orleans at this time .
+%mor:	det:art|the adj|exception&dn-AL n|city-PL pro:rel|who
+	adv|actual&dadj-LY v|deserve det:art|the n|name cop|be&PRES
+	adv|basic&dadj-AL-LY n:prop|Charleston coord|and n:prop|New
+	n:prop|Orleans prep|at det:dem|this n|time .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|LINK 5|6|JCT 6|3|CMOD 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|9|JCT 11|10|POBJ 12|11|CONJ 13|14|NAME 14|12|COORD
+	15|11|NJCT 16|17|DET 17|15|POBJ 18|3|PUNCT
+%trn:	det:art|the adj|exception&dn-AL n|city-PL pro:rel|who
+	adv|actual&dadj-LY v|deserve det:art|the n|name cop|be&PRES
+	adv|basic&dadj-AL-LY n:prop|Charleston coord|and n:prop|New
+	n:prop|Orleans prep|at det:dem|this n|time .
+%grt:	1|3|DET 2|3|MOD 3|9|SUBJ 4|6|LINK 5|6|JCT 6|3|CMOD 7|8|DET
+	8|6|OBJ 9|0|ROOT 10|9|JCT 11|9|PRED 12|11|CONJ 13|14|NAME
+	14|12|COORD 15|9|JCT 16|17|DET 17|15|POBJ 18|9|PUNCT
+*PAR:	we'll talk about New Orleans next .
+%mor:	pro:sub|we~mod|will v|talk prep|about n:prop|New n:prop|Orleans
+	adv|next .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|NAME 6|4|POBJ 7|3|JCT 8|3|PUNCT
+%trn:	pro:sub|we~mod|will v|talk prep|about n:prop|New n:prop|Orleans
+	adv|next .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|NAME 6|4|POBJ 7|3|JCT
+	8|3|PUNCT
+*PAR:	New Orleans obviously started off as a town , an administrative
+	center of <the French colonial> [//] the French colony of Louisiana
+	.
+%mor:	n:prop|New n:prop|Orleans adv|obvious&dadj-LY v|start-PAST adv|off
+	prep|as det:art|a n|town cm|cm det:art|a adj|administrative n|center
+	prep|of det:art|the n:prop|French n|colony prep|of n:prop|Louisiana
+	.
+%gra:	1|2|NAME 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|LP 10|12|DET 11|12|MOD 12|4|OBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|16|NJCT 18|17|POBJ 19|4|PUNCT
+%trn:	n:prop|New n:prop|Orleans adv|obvious&dadj-LY v|start-PAST adv|off
+	prep|as det:art|a n|town cm|cm det:art|a adj|administrative n|center
+	prep|of det:art|the n:prop|French n|colony prep|of n:prop|Louisiana
+	.
+%grt:	1|2|NAME 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET
+	8|6|POBJ 9|8|LP 10|12|DET 11|12|MOD 12|8|APP 13|12|NJCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|16|NJCT 18|17|POBJ 19|4|PUNCT
+*PAR:	it was taken over by Spain though in seventeen sixty five
+	because_of some complicated wars and political maneuvers happening
+	in Europe .
+%mor:	pro:per|it aux|be&PAST&13S part|take&PASTP adv|over prep|by
+	n:prop|Spain adv|though prep|in det:num|seventeen det:num|sixty
+	det:num|five prep|because_of qn|some part|complicate-PASTP n|war-PL
+	coord|and adj|politic-AL n|maneuver-PL part|happen-PRESP prep|in
+	n:prop|Europe .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|3|JCT
+	9|11|QUANT 10|11|DATE 11|8|POBJ 12|3|JCT 13|15|QUANT 14|15|MOD 15|12|POBJ
+	16|15|CONJ 17|18|MOD 18|16|COORD 19|15|XJCT 20|19|JCT 21|20|POBJ
+	22|3|PUNCT
+%trn:	pro:per|it aux|be&PAST&13S part|take&PASTP adv|over prep|by
+	n:prop|Spain adv|though prep|in det:num|seventeen det:num|sixty
+	det:num|five prep|because_of qn|some part|complicate-PASTP
+	n|war-PL coord|and adj|politic-AL n|maneuver-PL part|happen-PRESP
+	prep|in n:prop|Europe .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|JCT 8|3|JCT
+	9|11|QUANT 10|11|DATE 11|8|POBJ 12|3|JCT 13|15|QUANT 14|15|XMOD
+	15|12|POBJ 16|15|CONJ 17|18|MOD 18|16|COORD 19|15|XMOD 20|19|JCT
+	21|20|POBJ 22|3|PUNCT
+*PAR:	the French colony really starts around sixteen ninety nine .
+%mor:	det:art|the n:prop|French n|colony adv|real&dadj-LY v|start-3S
+	prep|around det:num|sixteen det:num|ninety det:num|nine .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|QUANT 8|9|QUANT
+	9|6|POBJ 10|5|PUNCT
+%trn:	det:art|the n:prop|French n|colony adv|real&dadj-LY v|start-3S
+	prep|around det:num|sixteen det:num|ninety det:num|nine .
+%grt:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|9|DATE 8|9|DATE
+	9|6|POBJ 10|5|PUNCT
+*PAR:	there were a_lot_of French traders moving through the area before
+	then but it kind_of officially started in sixteen ninety nine when
+	the [//] there really starts to be a [/] a French military presence
+	in the region .
+%mor:	pro:exist|there cop|be&PAST qn|a_lot_of n:prop|French
+	n|trade&dv-AGT-PL part|move-PRESP prep|through det:art|the n|area
+	prep|before adv:tem|then conj|but pro:per|it adv|kind_of
+	adv|official&dadj-LY part|start-PASTP prep|in det:num|sixteen
+	det:num|ninety det:num|nine conj|when pro:exist|there
+	adv|real&dadj-LY v|start-3S inf|to cop|be det:art|a n:prop|French
+	adj|military n|presence prep|in det:art|the n|region .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|5|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|JCT 11|10|POBJ 12|2|CONJ 13|16|SUBJ 14|16|JCT 15|16|JCT
+	16|12|COORD 17|16|JCT 18|19|QUANT 19|17|POBJ 20|16|JCT 21|24|LINK
+	22|24|SUBJ 23|24|JCT 24|20|CMOD 25|26|INF 26|24|COMP 27|30|DET 28|30|MOD
+	29|30|MOD 30|24|OBJ 31|30|NJCT 32|33|DET 33|31|POBJ 34|2|PUNCT
+%trn:	pro:exist|there cop|be&PAST qn|a_lot_of n:prop|French
+	n|trade&dv-AGT-PL part|move-PRESP prep|through det:art|the n|area
+	prep|before adv:tem|then conj|but pro:per|it adv|kind_of
+	adv|official&dadj-LY v|start-PAST prep|in det:num|sixteen
+	det:num|ninety det:num|nine conj|when pro:exist|there
+	adv|real&dadj-LY v|start-3S inf|to cop|be det:art|a n:prop|French
+	adj|military n|presence prep|in det:art|the n|region .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|5|XMOD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|2|JCT 11|10|POBJ 12|16|LINK 13|16|SUBJ 14|16|JCT
+	15|16|JCT 16|2|CJCT 17|16|JCT 18|20|DATE 19|20|DATE 20|17|POBJ
+	21|24|LINK 22|24|SUBJ 23|24|JCT 24|16|CJCT 25|26|INF 26|24|COMP
+	27|30|DET 28|30|MOD 29|30|MOD 30|26|PRED 31|30|NJCT 32|33|DET
+	33|31|POBJ 34|2|PUNCT
+*PAR:	the city is established +//.
+%mor:	det:art|the n|city aux|be&3S part|establish-PASTP +//.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%trn:	det:art|the n|city aux|be&3S part|establish-PASTP +//.
+%grt:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and you don't need to know these dates .
+%mor:	coord|and pro:per|you mod|do~neg|not v|need inf|to v|know
+	det:dem|these n|date-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|5|PUNCT
+%trn:	coord|and pro:per|you mod|do~neg|not v|need inf|to v|know
+	det:dem|these n|date-PL .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|5|PUNCT
+*PAR:	but the city is established around seventeen eighteen .
+%mor:	conj|but det:art|the n|city aux|be&3S part|establish-PASTP
+	prep|around det:num|seventeen det:num|eighteen .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|5|PUNCT
+%trn:	conj|but det:art|the n|city aux|be&3S part|establish-PASTP
+	prep|around det:num|seventeen det:num|eighteen .
+%grt:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DATE
+	8|6|POBJ 9|5|PUNCT
+*PAR:	remains under French control until seventeen sixty five then goes
+	to the Spanish and remains under the Spanish for &ano another [//]
+	basically a couple generations until the Louisiana Purchase of
+	eighteen oh [: zero] five .
+%mor:	v|remain-3S adv|under n:prop|French n|control prep|until
+	det:num|seventeen det:num|sixty det:num|five adv:tem|then v|go-3S
+	prep|to det:art|the n:prop|Spanish coord|and v|remain-3S prep|under
+	det:art|the n:prop|Spanish prep|for adv|basic&dadj-AL-LY det:art|a
+	n|couple n|generate&dv-TION-PL prep|until det:art|the
+	n:prop|Louisiana n:prop|Purchase prep|of det:num|eighteen
+	det:num|zero det:num|five .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|10|LINK 6|8|QUANT 7|8|DATE
+	8|9|QUANT 9|10|JCT 10|4|ENUM 11|10|JCT 12|13|DET 13|11|POBJ 14|1|CONJ
+	15|14|COORD 16|15|JCT 17|18|DET 18|16|POBJ 19|15|JCT 20|23|JCT 21|22|DET 22|23|MOD
+	23|19|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|26|APP 28|27|NJCT
+	29|30|QUANT 30|31|QUANT 31|28|POBJ 32|1|PUNCT
+%trn:	v|remain-3S prep|under n:prop|French n|control prep|until
+	det:num|seventeen det:num|sixty det:num|five adv:tem|then v|go-3S
+	prep|to det:art|the n:prop|Spanish coord|and v|remain-3S prep|under
+	det:art|the n:prop|Spanish prep|for adv|basic&dadj-AL-LY det:art|a
+	n|couple n|generate&dv-TION-PL prep|until det:art|the
+	n:prop|Louisiana n:prop|Purchase prep|of det:num|eighteen
+	det:num|zero det:num|five .
+%grt:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|JCT 6|8|DATE 7|8|DATE
+	8|5|POBJ 9|10|JCT 10|1|CJCT 11|10|JCT 12|13|DET 13|11|POBJ
+	14|10|CONJ 15|14|COORD 16|15|JCT 17|18|DET 18|16|POBJ 19|15|JCT
+	20|23|NJCT 21|22|DET 22|23|MOD 23|19|POBJ 24|15|JCT 25|27|DET
+	26|27|NAME 27|24|POBJ 28|27|NJCT 29|31|DATE 30|31|DATE 31|28|POBJ
+	32|1|PUNCT
+*PAR:	so ‡ basically it's under the Spanish during this time period I'm
+	talking about , late eighteenth century .
+%mor:	co|so beg|beg adv|basic&dadj-AL-LY pro:per|it~cop|be&3S prep|under
+	det:art|the n:prop|Spanish prep|during det:dem|this n|time n|period
+	pro:sub|I~aux|be&1S part|talk-PRESP adv|about cm|cm adv|late
+	adj|eighteenth n|century .
+%gra:	1|0|BEG 2|1|BEGP 3|5|JCT 4|5|SUBJ 5|15|CJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|SUBJ 14|15|AUX 15|0|ROOT
+	16|15|JCT 17|16|LP 18|19|JCT 19|20|MOD 20|15|OBJ 21|15|PUNCT
+%trn:	co|so beg|beg adv|basic&dadj-AL-LY pro:per|it~cop|be&3S prep|under
+	det:art|the n:prop|Spanish prep|during det:dem|this n|time n|period
+	pro:sub|I~aux|be&1S part|talk-PRESP adv|about cm|cm adv|late
+	adj|eighteenth n|century .
+%grt:	1|0|BEG 2|1|BEGP 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET
+	8|6|POBJ 9|5|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|SUBJ 14|15|AUX
+	15|12|CMOD 16|15|JCT 17|15|LP 18|20|MOD 19|20|MOD 20|12|APP
+	21|5|PUNCT
+*PAR:	and New Orleans was always an important port basically from its
+	beginning for illicit trade between the Caribbean colonies , going
+	to Mexico , on up the Mississippi into Canada , for the French
+	concerns as_well_as Spanish colonial concerns .
+%mor:	coord|and n:prop|New n:prop|Orleans cop|be&PAST&13S adv|always
+	det:art|a adj|important n|port adv|basic&dadj-AL-LY prep|from
+	det:poss|its part|begin-PRESP prep|for adj|illicit n|trade
+	prep|between det:art|the n:prop|Caribbean n|colony-PL cm|cm
+	part|go-PRESP prep|to n:prop|Mexico cm|cm adv|on adv|up det:art|the
+	n:prop|Mississippi prep|into n:prop|Canada cm|cm prep|for
+	det:art|the n:prop|French n|concern-PL prep|as_well_as
+	n:prop|Spanish adj|colonial n|concern-PL .
+%gra:	1|4|LINK 2|3|NAME 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|8|NJCT 14|15|MOD 15|13|POBJ
+	16|8|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|8|LP 21|8|XMOD 22|21|JCT
+	23|22|POBJ 24|8|LP 25|26|JCT 26|8|NJCT 27|28|DET 28|26|POBJ 29|8|NJCT
+	30|29|POBJ 31|8|LP 32|8|NJCT 33|35|DET 34|35|MOD 35|32|POBJ 36|8|NJCT 37|39|MOD
+	38|39|MOD 39|36|POBJ 40|4|PUNCT
+%trn:	coord|and n:prop|New n:prop|Orleans cop|be&PAST&13S adv|always
+	det:art|a adj|important n|port adv|basic&dadj-AL-LY prep|from
+	det:poss|its part|begin-PRESP prep|for adj|illicit n|trade
+	prep|between det:art|the n:prop|Caribbean n|colony-PL cm|cm
+	part|go-PRESP prep|to n:prop|Mexico cm|cm adv|on prep|up det:art|the
+	n:prop|Mississippi prep|into n:prop|Canada cm|cm prep|for
+	det:art|the n:prop|French n|concern-PL prep|as_well_as
+	n:prop|Spanish adj|colonial n|concern-PL .
+%grt:	1|4|LINK 2|3|NAME 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|4|PRED
+	9|10|JCT 10|8|NJCT 11|12|DET 12|10|POBJ 13|8|NJCT 14|15|MOD
+	15|13|POBJ 16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|16|LP
+	21|15|XMOD 22|21|JCT 23|22|POBJ 24|22|LP 25|26|JCT 26|22|ENUM
+	27|28|DET 28|26|POBJ 29|28|NJCT 30|29|POBJ 31|26|LP 32|8|NJCT
+	33|35|DET 34|35|MOD 35|32|POBJ 36|35|NJCT 37|39|MOD 38|39|MOD
+	39|36|POBJ 40|4|PUNCT
+*PAR:	and <under the> [//] even under the Americans a_little later it
+	became very important for the transport of Midwestern produce .
+%mor:	coord|and adv|even prep|under det:art|the n:prop|Americans
+	adv|a_little adv|later pro:per|it cop|become&PAST adv|very
+	adj|important prep|for det:art|the n|transport prep|of
+	n:prop|Midwestern n|produce .
+%gra:	1|9|LINK 2|3|JCT 3|9|JCT 4|5|DET 5|3|POBJ 6|7|JCT 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|11|JCT 11|9|PRED 12|9|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|9|PUNCT
+%trn:	coord|and adv|even prep|under det:art|the n:prop|Americans
+	adv|a_little adv|later pro:per|it cop|become&PAST adv|very
+	adj|important prep|for det:art|the n|transport prep|of
+	n:prop|Midwestern n|produce .
+%grt:	1|9|LINK 2|3|JCT 3|9|JCT 4|5|DET 5|3|POBJ 6|7|JCT 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|11|JCT 11|9|PRED 12|11|JCT 13|14|DET 14|12|POBJ
+	15|14|NJCT 16|17|MOD 17|15|POBJ 18|9|PUNCT
+*PAR:	New Orleans is actually still the second largest port in the United
+	States because_of that , because_of the combination of ocean access
+	as_well_as controlling the outlet of the Mississippi .
+%mor:	n:prop|New n:prop|Orleans cop|be&3S adv|actual&dadj-LY adv|still
+	det:art|the adv|second adj|large-SP n|port prep|in det:art|the
+	n:prop|United n:prop|States prep|because_of pro:dem|that cm|cm
+	prep|because_of det:art|the n|combine&dv-TION prep|of n|ocean
+	n|access prep|as_well_as n:gerund|control-PRESP det:art|the n|outlet
+	prep|of det:art|the n:prop|Mississippi .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|9|JCT 6|9|DET 7|8|JCT 8|9|MOD
+	9|3|PRED 10|3|JCT 11|12|DET 12|13|NAME 13|10|POBJ 14|3|JCT 15|14|POBJ
+	16|15|LP 17|3|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|22|MOD 22|20|POBJ 23|3|JCT
+	24|23|POBJ 25|26|DET 26|24|OBJ 27|26|NJCT 28|29|DET 29|27|POBJ
+	30|3|PUNCT
+%trn:	n:prop|New n:prop|Orleans cop|be&3S adv|actual&dadj-LY adv|still
+	det:art|the adv|second adj|large-SP n|port prep|in det:art|the
+	n:prop|United n:prop|States prep|because_of pro:dem|that cm|cm
+	prep|because_of det:art|the n|combine&dv-TION prep|of n|ocean
+	n|access prep|as_well_as n:gerund|control-PRESP det:art|the n|outlet
+	prep|of det:art|the n:prop|Mississippi .
+%grt:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|9|DET 7|8|JCT 8|9|MOD
+	9|3|PRED 10|9|NJCT 11|13|DET 12|13|NAME 13|10|POBJ 14|3|JCT
+	15|14|POBJ 16|14|LP 17|14|ENUM 18|19|DET 19|17|POBJ 20|19|NJCT
+	21|22|MOD 22|20|POBJ 23|22|CONJ 24|23|COORD 25|26|DET 26|24|OBJ
+	27|26|NJCT 28|29|DET 29|27|POBJ 30|3|PUNCT
+*PAR:	so ‡ this was its real economic base .
+%mor:	co|so beg|beg pro:dem|this cop|be&PAST&13S det:poss|its adj|real
+	adj|economic n|base .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|PRED
+	9|4|PUNCT
+%trn:	co|so beg|beg pro:dem|this cop|be&PAST&13S det:poss|its adj|real
+	adj|economic n|base .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|PRED
+	9|4|PUNCT
+*PAR:	that was the first one and continues to be the most important one .
+%mor:	pro:dem|that cop|be&PAST&13S det:art|the adj|first pro:indef|one
+	coord|and v|continue-3S inf|to cop|be det:art|the qn|most
+	adj|important pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|CONJ 7|6|COORD 8|9|INF
+	9|7|COMP 10|13|DET 11|12|QUANT 12|13|MOD 13|9|PRED 14|2|PUNCT
+%trn:	pro:dem|that cop|be&PAST&13S det:art|the adj|first pro:indef|one
+	coord|and v|continue-3S inf|to cop|be det:art|the qn|most
+	adj|important pro:indef|one .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|CONJ 7|6|COORD
+	8|9|INF 9|7|COMP 10|13|DET 11|12|QUANT 12|13|MOD 13|9|PRED
+	14|2|PUNCT
+*PAR:	however in this period in the seventeen nineties one interesting &h
+	thing happened in the island called Saint Domingue .
+%mor:	adv|however prep|in det:dem|this n|period prep|in det:art|the
+	det:num|seventeen n|ninety-PL det:num|one adj|interesting n|thing
+	v|happen-PAST prep|in det:art|the n|island v|call-PAST n:prop|Saint
+	n:prop|Domingue .
+%gra:	1|9|JCT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|JCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|11|QUANT 10|11|MOD 11|12|SUBJ 12|0|ROOT 13|12|JCT 14|15|DET 15|16|SUBJ
+	16|13|POBJ 17|18|NAME 18|16|OBJ 19|12|PUNCT
+%trn:	adv|however prep|in det:dem|this n|period prep|in det:art|the
+	det:num|seventeen n|ninety-PL det:num|one adj|interesting n|thing
+	v|happen-PAST prep|in det:art|the n|island part|call-PASTP
+	n:prop|Saint n:prop|Domingue .
+%grt:	1|12|JCT 2|12|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|8|DET 7|8|DATE
+	8|5|POBJ 9|11|QUANT 10|11|MOD 11|12|SUBJ 12|0|ROOT 13|12|JCT
+	14|15|DET 15|13|POBJ 16|15|XMOD 17|18|NAME 18|16|OBJ 19|12|PUNCT
+*PAR:	anyone want to explain that ?
+%mor:	pro:indef|anyone v|want inf|to v|explain pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+%trn:	pro:indef|anyone v|want inf|to v|explain pro:dem|that ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	anyone know what happened in Saint Domingue in the seventeen
+	nineties ?
+%mor:	pro:indef|anyone v|know pro:int|what v|happen-PAST prep|in
+	n:prop|Saint n:prop|Domingue prep|in det:art|the det:num|seventeen
+	n|ninety-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|NAME 7|5|POBJ 8|4|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|2|PUNCT
+%trn:	pro:indef|anyone v|know pro:int|what v|happen-PAST prep|in
+	n:prop|Saint n:prop|Domingue prep|in det:art|the det:num|seventeen
+	n|ninety-PL ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|COMP 5|4|JCT 6|7|NAME 7|5|POBJ
+	8|4|JCT 9|11|DET 10|11|DATE 11|8|POBJ 12|2|PUNCT
+*PAR:	well ‡ it's now known as Haiti .
+%mor:	co|well beg|beg pro:per|it~aux|be&3S adv:tem|now part|know&PASTP
+	prep|as n:prop|Haiti .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+%trn:	co|well beg|beg pro:per|it~aux|be&3S adv:tem|now part|know&PASTP
+	prep|as n:prop|Haiti .
+%grt:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*PAR:	what happened in the seventeen nineties ?
+%mor:	pro:int|what v|happen-PAST prep|in det:art|the det:num|seventeen
+	n|ninety-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|QUANT 6|3|POBJ 7|2|PUNCT
+%trn:	pro:int|what v|happen-PAST prep|in det:art|the det:num|seventeen
+	n|ninety-PL ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|DATE 6|3|POBJ 7|2|PUNCT
+*PAR:	yeah slaves revolted and took over the entire island .
+%mor:	co|yeah n|slave-PL v|revolt-PAST coord|and v|take&PAST prep|over
+	det:art|the adj|entire n|island .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+%trn:	co|yeah n|slave-PL v|revolt-PAST coord|and v|take&PAST prep|over
+	det:art|the adj|entire n|island .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|3|PUNCT
+*PAR:	and as a result there was an exodus of French elite free people of
+	color as_well_as some slaves .
+%mor:	coord|and prep|as det:art|a n|result pro:exist|there
+	cop|be&PAST&13S det:art|a n|exodus prep|of n:prop|French adj|elite
+	adj|free n|person&PL prep|of n|color prep|as_well_as qn|some
+	n|slave-PL .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|9|POBJ 11|13|MOD 12|13|MOD 13|8|APP 14|13|NJCT 15|14|POBJ
+	16|13|NJCT 17|18|QUANT 18|16|POBJ 19|6|PUNCT
+%trn:	coord|and prep|as det:art|a n|result pro:exist|there cop|be&PAST&13S
+	det:art|a n|exodus prep|of n:prop|French adj|elite adj|free
+	n|person&PL prep|of n|color prep|as_well_as qn|some n|slave-PL .
+%grt:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET
+	8|6|PRED 9|8|NJCT 10|13|MOD 11|13|MOD 12|13|MOD 13|9|POBJ 14|13|NJCT
+	15|14|POBJ 16|13|CONJ 17|18|QUANT 18|16|COORD 19|6|PUNCT
+*PAR:	and a large number of them ended up in New Orleans .
+%mor:	coord|and det:art|a adj|large n|number prep|of pro:obj|them
+	v|end-PAST adv|up prep|in n:prop|New n:prop|Orleans .
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|11|NAME 11|9|POBJ 12|7|PUNCT
+%trn:	coord|and det:art|a adj|large n|number prep|of pro:obj|them
+	v|end-PAST adv|up prep|in n:prop|New n:prop|Orleans .
+%grt:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT
+	8|7|JCT 9|7|JCT 10|11|NAME 11|9|POBJ 12|7|PUNCT
+*PAR:	and the economy of &Sain Saint Domingue was fueled by sugar which
+	was extremely profitable .
+%mor:	coord|and det:art|the n|economy prep|of n:prop|Saint
+	n:prop|Domingue aux|be&PAST&13S part|fuel-PASTP prep|by n|sugar
+	pro:rel|which cop|be&PAST&13S adv|extreme&dadj-LY adj|profit&dv-ABLE
+	.
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|NJCT 5|4|POBJ 6|3|APP 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|12|LINK 12|10|CMOD 13|14|JCT 14|12|PRED 15|8|PUNCT
+%trn:	coord|and det:art|the n|economy prep|of n:prop|Saint
+	n:prop|Domingue aux|be&PAST&13S part|fuel-PASTP prep|by n|sugar
+	pro:rel|which cop|be&PAST&13S adv|extreme&dadj-LY adj|profit&dv-ABLE
+	.
+%grt:	1|8|LINK 2|3|DET 3|8|JCT 4|3|NJCT 5|6|NAME 6|4|POBJ 7|8|AUX
+	8|0|ROOT 9|8|JCT 10|9|POBJ 11|12|LINK 12|10|CMOD 13|14|JCT
+	14|12|PRED 15|8|PUNCT
+*PAR:	it was a very valued precious commodity in Europe .
+%mor:	pro:per|it aux|be&PAST&13S det:art|a adv|very part|value-PASTP
+	adj|precious n|commodity prep|in n:prop|Europe .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|DET 4|5|JCT 5|0|ROOT 6|7|MOD 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S det:art|a adv|very part|value-PASTP
+	adj|precious n|commodity prep|in n:prop|Europe .
+%grt:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|5|JCT 5|7|XMOD 6|7|MOD 7|2|PRED 8|2|JCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	there are very few places that it would grow .
+%mor:	pro:exist|there cop|be&PRES adv|very qn|few n|place-PL pro:rel|that
+	pro:per|it mod|will&COND v|grow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|QUANT 5|2|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|2|PUNCT
+%trn:	pro:exist|there cop|be&PRES adv|very qn|few n|place-PL pro:rel|that
+	pro:per|it mod|will&COND v|grow .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|QUANT 5|2|PRED 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|5|COMP 10|2|PUNCT
+*PAR:	it doesn't really grow &m much of anyplace in Europe .
+%mor:	pro:per|it mod|do&3S~neg|not adv|real&dadj-LY v|grow adv|much
+	prep|of adv|anyplace prep|in n:prop|Europe .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|5|PUNCT
+%trn:	pro:per|it mod|do&3S~neg|not adv|real&dadj-LY v|grow adv|much
+	prep|of adv|anyplace prep|in n:prop|Europe .
+%grt:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|JCT 8|7|POBJ
+	9|5|JCT 10|9|POBJ 11|5|PUNCT
+*PAR:	a_few parts of Spain is about it .
+%mor:	qn|a_few n|part-PL prep|of n:prop|Spain cop|be&3S prep|about
+	pro:per|it .
+%gra:	1|2|QUANT 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|PUNCT
+%trn:	qn|a_few n|part-PL prep|of n:prop|Spain cop|be&3S adv|about
+	pro:per|it .
+%grt:	1|2|QUANT 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|NJCT 7|5|PRED
+	8|5|PUNCT
+*PAR:	so ‡ when these people came to Louisiana in the seventeen nineties
+	they had the know+how to produce sugar profitably .
+%mor:	co|so beg|beg conj|when det:dem|these n|person&PL v|come&PAST
+	prep|to n:prop|Louisiana prep|in det:art|the det:num|seventeen
+	n|ninety-PL pro:sub|they v|have&PAST det:art|the n|+v|know+prep|how
+	inf|to v|produce n|sugar adv|profit&dadj-ABLE-LY .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|5|DET 5|6|SUBJ 6|14|CJCT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|14|SUBJ 14|0|ROOT 15|16|DET
+	16|14|OBJ 17|18|INF 18|16|XMOD 19|18|OBJ 20|18|JCT 21|14|PUNCT
+%trn:	co|so beg|beg conj|when det:dem|these n|person&PL v|come&PAST
+	prep|to n:prop|Louisiana prep|in det:art|the det:num|seventeen
+	n|ninety-PL pro:sub|they v|have&PAST det:art|the n|+v|know+prep|how
+	inf|to v|produce n|sugar adv|profit&dadj-ABLE-LY .
+%grt:	1|0|BEG 2|1|BEGP 3|6|LINK 4|5|DET 5|6|SUBJ 6|14|CJCT 7|6|JCT
+	8|7|POBJ 9|6|JCT 10|12|DET 11|12|DATE 12|9|POBJ 13|14|SUBJ
+	14|0|ROOT 15|16|DET 16|14|OBJ 17|18|INF 18|14|XJCT 19|18|OBJ
+	20|18|JCT 21|14|PUNCT
+*PAR:	people had tried in Louisiana before but <it really> [//] it didn't
+	take off .
+%mor:	n|person&PL aux|have&PAST part|try-PASTP prep|in n:prop|Louisiana
+	adv|before conj|but pro:per|it mod|do&PAST~neg|not v|take adv|off .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|3|CJCT 12|11|JCT 13|3|PUNCT
+%trn:	n|person&PL aux|have&PAST part|try-PASTP prep|in n:prop|Louisiana
+	adv|before conj|but pro:per|it mod|do&PAST~neg|not v|take adv|off .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|3|CJCT 12|11|JCT 13|3|PUNCT
+*PAR:	and as a result of particularly the knowledge that imported slaves
+	brought +//.
+%mor:	coord|and prep|as det:art|a n|result prep|of adv|particular&dadj-LY
+	det:art|the n|knowledge pro:rel|that v|import-PAST n|slave-PL
+	v|bring&PAST +//.
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|POBJ 5|4|NJCT 6|8|JCT 7|8|DET
+	8|5|POBJ 9|10|LINK 10|8|CMOD 11|12|SUBJ 12|10|COMP 13|1|PUNCT
+%trn:	coord|and prep|as det:art|a n|result prep|of adv|particular&dadj-LY
+	det:art|the n|knowledge pro:rel|that part|import-PASTP n|slave-PL
+	v|bring&PAST +//.
+%grt:	1|2|LINK 2|0|INCROOT 3|4|DET 4|2|POBJ 5|4|NJCT 6|8|NJCT 7|8|DET
+	8|5|POBJ 9|12|LINK 10|11|XMOD 11|12|SUBJ 12|8|CMOD 13|2|PUNCT
+*PAR:	because they were really the ones who understood the day to day
+	operations , how to grow the cane , how it needs to be tended , how
+	to process it .
+%mor:	conj|because pro:sub|they cop|be&PAST adv|real&dadj-LY det:art|the
+	n|one-PL pro:rel|who v|understand&PAST det:art|the n|day prep|to
+	n|day n|operate&dv-TION-PL cm|cm pro:int|how inf|to v|grow
+	det:art|the n|cane cm|cm pro:int|how pro:per|it v|need-3S inf|to
+	aux|be part|tend-PASTP cm|cm pro:int|how inf|to v|process pro:per|it
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|JCT 11|6|NJCT 12|13|MOD 13|11|POBJ 14|6|LP 15|17|LINK
+	16|17|INF 17|6|CMOD 18|19|DET 19|17|OBJ 20|17|LP 21|23|LINK 22|23|SUBJ
+	23|17|CJCT 24|26|INF 25|26|AUX 26|23|COMP 27|26|LP 28|30|LINK 29|30|INF
+	30|26|COMP 31|30|OBJ 32|3|PUNCT
+%trn:	conj|because pro:sub|they cop|be&PAST adv|real&dadj-LY det:art|the
+	n|one-PL pro:rel|who v|understand&PAST det:art|the n|day prep|to
+	n|day n|operate&dv-TION-PL cm|cm pro:int|how inf|to v|grow
+	det:art|the n|cane cm|cm pro:int|how pro:per|it v|need-3S inf|to
+	aux|be part|tend-PASTP cm|cm pro:int|how inf|to v|process pro:per|it
+	.
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|PRED 7|8|LINK
+	8|6|CMOD 9|13|DET 10|13|MOD 11|10|NJCT 12|11|POBJ 13|8|OBJ 14|13|LP
+	15|17|LINK 16|17|INF 17|8|COMP 18|19|DET 19|17|OBJ 20|17|LP
+	21|23|LINK 22|23|SUBJ 23|17|ENUM 24|26|INF 25|26|AUX 26|23|COMP
+	27|23|LP 28|30|LINK 29|30|INF 30|17|ENUM 31|30|OBJ 32|3|PUNCT
+*PAR:	it was their kind_of technological know+how that created a kind_of
+	agricultural revolution in Louisiana that led it to be by the
+	antebellum period the [//] basically the wealthiest slave state in
+	the Union .
+%mor:	pro:per|it cop|be&PAST&13S det:poss|their adv|kind_of
+	adj|technologic-AL n|+v|know+prep|how pro:rel|that v|create-PAST
+	det:art|a adv|kind_of adj|agricultural n|revolution prep|in
+	n:prop|Louisiana pro:rel|that v|lead&PAST pro:per|it inf|to cop|be
+	prep|by det:art|the adj|antebellum n|period adv|basic&dadj-AL-LY
+	det:art|the adj|wealth&dn-Y-SP n|slave n|state prep|in det:art|the
+	n:prop|Union .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|8|LINK 8|6|CMOD
+	9|12|DET 10|11|JCT 11|12|MOD 12|8|OBJ 13|12|NJCT 14|13|POBJ 15|16|LINK
+	16|14|CMOD 17|16|OBJ 18|19|INF 19|16|COMP 20|19|JCT 21|23|DET 22|23|MOD
+	23|28|SUBJ 24|28|JCT 25|28|DET 26|27|MOD 27|28|MOD 28|20|POBJ 29|28|NJCT
+	30|31|DET 31|29|POBJ 32|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S det:poss|their adv|kind_of
+	adj|technologic-AL n|+v|know+prep|how pro:rel|that v|create-PAST
+	det:art|a adv|kind_of adj|agricultural n|revolution prep|in
+	n:prop|Louisiana pro:rel|that v|lead&PAST pro:per|it inf|to cop|be
+	prep|by det:art|the adj|antebellum n|period adv|basic&dadj-AL-LY
+	det:art|the adj|wealth&dn-Y-SP n|slave n|state prep|in det:art|the
+	n:prop|Union .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|8|LINK
+	8|6|CMOD 9|12|DET 10|11|JCT 11|12|MOD 12|8|OBJ 13|12|NJCT 14|13|POBJ
+	15|16|LINK 16|12|CMOD 17|16|OBJ 18|19|INF 19|16|COMP 20|19|JCT
+	21|23|DET 22|23|MOD 23|20|POBJ 24|28|NJCT 25|28|DET 26|28|MOD
+	27|28|MOD 28|19|PRED 29|28|NJCT 30|31|DET 31|29|POBJ 32|2|PUNCT
+*PAR:	it's one of those things about history .
+%mor:	pro:per|it~cop|be&3S pro:indef|one prep|of det:dem|those n|thing-PL
+	prep|about n|history .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|NJCT 8|7|POBJ
+	9|2|PUNCT
+%trn:	pro:per|it~cop|be&3S pro:indef|one prep|of det:dem|those n|thing-PL
+	prep|about n|history .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|7|POBJ 9|2|PUNCT
+*PAR:	one of the things in terms of &mater other aspects of material
+	culture in [/] in this period that's really interesting is that if
+	you've ever been to the French Quarter +...
+%mor:	det:num|one prep|of det:art|the n|thing-PL prep|in n|term-PL
+	prep|of qn|other n|aspect-PL prep|of adj|material n|culture prep|in
+	det:dem|this n|period pro:rel|that~cop|be&3S adv|real&dadj-LY
+	adj|interesting cop|be&3S comp|that conj|if pro:per|you~aux|have
+	adv|ever cop|be&PASTP prep|to det:art|the n:prop|French
+	n:prop|Quarter +...
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|JCT 6|5|POBJ 7|6|NJCT
+	8|9|QUANT 9|7|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|1|JCT 14|15|DET 15|13|POBJ
+	16|17|LINK 17|1|CMOD 18|19|JCT 19|17|PRED 20|17|PRED 21|30|LINK
+	22|26|LINK 23|26|SUBJ 24|26|AUX 25|26|JCT 26|30|CJCT 27|26|JCT 28|29|DET
+	29|27|POBJ 30|20|OM 31|1|PUNCT
+%trn:	det:num|one prep|of det:art|the n|thing-PL prep|in n|term-PL
+	prep|of qn|other n|aspect-PL prep|of adj|material n|culture prep|in
+	det:dem|this n|period pro:rel|that~cop|be&3S adv|real&dadj-LY
+	adj|interesting cop|be&3S comp|that conj|if pro:per|you~aux|have
+	adv|ever cop|be&PASTP prep|to det:art|the n:prop|French
+	n:prop|Quarter +...
+%grt:	1|20|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|6|NJCT
+	8|9|QUANT 9|7|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|12|NJCT
+	14|15|DET 15|13|POBJ 16|17|LINK 17|1|CMOD 18|19|JCT 19|17|PRED
+	20|0|ROOT 21|26|LINK 22|26|LINK 23|26|SUBJ 24|26|AUX 25|26|JCT
+	26|20|CPRED 27|26|JCT 28|30|DET 29|30|NAME 30|27|POBJ 31|20|PUNCT
+*PAR:	you know what those buildings look like „ right ?
+%mor:	pro:per|you v|know pro:int|what det:dem|those n|building-PL v|look
+	prep|like end|end co|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|JCT 6|2|COBJ 7|6|JCT 8|9|ENDP
+	9|2|END 10|2|PUNCT
+%trn:	pro:per|you v|know pro:int|what det:dem|those n|building-PL v|look
+	prep|like end|end co|right ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COBJ 7|6|JCT
+	8|9|ENDP 9|2|END 10|2|PUNCT
+*PAR:	they're brick townhouses with lots_of iron balconies , tall [/]
+	tall interior walls and doors and windows .
+%mor:	pro:sub|they~cop|be&PRES n|brick n|+n|town+n|house-PL prep|with
+	qn|lots_of adj|iron n|balcony-PL cm|cm adj|tall adj|interior
+	n|wall-PL coord|and n|door-PL coord|and n|window-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|NJCT 6|8|QUANT 7|8|MOD 8|5|POBJ
+	9|8|LP 10|12|MOD 11|12|MOD 12|8|ENUM 13|12|CONJ 14|13|COORD 15|14|CONJ
+	16|15|COORD 17|2|PUNCT
+%trn:	pro:sub|they~cop|be&PRES n|brick n|+n|town+n|house-PL prep|with
+	qn|lots_of adj|iron n|balcony-PL cm|cm adj|tall adj|interior
+	n|wall-PL coord|and n|door-PL coord|and n|window-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|NJCT 6|8|QUANT 7|8|MOD
+	8|5|POBJ 9|8|LP 10|12|MOD 11|12|MOD 12|8|ENUM 13|12|CONJ 14|13|COORD
+	15|14|CONJ 16|15|COORD 17|2|PUNCT
+*PAR:	as_well_as some cottages and smaller styles .
+%mor:	prep|as_well_as qn|some n|cottage-PL coord|and adj|small-CP
+	n|style-PL .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+%trn:	prep|as_well_as qn|some n|cottage-PL coord|and adj|small-CP
+	n|style-PL .
+%grt:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|CONJ 5|6|MOD 6|4|COORD 7|3|PUNCT
+*PAR:	the cottages probably like the shotgun house were influenced by
+	Haitian architecture but also some French Caribbean styles .
+%mor:	det:art|the n|cottage-PL adv|probable&dadj-LY prep|like det:art|the
+	n|shotgun n|house aux|be&PAST part|influence-PASTP prep|by
+	n:prop|Haitian n|architecture conj|but adv|also qn|some
+	n:prop|French n:prop|Caribbean n|style-PL .
+%gra:	1|2|DET 2|9|SUBJ 3|2|NJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|MOD 12|10|POBJ 13|9|CONJ 14|15|JCT 15|16|QUANT
+	16|18|MOD 17|18|MOD 18|13|COORD 19|9|PUNCT
+%trn:	det:art|the n|cottage-PL adv|probable&dadj-LY prep|like det:art|the
+	n|shotgun n|house aux|be&PAST part|influence-PASTP prep|by
+	n:prop|Haitian n|architecture conj|but adv|also qn|some
+	n:prop|French n:prop|Caribbean n|style-PL .
+%grt:	1|2|DET 2|9|SUBJ 3|9|JCT 4|9|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|MOD 12|10|POBJ 13|12|CONJ 14|18|NJCT
+	15|18|QUANT 16|17|NAME 17|18|MOD 18|13|COORD 19|9|PUNCT
+*PAR:	however &a the majority of the houses in the French Quarter aren't
+	French at all .
+%mor:	co|however det:art|the n|majority prep|of det:art|the n|house-PL
+	prep|in det:art|the n:prop|French n:prop|Quarter cop|be&PRES~neg|not
+	n:prop|French prep|at pro:indef|all .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|3|CMOD 12|11|NEG 13|11|PRED 14|13|NJCT 15|14|POBJ
+	16|3|PUNCT
+%trn:	co|however det:art|the n|majority prep|of det:art|the n|house-PL
+	prep|in det:art|the n:prop|French n:prop|Quarter cop|be&PRES~neg|not
+	n:prop|French prep|at pro:indef|all .
+%grt:	1|11|COM 2|3|DET 3|11|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|10|NAME 9|10|POBJ 10|7|POBJ 11|0|ROOT 12|11|NEG 13|11|PRED
+	14|11|JCT 15|14|POBJ 16|11|PUNCT
+*PAR:	they're Spanish .
+%mor:	pro:sub|they~cop|be&PRES n:prop|Spanish .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%trn:	pro:sub|they~cop|be&PRES n:prop|Spanish .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	the city burned down to the ground in seventeen eighty eight and
+	when it was rebuilt the Spanish decided they didn't want to go
+	through that again .
+%mor:	det:art|the n|city v|burn-PAST adv|down prep|to det:art|the
+	n|ground prep|in det:num|seventeen det:num|eighty det:num|eight
+	coord|and conj|when pro:per|it aux|be&PAST&13S re#part|build&PASTP
+	det:art|the n:prop|Spanish v|decide-PAST pro:sub|they
+	mod|do&PAST~neg|not v|want inf|to v|go prep|through pro:dem|that
+	adv:tem|again .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|QUANT 10|11|QUANT 11|8|POBJ 12|19|LINK 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|19|CJCT 17|18|DET 18|19|SUBJ 19|3|CJCT 20|23|SUBJ 21|23|AUX
+	22|21|NEG 23|19|COMP 24|25|INF 25|23|COMP 26|25|JCT 27|26|POBJ 28|25|JCT
+	29|3|PUNCT
+%trn:	det:art|the n|city v|burn-PAST adv|down prep|to det:art|the
+	n|ground prep|in det:num|seventeen det:num|eighty det:num|eight
+	coord|and conj|when pro:per|it aux|be&PAST&13S re#part|build&PASTP
+	det:art|the n:prop|Spanish v|decide-PAST pro:sub|they
+	mod|do&PAST~neg|not v|want inf|to v|go prep|through pro:dem|that
+	adv:tem|again .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|11|DATE 10|11|DATE 11|8|POBJ 12|19|LINK 13|16|LINK 14|16|SUBJ
+	15|16|AUX 16|19|CJCT 17|18|DET 18|19|SUBJ 19|3|CJCT 20|23|SUBJ
+	21|23|AUX 22|21|NEG 23|19|COMP 24|25|INF 25|23|COMP 26|25|JCT
+	27|26|POBJ 28|25|JCT 29|3|PUNCT
+*PAR:	so ‡ they established all these building codes that said that
+	structures hadta be of brick , they hadta have firewalls , they
+	hadta be so tall , they hadta have tile roofs rather_than cypress
+	shingle roofs .
+%mor:	co|so beg|beg pro:sub|they v|establish-PAST qn|all det:dem|these
+	n|building n|code-PL pro:rel|that v|say&PAST comp|that
+	n|structure-PL mod|have&PAST~inf|to cop|be prep|of n|brick cm|cm
+	pro:sub|they mod|have&PAST~inf|to v|have n|+n|fire+n|wall-PL cm|cm
+	pro:sub|they mod|have&PAST~inf|to cop|be adv|so adj|tall cm|cm
+	pro:sub|they mod|have&PAST~inf|to v|have n|tile n|roof-PL
+	prep|rather_than n|cypress n|shingle n|roof-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|8|QUANT 6|8|DET 7|8|MOD 8|4|OBJ
+	9|10|LINK 10|8|CMOD 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|INF 15|10|COMP
+	16|15|JCT 17|16|POBJ 18|4|LP 19|22|SUBJ 20|22|AUX 21|22|INF 22|4|XJCT
+	23|22|OBJ 24|22|LP 25|28|SUBJ 26|28|AUX 27|28|INF 28|22|COMP 29|30|JCT
+	30|28|PRED 31|28|LP 32|35|SUBJ 33|35|AUX 34|35|INF 35|28|CJCT 36|37|MOD
+	37|35|OBJ 38|37|NJCT 39|41|MOD 40|41|MOD 41|38|POBJ 42|4|PUNCT
+%trn:	co|so beg|beg pro:sub|they v|establish-PAST qn|all det:dem|these
+	n|building n|code-PL pro:rel|that v|say&PAST comp|that n|structure-PL
+	mod|have&PAST~inf|to cop|be prep|of n|brick cm|cm pro:sub|they
+	mod|have&PAST~inf|to v|have n|+n|fire+n|wall-PL cm|cm pro:sub|they
+	mod|have&PAST~inf|to cop|be adv|so adj|tall cm|cm pro:sub|they
+	mod|have&PAST~inf|to v|have n|tile n|roof-PL prep|rather_than
+	n|cypress n|shingle n|roof-PL .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|8|QUANT 6|8|DET 7|8|MOD 8|4|OBJ
+	9|10|LINK 10|8|CMOD 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|INF
+	15|10|COMP 16|15|JCT 17|16|POBJ 18|15|LP 19|22|SUBJ 20|22|AUX
+	21|22|INF 22|15|ENUM 23|22|OBJ 24|22|LP 25|28|SUBJ 26|28|AUX
+	27|28|INF 28|15|ENUM 29|30|JCT 30|28|PRED 31|28|LP 32|35|SUBJ
+	33|35|AUX 34|35|INF 35|15|ENUM 36|37|MOD 37|35|OBJ 38|37|NJCT
+	39|41|MOD 40|41|MOD 41|38|POBJ 42|4|PUNCT
+*PAR:	so [//] but as a result what's really interesting is that the
+	architecture of the quote_unquote French Quarter which local
+	residents will still interpret as French was actually Spanish
+	through this one you_know kind_of accident .
+%mor:	conj|but prep|as det:art|a n|result pro:int|what~cop|be&3S
+	adv|real&dadj-LY adj|interesting cop|be&3S comp|that det:art|the
+	n|architecture prep|of det:art|the co|quote_unquote n:prop|French
+	n:prop|Quarter pro:rel|which adj|local n|resident-PL mod|will
+	adv|still v|interpret prep|as n:prop|French cop|be&PAST&13S
+	adv|actual&dadj-LY n:prop|Spanish prep|through det:dem|this
+	det:num|one co|you_know adv|kind_of n|accident .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|PRED
+	9|6|PRED 10|9|PRED 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|DET 15|17|COM
+	16|17|NAME 17|13|POBJ 18|19|LINK 19|20|MOD 20|23|SUBJ 21|23|AUX 22|23|JCT
+	23|17|COMP 24|25|COORD 25|26|SUBJ 26|23|COMP 27|28|JCT 28|26|PRED
+	29|28|NJCT 30|31|DET 31|29|POBJ 32|34|COM 33|34|JCT 34|28|APP 35|6|PUNCT
+%trn:	conj|but prep|as det:art|a n|result pro:int|what~cop|be&3S
+	adv|real&dadj-LY adj|interesting aux|be&3S comp|that det:art|the
+	n|architecture prep|of det:art|the co|quote_unquote n:prop|French
+	n:prop|Quarter pro:rel|which adj|local n|resident-PL mod|will
+	adv|still v|interpret prep|as n:prop|French cop|be&PAST&13S
+	adv|actual&dadj-LY n:prop|Spanish prep|through det:dem|this
+	det:num|one co|you_know adv|kind_of n|accident .
+%grt:	1|9|LINK 2|9|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|9|CSUBJ 7|8|JCT
+	8|6|PRED 9|0|ROOT 10|26|LINK 11|12|DET 12|26|SUBJ 13|12|NJCT
+	14|17|DET 15|17|COM 16|17|NAME 17|13|POBJ 18|23|LINK 19|20|MOD
+	20|23|SUBJ 21|23|AUX 22|23|JCT 23|17|CMOD 24|23|JCT 25|24|POBJ
+	26|9|CPRED 27|26|JCT 28|26|PRED 29|26|JCT 30|34|DET 31|34|QUANT
+	32|34|COM 33|34|NJCT 34|29|POBJ 35|9|PUNCT
+*PAR:	and so one of the things that's interesting that we might talk
+	about a_little later is how the kind_of cultural memory of the
+	physical environment jives or doesn't jive with what actually
+	happened .
+%mor:	coord|and adv|so det:num|one prep|of det:art|the n|thing-PL
+	pro:rel|that~cop|be&3S adj|interesting comp|that pro:sub|we
+	mod|might v|talk prep|about adv|a_little adv|later cop|be&3S
+	pro:int|how det:art|the adv|kind_of adj|cultural n|memory prep|of
+	det:art|the adj|physical n|environment v|jive-3S coord|or
+	mod|do&3S~neg|not v|jive prep|with pro:int|what adv|actual&dadj-LY
+	part|happen-PASTP .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|LINK 8|6|CMOD
+	9|8|PRED 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CMOD 14|13|JCT 15|17|JCT
+	16|17|JCT 17|14|CPOBJ 18|27|LINK 19|22|DET 20|21|JCT 21|22|MOD
+	22|27|SUBJ 23|22|NJCT 24|26|DET 25|26|MOD 26|23|POBJ 27|17|CPRED 28|27|CONJ
+	29|31|AUX 30|29|NEG 31|28|COORD 32|31|JCT 33|35|LINK 34|35|JCT 35|32|CPOBJ
+	36|3|PUNCT
+%trn:	coord|and adv|so pro:indef|one prep|of det:art|the n|thing-PL
+	pro:rel|that~cop|be&3S adj|interesting pro:rel|that pro:sub|we
+	mod|might v|talk adv|about adv|a_little adv|later cop|be&3S
+	pro:int|how det:art|the adv|kind_of adj|cultural n|memory prep|of
+	det:art|the adj|physical n|environment v|jive-3S coord|or
+	mod|do&3S~neg|not v|jive prep|with pro:int|what adv|actual&dadj-LY
+	v|happen-PAST .
+%grt:	1|17|LINK 2|17|JCT 3|17|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|LINK
+	8|6|CMOD 9|8|PRED 10|13|LINK 11|13|SUBJ 12|13|AUX 13|6|CMOD
+	14|13|JCT 15|16|JCT 16|13|JCT 17|0|ROOT 18|27|LINK 19|22|DET
+	20|21|JCT 21|22|MOD 22|27|SUBJ 23|22|NJCT 24|26|DET 25|26|MOD
+	26|23|POBJ 27|17|CPRED 28|27|CONJ 29|31|AUX 30|29|NEG 31|28|COORD
+	32|27|JCT 33|35|LINK 34|35|JCT 35|32|CPOBJ 36|17|PUNCT
+*PAR:	and I think this really gets [//] connects to in part the [//] that
+	first Yench article that we talked about last week .
+%mor:	coord|and pro:sub|I v|think pro:dem|this adv|real&dadj-LY
+	v|connect-3S prep|to prep|in n|part pro:rel|that adv|first
+	n:prop|Yench n|article pro:rel|that pro:sub|we v|talk-PAST
+	prep|about adj|last n|week .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|CJCT 7|6|JCT 8|7|POBJ
+	9|8|POBJ 10|13|LINK 11|13|MOD 12|13|MOD 13|9|CMOD 14|16|LINK 15|16|SUBJ
+	16|13|CMOD 17|16|JCT 18|19|MOD 19|17|POBJ 20|3|PUNCT
+%trn:	coord|and pro:sub|I v|think pro:dem|this adv|real&dadj-LY
+	v|connect-3S prep|to prep|in adj|part det:dem|that adj|first
+	n:prop|Yench n|article pro:rel|that pro:sub|we v|talk-PAST
+	prep|about adj|last n|week .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|JCT 6|3|COMP 7|6|JCT
+	8|13|NJCT 9|8|POBJ 10|13|DET 11|13|MOD 12|13|MOD 13|7|POBJ
+	14|16|LINK 15|16|SUBJ 16|13|CMOD 17|16|JCT 18|19|MOD 19|16|JCT
+	20|3|PUNCT
+*PAR:	and how she was talking about the folk mythologies that build up
+	about houses .
+%mor:	coord|and pro:int|how pro:sub|she aux|be&PAST&13S part|talk-PRESP
+	prep|about det:art|the n|folk n|mythology-PL pro:rel|that v|build
+	adv|up prep|about n|house-PL .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|LINK 11|9|CMOD 12|11|JCT 13|11|JCT 14|13|POBJ 15|5|PUNCT
+%trn:	coord|and pro:int|how pro:sub|she aux|be&PAST&13S part|talk-PRESP
+	prep|about det:art|the n|folk n|mythology-PL pro:rel|that v|build
+	adv|up prep|about n|house-PL .
+%grt:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|LINK 11|9|CMOD 12|11|JCT 13|11|JCT 14|13|POBJ
+	15|5|PUNCT
+*PAR:	and what [//] what's remembered is what the contemporary community
+	thinks is important but isn't necessarily based in historical
+	reality .
+%mor:	coord|and pro:int|what~aux|be&3S part|remember-PASTP cop|be&3S
+	pro:int|what det:art|the adj|contemporary n|community v|think-3S
+	cop|be&3S adj|important conj|but aux|be&3S~neg|not
+	adv|necessary&dadj-LY part|base-PASTP prep|in adj|historic-AL
+	n|real&dadj-ITY .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|5|SUBJ 5|0|ROOT 6|10|LINK 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|5|CPRED 11|10|OBJ 12|11|PRED 13|10|CONJ 14|17|AUX 15|14|NEG
+	16|17|JCT 17|13|COORD 18|17|JCT 19|20|MOD 20|18|POBJ 21|5|PUNCT
+%trn:	coord|and pro:int|what~aux|be&3S part|remember-PASTP cop|be&3S
+	pro:int|what det:art|the adj|contemporary n|community v|think-3S
+	cop|be&3S adj|important conj|but aux|be&3S~neg|not
+	adv|necessary&dadj-LY part|base-PASTP prep|in adj|historic-AL
+	n|real&dadj-ITY .
+%grt:	1|5|LINK 2|4|SUBJ 3|4|AUX 4|5|CSUBJ 5|0|ROOT 6|10|LINK 7|9|DET
+	8|9|MOD 9|10|SUBJ 10|5|CPRED 11|10|COMP 12|11|PRED 13|10|CONJ
+	14|17|AUX 15|14|NEG 16|17|JCT 17|13|COORD 18|17|JCT 19|20|MOD
+	20|18|POBJ 21|5|PUNCT
+*PAR:	and the French Quarter was another really good example .
+%mor:	coord|and det:art|the n:prop|French n:prop|Quarter cop|be&PAST&13S
+	qn|another adv|real&dadj-LY adj|good n|example .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|9|QUANT 7|8|JCT 8|9|MOD
+	9|5|PRED 10|5|PUNCT
+%trn:	coord|and det:art|the n:prop|French n:prop|Quarter cop|be&PAST&13S
+	qn|another adv|real&dadj-LY adj|good n|example .
+%grt:	1|5|LINK 2|4|DET 3|4|NAME 4|5|SUBJ 5|0|ROOT 6|9|QUANT 7|8|JCT
+	8|9|MOD 9|5|PRED 10|5|PUNCT
+*PAR:	that it became really important for the community to remember its
+	French heritage .
+%mor:	comp|that pro:per|it cop|become&PAST adv|real&dadj-LY adj|important
+	prep|for det:art|the n|community inf|to v|remember det:poss|its
+	n:prop|French n|heritage .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|JCT 7|8|DET 8|6|POBJ
+	9|10|INF 10|3|XJCT 11|13|DET 12|13|MOD 13|10|OBJ 14|3|PUNCT
+%trn:	comp|that pro:per|it cop|become&PAST adv|real&dadj-LY adj|important
+	prep|for det:art|the n|community inf|to v|remember det:poss|its
+	n:prop|French n|heritage .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|JCT 7|8|DET
+	8|6|POBJ 9|10|INF 10|5|XMOD 11|13|DET 12|13|MOD 13|10|OBJ 14|3|PUNCT
+*PAR:	it was not so important to remember the Spanish heritage .
+%mor:	pro:per|it cop|be&PAST&13S neg|not adv|so adj|important inf|to
+	v|remember det:art|the n:prop|Spanish n|heritage .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|7|INF 7|5|XMOD 8|10|DET
+	9|10|MOD 10|7|OBJ 11|2|PUNCT
+%trn:	pro:per|it cop|be&PAST&13S neg|not adv|so adj|important inf|to
+	v|remember det:art|the n:prop|Spanish n|heritage .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|7|INF 7|5|XMOD
+	8|10|DET 9|10|MOD 10|7|OBJ 11|2|PUNCT
+*PAR:	so ‡ as a result <that kind_of> [/] that kind_of folk history of
+	French Quarter architecture has been really clouded over .
+%mor:	co|so beg|beg prep|as det:art|a n|result pro:rel|that adv|kind_of
+	n|folk n|history prep|of n:prop|French n:prop|Quarter n|architecture
+	aux|have&3S aux|be&PASTP adv|real&dadj-LY v|cloud-PAST adv|over .
+%gra:	1|0|BEG 2|1|BEGP 3|17|JCT 4|5|DET 5|3|POBJ 6|9|LINK 7|9|JCT 8|9|MOD
+	9|5|CMOD 10|9|NJCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|0|ROOT 18|17|JCT 19|17|PUNCT
+%trn:	co|so beg|beg prep|as det:art|a n|result det:dem|that adv|kind_of
+	n|folk n|history prep|of n:prop|French n:prop|Quarter n|architecture
+	aux|have&3S aux|be&PASTP adv|real&dadj-LY part|cloud-PASTP adv|over .
+%grt:	1|0|BEG 2|1|BEGP 3|17|JCT 4|5|DET 5|3|POBJ 6|9|DET 7|9|NJCT
+	8|9|MOD 9|17|SUBJ 10|9|NJCT 11|12|NAME 12|13|MOD 13|10|POBJ 14|17|AUX
+	15|17|AUX 16|17|JCT 17|0|ROOT 18|17|JCT 19|17|PUNCT
+*PAR:	another &w way it has is through food .
+%mor:	qn|another n|way pro:per|it aux|have&3S cop|be&3S prep|through
+	n|food .
+%gra:	1|2|QUANT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%trn:	qn|another n|way pro:per|it aux|have&3S cop|be&3S prep|through
+	n|food .
+%grt:	1|2|QUANT 2|5|SUBJ 3|4|SUBJ 4|2|CMOD 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|PUNCT
+*PAR:	anyone know about jambalaya ?
+%mor:	pro:indef|anyone v|know prep|about n|jambalaya ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%trn:	pro:indef|anyone v|know prep|about n|jambalaya ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*PAR:	what's [/] &j what's jambalaya ?
+%mor:	pro:int|what~cop|be&3S n|jambalaya ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%trn:	pro:int|what~cop|be&3S n|jambalaya ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	how do you make jambalaya ?
+%mor:	pro:int|how mod|do pro:per|you v|make n|jambalaya ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%trn:	pro:int|how mod|do pro:per|you v|make n|jambalaya ?
+%grt:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	there are African influences definitely in jambalaya but there
+	wasn't any rice in Louisiana until the Spanish arrived .
+%mor:	pro:exist|there cop|be&PRES n:prop|African n|influence-PL
+	adv|definite&dadj-LY prep|in n|jambalaya conj|but pro:exist|there
+	cop|be&PAST&13S~neg|not qn|any n|rice prep|in n:prop|Louisiana
+	conj|until det:art|the n:prop|Spanish v|arrive-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|NJCT 6|5|JCT 7|6|POBJ 8|10|LINK
+	9|10|SUBJ 10|2|CJCT 11|10|NEG 12|13|QUANT 13|10|PRED 14|13|NJCT
+	15|14|POBJ 16|19|LINK 17|18|DET 18|19|SUBJ 19|10|CJCT 20|2|PUNCT
+%trn:	pro:exist|there cop|be&PRES n:prop|African n|influence-PL
+	adv|definite&dadj-LY prep|in n|jambalaya conj|but pro:exist|there
+	cop|be&PAST&13S~neg|not qn|any n|rice prep|in n:prop|Louisiana
+	conj|until det:art|the n:prop|Spanish v|arrive-PAST .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|2|JCT 7|6|POBJ
+	8|10|LINK 9|10|SUBJ 10|2|CJCT 11|10|NEG 12|13|QUANT 13|10|PRED
+	14|13|NJCT 15|14|POBJ 16|19|LINK 17|18|DET 18|19|SUBJ 19|10|CJCT
+	20|2|PUNCT
+*PAR:	not a whole lot of it .
+%mor:	neg|not det:art|a adj|whole n|lot prep|of pro:per|it .
+%gra:	1|4|NEG 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+%trn:	neg|not det:art|a adj|whole n|lot prep|of pro:per|it .
+%grt:	1|4|NEG 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and it looks a heck of a lot like paella .
+%mor:	coord|and pro:per|it v|look-3S det:art|a n|heck prep|of det:art|a
+	n|lot prep|like n|paella .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+%trn:	coord|and pro:per|it v|look-3S det:art|a n|heck prep|of det:art|a
+	n|lot prep|like n|paella .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|3|JCT 10|9|POBJ 11|3|PUNCT
+*PAR:	you know about the Spanish dish paella ?
+%mor:	pro:per|you v|know prep|about det:art|the n:prop|Spanish n|dish
+	n|paella ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|DET 5|7|MOD 6|7|MOD 7|3|POBJ 8|2|PUNCT
+%trn:	pro:per|you v|know prep|about det:art|the n:prop|Spanish n|dish
+	n|paella ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|6|APP
+	8|2|PUNCT
+*PAR:	it's indistinguishable except that Louisianans put a_lot_o(f) hot
+	sauce in [/] in their paella .
+%mor:	pro:per|it~cop|be&3S in#adj|distinguish&dv-ABLE conj|except
+	comp|that n:prop|Louisianans v|put&ZERO qn|a_lot_of adj|hot n|sauce
+	prep|in det:poss|their n|paella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|10|QUANT 9|10|MOD 10|7|OBJ 11|7|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+%trn:	pro:per|it~cop|be&3S in#adj|distinguish&dv-ABLE conj|except comp|that
+	n:prop|Louisianans v|put&ZERO qn|a_lot_of adj|hot n|sauce
+	prep|in det:poss|their n|paella .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|7|LINK 5|7|LINK 6|7|SUBJ 7|2|CJCT
+	8|10|QUANT 9|10|MOD 10|7|OBJ 11|7|JCT 12|13|DET 13|11|POBJ
+	14|2|PUNCT
+*PAR:	so ‡ that's another thing that's classically kind_of Louisiana
+	material culture .
+%mor:	co|so beg|beg pro:dem|that~cop|be&3S qn|another n|thing
+	pro:rel|that~cop|be&3S adv|classic&dadj-AL-LY adv|kind_of
+	n:prop|Louisiana adj|material n|culture .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|13|JCT 11|13|MOD 12|13|MOD 13|8|PRED 14|4|PUNCT
+%trn:	co|so beg|beg pro:dem|that~cop|be&3S qn|another n|thing
+	pro:rel|that~cop|be&3S adv|classic&dadj-AL-LY adv|kind_of
+	n:prop|Louisiana adj|material n|culture .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|8|LINK
+	8|6|CMOD 9|8|JCT 10|13|NJCT 11|13|MOD 12|13|MOD 13|8|PRED 14|4|PUNCT
+*PAR:	it's a contribution from the Spanish but that Spanish heritage for
+	whatever reason that I'm still interested in figuring out myself
+	+//.
+%mor:	pro:per|it~cop|be&3S det:art|a n|contribute&dv-TION prep|from
+	det:art|the n:prop|Spanish conj|but pro:dem|that n:prop|Spanish
+	n|heritage prep|for det:int|whatever n|reason pro:rel|that
+	pro:sub|I~aux|be&1S adv|still part|interest-PASTP prep|in
+	n:gerund|figure-PRESP adv|out pro:refl|myself +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|CONJ
+	9|11|MOD 10|11|MOD 11|8|COORD 12|11|NJCT 13|14|MOD 14|12|POBJ 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|14|CMOD 20|19|JCT 21|20|POBJ 22|21|JCT
+	23|21|OM 24|2|PUNCT
+%trn:	pro:per|it~cop|be&3S det:art|a n|contribute&dv-TION prep|from
+	det:art|the n:prop|Spanish conj|but det:dem|that n:prop|Spanish
+	n|heritage prep|for det:int|whatever n|reason pro:rel|that
+	pro:sub|I~aux|be&1S adv|still part|interest-PASTP prep|in
+	n:gerund|figure-PRESP adv|out pro:refl|myself +//.
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|11|LINK 9|11|DET 10|11|MOD 11|2|OM 12|11|NJCT 13|14|MOD
+	14|12|POBJ 15|19|LINK 16|19|SUBJ 17|19|AUX 18|19|JCT 19|14|CMOD
+	20|19|JCT 21|20|POBJ 22|21|JCT 23|19|JCT 24|2|PUNCT
+*PAR:	I don't have a real clear answer .
+%mor:	pro:sub|I mod|do~neg|not v|have det:art|a adj|real adj|clear
+	n|answer .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+%trn:	pro:sub|I mod|do~neg|not v|have det:art|a adj|real adj|clear
+	n|answer .
+%grt:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*PAR:	has been forgotten in folk [//] collective folk memory .
+%mor:	aux|have&3S aux|be&PASTP part|forget&PASTP prep|in adj|collective
+	n|folk n|memory .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|MOD 6|7|MOD 7|4|POBJ 8|3|PUNCT
+%trn:	aux|have&3S aux|be&PASTP part|forget&PASTP prep|in adj|collective
+	n|folk n|memory .
+%grt:	1|3|AUX 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|MOD 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	yeah I think part of it is that there [/] there was actually a
+	revolution against the Spanish when they tried to take over .
+%mor:	co|yeah pro:sub|I v|think n|part prep|of pro:per|it cop|be&3S
+	comp|that pro:exist|there cop|be&PAST&13S adv|actual&dadj-LY
+	det:art|a n|revolution prep|against det:art|the n:prop|Spanish
+	conj|when pro:sub|they v|try-PAST inf|to v|take adv|over .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|3|COMP 8|10|LINK
+	9|10|SUBJ 10|7|PRED 11|13|JCT 12|13|DET 13|10|PRED 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|10|CJCT 20|21|INF 21|19|COMP
+	22|21|JCT 23|3|PUNCT
+%trn:	co|yeah pro:sub|I v|think n|part prep|of pro:per|it cop|be&3S
+	comp|that pro:exist|there cop|be&PAST&13S adv|actual&dadj-LY
+	det:art|a n|revolution prep|against det:art|the n:prop|Spanish
+	conj|when pro:sub|they v|try-PAST inf|to v|take adv|over .
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|3|COMP
+	8|10|LINK 9|10|SUBJ 10|7|CPRED 11|10|JCT 12|13|DET 13|10|PRED
+	14|13|NJCT 15|16|DET 16|14|POBJ 17|19|LINK 18|19|SUBJ 19|10|CJCT
+	20|21|INF 21|19|COMP 22|21|JCT 23|3|PUNCT
+*PAR:	it [/] it failed and a_lot_of people lost their heads over it .
+%mor:	pro:per|it v|fail-PAST coord|and qn|a_lot_of n|person&PL
+	v|lose&PAST det:poss|their n|head-PL prep|over pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|QUANT 5|6|SUBJ 6|2|CJCT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|2|PUNCT
+%trn:	pro:per|it v|fail-PAST coord|and qn|a_lot_of n|person&PL
+	v|lose&PAST det:poss|their n|head-PL prep|over pro:per|it .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|QUANT 5|6|SUBJ 6|2|CJCT 7|8|DET
+	8|6|OBJ 9|6|JCT 10|9|POBJ 11|2|PUNCT
+*PAR:	so ‡ there was some animosity between the Spanish administrators
+	and the French populace .
+%mor:	co|so beg|beg pro:exist|there cop|be&PAST&13S qn|some n|animosity
+	prep|between det:art|the n:prop|Spanish n|administrator-PL coord|and
+	det:art|the n:prop|French n|populace .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|CONJ 12|14|DET 13|14|MOD 14|11|COORD
+	15|4|PUNCT
+%trn:	co|so beg|beg pro:exist|there cop|be&PAST&13S qn|some n|animosity
+	prep|between det:art|the n:prop|Spanish n|administrator-PL coord|and
+	det:art|the n:prop|French n|populace .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|6|NJCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|10|CONJ 12|14|DET 13|14|MOD
+	14|11|COORD 15|4|PUNCT
+*PAR:	but that after a generation or so actually calmed down and the
+	Spanish were integrated into French Creole culture .
+%mor:	conj|but pro:dem|that prep|after det:art|a n|generate&dv-TION
+	coord|or adv|so adv|actual&dadj-LY v|calm-PAST adv|down coord|and
+	det:art|the n:prop|Spanish aux|be&PAST part|integrate-PASTP
+	prep|into n:prop|French n:prop|Creole n|culture .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|9|LINK 7|9|JCT 8|9|JCT
+	9|2|CJCT 10|9|JCT 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX 15|9|CJCT
+	16|15|JCT 17|19|MOD 18|19|MOD 19|16|POBJ 20|1|PUNCT
+%trn:	conj|but pro:dem|that prep|after det:art|a n|generate&dv-TION
+	coord|or adv|so adv|actual&dadj-LY v|calm-PAST adv|down coord|and
+	det:art|the n:prop|Spanish aux|be&PAST part|integrate-PASTP
+	prep|into n:prop|French n:prop|Creole n|culture .
+%grt:	1|9|LINK 2|9|SUBJ 3|9|JCT 4|5|DET 5|3|POBJ 6|5|CONJ 7|6|COORD 8|9|JCT
+	9|0|ROOT 10|9|JCT 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX
+	15|9|CJCT 16|15|JCT 17|18|NAME 18|19|MOD 19|16|POBJ 20|9|PUNCT
+*PAR:	not only that but just from the dates it was French for &hu almost
+	a hundred years and only Spanish for forty .
+%mor:	neg|not qn|only pro:dem|that conj|but adv|just prep|from
+	det:art|the n|date-PL pro:per|it cop|be&PAST&13S n:prop|French
+	prep|for adv|almost det:art|a det:num|hundred n|year-PL coord|and
+	adv|only n:prop|Spanish prep|for det:num|forty .
+%gra:	1|2|NEG 2|3|QUANT 3|0|INCROOT 4|10|LINK 5|6|JCT 6|10|JCT 7|8|DET
+	8|6|POBJ 9|10|SUBJ 10|3|CJCT 11|10|PRED 12|11|NJCT 13|12|JCT 14|16|DET
+	15|16|QUANT 16|13|POBJ 17|16|CONJ 18|19|JCT 19|17|COORD 20|19|NJCT 21|20|POBJ
+	22|3|PUNCT
+%trn:	neg|not qn|only pro:dem|that conj|but adv|just prep|from det:art|the
+	n|date-PL pro:per|it cop|be&PAST&13S n:prop|French prep|for
+	adv|almost det:art|a det:num|hundred n|year-PL coord|and adv|only
+	n:prop|Spanish prep|for det:num|forty .
+%grt:	1|2|NEG 2|3|QUANT 3|10|TOP 4|10|LINK 5|6|JCT 6|10|JCT 7|8|DET
+	8|6|POBJ 9|10|SUBJ 10|0|ROOT 11|10|PRED 12|11|NJCT 13|16|NJCT
+	14|16|DET 15|16|QUANT 16|12|POBJ 17|11|CONJ 18|19|NJCT 19|17|COORD
+	20|19|NJCT 21|20|POBJ 22|10|PUNCT
+*PAR:	sixteen ninety nine was when the whole territory of Louisiana
+	starts to be settled .
+%mor:	det:num|sixteen det:num|ninety det:num|nine cop|be&PAST&13S
+	conj|when det:art|the adj|whole n|territory prep|of n:prop|Louisiana
+	v|start-3S inf|to aux|be part|settle-PASTP .
+%gra:	1|2|DATE 2|4|QUANT 3|4|QUANT 4|0|ROOT 5|11|LINK 6|8|DET 7|8|MOD
+	8|11|SUBJ 9|8|NJCT 10|9|POBJ 11|4|CJCT 12|14|INF 13|14|AUX 14|11|COMP
+	15|4|PUNCT
+%trn:	det:num|sixteen det:num|ninety det:num|nine cop|be&PAST&13S
+	conj|when det:art|the adj|whole n|territory prep|of n:prop|Louisiana
+	v|start-3S inf|to aux|be part|settle-PASTP .
+%grt:	1|3|DATE 2|3|DATE 3|4|SUBJ 4|0|ROOT 5|11|LINK 6|8|DET 7|8|MOD
+	8|11|SUBJ 9|8|NJCT 10|9|POBJ 11|4|CPRED 12|14|INF 13|14|AUX
+	14|11|COMP 15|4|PUNCT
+*PAR:	the other thing about New Orleans architecture and some changes
+	that occurred there is that the French +...
+%mor:	det:art|the qn|other n|thing prep|about n:prop|New n:prop|Orleans
+	n|architecture coord|and qn|some n|change-PL pro:rel|that
+	v|occur-PAST adv|there cop|be&3S comp|that det:art|the n:prop|French
+	+...
+%gra:	1|3|DET 2|3|QUANT 3|14|SUBJ 4|3|NJCT 5|7|MOD 6|7|MOD 7|4|POBJ 8|3|CONJ
+	9|10|QUANT 10|8|COORD 11|12|LINK 12|3|CMOD 13|12|JCT 14|0|ROOT
+	15|14|PRED 16|17|DET 17|15|OM 18|14|PUNCT
+%trn:	det:art|the qn|other n|thing prep|about n:prop|New n:prop|Orleans
+	n|architecture coord|and qn|some n|change-PL pro:rel|that
+	v|occur-PAST adv|there cop|be&3S comp|that det:art|the n:prop|French
+	+...
+%grt:	1|3|DET 2|3|QUANT 3|14|SUBJ 4|3|NJCT 5|6|NAME 6|7|MOD 7|4|POBJ
+	8|7|CONJ 9|10|QUANT 10|8|COORD 11|12|LINK 12|10|CMOD 13|12|JCT
+	14|0|ROOT 15|17|LINK 16|17|DET 17|14|OM 18|14|PUNCT
+*PAR:	you_know we know about &th this architecture only archeologically
+	(be)cause there are no +//.
+%mor:	co|you_know pro:sub|we v|know prep|about det:dem|this
+	n|architecture adv|only adv|archeologic&dadj-AL-LY conj|because
+	pro:exist|there cop|be&PRES qn|no +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|JCT 8|3|JCT
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|11|PRED 13|3|PUNCT
+%trn:	co|you_know pro:sub|we v|know prep|about det:dem|this
+	n|architecture adv|only adv|archeologic&dadj-AL-LY conj|because
+	pro:exist|there cop|be&PRES qn|no +//.
+%grt:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|JCT 8|3|JCT
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|11|OM 13|3|PUNCT
+*PAR:	&th there's one standing example that I excavated but <it is> [//]
+	I disagree with architectural historians about how old the structure
+	actually is .
+%mor:	pro:exist|there~cop|be&3S pro:indef|one part|stand-PRESP n|example
+	pro:rel|that pro:sub|I v|excavate-PAST conj|but pro:sub|I
+	dis#v|agree prep|with adj|architectural n|historian-PL prep|about
+	pro:int|how adj|old det:art|the n|structure adv|actual&dadj-LY
+	cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|CONJ 10|11|SUBJ 11|9|COORD 12|11|JCT 13|14|MOD 14|12|POBJ 15|11|JCT
+	16|17|JCT 17|21|PRED 18|19|DET 19|21|SUBJ 20|21|JCT 21|15|CPOBJ
+	22|2|PUNCT
+%trn:	pro:exist|there~cop|be&3S det:num|one part|stand-PRESP n|example
+	pro:rel|that pro:sub|I v|excavate-PAST conj|but pro:sub|I
+	dis#v|agree prep|with adj|architectural n|historian-PL prep|about
+	pro:int|how adj|old det:art|the n|structure adv|actual&dadj-LY
+	cop|be&3S .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|XMOD 5|2|PRED 6|8|LINK 7|8|SUBJ
+	8|5|CMOD 9|11|LINK 10|11|SUBJ 11|2|CJCT 12|11|JCT 13|14|MOD
+	14|12|POBJ 15|11|JCT 16|17|JCT 17|21|PRED 18|19|DET 19|21|SUBJ
+	20|21|JCT 21|15|CPOBJ 22|2|PUNCT
+*PAR:	it's called Madam John's Legacy .
+%mor:	pro:per|it~aux|be&3S part|call-PASTP n:prop|Madam
+	n:prop|John~cop|be&3S n:prop|Legacy .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|CJCT 7|6|PRED 8|3|PUNCT
+%trn:	pro:per|it~aux|be&3S part|call-PASTP n:prop|Madam adj|John&dn-POSS
+	n:prop|Legacy .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|NAME 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	if you're ever a tourist in New Orleans or wanna check it out it's
+	in the French Quarter .
+%mor:	conj|if pro:per|you~cop|be&PRES adv|ever det:art|a n|tour-IST
+	prep|in n:prop|New n:prop|Orleans coord|or v|want~inf|to v|check
+	pro:per|it adv|out pro:per|it~cop|be&3S prep|in det:art|the
+	n:prop|French n:prop|Quarter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|DET 6|3|PRED 7|3|JCT 8|9|NAME
+	9|7|POBJ 10|3|CONJ 11|10|COORD 12|13|INF 13|11|COMP 14|13|OBJ 15|17|JCT
+	16|17|SUBJ 17|11|COMP 18|17|JCT 19|20|DET 20|21|NAME 21|18|POBJ 22|3|PUNCT
+%trn:	conj|if pro:per|you~cop|be&PRES adv|ever det:art|a n|tour-IST
+	prep|in n:prop|New n:prop|Orleans coord|or v|want~inf|to v|check
+	pro:per|it adv|out pro:per|it~cop|be&3S prep|in det:art|the
+	n:prop|French n:prop|Quarter .
+%grt:	1|3|LINK 2|3|SUBJ 3|17|CJCT 4|6|JCT 5|6|DET 6|3|PRED 7|6|NJCT
+	8|9|NAME 9|7|POBJ 10|3|CONJ 11|10|COORD 12|13|INF 13|11|COMP
+	14|13|OBJ 15|13|JCT 16|17|SUBJ 17|0|ROOT 18|17|JCT 19|21|DET
+	20|21|NAME 21|18|POBJ 22|17|PUNCT
+*PAR:	if you go and look at it , it gives you the clearest idea of what
+	houses in the French Colonial earlier period actually looked like
+	and they're radically different from the Spanish architecture .
+%mor:	conj|if pro:per|you v|go coord|and v|look prep|at pro:per|it cm|cm
+	pro:per|it v|give-3S pro:per|you det:art|the adj|clear-SP n|idea
+	prep|of pro:int|what n|house-PL prep|in det:art|the n:prop|French
+	n:prop|Colonial adj|early-CP n|period adv|actual&dadj-LY v|look-PAST
+	prep|like coord|and pro:sub|they~cop|be&PRES adv|radical&dadj-LY
+	adj|different prep|from det:art|the n:prop|Spanish n|architecture .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|CONJ 5|4|COORD 6|5|JCT 7|6|POBJ 8|5|LP
+	9|10|SUBJ 10|0|ROOT 11|25|SUBJ 12|14|DET 13|14|MOD 14|25|SUBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|23|MOD
+	22|23|MOD 23|20|APP 24|25|JCT 25|10|COMP 26|25|JCT 27|29|LINK 28|29|SUBJ
+	29|26|CPOBJ 30|31|JCT 31|29|PRED 32|31|JCT 33|35|DET 34|35|MOD 35|32|POBJ
+	36|10|PUNCT
+%trn:	conj|if pro:per|you v|go coord|and v|look prep|at pro:per|it cm|cm
+	pro:per|it v|give-3S pro:per|you det:art|the adj|clear-SP n|idea
+	prep|of pro:int|what n|house-PL prep|in det:art|the n:prop|French
+	n:prop|Colonial adj|early-CP n|period adv|actual&dadj-LY
+	v|look-PAST prep|like coord|and pro:sub|they~cop|be&PRES
+	adv|radical&dadj-LY adj|different prep|from det:art|the
+	n:prop|Spanish n|architecture .
+%grt:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|CONJ 5|4|COORD 6|5|JCT 7|6|POBJ
+	8|3|LP 9|10|SUBJ 10|0|ROOT 11|10|OBJ2 12|14|DET 13|14|MOD 14|10|OBJ
+	15|14|NJCT 16|25|OBJ 17|25|SUBJ 18|17|NJCT 19|23|DET 20|21|NAME
+	21|23|MOD 22|23|MOD 23|18|POBJ 24|25|JCT 25|15|CPOBJ 26|25|JCT
+	27|29|LINK 28|29|SUBJ 29|25|CJCT 30|31|JCT 31|29|PRED 32|31|JCT
+	33|35|DET 34|35|MOD 35|32|POBJ 36|10|PUNCT
+*PAR:	but one thing that they incorporated that French architecture did
+	not have , and this was an example of an adaptation to the
+	environment the colonists hadta make , was building the house
+	basically around a courtyard .
+%mor:	conj|but det:num|one n|thing pro:rel|that pro:sub|they
+	v|incorporate-PAST comp|that n:prop|French n|architecture
+	mod|do&PAST neg|not v|have cm|cm coord|and pro:dem|this
+	cop|be&PAST&13S det:art|a n|example prep|of det:art|a
+	n|adapt&dv-TION prep|to det:art|the n|environment det:art|the
+	n|colony-IST-PL mod|have&PAST~inf|to v|make cm|cm cop|be&PAST&13S
+	n:gerund|build-PRESP det:art|the n|house adv|basic&dadj-AL-LY
+	prep|around det:art|a n|courtyard .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|12|LINK
+	8|9|MOD 9|12|SUBJ 10|12|AUX 11|10|NEG 12|6|COMP 13|12|LP 14|16|LINK
+	15|16|SUBJ 16|6|CJCT 17|18|DET 18|31|SUBJ 19|18|NJCT 20|21|DET 21|19|POBJ
+	22|18|NJCT 23|24|DET 24|22|POBJ 25|26|DET 26|29|SUBJ 27|29|AUX 28|29|INF
+	29|18|CMOD 30|29|LP 31|16|PRED 32|31|PRED 33|34|DET 34|32|OBJ 35|32|JCT
+	36|32|JCT 37|38|DET 38|36|POBJ 39|3|PUNCT
+%trn:	conj|but det:num|one n|thing pro:rel|that pro:sub|they
+	v|incorporate-PAST comp|that n:prop|French n|architecture
+	mod|do&PAST neg|not v|have cm|cm coord|and pro:dem|this
+	cop|be&PAST&13S det:art|a n|example prep|of det:art|a
+	n|adapt&dv-TION prep|to det:art|the n|environment det:art|the
+	n|colony-IST-PL mod|have&PAST~inf|to v|make cm|cm cop|be&PAST&13S
+	n:gerund|build-PRESP det:art|the n|house adv|basic&dadj-AL-LY
+	prep|around det:art|a n|courtyard .
+%grt:	1|31|LINK 2|3|QUANT 3|31|SUBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|12|LINK
+	8|9|MOD 9|12|SUBJ 10|12|AUX 11|10|NEG 12|3|CMOD 13|12|LP 14|16|LINK
+	15|16|SUBJ 16|31|CJCT 17|18|DET 18|16|PRED 19|18|NJCT 20|21|DET
+	21|19|POBJ 22|21|NJCT 23|24|DET 24|22|POBJ 25|26|DET 26|29|SUBJ
+	27|29|AUX 28|29|INF 29|21|XMOD 30|16|LP 31|0|ROOT 32|31|PRED
+	33|34|DET 34|32|OBJ 35|36|JCT 36|32|JCT 37|38|DET 38|36|POBJ
+	39|31|PUNCT
+*PAR:	an open air room was basically how they used it and what they
+	called it .
+%mor:	det:art|a adj|open n|air n|room cop|be&PAST&13S
+	adv|basic&dadj-AL-LY pro:int|how pro:sub|they v|use-PAST pro:per|it
+	coord|and pro:int|what pro:sub|they v|call-PAST pro:per|it .
+%gra:	1|4|DET 2|3|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|5|CPRED 10|9|OBJ 11|9|CONJ 12|14|LINK 13|14|SUBJ 14|11|COORD 15|14|OBJ
+	16|5|PUNCT
+%trn:	det:art|a adj|open n|air n|room cop|be&PAST&13S
+	adv|basic&dadj-AL-LY pro:int|how pro:sub|they v|use-PAST pro:per|it
+	coord|and pro:int|what pro:sub|they v|call-PAST pro:per|it .
+%grt:	1|4|DET 2|3|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|5|CPRED 10|9|OBJ 11|9|CONJ 12|14|LINK 13|14|SUBJ 14|11|COORD
+	15|14|OBJ 16|5|PUNCT
+*PAR:	I_mean if you imagine Louisiana has &t you_know temperatures in the
+	nineties and ninety percent humidity for four or five months out_of
+	the year .
+%mor:	co|I_mean conj|if pro:per|you v|imagine n:prop|Louisiana v|have&3S
+	co|you_know n|temperature-PL prep|in det:art|the n|ninety-PL
+	coord|and det:num|ninety n|percent n|humidity prep|for det:num|four
+	coord|or det:num|five n|month-PL prep|out_of det:art|the n|year .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|COM 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|6|CONJ 13|14|QUANT 14|15|MOD 15|12|COORD
+	16|15|NJCT 17|20|QUANT 18|17|CONJ 19|18|COORD 20|16|POBJ 21|20|NJCT
+	22|23|DET 23|21|POBJ 24|4|PUNCT
+%trn:	co|I_mean conj|if pro:per|you v|imagine n:prop|Louisiana
+	v|have&3S co|you_know n|temperature-PL prep|in det:art|the
+	n|ninety-PL coord|and det:num|ninety n|percent n|humidity prep|for
+	det:num|four coord|or det:num|five n|month-PL prep|out_of
+	det:art|the n|year .
+%grt:	1|6|COM 2|4|LINK 3|4|SUBJ 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|6|COM 8|6|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|14|QUANT 14|15|MOD
+	15|12|COORD 16|6|JCT 17|20|QUANT 18|17|CONJ 19|18|COORD 20|16|POBJ
+	21|20|NJCT 22|23|DET 23|21|POBJ 24|6|PUNCT
+*PAR:	you really just don't wanna be indoors .
+%mor:	pro:per|you adv|real&dadj-LY adv|just mod|do~neg|not v|want~inf|to
+	cop|be adv|indoors .
+%gra:	1|6|SUBJ 2|6|JCT 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|6|PUNCT
+%trn:	pro:per|you adv|real&dadj-LY adv|just mod|do~neg|not v|want~inf|to
+	cop|be adv|indoors .
+%grt:	1|6|SUBJ 2|6|JCT 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|6|PUNCT
+*PAR:	so ‡ a_lot_of activities in the summer occurred outside .
+%mor:	co|so beg|beg qn|a_lot_of n|active&dadj-ITY-PL prep|in det:art|the
+	n|summer v|occur-PAST adv|outside .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|8|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+%trn:	co|so beg|beg qn|a_lot_of n|active&dadj-ITY-PL prep|in det:art|the
+	n|summer v|occur-PAST adv|outside .
+%grt:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|8|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|0|ROOT 9|8|JCT 10|8|PUNCT
+*PAR:	so ‡ one of the very quickest adaptations to the environment that
+	occurred architecturally was to start using &out outdoor space in a
+	different way .
+%mor:	co|so beg|beg det:num|one prep|of det:art|the adv|very adj|quick-SP
+	n|adapt&dv-TION-PL prep|to det:art|the n|environment pro:rel|that
+	v|occur-PAST adv|architectural&dadj-LY cop|be&PAST&13S inf|to
+	v|start part|use-PRESP adj|outdoor n|space prep|in det:art|a
+	adj|different n|way .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|JCT 5|8|DET 6|7|JCT 7|8|MOD 8|4|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|LINK 13|11|CMOD 14|15|JCT 15|13|COMP
+	16|17|INF 17|15|CPRED 18|17|COMP 19|20|MOD 20|18|OBJ 21|18|JCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|3|PUNCT
+%trn:	co|so beg|beg pro:indef|one prep|of det:art|the adv|very adj|quick-SP
+	n|adapt&dv-TION-PL prep|to det:art|the n|environment pro:rel|that
+	v|occur-PAST adv|architectural&dadj-LY cop|be&PAST&13S inf|to
+	v|start part|use-PRESP adj|outdoor n|space prep|in det:art|a
+	adj|different n|way .
+%grt:	1|0|BEG 2|1|BEGP 3|15|SUBJ 4|3|JCT 5|8|DET 6|7|JCT 7|8|MOD
+	8|4|POBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|13|LINK 13|8|CMOD
+	14|13|JCT 15|0|ROOT 16|17|INF 17|15|CPRED 18|17|COMP 19|20|MOD
+	20|18|OBJ 21|18|JCT 22|24|DET 23|24|MOD 24|21|POBJ 25|15|PUNCT
+*PAR:	and part of the idea of this +//.
+%mor:	coord|and n|part prep|of det:art|the n|idea prep|of pro:dem|this
+	+//.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+%trn:	coord|and n|part prep|of det:art|the n|idea prep|of pro:dem|this
+	+//.
+%grt:	1|2|LINK 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	just like we talked about the idea of porches coming from Africa ,
+	the courtyard tradition may have also been an idea influenced by
+	Louisiana's early African pioneers .
+%mor:	adv|just prep|like pro:sub|we v|talk-PAST prep|about det:art|the
+	n|idea prep|of n|porch-PL part|come-PRESP prep|from n:prop|Africa
+	cm|cm det:art|the n|courtyard n|tradition mod|may v|have adv|also
+	cop|be&PASTP det:art|a n|idea v|influence-PAST prep|by
+	n:prop|Louisiana~cop|be&3S adj|early n:prop|African n|pioneer-PL .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|18|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|9|XMOD 11|10|JCT 12|11|POBJ 13|4|LP 14|16|DET 15|16|MOD
+	16|18|SUBJ 17|18|AUX 18|23|SUBJ 19|18|JCT 20|23|AUX 21|22|DET 22|23|SUBJ
+	23|0|ROOT 24|23|JCT 25|26|SUBJ 26|24|POBJ 27|29|MOD 28|29|MOD 29|26|PRED
+	30|23|PUNCT
+%trn:	adv|just prep|like pro:sub|we v|talk-PAST prep|about det:art|the
+	n|idea prep|of n|porch-PL part|come-PRESP prep|from n:prop|Africa
+	cm|cm det:art|the n|courtyard n|tradition mod|may aux|have adv|also
+	cop|be&PASTP det:art|a n|idea part|influence-PASTP prep|by
+	adj|Louisiana&dn-POSS adj|early n:prop|African n|pioneer-PL .
+%grt:	1|2|JCT 2|20|JCT 3|4|SUBJ 4|2|CPOBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|7|XMOD 11|10|JCT 12|11|POBJ 13|4|LP 14|16|DET
+	15|16|MOD 16|20|SUBJ 17|20|AUX 18|20|AUX 19|20|JCT 20|0|ROOT
+	21|22|DET 22|20|PRED 23|22|XMOD 24|23|JCT 25|28|MOD 26|28|MOD
+	27|28|MOD 28|24|POBJ 29|20|PUNCT
+@End

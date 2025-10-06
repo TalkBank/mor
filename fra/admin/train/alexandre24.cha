@@ -1,0 +1,287 @@
+@UTF8
+@PID:	11312/c-00029318&1
+@Begin
+@Languages:	fra
+@Participants:	CHI Alexandre Target_Child
+@ID:	fra|Paris-Corpus_Alexandre|CHI|2;0.|male|CTR|MC|Target_Child|nursery||
+@Situation:	replica task using FP play family house
+*CHI:	la voiture rouge .
+%mor:	det:art|la&f&sg^pro:obj|la n|voiture&f adj|rouge .
+%trn:	det:art|la&f&sg n|voiture&f adj|rouge .
+*CHI:	bonhomme .
+%mor:	n|bonhomme&m .
+%trn:	n|bonhomme&m .
+%cod:	$det=0b
+*CHI:	oh tomber bonhomme .
+%mor:	co|oh v|tomber-INF n|bonhomme&m .
+%trn:	co|oh v|tomber-INF n|bonhomme&m .
+%cod:	$det=0b
+*CHI:	oh a pris bonhomme .
+%mor:	co|oh v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s
+	part|prendre-PP&m^v|prendre-PASS&12s n|bonhomme&m .
+%trn:	co|oh v:aux|avoir&PRES&3s part|prendre-PP&m n|bonhomme&m .
+%cod:	$det=0b
+*CHI:	donner la fessée .
+%mor:	v|donner-INF det:art|la&f&sg^pro:obj|la n|fessée&f^part|fesser-PP&f
+	.
+%trn:	v|donner-INF det:art|la&f&sg n|fessée&f .
+%cod:	$det=okb
+*CHI:	chien voiture .
+%mor:	n|chien&m n|voiture&f .
+%trn:	n|chien&m n|voiture&f .
+%cod:	$det=0m
+*CHI:	oh !
+%mor:	co|oh !
+%trn:	co|oh !
+*CHI:	oh , promener voiture .
+%mor:	co|oh cm|cm v|promener-INF n|voiture&f .
+%trn:	co|oh cm|cm v|promener-INF n|voiture&f .
+%cod:	$det=0b
+*CHI:	promener bébé .
+%mor:	v|promener-INF n|bébé&m .
+%trn:	v|promener-INF n|bébé&m .
+%cod:	$det=0b
+*CHI:	assis .
+%mor:	part|asseoir&PP&m^v|asseoir&PASS&12s .
+%trn:	v|asseoir&PASS&12s .
+*CHI:	asseoir bébé .
+%mor:	v|asseoir&INF n|bébé&m .
+%trn:	v|asseoir&INF n|bébé&m .
+%cod:	$det=0b
+*CHI:	manger .
+%mor:	n|manger&m=food^v|manger-INF .
+%trn:	v|manger-INF .
+*CHI:	allez , manger .
+%mor:	v:mdllex|aller&IMP&2p^v:mdl|aller&IMP&2p^v:mdllex|aller&PRES&2p^v:mdl|aller&PRES&2p
+	cm|cm n|manger&m=food^v|manger-INF .
+%trn:	v:mdl|aller&IMP&2p cm|cm n|manger&m=food .
+*CHI:	non pas manger .
+%mor:	co|non=no neg|pas n|manger&m=food^v|manger-INF .
+%trn:	co|non=no neg|pas v|manger-INF .
+*CHI:	ici .
+%mor:	adv:place|ici .
+%trn:	adv:place|ici .
+*CHI:	oh nounours .
+%mor:	co|oh n|nounours&m=teddy_bear .
+%trn:	co|oh n|nounours&m=teddy_bear .
+*CHI:	promener poussette .
+%mor:	v|promener-INF n|poussette&f .
+%trn:	v|promener-INF n|poussette&f .
+%cod:	$det=0b
+*CHI:	manger .
+%mor:	n|manger&m=food^v|manger-INF .
+%trn:	v|manger-INF .
+*CHI:	bonhomme là .
+%mor:	n|bonhomme&m adv:place|là .
+%trn:	n|bonhomme&m adv:place|là .
+%cod:	$det=0b
+*CHI:	oh !
+%mor:	co|oh !
+%trn:	co|oh !
+*CHI:	un autre .
+%mor:	det:art|un&m&sg^pro|un&m&sg det:gen|autre&sg^pro|autre&sg .
+%trn:	det:art|un&m&sg pro|autre&sg .
+*CHI:	ah bon !
+%mor:	co|ah co|bon^adj|bon&m !
+%trn:	co|ah co|bon !
+*CHI:	mettre voiture .
+%mor:	v|mettre-INF n|voiture&f .
+%trn:	v|mettre-INF n|voiture&f .
+%cod:	$det=0b
+*CHI:	mettre voiture rouge .
+%mor:	v|mettre-INF n|voiture&f adj|rouge .
+%trn:	v|mettre-INF n|voiture&f adj|rouge .
+%cod:	$det=0b
+*CHI:	deux .
+%mor:	n|deux&m^num|deux .
+%trn:	num|deux .
+*CHI:	oh si !
+%mor:	co|oh n|si&m^adv|si^co|si^conj|si !
+%trn:	co|oh adv|si !
+*CHI:	vroum !
+%mor:	co|vroum=car !
+%trn:	co|vroum=car !
+*CHI:	petite chaise .
+%mor:	adj|petit&f n|chaise&f .
+%trn:	adj|petit&f n|chaise&f .
+%cod:	$det=0b
+*CHI:	cassé .
+%mor:	part|casser-PP&m .
+%trn:	part|casser-PP&m .
+*CHI:	oh cassé poussette .
+%mor:	co|oh part|casser-PP&m n|poussette&f .
+%trn:	co|oh part|casser-PP&m n|poussette&f .
+%cod:	$det=0b
+*CHI:	cassé cheval .
+%mor:	part|casser-PP&m n|cheval&m&sg .
+%trn:	part|casser-PP&m n|cheval&m&sg .
+%cod:	$det=0b
+*CHI:	descend cheval .
+%mor:	v|descendre-PRES&3s n|cheval&m&sg .
+%trn:	v|descendre-PRES&3s n|cheval&m&sg .
+%cod:	$det=0b
+*CHI:	tomber .
+%mor:	v|tomber-INF .
+%trn:	v|tomber-INF .
+*CHI:	promener .
+%mor:	v|promener-INF .
+%trn:	v|promener-INF .
+*CHI:	a mangé .
+%mor:	v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s part|manger-PP&m .
+%trn:	v:aux|avoir&PRES&3s part|manger-PP&m .
+*CHI:	riz .
+%mor:	n|riz&m .
+%trn:	n|riz&m .
+%cod:	$det=0m
+*CHI:	légumes a mangé .
+%mor:	n|légume-PL v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s
+	part|manger-PP&m .
+%trn:	n|légume-PL v:aux|avoir&PRES&3s part|manger-PP&m .
+*CHI:	clémentines .
+%mor:	n|clémentine&f-PL .
+%trn:	n|clémentine&f-PL .
+%cod:	$det=0t
+*CHI:	dans la poussette .
+%mor:	prep|dans det:art|la&f&sg^pro:obj|la n|poussette&f .
+%trn:	prep|dans det:art|la&f&sg n|poussette&f .
+%cod:	$det=okb
+*CHI:	pas mis dedans la poussette .
+%mor:	neg|pas adj|mi&m-PL=half^part|mettre-PP&m^v|mettre-PASS&12s
+	adv:place|dedans det:art|la&f&sg^pro:obj|la n|poussette&f .
+%trn:	neg|pas part|mettre-PP&m adv:place|dedans det:art|la&f&sg
+	n|poussette&f .
+%cod:	$det=okb
+*CHI:	ça passe pas .
+%mor:	pro:dem|ça v|passer-IMP&2s^v|passer-PRES&SUB&13s neg|pas .
+%trn:	pro:dem|ça v|passer-PRES&SUB&13s neg|pas .
+*CHI:	coucou .
+%mor:	co|coucou=peekaboo .
+%trn:	co|coucou=peekaboo .
+*CHI:	dormir .
+%mor:	v|dormir-INF .
+%trn:	v|dormir-INF .
+*CHI:	coucou .
+%mor:	co|coucou=peekaboo .
+%trn:	co|coucou=peekaboo .
+*CHI:	là .
+%mor:	adv:place|là .
+%trn:	adv:place|là .
+*CHI:	coucou nounours .
+%mor:	co|coucou=peekaboo n|nounours&m=teddy_bear .
+%trn:	co|coucou=peekaboo n|nounours&m=teddy_bear .
+*CHI:	monter .
+%mor:	v|monter-INF .
+%trn:	v|monter-INF .
+*CHI:	oh deux !
+%mor:	co|oh n|deux&m^num|deux !
+%trn:	co|oh n|deux&m !
+*CHI:	voiture .
+%mor:	n|voiture&f .
+%trn:	n|voiture&f .
+%cod:	$det=0b
+*CHI:	gentil voiture .
+%mor:	adj|gentil&m n|voiture&f .
+%trn:	adj|gentil&m n|voiture&f .
+%cod:	$det=0b
+*CHI:	oh ça_y_est !
+%mor:	co|oh co|ça_y_est !
+%trn:	co|oh co|ça_y_est !
+*CHI:	allez !
+%mor:	v:mdllex|aller&IMP&2p^v:mdl|aller&IMP&2p^v:mdllex|aller&PRES&2p^v:mdl|aller&PRES&2p
+	!
+%trn:	v:mdl|aller&IMP&2p !
+*CHI:	oui .
+%mor:	n|oui&m^co|oui=yes .
+%trn:	co|oui=yes .
+*CHI:	ah bon !
+%mor:	co|ah co|bon^adj|bon&m !
+%trn:	co|ah co|bon !
+*CHI:	manger .
+%mor:	n|manger&m=food^v|manger-INF .
+%trn:	v|manger-INF .
+*CHI:	chaise .
+%mor:	n|chaise&f .
+%trn:	n|chaise&f .
+*CHI:	cheval .
+%mor:	n|cheval&m&sg .
+%trn:	n|cheval&m&sg .
+*CHI:	bonhomme .
+%mor:	n|bonhomme&m .
+%trn:	n|bonhomme&m .
+*CHI:	oh y a pas !
+%mor:	co|oh pro:y|y v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s neg|pas !
+%trn:	co|oh pro:y|y v:aux|avoir&PRES&3s neg|pas !
+*CHI:	y a pas de mousse .
+%mor:	pro:y|y v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s neg|pas prep|de
+	n|mousse^v|mousser-IMP&2s^v|mousser-PRES&SUB&13s .
+%trn:	pro:y|y v:aux|avoir&PRES&3s neg|pas prep|de n|mousse .
+*CHI:	dodo tout_le_monde .
+%mor:	co|dodo^n|dodo&m=sleep pro|tout_le_monde .
+%trn:	co|dodo pro|tout_le_monde .
+*CHI:	i(l) dort bien .
+%mor:	pro:sub|il v|dormir-PRES&3s n|bien&m^adv|bien^conj|bien^adj|bien .
+%trn:	pro:sub|il v|dormir-PRES&3s adv|bien .
+*CHI:	poussette .
+%mor:	n|poussette&f .
+%trn:	n|poussette&f .
+*CHI:	voiture .
+%mor:	n|voiture&f .
+%trn:	n|voiture&f .
+*CHI:	oh nounours !
+%mor:	co|oh n|nounours&m=teddy_bear !
+%trn:	co|oh n|nounours&m=teddy_bear !
+*CHI:	a dodo nounours !
+%mor:	v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s co|dodo^n|dodo&m=sleep
+	n|nounours&m=teddy_bear !
+%trn:	v:aux|avoir&PRES&3s co|dodo n|nounours&m=teddy_bear !
+*CHI:	oui .
+%mor:	n|oui&m^co|oui=yes .
+%trn:	co|oui=yes .
+*CHI:	j'arrive pas !
+%mor:	pro:sub|je$v|arriver-IMP&2s^pro:sub|je$v|arriver-PRES&SUB&13s
+	neg|pas !
+%trn:	pro:sub|je$v|arriver-IMP&2s neg|pas !
+*CHI:	i(l) dort .
+%mor:	pro:sub|il v|dormir-PRES&3s .
+%trn:	pro:sub|il v|dormir-PRES&3s .
+*CHI:	c'est la nuit !
+%mor:	pro:dem|ce$v:exist|être&PRES&3s^pro:dem|ce$v:aux|être&PRES&3s
+	det:art|la&f&sg^pro:obj|la n|nuit&f^v|nuire&PRES&3s^v|nuire&PASS&3s
+	!
+%trn:	pro:dem|ce$v:aux|être&PRES&3s det:art|la&f&sg n|nuit&f !
+*CHI:	nounours !
+%mor:	n|nounours&m=teddy_bear !
+%trn:	n|nounours&m=teddy_bear !
+*CHI:	au_dodo nounours !
+%mor:	co|au_dodo n|nounours&m=teddy_bear !
+%trn:	co|au_dodo n|nounours&m=teddy_bear !
+*CHI:	allez assis !
+%mor:	v:mdllex|aller&IMP&2p^v:mdl|aller&IMP&2p^v:mdllex|aller&PRES&2p^v:mdl|aller&PRES&2p
+	part|asseoir&PP&m^v|asseoir&PASS&12s !
+%trn:	v:mdl|aller&IMP&2p v|asseoir&PASS&12s !
+*CHI:	manger .
+%mor:	n|manger&m=food^v|manger-INF .
+%trn:	v|manger-INF .
+*CHI:	va manger .
+%mor:	v:mdllex|aller&IMP&2s^v:mdl|aller&IMP&2s^v:mdllex|aller&PRES&3s^v:mdl|aller&PRES&3s
+	n|manger&m=food^v|manger-INF .
+%trn:	v:mdl|aller&PRES&3s v|manger-INF .
+*CHI:	ça marche pas .
+%mor:	pro:dem|ça n|marche&f^v|marcher-IMP&2s^v|marcher-PRES&SUB&13s
+	neg|pas .
+%trn:	pro:dem|ça n|marche&f neg|pas .
+*CHI:	arrive pas .
+%mor:	v|arriver-IMP&2s^v|arriver-PRES&SUB&13s neg|pas .
+%trn:	v|arriver-PRES&SUB&13s neg|pas .
+*CHI:	y a pu rien .
+%mor:	pro:y|y v:poss|avoir&PRES&3s^v:aux|avoir&PRES&3s
+	part|pouvoir&PP&m&sg n|rien&m^neg|rien .
+%trn:	pro:y|y v:aux|avoir&PRES&3s part|pouvoir&PP&m&sg
+	neg|rien .
+*CHI:	non pas poussette .
+%mor:	co|non=no neg|pas n|poussette&f .
+%trn:	co|non=no neg|pas n|poussette&f .
+*CHI:	ça .
+%mor:	pro:dem|ça .
+%trn:	pro:dem|ça .
+@End

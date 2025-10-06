@@ -1,0 +1,103 @@
+@UTF8
+extra+scolaire {[scat adj][comp adj+adj]} ==
+jambon+beurre {[scat adj][comp n+n]} ==
+cardio+vasculaire {[scat adj][comp adj+adj]} ==
+afro+asiatique {[scat adj][comp adj+adj]} ==
+aigre+doux {[scat adj][comp adj+adj]} ==
+anglo+normand {[scat adj][comp adj+adj]} ==
+anglo+saxon {[scat adj][pl invar][comp adj+adj]} ==
+anti+scientifique {[scat adj][comp adj+adj]} ==
+audio+visuel {[scat adj][comp adj+adj]} ==
+avant+coureur {[scat adj][pl invar][comp adj+adj]} ==
+avant+dernier {[scat adj][comp adj+adj]} ==
+bien+aimé {[scat adj][comp adj+adj]} ==
+bon+enfant {[scat adj][comp adj+adj]} ==
+bon+marché {[scat adj][comp adj+adj]} ==
+bon+vivant {[scat adj][comp adj+adj]} ==
+casse+gueule {[scat adj][comp adj+adj]} ==
+cérébro+spinale {[scat adj][comp adj+adj]} ==
+confidentiel+défense {[scat adj][comp adj+adj]} ==
+contre+indiqué {[scat adj][pl invar][comp adj+adj]} ==
+contre+terroriste {[scat adj][comp adj+adj]} ==
+court+vêtu {[scat adj][pl invar][comp adj+adj]} ==
+de+guingois {[scat adj][comp adj+adj]} ==
+de+rechange {[scat adj][comp adj+adj]} ==
+demi+rond {[scat adj][pl invar][comp adj+adj]} ==
+demi+sel {[scat adj][pl invar][comp adj+adj]} ==
+en+kit {[scat adj][comp adj+adj]} =sectional=
+extra+fin {[scat adj][pl invar][comp adj+adj]} ==
+extra+lucide {[scat adj][comp adj+adj]} ==
+extra+lucides {[scat adj][comp adj+adj]} ==
+extrême+oriental {[scat adj][comp adj+adj]} ==
+extrême+orientale {[scat adj][comp adj+adj]} ==
+fair+play {[scat adj][pl invar][comp adj+adj]} ==
+fou+fou {[scat adj][pl invar][comp adj+adj]} ==
+fous+fous {[scat adj][comp adj+adj]} ==
+franc+maçon {[scat adj][comp adj+adj]} ==
+gallo+romain {[scat adj][comp adj+adj]} ==
+gnian+gnian {[scat adj][pl invar][comp adj+adj]} ==
+grand+public {[scat adj][comp adj+adj]} ==
+gréco+latin {[scat adj][pl invar][comp adj+adj]} ==
+gréco+romain {[scat adj][pl invar][comp adj+adj]} ==
+grippe+sou {[scat adj][pl invar][comp adj+adj]} ==
+honoris+causa {[scat adj][comp adj+adj]} ==
+hydro+électrique {[scat adj][comp adj+adj]} ==
+in+douze {[scat adj][comp adj+adj]} ==
+in+extenso {[scat adj][comp adj+adj]} ==
+in+folio {[scat adj][pl invar][comp adj+adj]} ==
+in+octavo {[scat adj][pl invar][comp adj+adj]} ==
+in+quarto {[scat adj][pl invar][comp adj+adj]} ==
+indo+européen {[scat adj][pl invar][comp adj+adj]} ==
+indo+européenne {[scat adj][comp adj+adj]} ==
+kif+kif {[scat adj][pl invar][comp adj+adj]} ==
+knock+out {[scat adj][pl invar][comp adj+adj]} ==
+libre+échangiste {[scat adj][comp adj+adj]} ==
+long+courrier {[scat adj][pl invar][comp adj+adj]} ==
+mange+tout {[scat adj][comp adj+adj]} ==
+médico+légale {[scat adj][comp adj+adj]} ==
+mort+né {[scat adj][comp adj+adj]} ==
+national+socialiste {[scat adj][comp adj+adj]} ==
+non+conformiste {[scat adj][comp adj+adj]} ==
+nord+est {[scat adj][pl invar][comp adj+adj]} ==
+nord+ouest {[scat adj][pl invar][comp adj+adj]} ==
+nouveau+né {[scat adj][comp adj+adj]} ==
+partie+prenante {[scat adj][comp adj+adj]} ==
+pète+sec {[scat adj][comp adj+adj]} "pète+sec"
+photo+électrique {[scat adj][comp adj+adj]} ==
+physico+chimique {[scat adj][comp adj+adj]} ==
+pieds+nus {[scat adj][comp n+adj]} =barefoot=
+premier+né {[scat adj][comp adj+adj]} ==
+première+née {[scat adj][comp adj+adj]} ==
+radical+socialiste {[scat adj][comp adj+adj]} ==
+sacro+saint {[scat adj][pl invar][comp adj+adj]} ==
+sans+coeur {[scat adj][pl invar][comp adj+adj]} ==
+sans+gêne {[scat adj][comp adj+adj]} ==
+sans+souci {[scat adj][pl invar][comp adj+adj]} ==
+semi+circulaire {[scat adj][comp adj+adj]} ==
+semi+fraiche {[scat adj][comp adj+adj]} =semi_fresh=
+semi+frais {[scat adj][comp adj+adj]} =semi_fresh=
+social+démocrate {[scat adj][comp adj+adj]} ==
+soi+disant {[scat adj][pl invar][comp adj+adj]} ==
+sous+alimenté {[scat adj][pl invar][comp adj+adj]} ==
+sous+cutané {[scat adj][pl invar][comp adj+adj]} ==
+sous+développé {[scat adj][comp adj+adj]} ==
+sous+développé {[scat adj][pl invar][comp adj+adj]} ==
+sous+jacent {[scat adj][pl invar][comp adj+adj]} ==
+sous+marin {[scat adj][comp adj+adj]} ==
+sous+multiple {[scat adj][comp adj+adj]} ==
+sud+est {[scat adj][pl invar][comp adj+adj]} ==
+sud+ouest {[scat adj][pl invar][comp adj+adj]} ==
+tout+folle {[scat adj][comp adj+adj]} "tout+fou&f"
+tout+fou {[scat adj][comp adj+adj]} ==
+tout+puissant {[scat adj][comp adj+adj]} ==
+toute+puissante {[scat adj][comp adj+adj]} ==
+tragi+comique {[scat adj][comp adj+adj]} ==
+tribo+électrique {[scat adj][comp adj+adj]} ==
+ultra+court {[scat adj][comp adj+adj]} ==
+ultra+rapide {[scat adj][comp adj+adj]} ==
+ultra+violet {[scat adj][comp adj+adj]} ==
+vaso+constricteur {[scat adj][comp adj+adj]} ==
+vaso+dilatateur {[scat adj][comp adj+adj]} ==
+vaso+moteur {[scat adj][comp adj+adj]} ==
+vaso+motrice {[scat adj][comp adj+adj]} ==
+yé+yé {[scat adj][pl invar][comp adj+adj]} ==

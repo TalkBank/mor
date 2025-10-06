@@ -1,0 +1,2790 @@
+@UTF8
+@Window:	190_198_821_673_-1_-1_38574_0_38574_0
+% ***************
+% VERBS -- SINGLE VERB IRREGULARS, RESTRICTED GROUP IRREGULARS,
+%          UNRESTRICTED GROUP IRREGULARS, STEM-CHANGE, then SPELLING CHANGE
+% The analysis and data are based on the Berlitz Spanish Verb Handbook
+% However, the above grouping is a refinement of their grouping
+% ***************
+% allo order is: vz, part, vpr, vpret, vfc, vsub, vpsub, shimp, shinf
+% Participle allos are created in adj.cut
+%
+% ***************
+% SINGLE VERB IRREGULARS; LEXSURF SPECIFIED FULLY OR $X-VERB
+% ***************
+
+RULENAME:	53ser
+LEX-ENTRY:
+LEXSURF = se
+LEXCAT = [scat cop]
+ALLO:
+ALLOSURF = si
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = se
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = se
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+
+RULENAME:   18asir
+LEX-ENTRY:
+LEXSURF = asi
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = as
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = asi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = as
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = as
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = as
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = asg
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = asi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = as
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = así
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:   27andar
+LEX-ENTRY:
+LEXSURF = anda
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = and
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = and
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = and
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = anduv
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = and
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = anduvi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = ánd
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = andá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:   29caber
+LEX-ENTRY:
+LEXSURF = cabe
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = cab
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = cabi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = cab
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = quep
+ALLOCAT = LEXCAT, ADD [allo vpr5], ADD [conj v2]
+ALLO:
+ALLOSURF = cup
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = cab
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = quep
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = cupi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = cáb
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = cabé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:   30caer
+LEX-ENTRY:
+LEXSURF = cae
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = ca
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = cay
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = ca
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = cai
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v2]
+ALLO:
+ALLOSURF = ca
+ALLOCAT = LEXCAT, ADD [allo vpret2], ADD [conj v2]
+ALLO:
+ALLOSURF = cae
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = caig
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = cay
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = cáig
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = caé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:   33dar
+LEX-ENTRY:
+LEXSURF = da
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = d
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = d
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = d
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = d
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = da
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = d
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = di
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = dá
+ALLOCAT = LEXCAT, ADD [allo shimp], ADD [conj v1]
+ALLO:
+ALLOSURF = dá
+ALLOCAT = LEXCAT, ADD [allo shinf], ADD [conj v1]
+
+RULENAME:   35erguir
+LEX-ENTRY:
+LEXSURF = ergui
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = ergu
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = irgu
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = yergu
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = irgu
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = ergu
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = yer
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = ergu
+ALLOCAT = LEXCAT, ADD [allo vpret4], ADD [conj v3]
+ALLO:
+ALLOSURF = irgu
+ALLOCAT = LEXCAT, ADD [allo vpret5], ADD [conj v3]
+ALLO:
+ALLOSURF = ergui
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = yerg
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = irgui
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = érgu
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = erguí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:   37errar
+LEX-ENTRY:
+LEXSURF = erra
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = err
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = err
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = yerr
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = err
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = err
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = erra
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = err
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = err
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = érr
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = errá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:   38estar
+LEX-ENTRY:
+LEXSURF = esta
+LEXCAT = [scat OR cop aux]
+ALLO:
+ALLOSURF = est
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1], ADD [a 0], ADD [block imp]
+ALLO:
+ALLOSURF = est
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1], ADD [a 0]
+ALLO:
+ALLOSURF = est
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1], ADD [a 0]
+ALLO:
+ALLOSURF = estuv
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v3], ADD [a 0]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1], ADD [a 0]
+ALLO:
+ALLOSURF = est
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1], ADD [a 0]
+ALLO:
+ALLOSURF = estuvi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3], ADD [a 0]
+ALLO:
+ALLOSURF = está
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	40haber-v
+LEX-ENTRY:
+LEXSURF = habe
+LEXCAT = [scat v aux]
+ALLO:
+ALLOSURF = hab
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = habi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = h
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = hub
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = hab
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = hay
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = hubi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+
+RULENAME:	40haber-aux
+LEX-ENTRY:
+LEXSURF = habe
+LEXCAT = [scat aux]
+ALLO:
+ALLOSURF = hab
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = habi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = h
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = hub
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = hab
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = hay
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = hubi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+
+RULENAME:	41hacer
+LEX-ENTRY:
+LEXSURF = $Xhace
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xhac
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xhaci
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xhac
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xha
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xhic
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xhiz
+ALLOCAT = LEXCAT, ADD [allo vpret6], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xha
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xhag
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xhici
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xhág
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xhacé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	42ir
+LEX-ENTRY:
+LEXSURF = i
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = i
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = i
+ALLOCAT = LEXCAT, ADD [allo vinf], ADD [conj v3]
+ALLO:
+ALLOSURF = y
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = fu
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = i
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = vay
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = fu
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = váy
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = í
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	45oler
+LEX-ENTRY:
+LEXSURF = ole
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = ol
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = oli
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = huel
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v2]
+ALLO:
+ALLOSURF = ol
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v2]
+ALLO:
+ALLOSURF = ol
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = ol
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = oli
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = huél
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = olé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	46poder
+LEX-ENTRY:
+LEXSURF = pode
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = pod
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = pudi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = pued
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v2]
+ALLO:
+ALLOSURF = pod
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v2]
+ALLO:
+ALLOSURF = pud
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = pod
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = pod
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = pudi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+
+RULENAME:	47poner
+LEX-ENTRY:
+LEXSURF = $Xpone
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xpon
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xponi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xpon
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xpon
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xpus
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xpond
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xpong
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xpusi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xpón
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xpóng
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xponé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	48querer
+LEX-ENTRY:
+LEXSURF = $Xquere
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xquer
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xqueri
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xquier
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xquer
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xquis
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xquer
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xquer
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xquisi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xqúer
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xqueré
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	49reír
+LEX-ENTRY:
+LEXSURF = $Xreí
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xre
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xri
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xrí
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xre
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xre
+ALLOCAT = LEXCAT, ADD [allo vpr4], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xre
+ALLOCAT = LEXCAT, ADD [allo vpret7], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xri
+ALLOCAT = LEXCAT, ADD [allo vpret8], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xrei
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xrí
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xri
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xri
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xrí
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xreí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	51saber
+LEX-ENTRY:
+LEXSURF = sabe
+LEXCAT = [scat v], [irr 51]
+ALLO:
+ALLOSURF = sab
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = sabi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = sab
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = sup
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = sab
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = sep
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = supi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = sábe
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = sabé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	52salir
+LEX-ENTRY:
+LEXSURF = $Xsali
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xsal
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsali
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsal
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsal
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsal
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsald
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsalg
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsali
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsálg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xsalí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	56valer
+LEX-ENTRY:
+LEXSURF = vale
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = val
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = vali
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = val
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = val
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v2]
+ALLO:
+ALLOSURF = val
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = vald
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = valg
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = vali
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = vál
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = valé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	57venir
+LEX-ENTRY:
+LEXSURF = $Xveni
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xven
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xvini
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xvien
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xven
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xven
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xvin
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xvend
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xveng
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xvini
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xven
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xvéng
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xvení
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	58ver
+LEX-ENTRY:
+LEXSURF = ve
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = ve			%  the imperfective keeps the "e" in veía etc., so inf is irregular
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = vi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = v
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = ve
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v2]
+ALLO:
+ALLOSURF = v
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = ve
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = ve
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = vi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = vé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	34decir
+LEX-ENTRY:
+LEXSURF = $Xdeci
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xdec
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdici
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdic
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdec
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdi
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdij
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdi
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdig
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdij
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdíg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdecí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	31conducir
+LEX-ENTRY:
+LEXSURF = $Xduci
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xduc
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduci
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduc
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduzc
+ALLOCAT = LEXCAT, ADD [allo vpr5], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduj
+ALLOCAT = LEXCAT, ADD [allo vpret6], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduci
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduzc
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduj
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduj
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xduj
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	37escribir
+LEX-ENTRY:
+LEXSURF = $Xscribi
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xscrib
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xscribi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xscrib
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xscrib
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xscrib
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xscribi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xscri		% escrito
+ALLOCAT = LEXCAT, ADD [allo x33], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xscríb
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xscribí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	43lucir
+LEX-ENTRY:
+LEXSURF = $Xluci
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xluc
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xluci
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xluc
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xluzc
+ALLOCAT = LEXCAT, ADD [allo vpr5], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xluc
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xluzc
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xlúzc
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xlucí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	 44oír
+LEX-ENTRY:
+LEXSURF = $Xoí
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xo
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xoy
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xoy
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xo
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xoi
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xo
+ALLOCAT = LEXCAT, ADD [allo vpr4], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xo
+ALLOCAT = LEXCAT, ADD [allo vpret2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xoi
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xoig
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xoy
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xóy
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xóig
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xoí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	54tener
+LEX-ENTRY:
+LEXSURF = $Xtene
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xten
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xteni
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtien
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xten
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xten
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtuv
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtend
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xteng
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtuvi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtén
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xten
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [allo irr], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xténg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLOSTEM = $Xténg&IMP&3s
+ALLO:
+ALLOSURF = $Xtené
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	55traer
+LEX-ENTRY:
+LEXSURF = $Xtrae
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xtra
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtray
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtra
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtrai
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtraj
+ALLOCAT = LEXCAT, ADD [allo vpret6], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtrae
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtraig
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtraj
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtráig
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtrá
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xtraé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+% ****************
+%  RESTRICTED GROUP IRREGULAR VERBS -- marked as [irr x]
+% ****************
+
+RULENAME:	9vencer
+LEX-ENTRY:
+LEXSURF = $X$S$Yce
+LEXCAT = [scat v], [irr 9]
+ALLO:
+ALLOSURF = $X$S$Yc
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yci
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yc
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yz
+ALLOCAT = LEXCAT, ADD [allo vpr5], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yc
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yz
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yci
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$L<S$Yc
+ALLOCAT = ADD [scat imp],  ADD [allo irr], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Ycé
+ALLOCAT = LEXCAT,  ADD [allo shinf], ADD [conj v2]
+
+RULENAME:	25abrir
+LEX-ENTRY:
+LEXSURF = $X$S$Yi
+LEXCAT = [scat v], [irr x25]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<S$Ye
+ALLOCAT = ADD [scat imp], ADD [allo irr], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<S$Ya
+ALLOCAT = ADD [scat imp], ADD [allo irr], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Ye
+ALLOCAT = LEXCAT,  ADD [allo shinf], ADD [conj v3]
+
+
+RULENAME:	26adquirir
+LEX-ENTRY:
+LEXSURF = $Xquiri
+LEXCAT = [scat v], [irr x26]
+ALLO:
+ALLOSURF = $Xquir
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xquiri
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xquier
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xquir
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xquir
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xquir
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xquiri
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<S$Y
+ALLOCAT = ADD [scat imp], ADD [allo irr],  ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	28bendecir
+LEX-ENTRY:
+LEXSURF = $Xdeci
+LEXCAT = [scat v], [irr x28]
+ALLO:
+ALLOSURF = $Xdec
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdici
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdic
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdec
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdi
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdij
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdij
+ALLOCAT = LEXCAT, ADD [allo vpret3], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdig
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdij
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdíg
+ALLOCAT = ADD [scat imp], ADD [allo irr],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xdecí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+% *******************
+% STEM-CHANGING VERBS,  [stem ie, ii, iei, ip]
+% *******************
+%  The problem here is that the basic stem changes are combined with
+%  various spelling changes and we don't yet have a way of doing each
+% separately
+
+RULENAME:  7regar
+% stem ie, gu insertion
+LEX-ENTRY:
+LEXSURF = $Xega
+LEXCAT = [scat v], [stem ie]
+ALLO:
+ALLOSURF = $Xeg
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xeg
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xieg
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xiegu
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xeg
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xeg
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xegu
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xeg
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xiég
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xiegué
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	6empezar
+LEX-ENTRY:
+LEXSURF = $Xeza
+LEXCAT = [scat v], [stem ie]
+ALLO:
+ALLOSURF = $Xez
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xez
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xiez
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xiec
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xez
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xez
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xec
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xec
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xez
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xiéz
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+
+RULENAME:	6comenzar   %  this should be removed when we get spelling rules
+LEX-ENTRY:
+LEXSURF = $Xenza
+LEXCAT = [scat v], [stem ie]
+ALLO:
+ALLOSURF = $Xenz
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xenz
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xienz
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xienc
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xenz
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xenz
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xenc
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xenc
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xenz
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xienza
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+
+RULENAME:	19pensar
+LEX-ENTRY:
+LEXSURF = $Xe$Ya
+LEXCAT = [scat v], [stem ie]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xie$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xié$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xe$Yá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	19encender
+LEX-ENTRY:
+LEXSURF = $Xe$Ye
+LEXCAT = [scat v], [stem ie]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xie$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xié$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe$Yé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	21colgar
+LEX-ENTRY:
+LEXSURF = $Xo$Cga
+LEXCAT = [scat v], [stem ue]
+ALLO:
+ALLOSURF = $Xo$Cg
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Cg
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xue$Cg
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Cg
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Cg
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xue$Cgu
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Cgá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xué$Cg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+
+RULENAME:	20forzar
+LEX-ENTRY:
+LEXSURF = $Xo$Yza
+LEXCAT = [scat v], [stem ue]
+ALLO:
+ALLOSURF = $Xo$Yz
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Yz
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xue$Yz
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Yz
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Yz
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Yc							% forcé
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xue$Yc
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Yz
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xué$Yz
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Yá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	20torcer
+LEX-ENTRY:
+LEXSURF = $Xo$Yce
+LEXCAT = [scat v], [stem ue]
+ALLO:
+ALLOSURF = $Xo$Yc
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Yz
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xue$Yc
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Yc
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xue$Yz
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Yc
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xue$Yz
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Yz
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Yz
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xúe$Yc
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Ycá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	20volver
+LEX-ENTRY:
+LEXSURF = $Xo$Ye
+LEXCAT = [scat v], [stem ue]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xue$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xue$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xué$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xo$Yé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	20acordar
+LEX-ENTRY:
+LEXSURF = $Xo$Ya
+LEXCAT = [scat v], [stem ue]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xue$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xué$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xo$Yá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	21jugar
+LEX-ENTRY:
+LEXSURF = $Xu$Ya
+LEXCAT = [scat v], [stem ue]
+ALLO:
+ALLOSURF = $Xu$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$Y
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xue$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$Yu
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$Yu
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xue$Yu
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$Y
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$Yá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xué$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+
+
+RULENAME:	23dormir
+LEX-ENTRY:
+LEXSURF = $Xo$Yi
+LEXCAT = [scat v], [stem ue]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xu$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xue$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xo$Y
+ALLOCAT = LEXCAT, ADD [allo vpret4], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xu$Y
+ALLOCAT = LEXCAT, ADD [allo vpret5], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xu$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xu$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xué$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xo$Yí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:  22convertir
+LEX-ENTRY:
+LEXSURF = $Xe$Yi
+LEXCAT = [scat v], [stem iei]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xie$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpret4], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpret5], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Yi
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Yí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	59seguir
+LEX-ENTRY:
+LEXSURF = $Xe$Yui
+LEXCAT = [scat v], [stem ii]
+ALLO:
+ALLOSURF = $Xe$Yu
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yui
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yu
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Yu
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpr5], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Yu
+ALLOCAT = LEXCAT, ADD [allo vpret4], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yu
+ALLOCAT = LEXCAT, ADD [allo vpret5], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yui
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xí$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xí$Yu
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Yuí
+ALLOCAT = LEXCAT, ADD [allo shinf], ADD [conj v3]
+
+RULENAME:	24elegir		% corregir
+LEX-ENTRY:
+LEXSURF = $Xegi
+LEXCAT = [scat v], [stem ii]
+ALLO:
+ALLOSURF = $Xeg
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xigi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xig
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xeg
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xij
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xeg
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xig
+ALLOCAT = LEXCAT, ADD [allo vpret5], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xij
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xigi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xíg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xegí
+ALLOCAT = LEXCAT, ADD [allo shinf], ADD [conj v3]
+
+RULENAME:	24pedir
+LEX-ENTRY:
+LEXSURF = $Xe$Yi
+LEXCAT = [scat v], [stem ii]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Y
+ALLOCAT = LEXCAT, ADD [allo vpret4], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpret5], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xí$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xe$Yí
+ALLOCAT = LEXCAT, ADD [allo shinf], ADD [conj v3]
+
+RULENAME:	coincidir		% coincidir; this may need work
+LEX-ENTRY:
+LEXSURF = $Xi$Yi
+LEXCAT = [scat v], [stem ip]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vpret5], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xi$Y
+ALLOCAT = LEXCAT, ADD [allo shinf], ADD [conj v3]
+
+% ****************
+% SPELLING CHANGE VERBS
+% ****************
+
+RULENAME:	32conocer
+LEX-ENTRY:
+LEXSURF = $X$Sce
+LEXCAT = [scat v],
+ALLO:
+ALLOSURF = $X$Sc
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sci
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sc
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Szc
+ALLOCAT = LEXCAT, ADD [allo vpr5], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sc
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sce
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Szc
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sci
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$L<Sc
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $X$L<Sc
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	5sacar
+LEX-ENTRY:
+LEXSURF = $X$S$Eca
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$S$Ec
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Ec
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Ec
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Ec
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Equ
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Equ
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Ec
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<S$Ec
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<S$Equ
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Ecá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	6cazar
+LEX-ENTRY:
+LEXSURF = $X$S$Yza
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$S$Yz
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yz
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yz
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yz
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yc
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yc
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yz
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<S$Yz
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<S$Yc
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yzá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	7pagar
+LEX-ENTRY:
+LEXSURF = $X$Sga
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgu
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgu
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<Sg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<Sgu
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	8averiguar
+LEX-ENTRY:
+LEXSURF = $X$Sgua
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$Sgu
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgu
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgu
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgu
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgü
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgü
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sgu
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<Sgü
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$Sguá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	10distinguir
+LEX-ENTRY:
+LEXSURF = $X$S$Ygui
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$S$Ygu
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Ygui
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Ygu
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpr3], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Ygu
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Ygui
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<S$Yg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<S$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Ygué
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	11coger
+LEX-ENTRY:
+LEXSURF = $X$Sge
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sgi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sj
+ALLOCAT = LEXCAT, ADD [allo vpr5], ADD [conj v2]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sj
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sgi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$L<Sge
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $X$L<Sg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $X$Sg$L<S
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	11dirigir
+LEX-ENTRY:
+LEXSURF = $X$Sgi
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$Sgi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$Sj
+ALLOCAT = LEXCAT, ADD [allo vpr5], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$Sg
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$Sj
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$Sgi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<Sgi
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<Sg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $X$Sg$L<S
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	12huir
+LEX-ENTRY:
+LEXSURF = $Xui
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xuy
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xuy
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo vpret2], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xuy
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xuy
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xúy
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	13leer
+LEX-ENTRY:
+LEXSURF = $Xee
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xe
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xey
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe
+ALLOCAT = LEXCAT, ADD [allo vpret2], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xey
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $Xe
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xé
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $Xeé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:	14enviar
+LEX-ENTRY:
+LEXSURF = $X$S$Yia
+LEXCAT = [scat v], [stem í]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yí
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yí
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<S$Yi
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	15actuar
+LEX-ENTRY:
+LEXSURF = $Xua
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xú
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo vpr2], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xuá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	16zambullir
+LEX-ENTRY:
+LEXSURF = $Xlli
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xll
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xll
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xll
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xll
+ALLOCAT = LEXCAT, ADD [allo vpret3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xll
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xll
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xll
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xll
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xllí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:	17gruñir
+LEX-ENTRY:
+LEXSURF = $Xñi
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xñ
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xñ
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xñ
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xñ
+ALLOCAT = LEXCAT, ADD [allo vpret3], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xñ
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xñ
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $Xñ
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xñ
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $Xñí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+% ****************
+% REGULAR VERBS
+% ****************
+
+RULENAME:	2peinar
+LEX-ENTRY:
+LEXSURF = $Xei$Ya
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xei$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xei$Y
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xei$Y
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xei$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xei$Ya
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xei$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xei$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xéi$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $XeiYá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	2quitar       %  for the fake u of qu
+LEX-ENTRY:
+LEXSURF = $Xu$S$T$Ya
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xu$S$T$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$S$T$Y
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$S$T$Y
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$S$T$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$S$T$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$S$T$Y
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$L<S$T$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xu$S$T$Yá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	2estudiar
+LEX-ENTRY:
+LEXSURF = $V$X$S$Yia
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $V$X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Yiá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+
+RULENAME:	2boga/final-ga
+LEX-ENTRY:
+LEXSURF = $X$S$Yga
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Ygu
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<S$Yg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Ygá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	2enseñar
+LEX-ENTRY:
+LEXSURF = $V$X$S$Ya
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $V$X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Y
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$L<S$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $V$X$S$Yá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	2limpiar
+LEX-ENTRY:
+LEXSURF = $C$S$Yia
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $C$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $C$S$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $C$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $C$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $C$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $C$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $C$L<S$Yi
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $C$S$Yiá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	2criar/basic
+LEX-ENTRY:
+LEXSURF = $Xia
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $Xi
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xí
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xi
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xi
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xi
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $Xí
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $Xiá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:	2comprar/basic
+LEX-ENTRY:
+LEXSURF = $X$S$Ya
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v1]
+ALLO:
+ALLOSURF = $X$L<S$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v1]
+ALLO:
+ALLOSURF = $X$S$Yá
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v1]
+
+RULENAME:  3comer
+LEX-ENTRY:
+LEXSURF = $X$S$Ye
+LEXCAT = [scat v], ![stem ie]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v2]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v2]
+ALLO:
+ALLOSURF = $X$L<S$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v2]
+ALLO:
+ALLOSURF = $X$S$Yé
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v2]
+
+RULENAME:  4argüir
+LEX-ENTRY:
+LEXSURF = $X$S$Yüi
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$S$Yü
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yü
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yuy
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yü
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yuy
+ALLOCAT = LEXCAT, ADD [allo vpret1], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yuy
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<S$Yuy
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yüí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:  4fingir    %corregir, dirigir, elegir
+LEX-ENTRY:
+LEXSURF = $X$S$Ygi
+LEXCAT = [scat v]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Ygi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yj
+ALLOCAT = LEXCAT, ADD [allo vpr1], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yg
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yj
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Ygi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<S$Yg
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]
+
+RULENAME:  4vivir
+LEX-ENTRY:
+LEXSURF = $X$S$Yi
+LEXCAT = [scat v], ![stem ii]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vz], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo part], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpr], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vpret], ADD [conj v3]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo vfc], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Y
+ALLOCAT = LEXCAT, ADD [allo vsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yi
+ALLOCAT = LEXCAT, ADD [allo vpsub], ADD [conj v3]
+ALLO:
+ALLOSURF = $X$L<S$Y
+ALLOCAT = LEXCAT, ADD [allo shimp],  ADD [conj v3]
+ALLO:
+ALLOSURF = $X$S$Yí
+ALLOCAT = LEXCAT, ADD [allo shinf],  ADD [conj v3]

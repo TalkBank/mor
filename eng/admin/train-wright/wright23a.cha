@@ -1,0 +1,1735 @@
+@UTF8
+@Color words:	%grt: 1 65535 0 0 
+@Begin
+@Languages:	eng
+@Participants:	PAR wright23a Participant, INV Investigator
+@ID:	eng|Wright|PAR|31;06.|male|control||Participant|||
+@ID:	eng|Wright|INV|||||Investigator|||
+@Media:	wright23a, audio
+@Transcriber:	Alyson Woodbury
+*INV:	www . 0_14329
+%exp:	informed consent
+@G:	Sandwich
+*INV:	tell me how to make a peanut butter and jelly sandwich . 14329_17440
+%mor:	v|tell pro:obj|me pro:int|how inf|to v|make det:art|a n|peanut
+	n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|INF 5|1|COMP 6|11|DET 7|8|MOD 8|11|MOD
+	9|8|CONJ 10|9|COORD 11|5|OBJ 12|1|PUNCT
+%trn:	v|tell pro:obj|me pro:int|how inf|to v|make det:art|a n|peanut
+	n|butter coord|and n|jelly n|sandwich .
+%grt:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|INF 5|1|COMP 6|11|DET 7|8|MOD
+	8|11|MOD 9|8|CONJ 10|9|COORD 11|5|OBJ 12|1|PUNCT
+*PAR:	okay ‡ well ‡ you get two pieces of bread , peanut butter , and
+	jelly . 17440_23208
+%mor:	co|okay beg|beg co|well beg|beg pro:per|you v|get det:num|two
+	n|piece-PL prep|of n|bread cm|cm n|peanut n|butter cm|cm coord|and
+	n|jelly .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|6|LP 12|13|MOD 13|6|OBJ 14|13|LP 15|13|CONJ
+	16|15|COORD 17|6|PUNCT
+%trn:	co|okay beg|beg co|well beg|beg pro:per|you v|get det:num|two
+	n|piece-PL prep|of n|bread cm|cm n|peanut n|butter cm|cm coord|and
+	n|jelly .
+%grt:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|8|QUANT
+	8|6|OBJ 9|8|NJCT 10|9|POBJ 11|8|LP 12|13|MOD 13|8|ENUM 14|13|LP
+	15|8|CONJ 16|15|COORD 17|6|PUNCT
+*PAR:	and you &-uh lather on peanut butter . 23208_26943
+%mor:	coord|and pro:per|you v|lather prep|on n|peanut n|butter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+%trn:	coord|and pro:per|you v|lather prep|on n|peanut n|butter .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	and then lather on the jelly . 26943_28046
+%mor:	coord|and adv:tem|then v|lather prep|on det:art|the n|jelly .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%trn:	coord|and adv:tem|then v|lather prep|on det:art|the n|jelly .
+%grt:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and put the two pieces of bread together . 28046_30365
+%mor:	coord|and v|put&ZERO det:art|the det:num|two n|piece-PL prep|of
+	n|bread adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|5|NJCT 7|6|POBJ 8|2|JCT
+	9|2|PUNCT
+%trn:	coord|and v|put&ZERO det:art|the det:num|two n|piece-PL prep|of
+	n|bread adv|together .
+%grt:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|5|NJCT 7|6|POBJ
+	8|2|JCT 9|2|PUNCT
+*INV:	www . 30365_670458
+%exp:	non-AphasiaBank tasks
+@G:	Birthday
+*INV:	alright ‡ whenever you're ready tell me a story that has a
+	beginning a middle and an end . 670458_677756
+%mor:	co|alright beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S det:art|a
+	n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ 15|16|DET
+	16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+%trn:	co|alright beg|beg conj|whenever pro:per|you~cop|be&PRES
+	adj|ready v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S
+	det:art|a n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT
+	8|7|OBJ2 9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ
+	15|16|DET 16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+*PAR:	today is Johnny's fifth birthday . 677756_679814
+%mor:	adv:tem|today cop|be&3S adj|Johnny&dn-POSS adj|fifth
+	n|+n|birth+n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%trn:	adv:tem|today cop|be&3S adj|Johnny&dn-POSS adj|fifth
+	n|+n|birth+n|day .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	and he is very excited to be having a party with his [//] all of
+	his friends coming over to the house . 679814_685605
+%mor:	coord|and pro:sub|he aux|be&3S adv|very part|excite-PASTP inf|to
+	aux|be part|have-PRESP det:art|a n|party prep|with pro:indef|all
+	prep|of det:poss|his n|friend-PL part|come-PRESP adv|over prep|to
+	det:art|the n|house .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|INF 7|8|AUX 8|5|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|11|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|12|XJCT 17|16|JCT 18|16|JCT 19|20|DET 20|18|POBJ 21|5|PUNCT
+%trn:	coord|and pro:sub|he aux|be&3S adv|very part|excite-PASTP inf|to
+	aux|be part|have-PRESP det:art|a n|party prep|with pro:indef|all
+	prep|of det:poss|his n|friend-PL part|come-PRESP adv|over prep|to
+	det:art|the n|house .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|INF 7|8|AUX 8|5|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|11|POBJ 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|12|XJCT 17|16|JCT 18|16|JCT 19|20|DET 20|18|POBJ
+	21|5|PUNCT
+*PAR:	&=clears:throat his mother gets everything ready, sets out the
+	cake, and they await <for the> [/] &arri for the other guests to
+	arrive &=clears:throat [* fix] . 685605_694618
+%mor:	det:poss|his n|mother v|get-3S pro:indef|everything adj|ready cm|cm
+	v|set-3S prep|out det:art|the n|cake cm|cm coord|and pro:sub|they
+	v|await prep|for det:art|the qn|other n|guest-PL inf|to v|arrive .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|POSTMOD 6|3|LP 7|3|ENUM 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|LP 12|14|LINK 13|14|SUBJ 14|3|CJCT 15|14|JCT
+	16|18|DET 17|18|QUANT 18|15|POBJ 19|20|INF 20|18|XMOD 21|3|PUNCT
+%trn:	det:poss|his n|mother v|get-3S pro:indef|everything adj|ready cm|cm
+	v|set-3S prep|out det:art|the n|cake cm|cm coord|and pro:sub|they
+	v|await prep|for det:art|the qn|other n|guest-PL inf|to v|arrive .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|POSTMOD 6|3|LP 7|3|ENUM
+	8|7|JCT 9|10|DET 10|8|POBJ 11|7|LP 12|14|LINK 13|14|SUBJ 14|3|CJCT
+	15|14|JCT 16|18|DET 17|18|QUANT 18|20|SUBJ 19|20|INF 20|15|CPOBJ
+	21|3|PUNCT
+*PAR:	meanwhile ‡ they didn't notice that the dog had taken a bite out_of
+	the cake +//. 694618_699721
+%mor:	adv|meanwhile beg|beg pro:sub|they mod|do&PAST~neg|not v|notice
+	comp|that det:art|the n|dog aux|have&PAST part|take&PASTP det:art|a
+	n|bite prep|out_of det:art|the n|cake +//.
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|11|LINK 8|9|DET
+	9|11|SUBJ 10|11|AUX 11|6|COMP 12|13|DET 13|11|OBJ 14|11|JCT 15|16|DET
+	16|14|POBJ 17|6|PUNCT
+%trn:	adv|meanwhile beg|beg pro:sub|they mod|do&PAST~neg|not v|notice
+	comp|that det:art|the n|dog aux|have&PAST part|take&PASTP det:art|a
+	n|bite prep|out_of det:art|the n|cake +//.
+%grt:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|11|LINK
+	8|9|DET 9|11|SUBJ 10|11|AUX 11|6|COMP 12|13|DET 13|11|OBJ 14|11|JCT
+	15|16|DET 16|14|POBJ 17|6|PUNCT
+*PAR:	well ‡ they walk up to the cake and they notice that a chunk is
+	missing out_of the cake . 699721_703858
+%mor:	co|well beg|beg pro:sub|they v|walk adv|up prep|to det:art|the
+	n|cake coord|and pro:sub|they v|notice comp|that det:art|a n|chunk
+	aux|be&3S part|miss-PRESP prep|out_of det:art|the n|cake .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|16|LINK 13|14|DET 14|16|SUBJ 15|16|AUX
+	16|11|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|4|PUNCT
+%trn:	co|well beg|beg pro:sub|they v|walk adv|up prep|to det:art|the
+	n|cake coord|and pro:sub|they v|notice comp|that det:art|a n|chunk
+	aux|be&3S part|miss-PRESP prep|out_of det:art|the n|cake .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|16|LINK 13|14|DET 14|16|SUBJ
+	15|16|AUX 16|11|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|4|PUNCT
+*PAR:	they wonder what had happened . 703858_705568
+%mor:	pro:sub|they v|wonder pro:int|what aux|have&PAST part|happen-PASTP
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|2|PUNCT
+%trn:	pro:sub|they v|wonder pro:int|what aux|have&PAST part|happen-PASTP
+	.
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|AUX 5|2|COMP 6|2|PUNCT
+*PAR:	they notice that [/] that a dog's footprints are leading away . 705568_710223
+%mor:	pro:sub|they v|notice comp|that det:art|a adj|dog&dn-POSS
+	n|footprint-PL aux|be&PRES part|lead-PRESP adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|6|DET 5|6|MOD 6|8|SUBJ 7|8|AUX 8|2|COMP
+	9|8|JCT 10|2|PUNCT
+%trn:	pro:sub|they v|notice comp|that det:art|a adj|dog&dn-POSS
+	n|footprint-PL aux|be&PRES part|lead-PRESP adv|away .
+%grt:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|6|DET 5|6|MOD 6|8|SUBJ 7|8|AUX
+	8|2|COMP 9|8|JCT 10|2|PUNCT
+*PAR:	they follow the &poot footprints to see the dog hiding under the
+	couch . 710223_714921
+%mor:	pro:sub|they v|follow det:art|the n|footprint-PL inf|to v|see
+	det:art|the n|dog part|hide-PRESP prep|under det:art|the n|couch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|2|XJCT 7|8|DET 8|6|OBJ
+	9|8|XMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+%trn:	pro:sub|they v|follow det:art|the n|footprint-PL inf|to v|see
+	det:art|the n|dog part|hide-PRESP prep|under det:art|the n|couch .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|2|XJCT 7|8|DET 8|6|OBJ
+	9|8|XMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*PAR:	the mother proceeds to try and swat the dog with a broom as
+	punishment while the guests with Johnny's friends and his friends'
+	parents arriving at the house wondering what had happened
+	&=clears:throat . 714921_729874
+%mor:	det:art|the n|mother v|proceed-3S inf|to v|try coord|and v|swat
+	det:art|the n|dog prep|with det:art|a n|broom prep|as
+	n|punish&dv-MENT conj|while det:art|the n|guest-PL prep|with
+	adj|Johnny&dn-POSS n|friend-PL coord|and det:poss|his
+	adj|friend&dn-PL-POSS n|parent-PL part|arrive-PRESP prep|at
+	det:art|the n|house part|wonder-PRESP pro:int|what aux|have&PAST
+	part|happen-PASTP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|13|POBJ 15|3|PUNCT
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|20|MOD 20|18|POBJ 21|20|CONJ 22|24|DET
+	23|24|MOD 24|21|COORD 25|17|XMOD 26|25|JCT 27|28|DET 28|26|POBJ
+	29|17|XMOD 30|32|SUBJ 31|32|AUX 32|29|COMP 33|15|PUNCT
+%trn:	det:art|the n|mother v|proceed-3S inf|to v|try coord|and v|swat
+	det:art|the n|dog prep|with det:art|a n|broom prep|as
+	n|punish&dv-MENT conj|while det:art|the n|guest-PL prep|with
+	adj|Johnny&dn-POSS n|friend-PL coord|and det:poss|his
+	adj|friend&dn-PL-POSS n|parent-PL part|arrive-PRESP prep|at
+	det:art|the n|house part|wonder-PRESP pro:int|what aux|have&PAST
+	part|happen-PASTP .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|CONJ 7|6|COORD
+	8|9|DET 9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|7|JCT 14|13|POBJ
+	15|3|PUNCT 16|17|DET 17|15|OBJ 18|17|NJCT 19|20|MOD 20|18|POBJ
+	21|20|CONJ 22|24|DET 23|24|MOD 24|21|COORD 25|17|XMOD 26|25|JCT
+	27|28|DET 28|26|POBJ 29|17|XMOD 30|32|SUBJ 31|32|AUX 32|29|COMP
+	33|15|PUNCT
+*PAR:	&-uh the mother punishes the dog . 729874_732042
+%mor:	det:art|the n|mother v|punish-3S det:art|the n|dog .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%trn:	det:art|the n|mother v|punish-3S det:art|the n|dog .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the party continues . 732042_734502
+%mor:	coord|and det:art|the n|party v|continue-3S .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	coord|and det:art|the n|party v|continue-3S .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and everybody has a good time other_than the fact that there's no
+	cake . 734504_738753
+%mor:	coord|and pro:indef|everybody v|have&3S det:art|a adj|good n|time
+	prep|other_than det:art|the n|fact comp|that
+	pro:exist|there~cop|be&3S qn|no n|cake .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|14|QUANT 14|12|PRED 15|3|PUNCT
+%trn:	coord|and pro:indef|everybody v|have&3S det:art|a adj|good n|time
+	prep|other_than det:art|the n|fact comp|that
+	pro:exist|there~cop|be&3S qn|no n|cake .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|14|QUANT 14|12|PRED
+	15|3|PUNCT
+*PAR:	the end . 738753_739667
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%trn:	det:art|the n|end .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	www . 739667_852200
+%exp:	non-AphasiaBank tasks
+@G:	Illness_or_Injury
+*INV:	okay ‡ whenever you're ready tell me a story that has a beginning a
+	middle and an end &=laughs . 852200_857224
+%mor:	co|okay beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S det:art|a
+	n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ 15|16|DET
+	16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+%trn:	co|okay beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S det:art|a
+	n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT
+	8|7|OBJ2 9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ
+	15|16|DET 16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+*PAR:	okay ‡ so ‡ one day &-uh I decided to go outside and enjoy the nice
+	weather and go for a jog . 857224_864973
+%mor:	co|okay beg|beg co|so beg|beg det:num|one n|day pro:sub|I
+	v|decide-PAST inf|to v|go adv|outside coord|and v|enjoy det:art|the
+	adj|nice n|weather coord|and v|go prep|for det:art|a n|jog .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|QUANT 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|JCT 12|10|CONJ 13|12|COORD 14|16|DET 15|16|MOD
+	16|13|OBJ 17|10|CONJ 18|17|COORD 19|18|JCT 20|21|DET 21|19|POBJ
+	22|8|PUNCT
+%trn:	co|okay beg|beg co|so beg|beg det:num|one n|day pro:sub|I
+	v|decide-PAST inf|to v|go adv|outside coord|and v|enjoy det:art|the
+	adj|nice n|weather coord|and v|go prep|for det:art|a n|jog .
+%grt:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|QUANT 6|8|JCT 7|8|SUBJ
+	8|0|ROOT 9|10|INF 10|8|COMP 11|10|JCT 12|10|CONJ 13|12|COORD
+	14|16|DET 15|16|MOD 16|13|OBJ 17|10|CONJ 18|17|COORD 19|18|JCT
+	20|21|DET 21|19|POBJ 22|8|PUNCT
+*PAR:	&-uh I noticed <that I had been> [//] that I was feeling kinda weak
+	and feeling kinda nauseous . 864973_871389
+%mor:	pro:sub|I v|notice-PAST comp|that pro:sub|I aux|be&PAST&13S
+	part|feel-PRESP adv|kinda adj|weak coord|and part|feel-PRESP
+	adv|kinda adj|nauseous .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|8|JCT 8|6|PRED
+	9|8|CONJ 10|9|COORD 11|12|JCT 12|10|JCT 13|2|PUNCT
+%trn:	pro:sub|I v|notice-PAST comp|that pro:sub|I aux|be&PAST&13S
+	part|feel-PRESP adv|kinda adj|weak coord|and part|feel-PRESP
+	adv|kinda adj|nauseous .
+%grt:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|8|JCT
+	8|6|PRED 9|6|CONJ 10|9|COORD 11|12|JCT 12|10|JCT 13|2|PUNCT
+*PAR:	&-um thinking that it was just &-uh part of getting back into
+	exercise I didn't think too much of it . 871389_877930
+%mor:	part|think-PRESP comp|that pro:per|it cop|be&PAST&13S adv|just
+	n|part prep|of n:gerund|get-PRESP adv|back prep|into n|exercise
+	pro:sub|I mod|do&PAST~neg|not v|think adv|too adv|much prep|of
+	pro:per|it .
+%gra:	1|15|XJCT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|6|JCT 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|15|SUBJ 13|15|AUX 14|13|NEG 15|0|ROOT
+	16|17|JCT 17|15|JCT 18|17|JCT 19|18|POBJ 20|15|PUNCT
+%trn:	part|think-PRESP comp|that pro:per|it cop|be&PAST&13S adv|just
+	n|part prep|of n:gerund|get-PRESP adv|back prep|into n|exercise
+	pro:sub|I mod|do&PAST~neg|not v|think adv|too adv|much prep|of
+	pro:per|it .
+%grt:	1|15|XJCT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|6|JCT 6|4|PRED 7|6|NJCT
+	8|7|POBJ 9|8|JCT 10|8|JCT 11|10|POBJ 12|15|SUBJ 13|15|AUX 14|13|NEG
+	15|0|ROOT 16|17|JCT 17|15|JCT 18|15|JCT 19|18|POBJ 20|15|PUNCT
+*PAR:	however ‡ the following days it continued to get worse and worse .
+	877930_882524
+%mor:	co|however beg|beg det:art|the part|follow-PRESP n|day-PL
+	pro:per|it v|continue-PAST inf|to v|get adj|bad&CP coord|and
+	adj|bad&CP .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|PRED 11|10|CONJ 12|11|COORD 13|7|PUNCT
+%trn:	adv|however beg|beg det:art|the part|follow-PRESP n|day-PL
+	pro:per|it v|continue-PAST inf|to v|get adj|bad&CP coord|and
+	adj|bad&CP .
+%grt:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|XMOD 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|PRED 11|10|CONJ 12|11|COORD 13|7|PUNCT
+*PAR:	&-um I started to get more nauseous and feel more weak . 882566_886927
+%mor:	pro:sub|I v|start-PAST inf|to v|get adv|more adj|nauseous coord|and
+	n|feel adv|more adj|weak .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|JCT 6|4|PRED 7|4|CONJ 8|7|COORD
+	9|10|JCT 10|8|POSTMOD 11|2|PUNCT
+%trn:	pro:sub|I v|start-PAST inf|to v|get adv|more adj|nauseous coord|and
+	v|feel adv|more adj|weak .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|JCT 6|4|PRED 7|4|CONJ
+	8|7|COORD 9|10|JCT 10|8|JCT 11|2|PUNCT
+*PAR:	and I was sleeping up to twenty one hours a day . 886927_891353
+%mor:	coord|and pro:sub|I aux|be&PAST&13S part|sleep-PRESP adv|up prep|to
+	det:num|twenty det:num|one n|hour-PL det:art|a n|day .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|ENUM 8|9|QUANT
+	9|6|POBJ 10|11|DET 11|4|JCT 12|4|PUNCT
+%trn:	coord|and pro:sub|I aux|be&PAST&13S part|sleep-PRESP adv|up prep|to
+	det:num|twenty det:num|one n|hour-PL det:art|a n|day .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|ENUM
+	8|9|QUANT 9|6|POBJ 10|11|DET 11|4|JCT 12|4|PUNCT
+*PAR:	&-um finally I decided that I needed to go to the doctor . 891353_896204
+%mor:	adv|final&dadj-LY pro:sub|I v|decide-PAST comp|that pro:sub|I
+	v|need-PAST inf|to v|go prep|to det:art|the n|doctor .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|INF 8|6|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+%trn:	adv|final&dadj-LY pro:sub|I v|decide-PAST comp|that pro:sub|I
+	v|need-PAST inf|to v|go prep|to det:art|the n|doctor .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|INF
+	8|6|COMP 9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and at that point I had become jaundice which is yellow [/] &s
+	yellow skin and the whites of my eyes had become yellow . 896204_903562
+%mor:	coord|and prep|at det:dem|that n|point pro:sub|I aux|have&PAST
+	part|become&PASTP n|jaundice pro:rel|which cop|be&3S adj|yellow
+	n|skin coord|and det:art|the n|white-PL prep|of det:poss|my n|eye-PL
+	aux|have&PAST part|become&PASTP adj|yellow .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|10|LINK 10|8|CMOD 11|12|MOD 12|10|PRED 13|20|LINK 14|15|DET 15|20|SUBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|20|AUX 20|10|CJCT 21|20|JCT 22|7|PUNCT
+%trn:	coord|and prep|at det:dem|that n|point pro:sub|I aux|have&PAST
+	part|become&PASTP n|jaundice pro:rel|which cop|be&3S adj|yellow
+	n|skin coord|and det:art|the n|white-PL prep|of det:poss|my n|eye-PL
+	aux|have&PAST part|become&PASTP adj|yellow .
+%grt:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|10|LINK 10|8|CMOD 11|12|MOD 12|10|PRED 13|20|LINK 14|15|DET
+	15|20|SUBJ 16|15|NJCT 17|18|DET 18|16|POBJ 19|20|AUX 20|7|CJCT
+	21|20|PRED 22|7|PUNCT
+*PAR:	&-uh the doctor had sent me to the hospital and [//] where I was
+	hospitalized for four days while they did tests to figure what might
+	be wrong with me . 903562_915854
+%mor:	det:art|the n|doctor aux|have&PAST part|send&PASTP pro:obj|me
+	prep|to det:art|the n|hospital pro:rel|where pro:sub|I
+	aux|be&PAST&13S part|hospital-IZE-PASTP prep|for det:num|four
+	n|day-PL conj|while pro:sub|they v|do&PAST n|test-PL inf|to v|figure
+	pro:int|what mod|might cop|be adj|wrong prep|with pro:obj|me .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|12|JCT 14|15|QUANT 15|13|POBJ
+	16|18|LINK 17|18|SUBJ 18|4|CJCT 19|18|OBJ 20|21|INF 21|18|XJCT 22|24|SUBJ
+	23|24|AUX 24|21|COMP 25|24|PRED 26|25|JCT 27|26|POBJ 28|4|PUNCT
+%trn:	det:art|the n|doctor aux|have&PAST part|send&PASTP pro:obj|me
+	prep|to det:art|the n|hospital pro:rel|where pro:sub|I
+	aux|be&PAST&13S part|hospital-IZE-PASTP prep|for det:num|four
+	n|day-PL conj|while pro:sub|they v|do&PAST n|test-PL inf|to v|figure
+	pro:int|what mod|might cop|be adj|wrong prep|with pro:obj|me .
+%grt:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|12|JCT 14|15|QUANT
+	15|13|POBJ 16|18|LINK 17|18|SUBJ 18|12|CJCT 19|18|OBJ 20|21|INF
+	21|18|XJCT 22|24|SUBJ 23|24|AUX 24|21|COMP 25|24|PRED 26|25|JCT
+	27|26|POBJ 28|4|PUNCT
+*PAR:	&-uh all of my family came to visit . 915854_918102
+%mor:	pro:indef|all prep|of det:poss|my n|family v|come&PAST inf|to
+	v|visit .
+%gra:	1|5|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
+%trn:	pro:indef|all prep|of det:poss|my n|family v|come&PAST inf|to
+	v|visit .
+%grt:	1|5|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|7|INF 7|5|XJCT
+	8|5|PUNCT
+*PAR:	and they hadta wear gloves for protection since they didn't know
+	what was wrong with me . 918102_923501
+%mor:	coord|and pro:sub|they mod|have&PAST~inf|to v|wear n|glove-PL
+	prep|for n|protection conj|since pro:sub|they mod|do&PAST~neg|not
+	v|know pro:int|what cop|be&PAST&13S adj|wrong prep|with pro:obj|me .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|5|CJCT 14|15|SUBJ 15|13|COMP
+	16|15|PRED 17|16|JCT 18|17|POBJ 19|5|PUNCT
+%trn:	coord|and pro:sub|they mod|have&PAST~inf|to v|wear n|glove-PL
+	prep|for n|protection conj|since pro:sub|they mod|do&PAST~neg|not
+	v|know pro:int|what cop|be&PAST&13S adj|wrong prep|with pro:obj|me .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|5|CJCT 14|15|SUBJ
+	15|13|COMP 16|15|PRED 17|16|JCT 18|17|POBJ 19|5|PUNCT
+*PAR:	and after several tests and several visits from the doctor they
+	discovered that it was Hepatitis_a . 923501_929589
+%mor:	coord|and prep|after qn|several n|test-PL coord|and qn|several
+	n|visit-PL prep|from det:art|the n|doctor pro:sub|they
+	v|discover-PAST comp|that pro:per|it cop|be&PAST&13S
+	n:prop|Hepatitis_a .
+%gra:	1|12|LINK 2|12|JCT 3|4|QUANT 4|2|POBJ 5|4|CONJ 6|7|QUANT 7|5|COORD
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|12|SUBJ 12|0|ROOT 13|15|LINK 14|15|SUBJ
+	15|12|COMP 16|15|PRED 17|12|PUNCT
+%trn:	coord|and prep|after qn|several n|test-PL coord|and qn|several
+	n|visit-PL prep|from det:art|the n|doctor pro:sub|they
+	v|discover-PAST comp|that pro:per|it cop|be&PAST&13S
+	n:prop|Hepatitis_a .
+%grt:	1|12|LINK 2|12|JCT 3|4|QUANT 4|2|POBJ 5|4|CONJ 6|7|QUANT 7|5|COORD
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|12|SUBJ 12|0|ROOT 13|15|LINK
+	14|15|SUBJ 15|12|COMP 16|15|PRED 17|12|PUNCT
+*PAR:	and after several days of being on i_v and getting rehydrated &-uh
+	I did recover as there is no cure . 929589_939436
+%mor:	coord|and prep|after qn|several n|day-PL prep|of n:gerund|be-PRESP
+	prep|on n|i_v coord|and part|get-PRESP re#part|hydrate-PASTP
+	pro:sub|I mod|do&PAST v|recover conj|as pro:exist|there cop|be&3S
+	qn|no n|cure .
+%gra:	1|14|LINK 2|14|JCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|6|JCT
+	8|7|POBJ 9|6|CONJ 10|9|COORD 11|10|COMP 12|14|SUBJ 13|14|AUX 14|0|ROOT
+	15|17|LINK 16|17|SUBJ 17|14|CJCT 18|19|QUANT 19|17|PRED 20|14|PUNCT
+%trn:	coord|and prep|after qn|several n|day-PL prep|of n:gerund|be-PRESP
+	prep|on n|i_v coord|and part|get-PRESP re#part|hydrate-PASTP
+	pro:sub|I mod|do&PAST v|recover conj|as pro:exist|there cop|be&3S
+	qn|no n|cure .
+%grt:	1|14|LINK 2|14|JCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|6|JCT
+	8|7|POBJ 9|6|CONJ 10|9|COORD 11|10|COMP 12|14|SUBJ 13|14|AUX
+	14|0|ROOT 15|17|LINK 16|17|SUBJ 17|14|CJCT 18|19|QUANT 19|17|PRED
+	20|14|PUNCT
+*PAR:	and I [//] <after about> [//] about two months after that after I
+	got out_of the hospital .
+%mor:	coord|and prep|about det:num|two n|month-PL prep|after pro:dem|that
+	prep|after pro:sub|I v|get&PAST prep|out_of det:art|the n|hospital .
+%gra:	1|3|LINK 2|3|JCT 3|4|QUANT 4|9|SUBJ 5|4|NJCT 6|5|POBJ 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|PUNCT
+%trn:	coord|and prep|about det:num|two n|month-PL prep|after pro:dem|that
+	prep|after pro:sub|I v|get&PAST prep|out_of det:art|the n|hospital .
+%grt:	1|4|LINK 2|3|JCT 3|4|QUANT 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|5|ENUM
+	8|9|SUBJ 9|7|CPOBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|9|PUNCT
+*PAR:	I was one hundred percent recovered and very happy that it wasn't
+	something worse . 939080_948779
+%mor:	pro:sub|I cop|be&PAST&13S det:num|one det:num|hundred n|percent
+	v|recover-PAST coord|and adv|very adj|happy comp|that pro:per|it
+	cop|be&PAST&13S~neg|not pro:indef|something adj|bad&CP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|6|JCT 6|2|PRED 7|6|CONJ 8|9|JCT
+	9|7|COORD 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|NEG 14|12|PRED
+	15|14|POSTMOD 16|2|PUNCT
+%trn:	pro:sub|I cop|be&PAST&13S det:num|one det:num|hundred n|percent
+	v|recover-PAST coord|and adv|very adj|happy comp|that pro:per|it
+	cop|be&PAST&13S~neg|not pro:indef|something adj|bad&CP .
+%grt:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|6|JCT 6|2|PRED 7|6|CONJ
+	8|9|JCT 9|7|COORD 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|NEG
+	14|12|PRED 15|14|POSTMOD 16|2|PUNCT
+*PAR:	the end . 948779_950239
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%trn:	det:art|the n|end .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Communication
+*PAR:	wait . 950239_953066
+%mor:	co|wait .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|wait .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh ‡ &=laughs it's okay . 953066_954895
+%mor:	co|oh beg|beg pro:per|it~cop|be&3S adj|okay .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%trn:	co|oh beg|beg pro:per|it~cop|be&3S adj|okay .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	what (di)d you wanna say ? 954895_956075
+%mor:	pro:int|what mod|do&PAST pro:per|you v|want~inf|to co|say ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%trn:	pro:int|what mod|do&PAST pro:per|you v|want~inf|to co|say ?
+%grt:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*PAR:	by <language problems> [//] &-uh communication problems does it
+	mean someone that mighta [: might have] had a disorder or is just it
+	an issue communicating ? 956075_965066
+%mor:	prep|by n|communicate&dv-TION n|problem-PL mod|do&3S pro:per|it
+	v|mean pro:indef|someone comp|that mod|might aux|have
+	part|have&PASTP det:art|a dis#n|order coord|or cop|be&3S adv|just
+	pro:per|it det:art|a n|issue part|communicate-PRESP ?
+%gra:	1|6|LINK 2|3|MOD 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|11|LINK
+	9|11|AUX 10|11|AUX 11|6|COMP 12|13|DET 13|11|OBJ 14|11|CONJ 15|14|COORD
+	16|17|JCT 17|15|PRED 18|19|DET 19|17|OBJ 20|19|XMOD 21|6|PUNCT
+%trn:	prep|by n|communicate&dv-TION n|problem-PL mod|do&3S pro:per|it v|mean
+	pro:indef|someone pro:rel|that mod|might aux|have part|have&PASTP
+	det:art|a dis#n|order coord|or cop|be&3S adv|just pro:per|it
+	det:art|a n|issue part|communicate-PRESP ?
+%grt:	1|6|JCT 2|3|MOD 3|1|POBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ
+	8|11|LINK 9|11|AUX 10|11|AUX 11|7|CMOD 12|13|DET 13|11|OBJ
+	14|15|LINK 15|6|CJCT 16|15|JCT 17|15|SUBJ 18|19|DET 19|15|PRED
+	20|19|XMOD 21|6|PUNCT
+*INV:	it can be either . 965061_966042
+%mor:	pro:per|it mod|can cop|be adv|either .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%trn:	pro:per|it mod|can cop|be adv|either .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	okay . 966042_966324
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 966324_966840
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|mhm=yes .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*PAR:	alright . 966840_967190
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*INV:	it doesn't hafta be someone that has some kind of disorder . 967190_969766
+%mor:	pro:per|it mod|do&3S~neg|not mod|have~inf|to cop|be
+	pro:indef|someone pro:rel|that v|have&3S qn|some n|kind prep|of
+	dis#n|order .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|6|PRED 8|9|LINK
+	9|7|CMOD 10|11|QUANT 11|9|OBJ 12|11|NJCT 13|12|POBJ 14|6|PUNCT
+%trn:	pro:per|it mod|do&3S~neg|not mod|have~inf|to cop|be
+	pro:indef|someone pro:rel|that v|have&3S qn|some n|kind prep|of
+	dis#n|order .
+%grt:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|6|PRED 8|9|LINK
+	9|7|CMOD 10|11|QUANT 11|9|OBJ 12|11|NJCT 13|12|POBJ 14|6|PUNCT
+*PAR:	okay [>] . 969766_970399
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*INV:	it [<] can be just someone who's maybe not a good communicator . 970199_973026
+%mor:	pro:per|it mod|can cop|be adv|just pro:indef|someone
+	pro:rel|who~cop|be&3S adv|maybe neg|not det:art|a adj|good
+	n|communicator .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|LINK 7|5|CMOD 8|7|JCT
+	9|12|NEG 10|12|DET 11|12|MOD 12|7|PRED 13|3|PUNCT
+%trn:	pro:per|it mod|can cop|be adv|just pro:indef|someone
+	pro:rel|who~cop|be&3S adv|maybe neg|not det:art|a adj|good
+	n|communicator .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|LINK 7|5|CMOD
+	8|7|JCT 9|12|NEG 10|12|DET 11|12|MOD 12|7|PRED 13|3|PUNCT
+*PAR:	okay . 973026_973225
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ so ‡ whenever you're ready &-um tell me what the problems
+	were and what you did about them or how you handled them . 973225_979792
+%mor:	co|okay beg|beg co|so beg|beg conj|whenever pro:per|you~cop|be&PRES
+	adj|ready v|tell pro:obj|me pro:int|what det:art|the n|problem-PL
+	cop|be&PAST coord|and pro:int|what pro:per|you v|do&PAST prep|about
+	pro:obj|them coord|or pro:int|how pro:per|you v|handle-PAST
+	pro:obj|them .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|7|LINK 6|7|SUBJ 7|9|CJCT 8|7|PRED
+	9|0|ROOT 10|9|OBJ 11|14|LINK 12|13|DET 13|14|SUBJ 14|9|COMP 15|14|CONJ
+	16|18|LINK 17|18|SUBJ 18|15|COORD 19|18|JCT 20|19|POBJ 21|18|CONJ
+	22|24|LINK 23|24|SUBJ 24|21|COORD 25|24|OBJ 26|9|PUNCT
+%trn:	co|okay beg|beg co|so beg|beg conj|whenever
+	pro:per|you~cop|be&PRES adj|ready v|tell pro:obj|me pro:int|what
+	det:art|the n|problem-PL cop|be&PAST coord|and pro:int|what
+	pro:per|you v|do&PAST prep|about pro:obj|them coord|or pro:int|how
+	pro:per|you v|handle-PAST pro:obj|them .
+%grt:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|7|LINK 6|7|SUBJ 7|9|CJCT
+	8|7|PRED 9|0|ROOT 10|9|OBJ 11|14|LINK 12|13|DET 13|14|SUBJ 14|9|COMP
+	15|14|CONJ 16|18|LINK 17|18|SUBJ 18|15|COORD 19|18|JCT 20|19|POBJ
+	21|18|CONJ 22|24|LINK 23|24|SUBJ 24|21|COORD 25|24|OBJ 26|9|PUNCT
+*PAR:	okay ‡ so ‡ a_few years ago when I was in school &-uh I was taking
+	a class where I was partnered up with &-uh a student from China <who
+	had a very difficult> [//] who had difficulties communicating
+	verbally in English . 979792_996667
+%mor:	co|okay beg|beg co|so beg|beg qn|a_few n|year-PL post|ago conj|when
+	pro:sub|I cop|be&PAST&13S prep|in n|school pro:sub|I aux|be&PAST&13S
+	part|take-PRESP det:art|a n|class pro:rel|where pro:sub|I
+	aux|be&PAST&13S part|partner-PASTP adv|up prep|with det:art|a
+	n|student prep|from n:prop|China pro:rel|who v|have&PAST
+	n|difficulty-PL part|communicate-PRESP adv|verbal&dadj-LY prep|in
+	n:prop|English .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|QUANT 6|15|JCT 7|6|POSTMOD
+	8|10|LINK 9|10|SUBJ 10|15|CJCT 11|10|JCT 12|11|POBJ 13|15|SUBJ 14|15|AUX
+	15|0|ROOT 16|17|DET 17|15|OBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CMOD
+	22|21|JCT 23|21|JCT 24|25|DET 25|23|POBJ 26|25|NJCT 27|26|POBJ 28|29|LINK
+	29|27|CMOD 30|29|OBJ 31|30|XMOD 32|31|JCT 33|31|JCT 34|33|POBJ 35|15|PUNCT
+%trn:	co|okay beg|beg co|so beg|beg qn|a_few n|year-PL post|ago conj|when
+	pro:sub|I cop|be&PAST&13S prep|in n|school pro:sub|I aux|be&PAST&13S
+	part|take-PRESP det:art|a n|class pro:rel|where pro:sub|I
+	aux|be&PAST&13S part|partner-PASTP adv|up prep|with det:art|a
+	n|student prep|from n:prop|China pro:rel|who v|have&PAST
+	n|difficulty-PL part|communicate-PRESP adv|verbal&dadj-LY prep|in
+	n:prop|English .
+%grt:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|QUANT 6|15|JCT 7|6|POSTMOD
+	8|10|LINK 9|10|SUBJ 10|15|CJCT 11|10|JCT 12|11|POBJ 13|15|SUBJ
+	14|15|AUX 15|0|ROOT 16|17|DET 17|15|OBJ 18|21|LINK 19|21|SUBJ
+	20|21|AUX 21|17|CMOD 22|21|JCT 23|21|JCT 24|25|DET 25|23|POBJ
+	26|25|NJCT 27|26|POBJ 28|29|LINK 29|25|CMOD 30|29|OBJ 31|30|XMOD
+	32|31|JCT 33|31|JCT 34|33|POBJ 35|15|PUNCT
+*PAR:	&-um he [/] he was hard to understand . 996667_999144
+%mor:	pro:sub|he cop|be&PAST&13S adv|hard inf|to v|understand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|INF 5|2|XJCT 6|2|PUNCT
+%trn:	pro:sub|he cop|be&PAST&13S adj|hard inf|to v|understand .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|2|PUNCT
+*PAR:	but I did my best to communicate with him by &-um maybe not trying
+	to understand his complete sentences but trying to pick out words
+	out_of what he was saying and try to match that into the context of
+	what was going on around us to piece together what he might be
+	saying . 999144_1020624
+%mor:	conj|but pro:sub|I v|do&PAST det:poss|my adj|good&SP inf|to
+	v|communicate prep|with pro:obj|him adv|by adv|maybe neg|not
+	part|try-PRESP inf|to v|understand det:poss|his adj|complete
+	n|sentence-PL conj|but n:gerund|try-PRESP inf|to v|pick adv|out
+	n|word-PL prep|out_of pro:int|what pro:sub|he aux|be&PAST&13S
+	part|say-PRESP coord|and v|try prep|to n|match pro:rel|that
+	prep|into det:art|the n|context prep|of pro:int|what cop|be&PAST&13S
+	none|go adv|on prep|around pro:obj|us prep|to n|piece adv|together
+	pro:int|what pro:sub|he mod|might aux|be part|say-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|7|JCT
+	9|8|POBJ 10|3|JCT 11|13|JCT 12|11|NEG 13|10|ROOT 14|15|INF 15|13|COMP
+	16|18|DET 17|18|MOD 18|15|OBJ 19|13|CONJ 20|19|COORD 21|22|INF 22|20|COMP
+	23|22|JCT 24|23|POBJ 25|24|NJCT 26|29|LINK 27|29|SUBJ 28|29|AUX 29|25|CPOBJ
+	30|22|CONJ 31|30|COORD 32|31|JCT 33|32|POBJ 34|33|INCROOT 35|34|JCT
+	36|37|DET 37|35|POBJ 38|37|NJCT 39|40|SUBJ 40|38|CPOBJ 41|40|PRED 42|43|JCT
+	43|41|JCT 44|43|POBJ 45|41|JCT 46|45|POBJ 47|41|JCT 48|52|LINK
+	49|52|SUBJ 50|52|AUX 51|52|AUX 52|47|CPOBJ 53|34|PUNCT
+%trn:	conj|but pro:sub|I v|do&PAST det:poss|my adj|good&SP inf|to
+	v|communicate prep|with pro:obj|him prep|by adv|maybe neg|not
+	n:gerund|try-PRESP inf|to v|understand det:poss|his adj|complete
+	n|sentence-PL conj|but n:gerund|try-PRESP inf|to v|pick adv|out
+	n|word-PL prep|out_of pro:int|what pro:sub|he aux|be&PAST&13S
+	part|say-PRESP coord|and v|try inf|to v|match pro:dem|that prep|into
+	det:art|the n|context prep|of pro:int|what aux|be&PAST&13S
+	part|go-PRESP adv|on prep|around pro:obj|us inf|to v|piece
+	adv|together pro:int|what pro:sub|he mod|might aux|be part|say-PRESP
+	.
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|3|XJCT 8|7|JCT
+	9|8|POBJ 10|3|JCT 11|12|JCT 12|13|NEG 13|10|POBJ 14|15|INF
+	15|13|COMP 16|18|DET 17|18|MOD 18|15|OBJ 19|13|CONJ 20|19|COORD
+	21|22|INF 22|20|COMP 23|22|JCT 24|23|POBJ 25|24|NJCT 26|29|LINK
+	27|29|SUBJ 28|29|AUX 29|25|CPOBJ 30|22|CONJ 31|30|COORD 32|33|INF
+	33|31|COMP 34|33|OBJ 35|33|JCT 36|37|DET 37|35|POBJ 38|37|JCT
+	39|41|SUBJ 40|41|AUX 41|38|CPOBJ 42|41|JCT 43|41|JCT 44|43|POBJ
+	45|46|INF 46|31|XJCT 47|46|JCT 48|52|LINK 49|52|SUBJ 50|52|AUX
+	51|52|AUX 52|46|COMP 53|3|PUNCT
+*PAR:	and also I helped the communication by trying to repeat what he was
+	saying or continue the conversation on &-uh stating how I was
+	understanding him so_that at some point if I didn't understand him
+	he would realize that I wasn't understanding him . 1020624_1039442
+%mor:	coord|and adv|also pro:sub|I v|help-PAST det:art|the
+	n|communicate&dv-TION prep|by n:gerund|try-PRESP inf|to v|repeat
+	pro:int|what pro:sub|he aux|be&PAST&13S part|say-PRESP coord|or
+	v|continue det:art|the n|converse&dv-TION prep|on
+	n:gerund|state-PRESP pro:int|how pro:sub|I aux|be&PAST&13S
+	part|understand-PRESP pro:obj|him conj|so_that prep|at qn|some
+	n|point conj|if pro:sub|I mod|do&PAST~neg|not v|understand
+	pro:obj|him pro:sub|he mod|will&COND v|realize comp|that pro:sub|I
+	aux|be&PAST&13S~neg|not part|understand-PRESP pro:obj|him .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|10|INF 10|8|COMP 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|COMP 15|14|CONJ
+	16|15|COORD 17|18|DET 18|16|OBJ 19|16|JCT 20|19|POBJ 21|24|LINK 22|24|SUBJ
+	23|24|AUX 24|20|COMP 25|24|OBJ 26|38|LINK 27|38|JCT 28|29|QUANT
+	29|27|POBJ 30|34|LINK 31|34|SUBJ 32|34|AUX 33|32|NEG 34|38|CJCT 35|34|OBJ
+	36|38|SUBJ 37|38|AUX 38|24|CJCT 39|43|LINK 40|43|SUBJ 41|43|AUX 42|41|NEG
+	43|38|COMP 44|43|OBJ 45|4|PUNCT
+%trn:	coord|and adv|also pro:sub|I v|help-PAST det:art|the
+	n|communicate&dv-TION prep|by n:gerund|try-PRESP inf|to v|repeat
+	pro:int|what pro:sub|he aux|be&PAST&13S part|say-PRESP coord|or
+	v|continue det:art|the n|converse&dv-TION prep|on
+	n:gerund|state-PRESP pro:int|how pro:sub|I aux|be&PAST&13S
+	part|understand-PRESP pro:obj|him conj|so_that prep|at qn|some
+	n|point conj|if pro:sub|I mod|do&PAST~neg|not v|understand
+	pro:obj|him pro:sub|he mod|will&COND v|realize comp|that pro:sub|I
+	aux|be&PAST&13S~neg|not part|understand-PRESP pro:obj|him .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|10|INF 10|8|COMP 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|COBJ
+	15|10|CONJ 16|15|COORD 17|18|DET 18|16|OBJ 19|16|JCT 20|16|XJCT
+	21|24|LINK 22|24|SUBJ 23|24|AUX 24|20|COMP 25|24|OBJ 26|38|LINK
+	27|38|JCT 28|29|QUANT 29|27|POBJ 30|34|LINK 31|34|SUBJ 32|34|AUX
+	33|32|NEG 34|38|CJCT 35|34|OBJ 36|38|SUBJ 37|38|AUX 38|20|CJCT
+	39|43|LINK 40|43|SUBJ 41|43|AUX 42|41|NEG 43|38|COMP 44|43|OBJ
+	45|4|PUNCT
+*PAR:	and &afrel after several weeks it just got easier and easier to
+	understand what he was saying . 1039482_1045941
+%mor:	coord|and prep|after qn|several n|week-PL pro:per|it adv|just
+	v|get&PAST adj|ease&dn-Y-CP coord|and adj|ease&dn-Y-CP inf|to
+	v|understand pro:int|what pro:sub|he aux|be&PAST&13S part|say-PRESP
+	.
+%gra:	1|7|LINK 2|7|JCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|PRED
+	9|8|CONJ 10|9|COORD 11|12|INF 12|8|XMOD 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|COMP 17|7|PUNCT
+%trn:	coord|and prep|after qn|several n|week-PL pro:per|it adv|just
+	v|get&PAST adj|ease&dn-Y-CP coord|and adj|ease&dn-Y-CP inf|to
+	v|understand pro:int|what pro:sub|he aux|be&PAST&13S part|say-PRESP
+	.
+%grt:	1|7|LINK 2|7|JCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|JCT 7|0|ROOT
+	8|7|PRED 9|8|CONJ 10|9|COORD 11|12|INF 12|8|XMOD 13|16|LINK
+	14|16|SUBJ 15|16|AUX 16|12|COMP 17|7|PUNCT
+*PAR:	I would [//] just became accustomed to the accent and the words
+	that he might choose to use . 1046141_1053241
+%mor:	pro:sub|I adv|just cop|become&PAST part|accustom-PASTP prep|to
+	det:art|the n|accent coord|and det:art|the n|word-PL pro:rel|that
+	pro:sub|he mod|might v|choose inf|to v|use .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|10|DET 10|8|COORD 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|16|INF
+	16|14|COMP 17|3|PUNCT
+%trn:	pro:sub|I adv|just cop|become&PAST part|accustom-PASTP prep|to
+	det:art|the n|accent coord|and det:art|the n|word-PL pro:rel|that
+	pro:sub|he mod|might v|choose inf|to v|use .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ
+	8|7|CONJ 9|10|DET 10|8|COORD 11|14|LINK 12|14|SUBJ 13|14|AUX
+	14|10|CMOD 15|16|INF 16|14|COMP 17|3|PUNCT
+*PAR:	and over time it got easier . 1053241_1056151
+%mor:	coord|and prep|over n|time pro:per|it v|get&PAST adj|ease&dn-Y-CP .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%trn:	coord|and prep|over n|time pro:per|it v|get&PAST adj|ease&dn-Y-CP .
+%grt:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*INV:	alright ‡ good . 1056151_1058080
+%mor:	co|alright beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+%trn:	co|alright beg|beg adj|good .
+%grt:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	www . 1058080_1061437
+%exp:	break between tasks
+@G:	Scary_Experience
+*INV:	okay ‡ whenever you're ready tell me the story . 1061437_1064032
+%mor:	co|okay beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|the n|story .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|7|PUNCT
+%trn:	co|okay beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|the n|story .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT
+	8|7|OBJ2 9|10|DET 10|7|OBJ 11|7|PUNCT
+*INV:	start from the beginning . 1064032_1065395
+%mor:	v|start prep|from det:art|the n|beginning .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%trn:	v|start prep|from det:art|the n|beginning .
+%grt:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	okay ‡ so ‡ <it was> [/] &-uh it was night time on Friday night . 1065395_1072602
+%mor:	co|okay beg|beg co|so beg|beg pro:per|it cop|be&PAST&13S n|night
+	n|time prep|on n:prop|Friday n|night .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|8|MOD 8|6|PRED
+	9|6|JCT 10|11|MOD 11|9|POBJ 12|6|PUNCT
+%trn:	co|okay beg|beg co|so beg|beg pro:per|it cop|be&PAST&13S n|night
+	n|time prep|on n:prop|Friday n|night .
+%grt:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|8|MOD
+	8|6|PRED 9|6|JCT 10|11|MOD 11|9|POBJ 12|6|PUNCT
+*PAR:	and one o(f) my friends was having a small get+together over at her
+	house . 1072602_1078454
+%mor:	coord|and det:num|one prep|of det:poss|my n|friend-PL
+	aux|be&PAST&13S part|have-PRESP det:art|a adj|small
+	n|+v|get+prep|together adv|over prep|at det:poss|her n|house .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|7|JCT 12|7|JCT 13|14|DET 14|12|POBJ 15|7|PUNCT
+%trn:	coord|and det:num|one prep|of det:poss|my n|friend-PL
+	aux|be&PAST&13S part|have-PRESP det:art|a adj|small
+	n|+v|get+prep|together adv|over prep|at det:poss|her n|house .
+%grt:	1|7|LINK 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT
+	8|10|DET 9|10|MOD 10|7|OBJ 11|10|NJCT 12|10|NJCT 13|14|DET
+	14|12|POBJ 15|7|PUNCT
+*PAR:	just a_few of us . 1078454_1079635
+%mor:	adv|just qn|a_few prep|of pro:obj|us .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%trn:	adv|just qn|a_few prep|of pro:obj|us .
+%grt:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*PAR:	and she invited me over . 1079635_1081082
+%mor:	coord|and pro:sub|she v|invite-PAST pro:obj|me adv|over .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%trn:	coord|and pro:sub|she v|invite-PAST pro:obj|me adv|over .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	so ‡ I went over there . 1081082_1083094
+%mor:	co|so beg|beg pro:sub|I v|go&PAST prep|over n|there .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%trn:	co|so beg|beg pro:sub|I v|go&PAST prep|over pro:indef|there .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and I got to the house . 1083094_1085121
+%mor:	coord|and pro:sub|I v|get&PAST prep|to det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%trn:	coord|and pro:sub|I v|get&PAST prep|to det:art|the n|house .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and the few of us were just hanging around watching tv having a
+	good time . 1085121_1090707
+%mor:	coord|and det:art|the qn|few prep|of pro:obj|us aux|be&PAST
+	adv|just part|hang-PRESP adv|around part|watch-PRESP n|tv
+	part|have-PRESP det:art|a adj|good n|time .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|NJCT 5|4|POBJ 6|8|AUX 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|8|XJCT 11|10|OBJ 12|11|XMOD 13|15|DET 14|15|MOD 15|12|OBJ
+	16|8|PUNCT
+%trn:	coord|and det:art|the qn|few prep|of pro:obj|us aux|be&PAST
+	adv|just part|hang-PRESP adv|around part|watch-PRESP n|tv
+	part|have-PRESP det:art|a adj|good n|time .
+%grt:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|NJCT 5|4|POBJ 6|8|AUX 7|8|JCT
+	8|0|ROOT 9|8|JCT 10|8|XJCT 11|10|OBJ 12|8|XJCT 13|15|DET 14|15|MOD
+	15|12|OBJ 16|8|PUNCT
+*PAR:	and &-uh we hear a knock at the door . 1090707_1094464
+%mor:	coord|and pro:sub|we v|hear det:art|a n|knock prep|at det:art|the
+	n|door .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+%trn:	coord|and pro:sub|we v|hear det:art|a n|knock prep|at det:art|the
+	n|door .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|3|PUNCT
+*PAR:	and just thinking that maybe it was &-uh another guest or not
+	thinking much of it &-uh the [//] &-uh one of her friends answers
+	the door . 1094464_1103293
+%mor:	coord|and adv|just part|think-PRESP comp|that adv|maybe pro:per|it
+	cop|be&PAST&13S qn|another n|guest coord|or neg|not part|think-PRESP
+	adv|much prep|of pro:per|it pro:indef|one prep|of det:poss|her
+	n|friend-PL v|answer-3S det:art|the n|door .
+%gra:	1|20|LINK 2|3|JCT 3|20|XJCT 4|7|LINK 5|7|JCT 6|7|SUBJ 7|3|COMP
+	8|9|QUANT 9|7|PRED 10|12|LINK 11|12|NEG 12|20|XJCT 13|12|JCT 14|12|JCT
+	15|14|POBJ 16|20|SUBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|0|ROOT 21|22|DET
+	22|20|OBJ 23|20|PUNCT
+%trn:	coord|and adv|just part|think-PRESP comp|that adv|maybe pro:per|it
+	cop|be&PAST&13S qn|another n|guest coord|or neg|not part|think-PRESP
+	adv|much prep|of pro:per|it pro:indef|one prep|of det:poss|her
+	n|friend-PL v|answer-3S det:art|the n|door .
+%grt:	1|20|LINK 2|3|JCT 3|20|XJCT 4|7|LINK 5|7|JCT 6|7|SUBJ 7|3|COMP
+	8|9|QUANT 9|7|PRED 10|12|LINK 11|12|NEG 12|20|XJCT 13|12|JCT
+	14|12|JCT 15|14|POBJ 16|20|SUBJ 17|16|NJCT 18|19|DET 19|17|POBJ
+	20|0|ROOT 21|22|DET 22|20|OBJ 23|20|PUNCT
+*PAR:	and it turns out to be a guy in a mask &-uh attempting to either
+	rob us or rob the house . 1103293_1110561
+%mor:	coord|and pro:per|it v|turn-3S adv|out inf|to cop|be det:art|a
+	n|guy prep|in det:art|a n|mask part|attempt-PRESP prep|to
+	coord|either v|rob pro:obj|us coord|or v|rob det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|4|CPOBJ 7|8|DET 8|6|PRED
+	9|3|JCT 10|11|DET 11|9|POBJ 12|3|XJCT 13|12|JCT 14|15|COORD 15|13|POBJ
+	16|15|OBJ 17|3|CONJ 18|17|COORD 19|20|DET 20|18|OBJ 21|3|PUNCT
+%trn:	coord|and pro:per|it v|turn-3S adv|out inf|to cop|be det:art|a
+	n|guy prep|in det:art|a n|mask part|attempt-PRESP prep|to
+	coord|either v|rob pro:obj|us coord|or v|rob det:art|the n|house .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|4|CPOBJ 7|8|DET
+	8|6|PRED 9|8|NJCT 10|11|DET 11|9|POBJ 12|8|XMOD 13|15|INF
+	14|15|COORD 15|12|COMP 16|15|OBJ 17|18|COORD 18|15|ENUM 19|20|DET
+	20|18|OBJ 21|3|PUNCT
+*PAR:	and &-uh the first thing that the girl who answers the door says is
+	that he has a gun . 1110561_1117406
+%mor:	coord|and det:art|the adj|first n|thing pro:rel|that det:art|the
+	n|girl pro:rel|who v|answer-3S det:art|the n|door v|say-3S cop|be&3S
+	comp|that pro:sub|he v|have&3S det:art|a n|gun .
+%gra:	1|13|LINK 2|4|DET 3|4|MOD 4|13|SUBJ 5|12|LINK 6|7|DET 7|12|SUBJ
+	8|9|LINK 9|7|CMOD 10|11|DET 11|9|OBJ 12|4|CMOD 13|0|ROOT 14|16|LINK 15|16|SUBJ
+	16|13|CPRED 17|18|DET 18|16|OBJ 19|13|PUNCT
+%trn:	coord|and det:art|the adj|first n|thing pro:rel|that det:art|the
+	n|girl pro:rel|who v|answer-3S det:art|the n|door v|say-3S cop|be&3S
+	comp|that pro:sub|he v|have&3S det:art|a n|gun .
+%grt:	1|13|LINK 2|4|DET 3|4|MOD 4|13|SUBJ 5|12|LINK 6|7|DET 7|12|SUBJ
+	8|9|LINK 9|7|CMOD 10|11|DET 11|9|OBJ 12|4|CMOD 13|0|ROOT 14|16|LINK
+	15|16|SUBJ 16|13|CPRED 17|18|DET 18|16|OBJ 19|13|PUNCT
+*PAR:	and he [//] so he comes in . 1117406_1119339
+%mor:	coord|and co|so pro:sub|he v|come-3S adv|in .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%trn:	coord|and co|so pro:sub|he v|come-3S adv|in .
+%grt:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and there's another &-uh man behind him that stays outside . 1119339_1124583
+%mor:	coord|and pro:exist|there~cop|be&3S qn|another n|man prep|behind
+	pro:obj|him pro:rel|that v|stay-3S adv|outside .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|9|LINK 9|5|CMOD 10|9|JCT 11|3|PUNCT
+%trn:	coord|and pro:exist|there~cop|be&3S qn|another n|man prep|behind
+	pro:obj|him pro:rel|that v|stay-3S adv|outside .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|9|LINK 9|5|CMOD 10|9|JCT 11|3|PUNCT
+*PAR:	but <one of> [/] &th one of the guys comes in . 1124583_1128059
+%mor:	conj|but det:num|one prep|of det:art|the n|guy-PL v|come-3S adv|in
+	.
+%gra:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|JCT 8|6|PUNCT
+%trn:	conj|but det:num|one prep|of det:art|the n|guy-PL v|come-3S adv|in
+	.
+%grt:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|JCT
+	8|6|PUNCT
+*PAR:	and he proceeds to take things from the house and take things from
+	the people that are in the house . 1128059_1133179
+%mor:	coord|and pro:sub|he v|proceed-3S inf|to v|take n|thing-PL
+	prep|from det:art|the n|house coord|and v|take n|thing-PL prep|from
+	det:art|the n|person&PL pro:rel|that cop|be&PRES prep|in det:art|the
+	n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|CONJ 11|10|COORD 12|11|OBJ 13|11|JCT 14|15|DET 15|13|POBJ
+	16|17|LINK 17|15|CMOD 18|17|JCT 19|20|DET 20|18|POBJ 21|3|PUNCT
+%trn:	coord|and pro:sub|he v|proceed-3S inf|to v|take n|thing-PL
+	prep|from det:art|the n|house coord|and v|take n|thing-PL prep|from
+	det:art|the n|person&PL pro:rel|that cop|be&PRES prep|in det:art|the
+	n|house .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|CONJ 11|10|COORD 12|11|OBJ 13|11|JCT 14|15|DET
+	15|13|POBJ 16|17|LINK 17|15|CMOD 18|17|JCT 19|20|DET 20|18|POBJ
+	21|3|PUNCT
+*PAR:	just very quickly grab some things and runs out . 1133179_1137003
+%mor:	adv|just adv|very adv|quick&dadj-LY v|grab qn|some n|thing-PL
+	coord|and v|run-3S adv|out .
+%gra:	1|4|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|8|JCT 10|4|PUNCT
+%trn:	adv|just adv|very adv|quick&dadj-LY v|grab qn|some n|thing-PL
+	coord|and v|run-3S adv|out .
+%grt:	1|4|JCT 2|3|JCT 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|CONJ
+	8|7|COORD 9|8|JCT 10|4|PUNCT
+*PAR:	and that's [/] that's the end . 1137003_1138932
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the n|end .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%trn:	coord|and pro:dem|that~cop|be&3S det:art|the n|end .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	so [>] ‡ without getting too detailed [* fix] . 1138880_1140660
+%mor:	co|so beg|beg prep|without aux|get-PRESP adv|too part|detail-PASTP
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%trn:	co|so beg|beg prep|without aux|get-PRESP adv|too part|detail-PASTP
+	.
+%grt:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|CPOBJ 5|6|JCT 6|4|COMP 7|3|PUNCT
+*INV:	alright [<] . 1138932_1139380
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|alright .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay [>] &=laughs . 1140660_1141376
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|okay .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*PAR:	but [<] [//] so ‡ I was pretty scared . 1140660_1142854
+%mor:	co|so beg|beg pro:sub|I aux|be&PAST&13S adv|pretty part|scare-PASTP
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%trn:	co|so beg|beg pro:sub|I aux|be&PAST&13S adv|pretty part|scare-PASTP
+	.
+%grt:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+@G:	Flood
+*INV:	okay ‡ whenever you're ready tell me a story that has a beginning a
+	middle and an end . 1142854_1150252
+%mor:	co|okay beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S det:art|a
+	n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ 15|16|DET
+	16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+%trn:	co|okay beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S det:art|a
+	n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT
+	8|7|OBJ2 9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ
+	15|16|DET 16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+*PAR:	okay ‡ one late afternoon &-uh a woman is returning home from work
+	&-uh struggling to get through the traffic as it is very rainy that
+	day . 1150252_1163221
+%mor:	co|okay beg|beg det:num|one adj|late n|afternoon det:art|a n|woman
+	aux|be&3S part|return-PRESP adv|home prep|from n|work
+	part|struggle-PRESP inf|to v|get prep|through det:art|the n|traffic
+	conj|as pro:per|it cop|be&3S adv|very adj|rain&dn-Y det:dem|that
+	n|day .
+%gra:	1|0|BEG 2|1|BEGP 3|5|QUANT 4|5|MOD 5|9|JCT 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|9|JCT 12|11|POBJ 13|9|XJCT 14|15|INF 15|13|COMP
+	16|15|JCT 17|18|DET 18|16|POBJ 19|21|LINK 20|21|SUBJ 21|9|CJCT 22|23|JCT
+	23|21|PRED 24|25|DET 25|21|JCT 26|9|PUNCT
+%trn:	co|okay beg|beg det:num|one adj|late n|afternoon det:art|a n|woman
+	aux|be&3S part|return-PRESP adv|home prep|from n|work
+	part|struggle-PRESP inf|to v|get prep|through det:art|the n|traffic
+	conj|as pro:per|it cop|be&3S adv|very adj|rain&dn-Y det:dem|that
+	n|day .
+%grt:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|9|JCT 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|9|JCT 12|11|POBJ 13|9|XJCT 14|15|INF 15|13|COMP
+	16|15|JCT 17|18|DET 18|16|POBJ 19|21|LINK 20|21|SUBJ 21|13|CJCT
+	22|23|JCT 23|21|PRED 24|25|DET 25|21|JCT 26|9|PUNCT
+*PAR:	&-uh the traffic is very heavy . 1163221_1166048
+%mor:	det:art|the n|traffic cop|be&3S adv|very adj|heavy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%trn:	det:art|the n|traffic cop|be&3S adv|very adj|heavy .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	the [/] the streets are beginning to get flooded . 1166048_1168607
+%mor:	det:art|the n|street-PL aux|be&PRES part|begin-PRESP inf|to aux|get
+	part|flood-PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|AUX 7|4|COMP 8|4|PUNCT
+%trn:	det:art|the n|street-PL aux|be&PRES part|begin-PRESP inf|to aux|get
+	part|flood-PASTP .
+%grt:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|AUX 7|4|COMP
+	8|4|PUNCT
+*PAR:	&eh so ‡ she decides to take a shortcut through a side street . 1168607_1173546
+%mor:	co|so beg|beg pro:sub|she v|decide-3S inf|to v|take det:art|a
+	n|shortcut prep|through det:art|a n|side n|street .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+%trn:	co|so beg|beg pro:sub|she v|decide-3S inf|to v|take det:art|a
+	n|shortcut prep|through det:art|a adj|side n|street .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|NCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*PAR:	she gets into the side street and realizes that it is overflooded
+	and her car gets stuck . 1173546_1180595
+%mor:	pro:sub|she v|get-3S prep|into det:art|the n|side n|street
+	coord|and v|realize-3S comp|that pro:per|it aux|be&3S
+	over#part|flood-PASTP coord|and det:poss|her n|car v|get-3S
+	v|stick&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|CONJ 8|7|COORD
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|12|CONJ 14|15|DET 15|13|COORD
+	16|12|ENUM 17|16|COMP 18|2|PUNCT
+%trn:	pro:sub|she v|get-3S prep|into det:art|the adj|side n|street
+	coord|and v|realize-3S comp|that pro:per|it aux|be&3S
+	over#part|flood-PASTP coord|and det:poss|her n|car v|get-3S
+	v|stick&PAST .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|CONJ
+	8|7|COORD 9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|16|LINK
+	14|15|DET 15|16|SUBJ 16|2|CJCT 17|16|COMP 18|2|PUNCT
+*PAR:	she jumps out_of the car but <then gets> [/] &-uh then gets stuck
+	in [/] in the flood waters . 1180595_1187841
+%mor:	pro:sub|she v|jump-3S prep|out_of det:art|the n|car conj|but
+	adv:tem|then v|get-3S part|stick&PASTP prep|in det:art|the n|flood
+	n|water-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|JCT 8|6|COORD
+	9|8|COMP 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+%trn:	pro:sub|she v|jump-3S prep|out_of det:art|the n|car conj|but
+	adv:tem|then v|get-3S part|stick&PASTP prep|in det:art|the n|flood
+	n|water-PL .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|JCT
+	8|6|COORD 9|8|COMP 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ
+	14|2|PUNCT
+*PAR:	and &-uh she is unable to swim out . 1187841_1191389
+%mor:	coord|and pro:sub|she cop|be&3S un#adj|able inf|to v|swim adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|COMP 7|6|JCT 8|3|PUNCT
+%trn:	coord|and pro:sub|she cop|be&3S un#adj|able inf|to v|swim adv|out .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|JCT
+	8|3|PUNCT
+*PAR:	&-uh an onlooker notices that the woman is stuck in the river and
+	calls nine_one_one . 1191389_1196554
+%mor:	det:art|a n|onlooker v|notice-3S comp|that det:art|the n|woman
+	aux|be&3S part|stick&PASTP prep|in det:art|the n|river coord|and
+	v|call-3S n|nine_one_one .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|CONJ 13|12|COORD 14|13|OBJ 15|3|PUNCT
+%trn:	det:art|a n|onlooker v|notice-3S comp|that det:art|the n|woman
+	aux|be&3S part|stick&PASTP prep|in det:art|the n|river coord|and
+	v|call-3S n|nine_one_one .
+%grt:	1|3|DET 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX
+	8|3|COMP 9|8|JCT 10|11|DET 11|9|POBJ 12|3|CONJ 13|12|COORD 14|13|OBJ
+	15|3|PUNCT
+*PAR:	&-uh rescuers arrive and use their special equipment and their life
+	vests to rescue her . 1196554_1204753
+%mor:	n|rescue&dv-AGT-PL v|arrive coord|and v|use det:poss|their
+	adj|special n|equip&dv-MENT coord|and det:poss|their n|life
+	n|vest-PL inf|to v|rescue pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|7|DET 6|7|MOD 7|4|OBJ 8|7|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|13|INF 13|4|COMP 14|13|OBJ 15|2|PUNCT
+%trn:	n|rescue&dv-AGT-PL v|arrive coord|and v|use det:poss|their
+	adj|special n|equip&dv-MENT coord|and det:poss|their n|life
+	n|vest-PL inf|to v|rescue pro:obj|her .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|7|DET 6|7|MOD 7|4|OBJ
+	8|7|CONJ 9|11|DET 10|11|MOD 11|8|COORD 12|13|INF 13|4|COMP 14|13|OBJ
+	15|2|PUNCT
+*PAR:	one of the rescuers grabs onto a branch and pulls it down and [//]
+	so_that the woman can grab on where she is rescued . 1208191_1212396
+%mor:	det:num|one prep|of det:art|the n|rescue&dv-AGT-PL v|grab-3S
+	prep|onto det:art|a n|branch coord|and v|pull-3S pro:per|it adv|down
+	conj|so_that det:art|the n|woman mod|can v|grab prep|on
+	pro:int|where pro:sub|she aux|be&3S part|rescue-PASTP .
+%gra:	1|5|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|10|OBJ 12|10|JCT 13|17|LINK 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|10|CJCT 18|17|JCT 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|CPOBJ
+	23|5|PUNCT
+%trn:	det:num|one prep|of det:art|the n|rescue&dv-AGT-PL v|grab-3S
+	prep|onto det:art|a n|branch coord|and v|pull-3S pro:per|it adv|down
+	conj|so_that det:art|the n|woman mod|can v|grab adv|on pro:int|where
+	pro:sub|she aux|be&3S part|rescue-PASTP .
+%grt:	1|5|SUBJ 2|1|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|10|OBJ 12|10|JCT 13|17|LINK 14|15|DET
+	15|17|SUBJ 16|17|AUX 17|10|CJCT 18|17|JCT 19|22|LINK 20|22|SUBJ
+	21|22|AUX 22|17|CJCT 23|5|PUNCT
+*PAR:	and &-uh &sh she gets out_of the water and thanks &-uh the rescuers
+	for what they have done . 1212396_1217825
+%mor:	coord|and pro:sub|she v|get-3S prep|out_of det:art|the n|water
+	coord|and v|thank-3S det:art|the n|rescue&dv-AGT-PL prep|for
+	pro:int|what pro:sub|they aux|have part|do&PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|8|JCT 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|CPOBJ
+	16|3|PUNCT
+%trn:	coord|and pro:sub|she v|get-3S prep|out_of det:art|the n|water
+	coord|and v|thank-3S det:art|the n|rescue&dv-AGT-PL prep|for
+	pro:int|what pro:sub|they aux|have part|do&PASTP .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|10|DET 10|8|OBJ 11|8|JCT 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|11|CPOBJ 16|3|PUNCT
+*PAR:	she is very happy . 1217825_1218800
+%mor:	pro:sub|she cop|be&3S adv|very adj|happy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%trn:	pro:sub|she cop|be&3S adv|very adj|happy .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	the end . [+ exc] 1218800_1219479
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%trn:	det:art|the n|end .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Window
+*INV:	okay ‡ whenever you're ready tell me a story that has a beginning a
+	middle and an end . 1219479_1226062
+%mor:	co|okay beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S det:art|a
+	n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ 15|16|DET
+	16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+%trn:	co|okay beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S det:art|a
+	n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT
+	8|7|OBJ2 9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ
+	15|16|DET 16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+*PAR:	a young boy decides &-uh to try out his new soccer ball . 1226062_1231283
+%mor:	det:art|a adj|young n|boy v|decide-3S inf|to v|try adv|out
+	det:poss|his adj|new n|soccer n|ball .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|4|PUNCT
+%trn:	det:art|a adj|young n|boy v|decide-3S inf|to v|try adv|out
+	det:poss|his adj|new n|soccer n|ball .
+%grt:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|4|PUNCT
+*PAR:	so ‡ he goes outside in the neighborhood and starts kicking it
+	around . 1231283_1235723
+%mor:	co|so beg|beg pro:sub|he v|go-3S adv|outside prep|in det:art|the
+	n|neighborhood coord|and v|start-3S part|kick-PRESP pro:per|it
+	adv|around .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|CONJ 10|9|COORD 11|10|COMP 12|11|OBJ 13|11|JCT 14|4|PUNCT
+%trn:	co|so beg|beg pro:sub|he v|go-3S adv|outside prep|in det:art|the
+	n|neighborhood coord|and v|start-3S part|kick-PRESP pro:per|it
+	adv|around .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|CONJ 10|9|COORD 11|10|COMP 12|11|OBJ 13|11|JCT 14|4|PUNCT
+*PAR:	&-uh he accidently kicks the ball too hard . 1235723_1238915
+%mor:	pro:sub|he adj|accident&dn-LY v|kick-3S det:art|the n|ball adv|too
+	adj|hard .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|JCT 7|3|JCT 8|3|PUNCT
+%trn:	pro:sub|he adj|accident&dn-LY v|kick-3S det:art|the n|ball adv|too
+	adv|hard .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|JCT 7|3|JCT 8|3|PUNCT
+*PAR:	and it goes through a neighbor's window cracking the window . 1238915_1241956
+%mor:	coord|and pro:per|it v|go-3S prep|through det:art|a
+	adj|neighbor&dn-POSS n|window part|crack-PRESP det:art|the n|window
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|XJCT
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+%trn:	coord|and pro:per|it v|go-3S prep|through det:art|a
+	adj|neighbor&dn-POSS n|window part|crack-PRESP det:art|the n|window
+	.
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|XJCT 9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	&-uh a man is sitting inside the house . 1241956_1245332
+%mor:	det:art|a n|man aux|be&3S part|sit-PRESP prep|inside det:art|the
+	n|house .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%trn:	det:art|a n|man aux|be&3S part|sit-PRESP prep|inside det:art|the
+	n|house .
+%grt:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and he sees the ball crash through the window and onto his lamp
+	where he is very startled . 1245332_1250335
+%mor:	coord|and pro:sub|he v|see-3S det:art|the n|ball n|crash
+	prep|through det:art|the n|window coord|and prep|onto det:poss|his
+	n|lamp pro:rel|where pro:sub|he aux|be&3S adv|very
+	part|startle-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|CONJ 11|10|COORD 12|13|DET 13|11|POBJ 14|18|LINK 15|18|SUBJ
+	16|18|AUX 17|18|JCT 18|13|CMOD 19|3|PUNCT
+%trn:	coord|and pro:sub|he v|see-3S det:art|the n|ball v|crash
+	prep|through det:art|the n|window coord|and prep|onto det:poss|his
+	n|lamp pro:rel|where pro:sub|he aux|be&3S adv|very
+	part|startle-PASTP .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COBJ 7|6|JCT
+	8|9|DET 9|7|POBJ 10|7|CONJ 11|10|COORD 12|13|DET 13|11|POBJ
+	14|18|LINK 15|18|SUBJ 16|18|AUX 17|18|JCT 18|13|CMOD 19|3|PUNCT
+*PAR:	he picks up the ball and looks outside the window to see &-uh what
+	is going on outside . 1250304_1256631
+%mor:	pro:sub|he v|pick-3S prep|up det:art|the n|ball coord|and v|look-3S
+	prep|outside det:art|the n|window inf|to v|see pro:int|what
+	aux|be&3S part|go-PRESP adv|on adv|outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|7|XJCT 13|15|SUBJ 14|15|AUX 15|12|COMP
+	16|15|JCT 17|15|JCT 18|2|PUNCT
+%trn:	pro:sub|he v|pick-3S prep|up det:art|the n|ball coord|and v|look-3S
+	prep|outside det:art|the n|window inf|to v|see pro:int|what
+	aux|be&3S part|go-PRESP adv|on adv|outside .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD
+	8|7|JCT 9|10|DET 10|8|POBJ 11|12|INF 12|7|XJCT 13|15|SUBJ 14|15|AUX
+	15|12|COMP 16|15|JCT 17|15|JCT 18|2|PUNCT
+*PAR:	&-uh the boy has ran [: run] [* m] off so he's not sure what to
+	think . 1256631_1259497
+%mor:	det:art|the n|boy aux|have&3S part|run&PASTP adv|off conj|so
+	pro:sub|he~cop|be&3S neg|not adj|sure pro:int|what inf|to v|think .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|NEG 10|8|PRED 11|13|LINK 12|13|INF 13|10|CMOD 14|4|PUNCT
+%trn:	det:art|the n|boy aux|have&3S part|run&PASTP adv|off conj|so
+	pro:sub|he~cop|be&3S neg|not adj|sure pro:int|what inf|to v|think .
+%grt:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|SUBJ
+	8|4|CJCT 9|8|NEG 10|8|PRED 11|13|LINK 12|13|INF 13|10|CMOD
+	14|4|PUNCT
+*PAR:	the end . [+ exc] 1259497_1260364
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%trn:	det:art|the n|end .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Umbrella
+*INV:	alright ‡ whenever you're ready tell me a story that has a
+	beginning a middle and an end . 1260364_1267480
+%mor:	co|alright beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S det:art|a
+	n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ 15|16|DET
+	16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+%trn:	co|alright beg|beg conj|whenever pro:per|you~cop|be&PRES
+	adj|ready v|tell pro:obj|me det:art|a n|story pro:rel|that v|have&3S
+	det:art|a n|beginning det:art|a n|middle coord|and det:art|a n|end .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT
+	8|7|OBJ2 9|10|DET 10|7|OBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|OBJ
+	15|16|DET 16|14|ENUM 17|14|CONJ 18|19|DET 19|17|COORD 20|7|PUNCT
+*PAR:	okay ‡ early Tuesday morning the young boy gets ready to go to
+	school . 1267480_1273797
+%mor:	co|okay beg|beg adv|early n:prop|Tuesday n|morning det:art|the
+	adj|young n|boy v|get-3S adj|ready inf|to v|go prep|to n|school .
+%gra:	1|0|BEG 2|1|BEGP 3|5|JCT 4|5|MOD 5|9|JCT 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|0|ROOT 10|9|PRED 11|12|INF 12|10|XMOD 13|12|JCT 14|13|POBJ 15|9|PUNCT
+%trn:	co|okay beg|beg adv|early n:prop|Tuesday n|morning det:art|the
+	adj|young n|boy v|get-3S adj|ready inf|to v|go prep|to n|school .
+%grt:	1|0|BEG 2|1|BEGP 3|5|MOD 4|5|MOD 5|9|JCT 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|0|ROOT 10|9|PRED 11|12|INF 12|10|XMOD 13|12|JCT 14|13|POBJ
+	15|9|PUNCT
+*PAR:	&-uh he's getting ready to walk out the door when his mother
+	insists that he needs to take an umbrella because it's supposed to
+	rain . 1273797_1280745
+%mor:	pro:sub|he~aux|be&3S part|get-PRESP adj|ready inf|to v|walk
+	prep|out det:art|the n|door conj|when det:poss|his n|mother
+	v|insist-3S comp|that pro:sub|he v|need-3S inf|to v|take det:art|a
+	n|umbrella conj|because pro:per|it~aux|be&3S part|suppose-PASTP
+	inf|to v|rain .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|12|DET 12|13|SUBJ 13|3|CJCT 14|16|LINK 15|16|SUBJ
+	16|13|COMP 17|18|INF 18|16|COMP 19|20|DET 20|18|OBJ 21|24|LINK 22|24|SUBJ
+	23|24|AUX 24|3|CJCT 25|26|INF 26|24|COMP 27|3|PUNCT
+%trn:	pro:sub|he~aux|be&3S part|get-PRESP adj|ready inf|to v|walk
+	prep|out det:art|the n|door conj|when det:poss|his n|mother
+	v|insist-3S comp|that pro:sub|he v|need-3S inf|to v|take det:art|a
+	n|umbrella conj|because pro:per|it~aux|be&3S part|suppose-PASTP
+	inf|to v|rain .
+%grt:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|12|DET 12|13|SUBJ 13|3|CJCT 14|16|LINK
+	15|16|SUBJ 16|13|COMP 17|18|INF 18|16|COMP 19|20|DET 20|18|OBJ
+	21|24|LINK 22|24|SUBJ 23|24|AUX 24|16|CJCT 25|26|INF 26|24|COMP
+	27|3|PUNCT
+*PAR:	&-uh the young boy refuses to take the umbrella as he doesn't wanna
+	carry the extra weight and doesn't wanna look uncool in front of his
+	friends . 1280745_1290354
+%mor:	det:art|the adj|young n|boy v|refuse-3S inf|to v|take det:art|the
+	n|umbrella conj|as pro:sub|he mod|do&3S~neg|not v|want~inf|to
+	v|carry det:art|the adj|extra n|weight coord|and mod|do&3S~neg|not
+	v|want~inf|to cop|look un#adj|cool prep|in n|front prep|of
+	det:poss|his n|friend-PL .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|4|CJCT 14|15|INF 15|13|COMP
+	16|18|DET 17|18|MOD 18|15|OBJ 19|13|CONJ 20|22|AUX 21|20|NEG 22|19|COORD
+	23|24|INF 24|22|COMP 25|24|PRED 26|24|JCT 27|26|POBJ 28|27|NJCT 29|30|DET
+	30|28|POBJ 31|4|PUNCT
+%trn:	det:art|the adj|young n|boy v|refuse-3S inf|to v|take det:art|the
+	n|umbrella conj|as pro:sub|he mod|do&3S~neg|not v|want~inf|to
+	v|carry det:art|the adj|extra n|weight coord|and mod|do&3S~neg|not
+	v|want~inf|to cop|look un#adj|cool prep|in n|front prep|of
+	det:poss|his n|friend-PL .
+%grt:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|4|CJCT 14|15|INF
+	15|13|COMP 16|18|DET 17|18|MOD 18|15|OBJ 19|13|CONJ 20|22|AUX
+	21|20|NEG 22|19|COORD 23|24|INF 24|22|COMP 25|24|PRED 26|24|JCT
+	27|26|POBJ 28|27|NJCT 29|30|DET 30|28|POBJ 31|4|PUNCT
+*PAR:	&h he hands the umbrella back to his mother . 1290354_1292615
+%mor:	pro:sub|he v|hand-3S det:art|the n|umbrella adv|back prep|to
+	det:poss|his n|mother .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%trn:	pro:sub|he v|hand-3S det:art|the n|umbrella adv|back prep|to
+	det:poss|his n|mother .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	he is halfway down the road on his way to school when it begins to
+	pour rain . 1292605_1298494
+%mor:	pro:sub|he cop|be&3S adv|+adj|half+n|way prep|down det:art|the
+	n|road prep|on det:poss|his n|way prep|to n|school conj|when
+	pro:per|it v|begin-3S inf|to v|pour n|rain .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|2|CJCT 15|16|INF
+	16|14|COMP 17|16|OBJ 18|2|PUNCT
+%trn:	pro:sub|he cop|be&3S adv|+adj|half+n|way prep|down det:art|the
+	n|road prep|on det:poss|his n|way prep|to n|school conj|when
+	pro:per|it v|begin-3S inf|to v|pour n|rain .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|2|CJCT
+	15|16|INF 16|14|COMP 17|16|OBJ 18|2|PUNCT
+*PAR:	&-uh he begins to run <through the puddle> [//] &t through the
+	puddles as the rain &-uh beats down upon him . 1298494_1305299
+%mor:	pro:sub|he v|begin-3S inf|to v|run prep|through det:art|the
+	n|puddle-PL prep|as det:art|the n|rain v|beat-3S adv|down prep|upon
+	pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|11|JCT
+	9|10|DET 10|8|POBJ 11|4|CJCT 12|11|JCT 13|11|JCT 14|13|POBJ 15|2|PUNCT
+%trn:	pro:sub|he v|begin-3S inf|to v|run prep|through det:art|the
+	n|puddle-PL conj|as det:art|the n|rain v|beat-3S adv|down prep|upon
+	pro:obj|him .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|2|CJCT 12|11|JCT 13|11|JCT
+	14|13|POBJ 15|2|PUNCT
+*PAR:	&-uh he runs back home . 1305299_1308126
+%mor:	pro:sub|he v|run-3S adv|back adv|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+%trn:	pro:sub|he v|run-3S adv|back adv|home .
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+*PAR:	and &=laughs his mother looks at him as he is drenched in rain . 1308126_1313414
+%mor:	coord|and det:poss|his n|mother v|look-3S prep|at pro:obj|him
+	conj|as pro:sub|he aux|be&3S part|drench-PASTP prep|in n|rain .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|4|CJCT 11|10|JCT 12|11|POBJ 13|4|PUNCT
+%trn:	coord|and det:poss|his n|mother v|look-3S prep|at pro:obj|him
+	conj|as pro:sub|he aux|be&3S part|drench-PASTP prep|in n|rain .
+%grt:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|4|CJCT 11|10|JCT 12|11|POBJ 13|4|PUNCT
+*PAR:	&-uh he gets the umbrella . 1313414_1315339
+%mor:	pro:sub|he v|get-3S det:art|the n|umbrella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%trn:	pro:sub|he v|get-3S det:art|the n|umbrella .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and he heads back to school much drier . 1315339_1318324
+%mor:	coord|and pro:sub|he v|head-3S adv|back prep|to n|school adv|much
+	adj|dry-CP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|8|JCT 8|3|JCT
+	9|3|PUNCT
+%trn:	coord|and pro:sub|he v|head-3S adv|back prep|to n|school adv|much
+	adj|dry-CP .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|8|JCT 8|3|JCT
+	9|3|PUNCT
+*PAR:	the end . [+ exc] 1318324_1319138
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%trn:	det:art|the n|end .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@G:	Cinderella
+*INV:	alright ‡ whenever you're ready tell me as much of the Cinderella
+	story as you can . 1319138_1326820
+%mor:	co|alright beg|beg conj|whenever pro:per|you~cop|be&PRES adj|ready
+	v|tell pro:obj|me adv|as adv|much prep|of det:art|the
+	n:prop|Cinderella n|story conj|as pro:per|you mod|can .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT 8|7|OBJ
+	9|10|COORD 10|7|JCT 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|17|COORD
+	16|17|SUBJ 17|10|ENUM 18|7|PUNCT
+%trn:	co|alright beg|beg conj|whenever pro:per|you~cop|be&PRES
+	adj|ready v|tell pro:obj|me adv|as adv|much prep|of det:art|the
+	n:prop|Cinderella n|story conj|as pro:per|you mod|can .
+%grt:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|PRED 7|0|ROOT
+	8|7|OBJ 9|10|COORD 10|7|JCT 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|17|COORD 16|17|SUBJ 17|10|ENUM 18|7|PUNCT
+@G:	Cinderella Story
+*PAR:	okay ‡ on this day Cinderella's father is very excited as his new
+	bride and <his &n new bride's> [//] his new wife's two daughters are
+	gonna be moving into their house . 1326820_1339012
+%mor:	co|okay beg|beg prep|on det:dem|this n|day adj|Cinderella&dn-POSS
+	n|father aux|be&3S adv|very part|excite-PASTP prep|as det:poss|his
+	adj|new n|bride coord|and det:poss|his adj|new adj|wife&dn-POSS
+	det:num|two n|daughter-PL aux|be&PRES part|go-PRESP~inf|to aux|be
+	part|move-PRESP prep|into det:poss|their n|house .
+%gra:	1|0|BEG 2|1|BEGP 3|10|JCT 4|5|DET 5|3|POBJ 6|7|MOD 7|10|SUBJ 8|10|AUX
+	9|10|JCT 10|0|ROOT 11|22|JCT 12|14|DET 13|14|MOD 14|22|SUBJ 15|14|CONJ
+	16|17|DET 17|20|MOD 18|20|MOD 19|20|QUANT 20|15|COORD 21|22|AUX 22|10|CJCT
+	23|25|INF 24|25|AUX 25|22|COMP 26|25|JCT 27|28|DET 28|26|POBJ
+	29|10|PUNCT
+%trn:	co|okay beg|beg prep|on det:dem|this n|day adj|Cinderella&dn-POSS
+	n|father aux|be&3S adv|very part|excite-PASTP prep|as det:poss|his
+	adj|new n|bride coord|and det:poss|his adj|new adj|wife&dn-POSS
+	det:num|two n|daughter-PL aux|be&PRES part|go-PRESP~inf|to aux|be
+	part|move-PRESP prep|into det:poss|their n|house .
+%grt:	1|0|BEG 2|1|BEGP 3|10|JCT 4|5|DET 5|3|POBJ 6|7|MOD 7|10|SUBJ
+	8|10|AUX 9|10|JCT 10|0|ROOT 11|22|JCT 12|14|DET 13|14|MOD 14|22|SUBJ
+	15|14|CONJ 16|18|DET 17|18|MOD 18|20|MOD 19|20|QUANT 20|15|COORD
+	21|22|AUX 22|10|CJCT 23|25|INF 24|25|AUX 25|22|COMP 26|25|JCT
+	27|28|DET 28|26|POBJ 29|10|PUNCT
+*PAR:	&-um Cinderella is also very excited to meet her new sisters and
+	her new stepmother . 1339012_1343949
+%mor:	n:prop|Cinderella aux|be&3S adv|also adv|very part|excite-PASTP
+	inf|to v|meet det:poss|her adj|new n|sister-PL coord|and
+	det:poss|her adj|new step#n|mother .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|JCT 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|CONJ 12|14|DET 13|14|MOD 14|11|COORD 15|5|PUNCT
+%trn:	n:prop|Cinderella aux|be&3S adv|also adv|very part|excite-PASTP
+	inf|to v|meet det:poss|her adj|new n|sister-PL coord|and
+	det:poss|her adj|new step#n|mother .
+%grt:	1|5|SUBJ 2|5|AUX 3|2|JCT 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|CONJ 12|14|DET 13|14|MOD 14|11|COORD
+	15|5|PUNCT
+*PAR:	&-um but when they do move in they treat Cinderella very poorly . 1343949_1348254
+%mor:	conj|but conj|when pro:sub|they mod|do v|move adv|in pro:sub|they
+	v|treat n:prop|Cinderella adv|very adv|poor&dadj-LY .
+%gra:	1|8|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|8|CJCT 6|5|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|11|JCT 11|8|JCT 12|8|PUNCT
+%trn:	conj|but conj|when pro:sub|they mod|do v|move adv|in pro:sub|they
+	v|treat n:prop|Cinderella adv|very adv|poor&dadj-LY .
+%grt:	1|8|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|8|CJCT 6|5|JCT 7|8|SUBJ
+	8|0|ROOT 9|8|OBJ 10|11|JCT 11|8|JCT 12|8|PUNCT
+*PAR:	they make her clean . 1348254_1349413
+%mor:	pro:sub|they v|make det:poss|her adj|clean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%trn:	pro:sub|they v|make pro:obj|her v|clean .
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*PAR:	and they force her to live outside in the barn . 1349413_1352661
+%mor:	coord|and pro:sub|they v|force pro:obj|her inf|to v|live
+	adv|outside prep|in det:art|the n|barn .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%trn:	coord|and pro:sub|they v|force pro:obj|her inf|to v|live
+	adv|outside prep|in det:art|the n|barn .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT
+	8|6|JCT 9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	and Cinderella is very saddened by this . 1352661_1356262
+%mor:	coord|and n:prop|Cinderella aux|be&3S adv|very part|sadden-PASTP
+	prep|by pro:dem|this .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%trn:	coord|and n:prop|Cinderella aux|be&3S adv|very part|sadden-PASTP
+	prep|by pro:dem|this .
+%grt:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ
+	8|5|PUNCT
+*PAR:	&-uh while she's cleaning she overhears her stepmother &-uh reading
+	an invitation to her sisters that there's going to be a big royal
+	ball at the castle that weekend . 1356262_1370985
+%mor:	conj|while pro:sub|she~aux|be&3S part|clean-PRESP pro:sub|she
+	over#v|hear-3S det:poss|her step#n|mother part|read-PRESP det:art|a
+	n|invite&dv-TION prep|to det:poss|her n|sister-PL comp|that
+	pro:exist|there~aux|be&3S part|go-PRESP inf|to cop|be det:art|a
+	adj|big adj|royal n|ball prep|at det:art|the n|castle det:dem|that
+	n|+n|week+n|end .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|11|DET 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|9|XJCT 19|20|INF 20|18|COMP 21|24|DET 22|24|MOD
+	23|24|MOD 24|20|PRED 25|24|NJCT 26|27|DET 27|25|POBJ 28|29|DET 29|24|APP
+	30|6|PUNCT
+%trn:	conj|while pro:sub|she~aux|be&3S part|clean-PRESP pro:sub|she
+	over#v|hear-3S det:poss|her step#n|mother part|read-PRESP det:art|a
+	n|invite&dv-TION prep|to det:poss|her n|sister-PL comp|that
+	pro:exist|there~aux|be&3S part|go-PRESP inf|to cop|be det:art|a
+	adj|big adj|royal n|ball prep|at det:art|the n|castle det:dem|that
+	n|+n|week+n|end .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|8|DET
+	8|6|OBJ 9|8|XMOD 10|11|DET 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ
+	15|18|LINK 16|18|SUBJ 17|18|AUX 18|11|CMOD 19|20|INF 20|18|COMP
+	21|24|DET 22|24|MOD 23|24|MOD 24|20|PRED 25|24|NJCT 26|27|DET
+	27|25|POBJ 28|29|DET 29|20|JCT 30|6|PUNCT
+*PAR:	&-um Cinderella is very excited . 1370985_1373585
+%mor:	n:prop|Cinderella aux|be&3S adv|very part|excite-PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%trn:	n:prop|Cinderella aux|be&3S adv|very part|excite-PASTP .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAR:	while she is cleaning the attic &-um she notices a book of spells
+	in a treasure chest . 1373585_1380601
+%mor:	conj|while pro:sub|she aux|be&3S part|clean-PRESP det:art|the
+	n|attic pro:sub|she v|notice-3S det:art|a n|book prep|of n|spell-PL
+	prep|in det:art|a n|treasure n|chest .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|8|CJCT 5|6|DET 6|4|OBJ 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|8|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|8|PUNCT
+%trn:	conj|while pro:sub|she aux|be&3S part|clean-PRESP det:art|the
+	n|attic pro:sub|she v|notice-3S det:art|a n|book prep|of n|spell-PL
+	prep|in det:art|a n|treasure n|chest .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|8|CJCT 5|6|DET 6|4|OBJ 7|8|SUBJ
+	8|0|ROOT 9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|8|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|8|PUNCT
+*PAR:	and she uses that book to wish for a dress . 1380601_1384527
+%mor:	coord|and pro:sub|she v|use-3S det:dem|that n|book inf|to v|wish
+	prep|for det:art|a n|dress .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%trn:	coord|and pro:sub|she v|use-3S det:dem|that n|book inf|to v|wish
+	prep|for det:art|a n|dress .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|3|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	the dress appears . 1384527_1386861
+%mor:	det:art|the n|dress v|appear-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	det:art|the n|dress v|appear-3S .
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she puts it on and likes it . 1386861_1389207
+%mor:	coord|and pro:sub|she v|put-3S pro:per|it adv|on coord|and
+	v|like-3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|3|PUNCT
+%trn:	coord|and pro:sub|she v|put-3S pro:per|it adv|on coord|and
+	v|like-3S pro:per|it .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|CONJ 7|6|COORD
+	8|7|OBJ 9|3|PUNCT
+*PAR:	&-uh that weekend she she's [//] prepares for the royal ball . 1389207_1395077
+%mor:	det:dem|that n|+n|week+n|end pro:sub|she v|prepare-3S prep|for
+	det:art|the adj|royal n|ball .
+%gra:	1|2|DET 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+%trn:	det:dem|that n|+n|week+n|end pro:sub|she v|prepare-3S prep|for
+	det:art|the adj|royal n|ball .
+%grt:	1|2|DET 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and she puts on the dress and gets ready to leave with her sisters
+	and stepmother . 1395077_1401642
+%mor:	coord|and pro:sub|she v|put-3S prep|on det:art|the n|dress
+	coord|and v|get-3S adj|ready inf|to v|leave prep|with det:poss|her
+	n|sister-PL coord|and step#n|mother .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|PRED 10|11|INF 11|9|XMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|14|CONJ
+	16|15|COORD 17|3|PUNCT
+%trn:	coord|and pro:sub|she v|put-3S prep|on det:art|the n|dress
+	coord|and v|get-3S adj|ready inf|to v|leave prep|with det:poss|her
+	n|sister-PL coord|and step#n|mother .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|8|PRED 10|11|INF 11|9|XMOD 12|11|JCT 13|14|DET
+	14|12|POBJ 15|14|CONJ 16|15|COORD 17|3|PUNCT
+*PAR:	when her sisters and stepmother see that she is &-uh ready to go to
+	the royal ball they rip off her jewelry and tell her that she is not
+	allowed to go . 1401642_1413306
+%mor:	conj|when det:poss|her n|sister-PL coord|and step#n|mother v|see
+	comp|that pro:sub|she cop|be&3S adj|ready inf|to v|go prep|to
+	det:art|the adj|royal n|ball pro:sub|they v|rip prep|off
+	det:poss|her n|jewelry coord|and v|tell pro:obj|her comp|that
+	pro:sub|she aux|be&3S neg|not part|allow-PASTP inf|to v|go .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|18|CJCT 7|9|LINK
+	8|9|SUBJ 9|6|COMP 10|9|PRED 11|12|INF 12|10|XMOD 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|SUBJ 18|0|ROOT 19|18|JCT 20|21|DET 21|19|POBJ
+	22|18|CONJ 23|22|COORD 24|23|OBJ 25|29|LINK 26|29|SUBJ 27|29|AUX 28|27|NEG
+	29|23|COMP 30|31|INF 31|29|COMP 32|18|PUNCT
+%trn:	conj|when det:poss|her n|sister-PL coord|and step#n|mother v|see
+	comp|that pro:sub|she cop|be&3S adj|ready inf|to v|go prep|to
+	det:art|the adj|royal n|ball pro:sub|they v|rip prep|off
+	det:poss|her n|jewelry coord|and v|tell pro:obj|her comp|that
+	pro:sub|she aux|be&3S neg|not part|allow-PASTP inf|to v|go .
+%grt:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|18|CJCT 7|9|LINK
+	8|9|SUBJ 9|6|COMP 10|9|PRED 11|12|INF 12|10|XMOD 13|12|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|18|SUBJ 18|0|ROOT 19|18|JCT 20|21|DET
+	21|19|POBJ 22|18|CONJ 23|22|COORD 24|23|OBJ 25|29|LINK 26|29|SUBJ
+	27|29|AUX 28|27|NEG 29|23|COMP 30|31|INF 31|29|COMP 32|18|PUNCT
+*PAR:	she hasta stay at the house and clean . 1413306_1415026
+%mor:	pro:sub|she mod|have&3S~inf|to v|stay prep|at det:art|the n|house
+	coord|and v|clean .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|4|PUNCT
+%trn:	pro:sub|she mod|have&3S~inf|to v|stay prep|at det:art|the n|house
+	coord|and v|clean .
+%grt:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|4|PUNCT
+*PAR:	&-um so ‡ the sisters and the stepmother proceed to the royal ball
+	. 1415026_1418904
+%mor:	co|so beg|beg det:art|the n|sister-PL coord|and det:art|the
+	step#n|mother v|proceed prep|to det:art|the adj|royal n|ball .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|8|SUBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|0|ROOT
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|8|PUNCT
+%trn:	co|so beg|beg det:art|the n|sister-PL coord|and det:art|the
+	step#n|mother v|proceed prep|to det:art|the adj|royal n|ball .
+%grt:	1|0|BEG 2|1|BEGP 3|4|DET 4|8|SUBJ 5|4|CONJ 6|7|DET 7|5|COORD
+	8|0|ROOT 9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|8|PUNCT
+*PAR:	and Cinderella stays back cleaning . 1418904_1422360
+%mor:	coord|and n:prop|Cinderella v|stay-3S adv|back part|clean-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|3|PUNCT
+%trn:	coord|and n:prop|Cinderella v|stay-3S adv|back part|clean-PRESP .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|3|PUNCT
+*PAR:	but she decides to go back to the book of spells and wish that she
+	could go to the royal ball . 1422360_1430050
+%mor:	conj|but pro:sub|she v|decide-3S inf|to v|go adv|back prep|to
+	det:art|the n|book prep|of n|spell-PL coord|and n|wish pro:rel|that
+	pro:sub|she mod|could v|go prep|to det:art|the adj|royal n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|5|CONJ 13|12|COORD 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|13|CMOD 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|3|PUNCT
+%trn:	conj|but pro:sub|she v|decide-3S inf|to v|go adv|back prep|to
+	det:art|the n|book prep|of n|spell-PL coord|and v|wish comp|that
+	pro:sub|she mod|could v|go prep|to det:art|the adj|royal n|ball .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|5|CONJ 13|12|COORD 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|13|COMP 18|17|JCT 19|21|DET 20|21|MOD
+	21|18|POBJ 22|3|PUNCT
+*PAR:	&-uh a fairy godmother appears . 1430050_1433059
+%mor:	det:art|a n|fairy n|+n|god+n|mother v|appear-3S .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	det:art|a n|fairy n|+n|god+n|mother v|appear-3S .
+%grt:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and using the book of spells &-uh a fairy godmother appears and
+	&-uh dresses Cinderella up for the ball and prepares a royal caravan
+	to take her to the castle . 1433059_1445471
+%mor:	coord|and part|use-PRESP det:art|the n|book prep|of n|spell-PL
+	det:art|a n|fairy n|+n|god+n|mother v|appear-3S coord|and v|dress-3S
+	n:prop|Cinderella adv|up prep|for det:art|the n|ball coord|and
+	v|prepare-3S det:art|a adj|royal n|caravan inf|to v|take pro:obj|her
+	prep|to det:art|the n|castle .
+%gra:	1|10|LINK 2|10|XJCT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|0|ROOT 11|10|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|12|JCT
+	16|17|DET 17|15|POBJ 18|10|CONJ 19|18|COORD 20|22|DET 21|22|MOD 22|19|OBJ
+	23|24|INF 24|22|XMOD 25|24|OBJ 26|24|JCT 27|28|DET 28|26|POBJ
+	29|10|PUNCT
+%trn:	coord|and part|use-PRESP det:art|the n|book prep|of n|spell-PL
+	det:art|a n|fairy n|+n|god+n|mother v|appear-3S coord|and v|dress-3S
+	n:prop|Cinderella adv|up prep|for det:art|the n|ball coord|and
+	v|prepare-3S det:art|a adj|royal n|caravan inf|to v|take pro:obj|her
+	prep|to det:art|the n|castle .
+%grt:	1|10|LINK 2|10|XJCT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|9|DET
+	8|9|MOD 9|10|SUBJ 10|0|ROOT 11|10|CONJ 12|11|COORD 13|12|OBJ
+	14|12|JCT 15|12|JCT 16|17|DET 17|15|POBJ 18|10|CONJ 19|18|COORD
+	20|22|DET 21|22|MOD 22|19|OBJ 23|24|INF 24|22|XMOD 25|24|OBJ
+	26|24|JCT 27|28|DET 28|26|POBJ 29|10|PUNCT
+*PAR:	&-um &whi while she's at the royal ball she [/] she catches the eye
+	of the prince who then proceeds to ask her for a dance . 1445471_1455149
+%mor:	conj|while pro:sub|she~cop|be&3S prep|at det:art|the adj|royal
+	n|ball pro:sub|she v|catch-3S det:art|the n|eye prep|of det:art|the
+	n|prince pro:rel|who adv:tem|then v|proceed-3S inf|to v|ask
+	pro:obj|her prep|for det:art|a n|dance .
+%gra:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|JCT 17|14|CMOD 18|19|INF 19|17|COMP 20|19|OBJ 21|19|JCT 22|23|DET
+	23|21|POBJ 24|9|PUNCT
+%trn:	conj|while pro:sub|she~cop|be&3S prep|at det:art|the adj|royal
+	n|ball pro:sub|she v|catch-3S det:art|the n|eye prep|of det:art|the
+	n|prince pro:rel|who adv:tem|then v|proceed-3S inf|to v|ask
+	pro:obj|her prep|for det:art|a n|dance .
+%grt:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|9|SUBJ 9|0|ROOT 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|17|LINK 16|17|JCT 17|14|CMOD 18|19|INF 19|17|COMP 20|19|OBJ
+	21|19|JCT 22|23|DET 23|21|POBJ 24|9|PUNCT
+*PAR:	and after the dance Cinderella and the prince spend time together .
+	1455149_1461331
+%mor:	coord|and prep|after det:art|the n|dance n:prop|Cinderella
+	coord|and det:art|the n|prince v|spend n|time adv|together .
+%gra:	1|9|LINK 2|9|JCT 3|4|DET 4|2|POBJ 5|9|SUBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|0|ROOT 10|9|OBJ 11|9|JCT 12|9|PUNCT
+%trn:	coord|and prep|after det:art|the n|dance n:prop|Cinderella
+	coord|and det:art|the n|prince v|spend n|time adv|together .
+%grt:	1|9|LINK 2|9|JCT 3|4|DET 4|2|POBJ 5|9|SUBJ 6|5|CONJ 7|8|DET
+	8|6|COORD 9|0|ROOT 10|9|OBJ 11|9|JCT 12|9|PUNCT
+*PAR:	and then &ci Cinderella &re remembers that the fairy godmother had
+	told her that at midnight &-um the dress and the caravan and
+	everything was going to &-uh disappear . 1461331_1474264
+%mor:	coord|and adv:tem|then n:prop|Cinderella v|remember-3S comp|that
+	det:art|the n|fairy n|+n|god+n|mother aux|have&PAST part|tell&PASTP
+	pro:obj|her comp|that prep|at mid#n|night det:art|the n|dress
+	coord|and det:art|the n|caravan coord|and pro:indef|everything
+	aux|be&PAST&13S part|go-PRESP inf|to dis#v|appear .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|10|LINK 6|8|DET 7|8|MOD 8|10|SUBJ
+	9|10|AUX 10|4|COMP 11|10|OBJ 12|23|LINK 13|23|JCT 14|13|POBJ 15|16|DET
+	16|23|SUBJ 17|16|CONJ 18|19|DET 19|17|COORD 20|16|CONJ 21|20|COORD
+	22|23|AUX 23|10|COMP 24|25|INF 25|23|COMP 26|4|PUNCT
+%trn:	coord|and adv:tem|then n:prop|Cinderella v|remember-3S comp|that
+	det:art|the n|fairy n|+n|god+n|mother aux|have&PAST part|tell&PASTP
+	pro:obj|her comp|that prep|at mid#n|night det:art|the n|dress
+	coord|and det:art|the n|caravan coord|and pro:indef|everything
+	aux|be&PAST&13S part|go-PRESP inf|to dis#v|appear .
+%grt:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|10|LINK 6|8|DET 7|8|MOD
+	8|10|SUBJ 9|10|AUX 10|4|COMP 11|10|OBJ 12|23|LINK 13|23|JCT
+	14|13|POBJ 15|16|DET 16|23|SUBJ 17|16|CONJ 18|19|DET 19|17|COORD
+	20|16|CONJ 21|20|COORD 22|23|AUX 23|10|COMP 24|25|INF 25|23|COMP
+	26|4|PUNCT
+*PAR:	and she was going to go back to how things were before . 1474264_1477855
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|go-PRESP inf|to v|go
+	adv|back prep|to pro:int|how n|thing-PL cop|be&PAST adv|before .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|11|LINK 10|11|SUBJ 11|8|CPOBJ 12|11|JCT 13|4|PUNCT
+%trn:	coord|and pro:sub|she aux|be&PAST&13S part|go-PRESP inf|to v|go
+	adv|back prep|to pro:int|how n|thing-PL cop|be&PAST adv|before .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|11|LINK 10|11|SUBJ 11|8|CPOBJ 12|11|JCT 13|4|PUNCT
+*PAR:	so ‡ she runs off . 1477855_1480103
+%mor:	co|so beg|beg pro:sub|she v|run-3S adv|off .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%trn:	co|so beg|beg pro:sub|she v|run-3S adv|off .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	&-uh but while running off she loses a slipper . 1480103_1484070
+%mor:	conj|but conj|while part|run-PRESP adv|off pro:sub|she v|lose-3S
+	det:art|a n|slipper .
+%gra:	1|6|LINK 2|3|LINK 3|6|CJCT 4|3|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+%trn:	conj|but conj|while part|run-PRESP adv|off pro:sub|she v|lose-3S
+	det:art|a n|slipper .
+%grt:	1|6|LINK 2|3|LINK 3|6|XJCT 4|3|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET
+	8|6|OBJ 9|6|PUNCT
+*PAR:	and one of the prince's attendants notice that she drops the
+	slipper . 1484070_1488665
+%mor:	coord|and det:num|one prep|of det:art|the adj|prince&dn-POSS
+	n|attendant-PL n|notice pro:rel|that pro:sub|she v|drop-3S
+	det:art|the n|slipper .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|7|DET 5|6|MOD 6|7|MOD 7|3|POBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|12|DET 12|10|OBJ 13|1|PUNCT
+%trn:	coord|and det:num|one prep|of det:art|the adj|prince&dn-POSS
+	n|attendant-PL v|notice comp|that pro:sub|she v|drop-3S det:art|the
+	n|slipper .
+%grt:	1|7|LINK 2|7|SUBJ 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|0|ROOT
+	8|7|OBJ 9|10|SUBJ 10|7|CJCT 11|12|DET 12|10|OBJ 13|7|PUNCT
+*PAR:	&-uh the next day the prince &-uh feels very sad that he did not
+	get more time to know who the girl was that he was dancing with and
+	asks his attendant to find the girl using &-uh the shoe that she had
+	dropped . 1488665_1506952
+%mor:	det:art|the adj|next n|day det:art|the n|prince n|feel-PL adv|very
+	adj|sad comp|that pro:sub|he mod|do&PAST neg|not v|get qn|more
+	n|time inf|to v|know pro:int|who det:art|the n|girl cop|be&PAST&13S
+	pro:rel|that pro:sub|he aux|be&PAST&13S part|dance-PRESP prep|with
+	coord|and v|ask-3S det:poss|his n|attendant inf|to v|find
+	det:art|the n|girl part|use-PRESP det:art|the n|shoe pro:rel|that
+	pro:sub|she aux|have&PAST part|drop-PASTP .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|5|DET 5|6|MOD 6|3|CMOD 7|8|JCT 8|6|PRED
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|8|CMOD 14|15|QUANT 15|13|OBJ
+	16|17|INF 17|15|XMOD 18|21|LINK 19|20|DET 20|21|SUBJ 21|17|COMP
+	22|25|LINK 23|25|SUBJ 24|25|AUX 25|21|CMOD 26|25|JCT 27|25|CONJ 28|27|COORD
+	29|30|DET 30|28|OBJ 31|32|INF 32|28|COMP 33|34|DET 34|32|OBJ 35|32|XJCT
+	36|37|DET 37|35|OBJ 38|41|LINK 39|41|SUBJ 40|41|AUX 41|37|CMOD 42|3|PUNCT
+%trn:	det:art|the adj|next n|day det:art|the n|prince v|feel-3S adv|very
+	adj|sad comp|that pro:sub|he mod|do&PAST neg|not v|get qn|more
+	n|time inf|to v|know pro:int|who det:art|the n|girl cop|be&PAST&13S
+	pro:rel|that pro:sub|he aux|be&PAST&13S part|dance-PRESP prep|with
+	coord|and v|ask-3S det:poss|his n|attendant inf|to v|find
+	det:art|the n|girl part|use-PRESP det:art|the n|shoe pro:rel|that
+	pro:sub|she aux|have&PAST part|drop-PASTP .
+%grt:	1|3|DET 2|3|MOD 3|6|JCT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|PRED
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|8|CMOD 14|15|QUANT
+	15|13|OBJ 16|17|INF 17|15|XMOD 18|21|LINK 19|20|DET 20|21|SUBJ
+	21|17|COMP 22|25|LINK 23|25|SUBJ 24|25|AUX 25|20|CMOD 26|25|JCT
+	27|6|CONJ 28|27|COORD 29|30|DET 30|28|OBJ 31|32|INF 32|28|COMP
+	33|34|DET 34|32|OBJ 35|32|XJCT 36|37|DET 37|35|OBJ 38|41|LINK
+	39|41|SUBJ 40|41|AUX 41|37|CMOD 42|6|PUNCT
+*PAR:	&-uh going around to every &-uh girl in the city <he finally> [/]
+	&-uh he finally finds Cinderella and see if the shoe fits . 1506952_1517614
+%mor:	part|go-PRESP adv|around prep|to qn|every n|girl prep|in
+	det:art|the n|city pro:sub|he adv|final&dadj-LY v|find-3S
+	n:prop|Cinderella coord|and v|see comp|if det:art|the n|shoe
+	v|fit-3S .
+%gra:	1|11|XJCT 2|1|JCT 3|1|JCT 4|5|QUANT 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|SUBJ 10|11|JCT 11|0|ROOT 12|11|OBJ 13|11|CONJ 14|13|COORD
+	15|18|LINK 16|17|DET 17|18|SUBJ 18|14|COMP 19|11|PUNCT
+%trn:	part|go-PRESP adv|around prep|to qn|every n|girl prep|in
+	det:art|the n|city pro:sub|he adv|final&dadj-LY v|find-3S
+	n:prop|Cinderella coord|and v|see comp|if det:art|the n|shoe
+	v|fit-3S .
+%grt:	1|11|XJCT 2|1|JCT 3|1|JCT 4|5|QUANT 5|3|POBJ 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|11|SUBJ 10|11|JCT 11|0|ROOT 12|11|OBJ 13|11|CONJ
+	14|13|COORD 15|18|LINK 16|17|DET 17|18|SUBJ 18|14|COMP 19|11|PUNCT
+*PAR:	and Cinderella and the prince are reunited . 1517614_1520501
+%mor:	coord|and n:prop|Cinderella coord|and det:art|the n|prince
+	aux|be&PRES re#part|unite-PASTP .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|7|AUX 7|0|ROOT 8|7|PUNCT
+%trn:	coord|and n:prop|Cinderella coord|and det:art|the n|prince
+	aux|be&PRES re#part|unite-PASTP .
+%grt:	1|7|LINK 2|7|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|7|AUX 7|0|ROOT
+	8|7|PUNCT
+*PAR:	and they live happily ever after . 1520501_1521975
+%mor:	coord|and pro:sub|they v|live adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+%trn:	coord|and pro:sub|they v|live adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+%grt:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+*PAR:	the end . [+ exc] 1521975_1522525
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%trn:	det:art|the n|end .
+%grt:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

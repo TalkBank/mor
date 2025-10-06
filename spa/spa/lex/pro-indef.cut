@@ -1,0 +1,25 @@
+@UTF8
+algo {[scat pro:indef]} =something=
+alguien {[scat pro:indef]} =someone=
+ambos {[scat pro:indef]} =both=
+cualquier {[scat pro:indef][gen m]} =whichever=
+cualquiera {[scat pro:indef][gen f]} =whichever=
+cuanto {[scat pro:indef][inflect yes]} =how_much=
+mucho {[scat pro:indef][inflect yes]} =much=
+nada {[scat pro:indef][inflect yes]} =nothing=
+nadita {[scat pro:indef]} "nada-DIM" =nothing=
+nadie {[scat pro:indef]} =nobody=
+nadien {[scat pro:indef]} =nobody=
+uno {[scat pro:indef]} =one=
+una {[scat pro:indef]} =one=
+otro {[scat pro:indef][inflect yes]} =other=
+poco {[scat pro:indef]} =little=
+poquico {[scat pro:indef]} =little=
+poquillo {[scat pro:indef]} =little=
+poquito {[scat pro:indef]} =little=
+quienesquiera {[scat pro:indef]} =whoever=
+quienquiera {[scat pro:indef]} =whoever=
+todititos {[scat pro:indef]} "todo-DIM-PL" =all=
+todito {[scat pro:indef]} "todo-DIM" =all=
+toditos {[scat pro:indef]} "todo-DIM-PL" =all=
+todo {[scat pro:indef][inflect yes]} =all=

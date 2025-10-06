@@ -1,0 +1,389 @@
+@UTF8
+@Window:	76_182_770_1024_-1_-1_1096_0_1096_0
+% ******************************************************
+% CONCATENATION RULES
+% ******************************************************
+
+%  this includes the irregular verbs which have full form listings
+
+RULENAME: bare-start
+CTYPE: START
+if
+ NEXTCAT = [scat OR bab chi dia fam n:let \
+	neo on phon meta L2 sing sign sas test uni wp unk beg end cm \
+	adv co conj coord neg prep prepart qn  \
+	0adj 0adv 0aux 0conj 0cop 0det 0inf 0n 0neg 0prep 0pro 0rel 0v 0zero ]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {n-pl}
+
+% **************   *
+%  PREFIX STARTS     *
+% **************   *
+
+RULENAME: pfx-start
+CTYPE: START
+ if
+ NEXTCAT = [scat pfx], [pcat OR adj adj:n n]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {pfx-n}
+if
+ NEXTCAT = [scat pfx], [pcat OR part v]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {pfx-v}
+
+RULENAME: pfx-n
+CTYPE: #
+if			% first blocking
+ NEXTCAT = [scat OR adj n]
+ MATCHCAT [block]
+ then
+ RESULTCAT = NEXTCAT, ADD [a 0]
+ RULEPACKAGE = {}
+if
+ STARTCAT = [pcat OR adj n]
+ NEXTCAT = [scat OR adj n], ![pre no]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {n-gen, n-dim-aug, n-pl, adj-pl}
+
+RULENAME: pfx-v
+CTYPE: #
+if			% first blocking
+ STARTCAT = [pcat OR part v]
+ NEXTCAT = [scat OR part v]
+ MATCHCAT [block]
+ then
+ RESULTCAT = NEXTCAT, ADD [a 0]
+ RULEPACKAGE = {}
+if
+ STARTCAT = [pcat OR part v]
+ NEXTCAT = [scat OR part v], ![pre no]
+ then
+ RESULTCAT = NEXTCAT, ADD [a 0]
+ RULEPACKAGE = {v-suff, v-deriv}
+if
+STARTCAT = [pcat OR part v]
+ NEXTCAT = [scat OR imp inf], ![pre no]
+ then
+ RESULTCAT = NEXTCAT, ADD [a 0]
+ RULEPACKAGE = {v-infimp-clit}
+
+% **************   *
+%  NOUN STARTS     *
+% **************   *
+
+RULENAME: n-start
+CTYPE: START
+ if
+ NEXTCAT = [scat OR n n:let n:prop]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {n-gen, n-dim-aug, n-pl}
+
+RULENAME: n-gen
+CTYPE: -
+if
+ STARTCAT = ![allo dim], ![no ngen]
+ NEXTCAT = [scat nsfx], [gen OR m f n]
+ MATCHCAT [gen]
+ then
+ RESULTCAT = STARTCAT, DEL [gen], ADD [allo pl-s], DEL [a]
+ RULEPACKAGE = {n-pl}
+
+RULENAME: n-dim-aug
+CTYPE: -
+ if			% first blocking
+ NEXTCAT = [scat OR ndim naug]
+ MATCHCAT [block]
+ then
+ RESULTCAT = NEXTCAT, ADD [a 0]
+ RULEPACKAGE = {}
+if 						% augmentative gender change
+ STARTCAT = [scat n], [gen f], [allo dim]
+ NEXTCAT = [scat naug], [gen m]
+ then
+ RESULTCAT = STARTCAT, DEL [gen], NEXTCAT [gen], DEL [a], DEL [allo], ADD [allo pl-s]
+ RULEPACKAGE = {n-pl}
+if
+ STARTCAT = [scat n ], [allo dim]
+ NEXTCAT = [scat OR ndim naug], [gen OR m f]
+ MATCHCAT [gen]
+ then
+ RESULTCAT = STARTCAT,  DEL [a], DEL [allo], ADD [allo pl-s]
+ RULEPACKAGE = {n-pl}
+
+RULENAME: n-pl
+CTYPE: -
+if
+ STARTCAT = [scat OR qn pro:indef n n:let part]
+ NEXTCAT = [scat nsfx]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = STARTCAT, NEXTCAT [num], DEL [a]
+ RULEPACKAGE = {}
+if
+ STARTCAT = [scat n], [letter +]
+ NEXTCAT = [scat nsfx], [allo pl-s]
+ then
+ RESULTCAT = STARTCAT, NEXTCAT [num], DEL [a]
+ RULEPACKAGE = {}
+
+% **************   *
+%  ADJ, PRO STARTS     *
+% **************   *
+
+RULENAME: adj-start
+CTYPE: START
+if
+ NEXTCAT = [scat OR adj adj:num]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {adj-gen, adj-pl, adj-dim-aug, adj-mente}
+
+RULENAME: adv-start
+CTYPE: START
+if
+ NEXTCAT = [scat adv]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {adj-dim-aug}
+
+RULENAME: det-pro-start
+CTYPE: START
+if
+ NEXTCAT = [scat OR det:art det:dem qn det:int det:poss det:num \
+    pro:clit pro:dem pro:indef pro:int pro:num pro:sub pro:obj \
+   pro:ind pro:refl pro:prep pro:poss pro:rel]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {adj-gen, adj-pl, adj-dim-aug}
+
+RULENAME: adj-gen
+CTYPE: -
+if
+ NEXTCAT = [scat nsfx], [gen f], [adv super]    % for clarísimamente
+ then
+ RESULTCAT = STARTCAT, DEL [gen], DEL [allo], DEL [a], ADD [adv super]
+ RULEPACKAGE = {adj-mente, adj-pl}
+if
+ NEXTCAT = [scat nsfx], [gen OR m f n]
+ MATCHCAT [gen]
+ then
+ RESULTCAT = STARTCAT, DEL [gen], ADD [allo pl-s], DEL [a]
+ RULEPACKAGE = {adj-pl, adj-mente}
+
+RULENAME: adj-pl
+CTYPE: -
+if
+ NEXTCAT = [scat nsfx], [num pl]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = STARTCAT, NEXTCAT [num], DEL [a]
+ RULEPACKAGE = {}
+if
+ STARTCAT = [adv super]
+ NEXTCAT = [scat nsfx], [num pl]
+ then
+ RESULTCAT = STARTCAT, DEL [a]
+ RULEPACKAGE = {}
+
+RULENAME: adj-dim-aug
+CTYPE: -
+if 						% augmentative gender change
+ STARTCAT = [scat OR adv adj]
+ NEXTCAT = [scat naug]
+ then
+ RESULTCAT = STARTCAT, DEL [gen],  DEL [a], ADD [allo pl-s]
+ RULEPACKAGE = {adj-pl}
+if
+ STARTCAT = [scat OR adj adv det:art qn det:poss det:num pro:indef]
+ NEXTCAT = [scat ndim]
+ MATCHCAT [gen]
+ then
+ RESULTCAT = STARTCAT, DEL [gen], ADD [allo pl-s], DEL [a]
+ RULEPACKAGE = {adj-pl}
+
+RULENAME: adj-mente
+CTYPE: -
+if
+ STARTCAT = [scat OR adj adj:num], ![adv super]
+ NEXTCAT = [pcat adv:adj]
+ then
+ RESULTCAT = ADD [scat adv], ADD [deriv adj], DEL [gen], DEL [a]
+ RULEPACKAGE = {}
+if
+ STARTCAT = [scat adj], [adv super]
+ NEXTCAT = [pcat adv:adj]
+ then
+ RESULTCAT = ADD [scat adv], ADD [deriv adj], DEL [gen], DEL [a]
+ RULEPACKAGE = {}
+if
+ STARTCAT = [scat part]
+ NEXTCAT = [pcat adv:adj]
+ then
+ RESULTCAT = ADD [scat adv], ADD [deriv adj], DEL [gen], DEL [allo], DEL [a]
+ RULEPACKAGE = {}
+
+% **************   *
+%  VERB STARTS     *
+% **************   *
+
+RULENAME: v-start
+CTYPE: START
+if
+ NEXTCAT = [scat OR aux cop v], ![allo irr]
+ then
+ RESULTCAT = NEXTCAT, ADD [a 0]
+ RULEPACKAGE = {v-suff, v-deriv}
+if
+ NEXTCAT = [scat OR aux cop v], [allo irr]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {v-infimp-clit}
+
+RULENAME: irreg-part-start
+CTYPE: START
+if
+ NEXTCAT = [scat part], [allo irr]
+ then
+ RESULTCAT = NEXTCAT, DEL [allo], ADD [allo pl-s], DEL [a]
+ RULEPACKAGE = {n-gen}
+
+RULENAME: irreg-imp-start
+CTYPE: START
+if
+ NEXTCAT = [scat OR inf imp], [allo irr]
+ then
+ RESULTCAT = NEXTCAT
+ RULEPACKAGE = {v-infimp-clit}
+
+RULENAME: v-suff
+CTYPE: -
+if			% first blocking
+ STARTCAT = [scat OR aux cop]
+ NEXTCAT = [scat imp]
+ MATCHCAT [block]
+ then
+ RESULTCAT = NEXTCAT, ADD [a 0]
+ RULEPACKAGE = {}
+if		% clause 1
+ STARTCAT = [scat OR cop v]
+ NEXTCAT = [scat inf], ![allo irr]
+ MATCHCAT [conj]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = NEXTCAT, DEL [allo], DEL [a]
+ RULEPACKAGE = {v-infimp-clit}
+if		% clause 2
+ STARTCAT = [scat OR cop v]
+ NEXTCAT = [scat inf], ![allo irr]
+ MATCHCAT [conj]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = NEXTCAT, DEL [allo], DEL [a]
+ RULEPACKAGE = {v-infimp-clit}
+if		% clause 3
+ STARTCAT = [scat OR aux cop v]
+ NEXTCAT = [scat imp]
+ MATCHCAT [conj]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = NEXTCAT, DEL [allo],  DEL [a]
+ RULEPACKAGE = {v-infimp-clit}
+if		% clause 4
+ STARTCAT = [scat OR aux v], ![allo irr]
+ NEXTCAT = [scat part], ![shift yes]
+ MATCHCAT [conj]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = NEXTCAT, DEL [conj], DEL [allo], DEL [gen], ADD [allo pl-s], DEL [a]
+ RULEPACKAGE = {n-gen, n-pl, adj-mente}
+if		% clause 5
+ STARTCAT = [scat cop], ![allo irr]
+ NEXTCAT = [scat part], ![shift yes]
+ MATCHCAT [conj]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = STARTCAT, DEL [allo], DEL [gen], ADD [allo pl-s], DEL [a]
+ RULEPACKAGE = {adj-mente}
+if		% clause 6
+ STARTCAT = [scat OR aux cop v], [allo part]
+ NEXTCAT = [scat part], [shift yes]
+ MATCHCAT [conj]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = NEXTCAT, DEL [allo], ADD [allo pl-s], DEL [a]
+ RULEPACKAGE = {v-partsh-clit, n-pl, adj-mente}
+if
+ STARTCAT = [scat OR aux cop v], ![allo irr]
+ NEXTCAT = [dcat OR vpas vcond vpsub vsub vfut vpres vpret]
+ MATCHCAT [conj]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = STARTCAT, DEL [allo], ADD [allo pl-s], DEL [a]
+ RULEPACKAGE = {v-infimp-clit}
+
+RULENAME: v-deriv
+CTYPE: -
+ if
+ NEXTCAT = [pcat n:v]
+ MATCHCAT [allo]
+ then
+ RESULTCAT = ADD [scat n], NEXTCAT [gen], ADD [deriv v], DEL [a]
+ RULEPACKAGE = {n-gen}
+
+% The rest is for participles, imperatives and infinitives that take clitics
+
+RULENAME: v-partsh-clit
+CTYPE: ~
+if
+ STARTCAT = [scat part]
+ NEXTCAT = [scat OR vclit1 vclit2 vclit3]
+ then
+ RESULTCAT = STARTCAT
+ RULEPACKAGE = {v-partsh-clit2}
+
+RULENAME: v-partsh-clit2
+CTYPE: ~
+if
+ STARTCAT = [scat part]
+ NEXTCAT = [scat OR vclit2 vclit3]
+ then
+ RESULTCAT = STARTCAT, DEL[a]
+ RULEPACKAGE = {}
+
+RULENAME: v-infimp-clit
+CTYPE: ~
+if
+ STARTCAT = [scat OR inf imp]
+ NEXTCAT = [scat OR vclit1 vclit2 vclit3]
+ then
+ RESULTCAT = STARTCAT, DEL [a]
+ RULEPACKAGE = {v-infsh-clit2}
+
+RULENAME: v-infsh-clit2
+CTYPE: ~
+ if
+ STARTCAT = [scat OR imp inf]
+ NEXTCAT = [scat OR vclit2 vclit3]
+ then
+ RESULTCAT = STARTCAT, DEL [a]
+ RULEPACKAGE = {}
+
+%****************
+%  END RULES
+%****************
+
+RULENAME: all-end
+% this is to output everything except the suffixes
+% and the verb stems that are supposed to get suffixed
+ CTYPE: END
+ if
+ STARTCAT = ![a 0]
+ then
+ RESULTCAT = STARTCAT
+ RULEPACKAGE = {}
+

@@ -1,0 +1,305 @@
+@UTF8
+@Begin
+@Languages:	zho
+@Participants:	INV Teacher, CHI Target_Child, HAN Mother
+@ID:	zho|Beijing-Frogs|INV|||||Teacher|||
+@ID:	zho|Beijing-Frogs|CHI||female|||Target_Child|||
+@ID:	zho|Beijing-Frogs|HAN|||||Mother|||
+@Birth of CHI:	16-AUG-1999
+@Media:	F2-11108215, audio
+@Date:	16-AUG-2002
+@Transcriber:	YCH label is WZ
+*INV:	你 就 看 这 些 图片 .
+%mor:	pro:per|ni3=you adv|jiu4=just v|kan4=look pro:dem|zhe4=this
+	quant|xie1=proximation n|tu2pian4=pictorial_matter .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+%trn:	pro:per|ni3=you adv|jiu4=just v|kan4=look det|zhe4=this
+	quant|xie1=proximation n|tu2pian4=pictorial_matter .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+*INV:	然后 给 阿姨 讲 „ 好不好 ? 86047_88857
+%mor:	conj|ran2hou4=thereupon prep|gei3=for n:relat|a1yi2=mothers_sister
+	v|jiang3=say end|end co:int|hao3bu2hao3=okay ?
+%gra:	1|4|LINK 2|4|JCT 3|2|PREPO 4|0|ROOT 5|6|ENDP 6|4|END 7|4|PUNCT
+%trn:	conj|ran2hou4=thereupon prep|gei3=for familiar#n:relat|a1yi2=mothers_sister
+	v|jiang3=say end|end co:int|hao3bu2hao3=okay ?
+%grt:	1|4|LINK 2|4|JCT 3|2|PREPO 4|0|ROOT 5|6|ENDP 6|4|END 7|4|PUNCT
+*INV:	来 ‡ 你 看 (2.0) . 88793_93124
+%mor:	co|lai2=come_on beg|beg pro:per|ni3=you v|kan4=look .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%trn:	co|lai2=come_on beg|beg pro:per|ni3=you v|kan4=look .
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	小 男 孩 . 93054_94528
+%mor:	adj|xiao3=small adj|nan2=male n|hai2=child .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2=child .
+%grt:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	小 狗 . 96987_98415
+%mor:	adj|xiao3=small n|gou3=dog .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%trn:	adj|xiao3=small n|gou3=dog .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	小 青蛙 . 98888_99840
+%mor:	adj|xiao3=small n|qing1wa1=frog .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%trn:	adj|xiao3=small n|qing1wa1=frog .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	养 在 一 个 什么 里面 (1.7) ? 99881_102458
+%mor:	v|yang3=raise prep|zai4=at num|yi1=one cl|ge4 adv:wh|shen2me=what
+	post|li3mian4=inside ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|5|CLASS 5|6|POSTO 6|2|PREPO 7|1|PUNCT
+%trn:	v|yang3=raise prep|zai4=at num|yi1=one cl|ge4 adv:wh|shen2me=what
+	post|li3mian4=inside ?
+%grt:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|5|CLASS 5|6|POSTO 6|2|PREPO 7|1|PUNCT
+*INV:	这 是 一 个 什么 啊 (3.0) ? 102435_108635
+%mor:	pro:dem|zhe4=this v:cop|shi4=is num|yi1=one cl|ge4
+	pro:wh|shen2me=what sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|CLASS 5|2|PRED 6|2|SFP 7|2|PUNCT
+%trn:	pro:dem|zhe4=this v:cop|shi4=is num|yi1=one cl|ge4 pro:wh|shen2me=what
+	sfp|a1 ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|CLASS 5|2|PRED 6|2|SFP 7|2|PUNCT
+*INV:	这 张 ‡ 讲 完 了 吗 ? 108536_110359
+%mor:	det|zhe4=this cl|zhang1=sheet beg|beg v|jiang3=say
+	v:resc|wan2=finish asp|le sfp|ma ?
+%gra:	1|2|DET 2|0|BEG 3|2|BEGP 4|0|ROOT 5|4|VR 6|4|ASP 7|4|SFP 8|4|PUNCT
+%trn:	det|zhe4=this cl|zhang1=sheet beg|beg v|jiang3=say
+	v:resc|wan2=finish asp|le sfp|ma ?
+%grt:	1|2|DET 2|0|BEG 3|2|BEGP 4|0|ROOT 5|4|VR 6|4|ASP 7|4|SFP 8|4|PUNCT
+*INV:	那 咱 再 翻 一 张 „ 好不好 (4.3) . 110330_116436
+%mor:	conj|na4=so pro:per|zan2=we adv|zai4=again v|fan1=flip num|yi1=one
+	cl|zhang1=sheet end|end co:int|hao3bu2hao3=okay .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|8|ENDP 8|4|END
+	9|4|PUNCT
+%trn:	conj|na4=so pro:per|zan2=we adv|zai4=again v|fan1=flip num|yi1=one
+	cl|zhang1=sheet end|end co:int|hao3bu2hao3=okay .
+%grt:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|8|ENDP
+	8|4|END 9|4|PUNCT
+*CHI:	睡觉 了 . 116826_117685
+%mor:	v|shui4jiao4=sleep asp|le .
+%gra:	1|0|ROOT 2|1|ASP 3|1|PUNCT
+%trn:	v|shui4jiao4=sleep asp|le .
+%grt:	1|0|ROOT 2|1|ASP 3|1|PUNCT
+*INV:	&嗯 . 117708_118800
+*CHI:	小 青蛙 跳 出来 了 . 118782_120732
+%mor:	adj|xiao3=small n|qing1wa1=frog v|tiao4=jump v:dirc|chu1lai2=go_out
+	asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|ASP 6|3|PUNCT
+%trn:	adj|xiao3=small n|qing1wa1=frog v|tiao4=jump v:dirc|chu1lai2=go_out
+	asp|le .
+%grt:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|ASP 6|3|PUNCT
+*INV:	哦 ‡ 怎么 了 ? 120721_125074
+%mor:	co|o1=chant beg|beg adv:wh|zen3me=how asp|le ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|ASP 5|3|PUNCT
+%trn:	co|o1=chant beg|beg adv:wh|zen3me=how asp|le ?
+%grt:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|ASP 5|3|PUNCT
+*CHI:	小 青蛙 没 有 了 . 125063_126735
+%mor:	adj|xiao3=small n|qing1wa1=frog adv|mei2=not v|you3=have asp|le .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+%trn:	adj|xiao3=small n|qing1wa1=frog adv|mei2=not v|you3=have asp|le .
+%grt:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|ASP 6|4|PUNCT
+*INV:	没 了 哦 .
+%mor:	adv|mei2=not asp|le sfp|o1 .
+%gra:	1|0|INCROOT 2|1|ASP 3|1|SFP 4|1|PUNCT
+%trn:	adv|mei2=not asp|le sfp|o1 .
+%grt:	1|0|INCROOT 2|1|ASP 3|1|SFP 4|1|PUNCT
+*INV:	他们 在 干 什么 呢 (4.4) ? 126676_135245
+%mor:	pro:per|ta1-PL=he adv|zai4=currently v|gan4=do pro:wh|shen2me=what
+	sfp|ne ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+%trn:	pro:per|ta1-PL=he adv|zai4=currently v|gan4=do pro:wh|shen2me=what
+	sfp|ne ?
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|SFP 6|3|PUNCT
+*INV:	这 个 是 怎么 了 ? 135239_138281
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is adv:wh|zen3me=how asp|le ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|ASP 6|3|PUNCT
+%trn:	det|zhe4=this cl|ge4 v:cop|shi4=is adv:wh|zen3me=how asp|le ?
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|ASP 6|3|PUNCT
+*CHI:	倒 了 . 138234_139465
+%mor:	v|dao4=pour asp|le .
+%gra:	1|0|ROOT 2|1|ASP 3|1|PUNCT
+%trn:	v|dao4=pour asp|le .
+%grt:	1|0|ROOT 2|1|ASP 3|1|PUNCT
+*INV:	哦 ‡ 这 个 是 什么 „ 这 个 . 139564_150512
+%mor:	co|o1=chant beg|beg det|zhe4=this cl|ge4 v:cop|shi4=is
+	pro:wh|shen2me=what end|end det|zhe4=this cl|ge4 .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|9|ENDP 8|9|DET
+	9|5|END 10|5|PUNCT
+%trn:	co|o1=chant beg|beg det|zhe4=this cl|ge4 v:cop|shi4=is
+	pro:wh|shen2me=what end|end det|zhe4=this cl|ge4 .
+%grt:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|9|ENDP 8|9|DET
+	9|5|END 10|5|PUNCT
+%com:	#8_8
+*HAN:	刚才 阿姨 怎么 跟 你 讲 的 ? 150518_154465
+%mor:	adv|gang1cai2=just_now n:relat|a1yi2=mothers_sister
+	adv:wh|zen3me=how prep|gen1=with pro:per|ni3=you v|jiang3=say
+	cleft|de ?
+%gra:	1|6|JCT 2|6|SUBJ 3|6|JCT 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|LINK 8|6|PUNCT
+%trn:	adv|gang1cai2=just_now familiar#n:relat|a1yi2=mothers_sister adv:wh|zen3me=how
+	prep|gen1=with pro:per|ni3=you v|jiang3=say cleft|de ?
+%grt:	1|6|JCT 2|6|SUBJ 3|6|JCT 4|6|JCT 5|4|PREPO 6|0|ROOT 7|6|LINK
+	8|6|PUNCT
+*INV:	小 男 孩 在 干 什么 呢 (2.9) ? 154419_158610
+%mor:	adj|xiao3=small adj|nan2=male n|hai2=child adv|zai4=currently
+	v|gan4=do pro:wh|shen2me=what sfp|ne ?
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2=child adv|zai4=currently
+	v|gan4=do pro:wh|shen2me=what sfp|ne ?
+%grt:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|SFP 8|5|PUNCT
+*INV:	不 讲 这 张 了 „ 好不好 ? 158476_160694
+%mor:	adv|bu4=not v|jiang3=say det|zhe4=this cl|zhang1=sheet asp|le
+	end|end co:int|hao3bu2hao3=okay ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ASP 6|7|ENDP 7|2|END 8|2|PUNCT
+%trn:	adv|bu4=not v|jiang3=say det|zhe4=this cl|zhang1=sheet asp|le
+	end|end co:int|hao3bu2hao3=okay ?
+%grt:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ASP 6|7|ENDP 7|2|END 8|2|PUNCT
+*INV:	&嗯 他们 在 哪 呢 ? 160682_162992
+%mor:	pro:per|ta1-PL=he prep|zai4=at pro:wh|na3=where sfp|ne ?
+%gra:	1|2|SUBJ 2|0|PROOT 3|2|PREPO 4|2|SFP 5|2|PUNCT
+%trn:	pro:per|ta1-PL=he prep|zai4=at pro:wh|na3=where sfp|ne ?
+%grt:	1|2|SUBJ 2|0|PROOT 3|2|PREPO 4|2|SFP 5|2|PUNCT
+*CHI:	在 这 呢 . 162907_164312
+%mor:	prep|zai4=at pro:dem|zhe4=this sfp|ne .
+%gra:	1|0|INCROOT 2|1|PREPO 3|1|SFP 4|1|PUNCT
+%trn:	prep|zai4=at pro:dem|zhe4=this sfp|ne .
+%grt:	1|0|INCROOT 2|1|PREPO 3|1|SFP 4|1|PUNCT
+*INV:	哦 . 164324_165473
+%mor:	co|o1=chant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%trn:	co|o1=chant .
+%grt:	1|0|INCROOT 2|1|PUNCT
+*INV:	小 男 孩 对 小 狗 说 什么 ? 165239_167236
+%mor:	adj|xiao3=small adj|nan2=male n|hai2=child prep|dui4=toward
+	adj|xiao3=small n|gou3=dog v|shuo1=say pro:wh|shen2me=what ?
+%gra:	1|3|MOD 2|3|MOD 3|7|SUBJ 4|7|JCT 5|6|MOD 6|4|PREPO 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+%trn:	adj|xiao3=small adj|nan2=male n|hai2=child prep|dui4=toward
+	adj|xiao3=small n|gou3=dog v|shuo1=say pro:wh|shen2me=what ?
+%grt:	1|3|MOD 2|3|MOD 3|7|SUBJ 4|7|JCT 5|6|MOD 6|4|PREPO 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*CHI:	别 出 声音 . 167201_168536
+%mor:	adv|bie2=dont v:dirc|chu1=go_out n|sheng1yin1=sound .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%trn:	adv|bie2=dont v:dirc|chu1=go_out n|sheng1yin1=sound .
+%grt:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*HAN:	这 是 +... 169337_171485
+%mor:	pro:dem|zhe4=this v:cop|shi4=is +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%trn:	pro:dem|zhe4=this v:cop|shi4=is +...
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	这 张 呢 . 171659_175909
+%mor:	det|zhe4=this cl|zhang1=sheet sfp|ne .
+%gra:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%trn:	det|zhe4=this cl|zhang1=sheet sfp|ne .
+%grt:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*INV:	他们 俩 悄悄地 怎么 了 (2.2) ?
+%mor:	pro:per|ta1-PL=he n|lia2=two adv|qiao1qiao1-LY=sneaky
+	adv:wh|zen3me=how asp|le ?
+%gra:	1|4|SUBJ 2|1|APP 3|4|JCT 4|0|PROOT 5|4|ASP 6|4|PUNCT
+%trn:	pro:per|ta1-PL=he n|lia2=two adv|qiao1-LY=quietly adv:wh|zen3me=how
+	asp|le ?
+%grt:	1|4|SUBJ 2|1|APP 3|4|JCT 4|0|PROOT 5|4|ASP 6|4|PUNCT
+*CHI:	走 [/] 走 过去 了 . 175804_178207
+%mor:	v:dirc|zou3=go_away v:dirc|guo4qu4=over asp|le .
+%gra:	1|0|ROOT 2|1|VD 3|1|ASP 4|1|PUNCT
+%trn:	v:dirc|zou3=go_away v:dirc|guo4qu4=over asp|le .
+%grt:	1|0|ROOT 2|1|VD 3|1|ASP 4|1|PUNCT
+*INV:	嗯 ‡ 这 是 谁 啊 ? 178184_179960
+%mor:	co|en1=okay beg|beg pro:dem|zhe4=this v:cop|shi4=is
+	pro:wh|shei2=who sfp|a1 ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|SFP 7|4|PUNCT
+%trn:	co|en1=okay beg|beg pro:dem|zhe4=this v:cop|shi4=is pro:wh|shei2=who
+	sfp|a1 ?
+%grt:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|SFP 7|4|PUNCT
+*CHI:	青蛙 爸爸 . 179960_181087
+%mor:	n|qing1wa1=frog n:relat|ba4&DIM=father .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%trn:	n|qing1wa1=frog n:relat|ba4&DIM=father .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	这 个 呢 ? 181110_181667
+%mor:	det|zhe4=this cl|ge4 sfp|ne ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+%trn:	det|zhe4=this cl|ge4 sfp|ne ?
+%grt:	1|2|DET 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+*CHI:	青蛙 妈妈 . 181737_182944
+%mor:	n|qing1wa1=frog n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%trn:	n|qing1wa1=frog n:relat|ma1&DIM=mother .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	这 是 谁 啊 ? 182944_184036
+%mor:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shei2=who sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|SFP 5|2|PUNCT
+%trn:	pro:dem|zhe4=this v:cop|shi4=is pro:wh|shei2=who sfp|a1 ?
+%grt:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|SFP 5|2|PUNCT
+*CHI:	小 青蛙 . 184047_185104
+%mor:	adj|xiao3=small n|qing1wa1=frog .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%trn:	adj|xiao3=small n|qing1wa1=frog .
+%grt:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	哦 ‡ 他们 最后 找 到 小 青蛙 了 吗 (2.1) ? 185104_188842
+%mor:	co|o1=chant beg|beg pro:per|ta1-PL=he adv|zui4hou4=finally
+	v|zhao3=search v:resc|dao4=arrive adj|xiao3=small n|qing1wa1=frog
+	asp|le sfp|ma ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|VR 7|8|MOD 8|5|OBJ
+	9|5|ASP 10|5|SFP 11|5|PUNCT
+%trn:	co|o1=chant beg|beg pro:per|ta1-PL=he adv|zui4hou4=finally
+	v|zhao3=search v:resc|dao4=arrive adj|xiao3=small n|qing1wa1=frog
+	asp|le sfp|ma ?
+%grt:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|VR 7|8|MOD 8|5|OBJ
+	9|5|ASP 10|5|SFP 11|5|PUNCT
+*INV:	这 个 是 (3.3) +... 188830_193863
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	det|zhe4=this cl|ge4 v:cop|shi4=is +...
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	他们 最后 找 到 他们 的 小 青蛙 .
+%mor:	pro:per|ta1-PL=he adv|zui4hou4=finally v|zhao3=search
+	v:resc|dao4=arrive pro:per|ta1-PL=he poss|de adj|xiao3=small
+	n|qing1wa1=frog .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|VR 5|8|MOD 6|5|POSS 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+%trn:	pro:per|ta1-PL=he adv|zui4hou4=finally v|zhao3=search
+	v:resc|dao4=arrive pro:per|ta1-PL=he poss|de adj|xiao3=small
+	n|qing1wa1=frog .
+%grt:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|VR 5|8|MOD 6|5|POSS 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+*INV:	没 有 啊 ? 193887_197126
+%mor:	adv|mei2=not v|you3=have sfp|a1 ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+%trn:	adv|mei2=not v|you3=have sfp|a1 ?
+%grt:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	找 到 了 (3.2) . 197039_201416
+%mor:	v|zhao3=search v:resc|dao4=arrive asp|le .
+%gra:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|PUNCT
+%trn:	v|zhao3=search v:resc|dao4=arrive asp|le .
+%grt:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|PUNCT
+*INV:	这 个 是 (1.4) +... 201358_203865
+%mor:	det|zhe4=this cl|ge4 v:cop|shi4=is +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%trn:	det|zhe4=this cl|ge4 v:cop|shi4=is +...
+%grt:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	是 他们 的 小 青蛙 吗 (2.4) ? 203813_209398
+%mor:	v:cop|shi4=is pro:per|ta1-PL=he poss|de adj|xiao3=small
+	n|qing1wa1=frog sfp|ma ?
+%gra:	1|0|ROOT 2|5|MOD 3|2|POSS 4|5|MOD 5|1|PRED 6|1|SFP 7|1|PUNCT
+%trn:	v:cop|shi4=is pro:per|ta1-PL=he poss|de adj|xiao3=small n|qing1wa1=frog
+	sfp|ma ?
+%grt:	1|0|ROOT 2|5|MOD 3|2|POSS 4|5|MOD 5|1|PRED 6|1|SFP
+	7|1|PUNCT
+*INV:	哎 ‡ 歇 (一)会儿 . 209281_212056
+%mor:	co|ai1=ugh beg|beg v|xie1=rest n:tm|yi4huir4=for_a_while .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%trn:	co|ai1=ugh beg|beg v|xie1=rest n:tm|yi4huir4=for_a_while
+	.
+%grt:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	阿姨 给 你 讲 完 了  . 212039_248044
+%mor:	n:relat|a1yi2=mothers_sister prep|gei3=for pro:per|ni3=you
+	v|jiang3=say v:resc|wan2=finish asp|le .
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|VR 6|4|ASP 7|4|PUNCT
+%trn:	familiar#n:relat|a1yi2=mothers_sister prep|gei3=for pro:per|ni3=you v|jiang3=say
+	v:resc|wan2=finish asp|le .
+%grt:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|0|ROOT 5|4|VR 6|4|ASP 7|4|PUNCT
+*INV:	刚才 你 看 着 .
+%mor:	adv|gang1cai2=just_now pro:per|ni3=you v|kan4=look asp|zhe .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|3|PUNCT
+%trn:	adv|gang1cai2=just_now pro:per|ni3=you v|kan4=look asp|zhe .
+%grt:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|3|PUNCT
+@End

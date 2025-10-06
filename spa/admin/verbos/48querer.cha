@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	quiero .
+%mor:	v|quere-1S&PRES=want .
+*T:	quieres .
+%mor:	v|quere-2S&PRES=want .
+*T:	quiere .
+%mor:	v|quere-3S&PRES=want .
+*T:	queremos .
+%mor:	v|quere-1P&PRES=want .
+*T:	queréis .
+%mor:	v|quere-2P&PRES=want .
+*T:	quieren .
+%mor:	v|quere-3P&PRES=want .
+@Blank
+*T:	quería .
+%mor:	v|quere-13S&PAS=want .
+*T:	querías .
+%mor:	v|quere-2S&PAS=want .
+*T:	quería .
+%mor:	v|quere-13S&PAS=want .
+*T:	queríamos .
+%mor:	v|quere-1P&PAS=want .
+*T:	queríais .
+%mor:	v|quere-2P&PAS=want .
+*T:	querían .
+%mor:	v|quere-3P&PAS=want .
+@Blank
+*T:	quise .
+%mor:	v|quere-1S&PRET=want .
+*T:	quisiste .
+%mor:	v|quere-2S&PRET=want .
+*T:	quiso .
+%mor:	v|quere-3S&PRET=want .
+*T:	quisimos .
+%mor:	v|quere-1P&PRES&PRET=want .
+*T:	quisisteis .
+%mor:	v|quere-2P&PRET=want .
+*T:	quisieron .
+%mor:	v|quere-3P&PRET=want .
+@Blank
+*T:	querré .
+%mor:	v|quere-1S&FUT=want .
+*T:	querrás .
+%mor:	v|quere-2S&FUT=want .
+*T:	querrá .
+%mor:	v|quere-3S&FUT=want .
+*T:	querremos .
+%mor:	v|quere-1P&FUT=want .
+*T:	querréis .
+%mor:	v|quere-2P&FUT=want .
+*T:	querrán .
+%mor:	v|quere-3P&FUT=want .
+@Blank
+*T:	quiera .
+%mor:	imp|quere-3S&IMP=want .
+*T:	quieras .
+%mor:	v|quere-2S&SUB&PRES=want .
+*T:	quiera .
+%mor:	imp|quere-3S&IMP=want .
+*T:	queramos .
+%mor:	imp|quere-1P&IMP=want .
+*T:	queráis .
+%mor:	v|quere-2P&SUB&PRES=want .
+*T:	quieran .
+%mor:	imp|quere-3P&IMP=want .
+@Blank
+*T:	quisiera .
+%mor:	v|quere-13S&SUB&PAS=want .
+*T:	quisieras .
+%mor:	v|quere-2S&SUB&PAS=want .
+*T:	quisiera .
+%mor:	v|quere-13S&SUB&PAS=want .
+*T:	quisiéramos .
+%mor:	v|quere-1P&SUB&PAS=want .
+*T:	quisierais .
+%mor:	v|quere-2P&SUB&PAS=want .
+*T:	quisieran .
+%mor:	v|quere-3P&SUB&PAS=want .
+@Blank
+*T:	queriendo .
+%mor:	ger|quere-PROG=want .
+*T:	querido .
+%mor:	part|quere-PPART-MASC=want .
+*T:	quiere .
+%mor:	v|quere-3S&PRES=want .
+*T:	quiera .
+%mor:	imp|quere-3S&IMP=want .
+*T:	quered .
+%mor:	imp|quere-2P&IMP=want .
+*T:	quieran .
+%mor:	imp|quere-3P&IMP=want .
+@Blank
+@End

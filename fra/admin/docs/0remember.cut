@@ -1,0 +1,3 @@
+@UTF8
+There are  cases of  &masc&pl-PL for words like cadeux.
+ I have fixed these to &masc&pl using BBEdit, but we will have to do this fix each time we reprocess the files.

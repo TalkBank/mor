@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	abro .
+%mor:	v|abri-1S&PRES=open .
+*T:	abres .
+%mor:	v|abri-2S&PRES=open .
+*T:	abre .
+%mor:	imp|abri-2S&IMP=open .
+*T:	abrimos .
+%mor:	v|abri-1P&PRES&PRET=open .
+*T:	abrís .
+%mor:	v|abri-2P&PRES=open .
+*T:	abren .
+%mor:	v|abri-3P&PRES=open .
+@Blank
+*T:	abría .
+%mor:	v|abri-13S&PAS=open .
+*T:	abrías .
+%mor:	v|abri-2S&PAS=open .
+*T:	abría .
+%mor:	v|abri-13S&PAS=open .
+*T:	abríamos .
+%mor:	v|abri-1P&PAS=open .
+*T:	abríais .
+%mor:	v|abri-2P&PAS=open .
+*T:	abrían .
+%mor:	v|abri-3P&PAS=open .
+@Blank
+*T:	abrí .
+%mor:	imp|abri-2S&IMP=open .
+*T:	abriste .
+%mor:	v|abri-2S&PRET=open .
+*T:	abrió .
+%mor:	v|abri-3S&PRET=open .
+*T:	abrimos .
+%mor:	v|abri-1P&PRES&PRET=open .
+*T:	abristeis .
+%mor:	v|abri-2P&PRET=open .
+*T:	abrieron .
+%mor:	v|abri-3P&PRET=open .
+@Blank
+*T:	abriré .
+%mor:	v|abri-1S&FUT=open .
+*T:	abrirás .
+%mor:	v|abri-2S&FUT=open .
+*T:	abrirá .
+%mor:	v|abri-3S&FUT=open .
+*T:	abriremos .
+%mor:	v|abri-1P&FUT=open .
+*T:	abriréis .
+%mor:	v|abri-2P&FUT=open .
+*T:	abrirán .
+%mor:	v|abri-3P&FUT=open .
+@Blank
+*T:	abra .
+%mor:	imp|abri-3S&IMP=open .
+*T:	abras .
+%mor:	v|abri-2S&SUB&PRES=open .
+*T:	abra .
+%mor:	imp|abri-3S&IMP=open .
+*T:	abramos .
+%mor:	v|abri-1P&SUB&PRES=open .
+*T:	abráis .
+%mor:	v|abri-2P&SUB&PRES=open .
+*T:	abran .
+%mor:	imp|abri-3P&IMP=open .
+@Blank
+*T:	abriera .
+%mor:	v|abri-13S&SUB&PAS=open .
+*T:	abrieras .
+%mor:	v|abri-2S&SUB&PAS=open .
+*T:	abriera .
+%mor:	v|abri-13S&SUB&PAS=open .
+*T:	abriéramos .
+%mor:	v|abri-1P&SUB&PAS=open .
+*T:	abrierais .
+%mor:	v|abri-2P&SUB&PAS=open .
+*T:	abrieran .
+%mor:	v|abri-3P&SUB&PAS=open .
+@Blank
+*T:	abriendo .
+%mor:	ger|abri-PROG=open .
+*T:	abierto .
+%mor:	part|abri-PPART-MASC=open .
+*T:	abre .
+%mor:	imp|abri-2S&IMP=open .
+*T:	abra .
+%mor:	imp|abri-3S&IMP=open .
+*T:	abrid .
+%mor:	imp|abri-2P&IMP=open .
+*T:	abran .
+%mor:	imp|abri-3P&IMP=open .
+@Blank
+@End

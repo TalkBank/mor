@@ -1,0 +1,97 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	T Text
+@ID:	spa|change_me_later|T|||||Text|||
+*T:	digo .
+%mor:	v|deci-1S&PRES=say .
+*T:	dices .
+%mor:	v|deci-2S&PRES=say .
+*T:	dice .
+%mor:	v|deci-3S&PRES=say .
+*T:	decimos .
+%mor:	v|deci-1P&PRES&PRET=say .
+*T:	decís .
+%mor:	v|deci-2P&PRES=say .
+*T:	dicen .
+%mor:	v|deci-3P&PRES=say .
+@Blank
+*T:	decía .
+%mor:	v|deci-13S&PAS=say .
+*T:	decías .
+%mor:	v|deci-2S&PAS=say .
+*T:	decía .
+%mor:	v|deci-13S&PAS=say .
+*T:	decíamos .
+%mor:	v|deci-1P&PAS=say .
+*T:	decíais .
+%mor:	v|deci-2P&PAS=say .
+*T:	decían .
+%mor:	v|deci-3P&PAS=say .
+@Blank
+*T:	dí .
+%mor:	imp|deci-2S&IMP=say .
+*T:	diste .
+%mor:	v|da-2S&PRET=give .
+*T:	dió .
+%mor:	v|da-3S&PRET=give .
+*T:	dimos .
+%mor:	v|da-1P&PRET=give .
+*T:	disteis .
+%mor:	v|da-2P&PRET=give .
+*T:	dieron .
+%mor:	v|da-3P&PRET=give .
+@Blank
+*T:	diré .
+%mor:	v|deci-1S&FUT=say .
+*T:	dirás .
+%mor:	v|deci-2S&FUT=say .
+*T:	dirá .
+%mor:	v|deci-3S&FUT=say .
+*T:	diremos .
+%mor:	v|deci-1P&FUT=say .
+*T:	diréis .
+%mor:	v|deci-2P&FUT=say .
+*T:	dirán .
+%mor:	v|deci-3P&FUT=say .
+@Blank
+*T:	diga .
+%mor:	v|deci-13S&SUB&PRES=say .
+*T:	digas .
+%mor:	v|deci-2S&SUB&PRES=say .
+*T:	diga .
+%mor:	v|deci-13S&SUB&PRES=say .
+*T:	digamos .
+%mor:	v|deci-1P&SUB&PRES=say .
+*T:	digáis .
+%mor:	v|deci-2P&SUB&PRES=say .
+*T:	digan .
+%mor:	v|deci-3P&SUB&PRES=say .
+@Blank
+*T:	dijera .
+%mor:	v|deci-13S&SUB&PAS=say .
+*T:	dijeras .
+%mor:	v|deci-2S&SUB&PAS=say .
+*T:	dijera .
+%mor:	v|deci-13S&SUB&PAS=say .
+*T:	dijéramos .
+%mor:	v|deci-1P&SUB&PAS=say .
+*T:	dijerais .
+%mor:	v|deci-2P&SUB&PAS=say .
+*T:	dijeran .
+%mor:	v|deci-3P&SUB&PAS=say .
+@Blank
+*T:	diciendo .
+%mor:	ger|deci-PROG=say .
+*T:	dicho .
+%mor:	part|deci-PPART-MASC=say .
+*T:	di .
+%mor:	imp|deci-2S&IMP=say .
+*T:	diga .
+%mor:	v|deci-13S&SUB&PRES=say .
+*T:	decid .
+%mor:	imp|deci-2P&IMP=say .
+*T:	digan .
+%mor:	v|deci-3P&SUB&PRES=say .
+@Blank
+@End

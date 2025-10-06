@@ -1,0 +1,34 @@
+@UTF8
+% *************
+% ADVERBS
+% *************
+
+RULENAME:  adv-a
+LEX-ENTRY:
+LEXSURF =  $Xa			% arriba
+LEXCAT = [scat adv], ![var no]
+ALLO:
+ALLOSURF = $X			% arribita
+ALLOCAT = LEXCAT, ADD [gen f], ADD [allo adv]
+ALLO:
+ALLOSURF = LEXSURF		% arriba
+ALLOCAT = LEXCAT
+
+RULENAME:  adv-final-vowel
+LEX-ENTRY:
+LEXSURF =  $X$V			% adentro
+LEXCAT = [scat adv], ![var no]
+ALLO:
+ALLOSURF = $X			% adentrito, adelantito
+ALLOCAT = LEXCAT, ADD [gen m], ADD [allo adv]
+ALLO:
+ALLOSURF = LEXSURF		% adentro
+ALLOCAT = LEXCAT
+
+RULENAME:  adv-default
+LEX-ENTRY:
+LEXSURF = $X
+LEXCAT = [scat adv]
+ALLO:
+ALLOSURF = LEXSURF		% masculine base
+ALLOCAT = LEXCAT
