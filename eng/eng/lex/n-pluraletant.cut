@@ -1,12 +1,13 @@
 @UTF8
-@Window:	521_1418_802_767_-1_-1_120_0_120_0
 synthetics {[scat n:pt]}
 tapas {[scat n:pt]}
 haves {[scat n:pt]}
 extracurriculars  {[scat n:pt]}
-aeronautics {[scat n:pt]}
+aeronautics {[scat n:pt])
 have-nots {[scat n:pt]}
 paparazzi {[scat n:pt]}
+extracurriculars {[scat n:pt]}
+aeronautics {[scat n:pt]}
 orthopedics {[scat n:pt]}
 ebonics {[scat n:pt]}
 kudos {[scat n:pt]}
