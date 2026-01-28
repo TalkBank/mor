@@ -1,4 +1,6 @@
 @UTF8
+gas+light {[scat v][comp n+v]}
+gas+lit {[scat part][comp n+v]} "gas+light&PASTP"
 sight+read {[scat v][comp n+v]}
 side+swipe {[scat v][comp n+v]}
 jump+start  {[scat v] [comp n+v]}

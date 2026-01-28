@@ -1,5 +1,6 @@
 @UTF8
 back+flip {[scat n][comp n+v]}
+center+fold {[scat n][comp n+v]}
 boot+black {[scat n][comp n+v]}
 face+lift {[scat n][comp n+v]}
 moon+walk {[scat n][comp n+v]}
