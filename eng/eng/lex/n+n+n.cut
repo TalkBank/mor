@@ -1,4 +1,9 @@
 @UTF8
+center+fold {[scat n][comp n+n]}
+draw+string {[scat n][comp v+n]}
+ring+worm {[scat n][comp n+n]}
+week+night {[scat n][comp n+n]}
+heart+warming {[scat adj][comp n+part]}
 crew+mate {[scat n][comp n+n]}
 heartl+and {[scat n][comp n+n]}
 weight+lifting {[scat n][comp n+n]}
