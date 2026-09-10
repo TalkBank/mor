@@ -446,9 +446,7 @@ spent {[scat v][bare yes]} "spend&PAST"
 spent {[scat part][bare yes]} "spend&PASTP"
 spilt {[scat v][bare yes]} "spill&PAST"
 spilt {[scat part]} "spill&PASTP"
-spin {[scat v][block ed]}
 spun {[scat part]} "spin&PASTP"
-spun {[scat v][bare yes]} "spin&PAST"
 spit {[scat v][block ed]}
 spat {[scat v][block er][bare yes]} "spit&PAST"
 spat {[scat part]} "spit&PASTP"

@@ -172,22 +172,22 @@ ment {[dcat n:v][deriv dv][allo OR v0 vHb vHa vVEb vEEa vYb vS][block ment]} "ME
 ness {[dcat n:adj][deriv dadj][allo OR a0 aHa aVEa aYb aLa ][block ness]} "NESS"
 
 % derivational suffixes that change part of speech to verbs
-ize  {[dcat v:adj][deriv dadj][allo OR a0 aHb aVEa aYb aLa ][block ize]} "IZE"
-ize  {[dcat v:n][deriv dn][allo OR n0 nGa nHb nSa nYc nM][block ize]} "IZE"
-iz  {[dcat v:adj][deriv dadj][allo OR a0 aHb aVEa aYb aLa ][block ize]} "IZE"
-iz  {[dcat v:n][deriv dn][allo OR n0 nGa nHb nSa nYc nM][block ize]} "IZE"
-ze  {[dcat v:n][deriv dn][allo nYb][block ize]} "IZE"
+ize {[dcat v:adj][deriv dadj][allo OR a0 aHb aVEa aYb aLa ][block ize]} "IZE"
+ize {[dcat v:n][deriv dn][allo OR n0 nGa nHb nSa nYc nM][block ize]} "IZE"
+iz {[dcat v:adj][deriv dadj][allo OR a0 aHb aVEa aYb aLa ][block ize]} "IZE"
+iz {[dcat v:n][deriv dn][allo OR n0 nGa nHb nSa nYc nM][block ize]} "IZE"
+ze {[dcat v:n][deriv dn][allo nYb][block ize]} "IZE"
 % z  {[dcat v:n][deriv dn][allo nYb][block ize]} "IZE"
 
 % derivational suffixes that change part of speech to adjectives or adverbs
 al {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nSa nYa nM][block al]} "AL"
 -ass {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nSa nYa nM][block -ass]} "ASS"
-ful {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nSa nYa nM][block full]} "FULL"  % as in "harmful"
+ful {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nSa nYa nM][block full]} "FULL" % as in "harmful"
 ish {[dcat adj:n][deriv dn][allo OR n0 nGb nHa nSa nYa nM][block ish]} "ISH"
 less {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nSa nYa nM][block less]} "LESS"
 like {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nSa nYa nM][block like]} "LIKE"
-'s {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nSa nYa nM][block poss]} "POSS"  % lawyer's
-' {[dcat adj:n][deriv dn][allo OR n0][block posspl]} "POSS"  % lawyers'
+'s {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nSa nYa nM][block poss]} "POSS" % lawyer's
+' {[dcat adj:n][deriv dn][allo OR n0][block posspl]} "POSS" % lawyers'
 ly {[dcat adj:n][deriv dn][allo OR n0 nGa nHa nYa nM nSa][block ly]} "LY"
 li {[dcat adj:n][deriv dn][allo OR n0 nHa nGa nYa nM nSa][bare no][block ly]} "LY"
 y {[dcat adj:n][deriv dn][allo OR n0 nGb nHa nHb nM nSa nVb][block y]} "Y"
@@ -234,7 +234,7 @@ ed {[scat part][allo OR n0 nGb nHb v0 vHb vEEb vIEb vYb vS][tense past][bare no]
 's {[scat n-cl][vcat aux][vform prog][block 's]} "aux|be&3S" % merged "has" with "be"
 'm {[scat n-cl][vcat main][vform bare]} "cop|be&1S"
 'm {[scat n-cl][vcat aux][vform prog]} "aux|be&1S"
-'ma {[scat n-cl][vcat aux][vform prog]} "aux|be&1S"   % AAE
+'ma {[scat n-cl][vcat aux][vform prog]} "aux|be&1S" % AAE
 're {[scat n-cl][vcat main][vform bare]} "cop|be&PRES"
 're {[scat n-cl][vcat aux][vform OR prog perf]} "aux|be&PRES"
 've {[scat n-cl][vcat aux][vform perf]} "aux|have"

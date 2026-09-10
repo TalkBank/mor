@@ -2,12 +2,10 @@
 synthetics {[scat n:pt]}
 tapas {[scat n:pt]}
 haves {[scat n:pt]}
-extracurriculars  {[scat n:pt]}
-aeronautics {[scat n:pt])
-have-nots {[scat n:pt]}
-paparazzi {[scat n:pt]}
 extracurriculars {[scat n:pt]}
 aeronautics {[scat n:pt]}
+have-nots {[scat n:pt]}
+paparazzi {[scat n:pt]}
 orthopedics {[scat n:pt]}
 ebonics {[scat n:pt]}
 kudos {[scat n:pt]}
@@ -48,7 +46,7 @@ boondocks {[scat n:pt]}
 botanics {[scat n:pt]}
 britches {[scat n:pt]}
 cahoots {[scat n:pt]}
-camis {[scat n:pt]}  % camouflage pants
+camis {[scat n:pt]} % camouflage pants
 clothes {[scat n:pt]}
 commons {[scat n:pt]}
 contents {[scat n:pt]}

@@ -13,7 +13,6 @@ off-limits {[scat adj]}
 soft-spoken {[scat adj]}
 twenty-twenty {[scat adj]}
 a-okay {[scat adj]}
-high-end {[scat adj]}
 on_and_off {[scat adj]}
 out_and_about {[scat adj]}
 after-school {[scat adj]}
@@ -45,7 +44,6 @@ long-term {[scat adj]}
 open-face {[scat adj]}
 at-home {[scat adj]}
 down-to-earth {[scat adj]}
-long-term {[scat adj]}
 jump-up {[scat adj]}
 absent-minded {[scat adj]}
 tone-deaf {[scat adj]}
@@ -67,7 +65,6 @@ wide-eyed {[scat adj]}
 in-person {[scat adj]}
 time-consuming {[scat adj]}
 well-off {[scat adj]}
-absent-minded {[scat adj]}
 action-packed {[scat adj]}
 all-american {[scat adj]}
 all-around {[scat adj]}
@@ -140,7 +137,6 @@ gut-wrenching {[scat adj]}
 half-caste {[scat adj]}
 half-hearted {[scat adj]}
 hands-on {[scat adj]}
-handy-dandy {[scat adj]}
 happy-go-lucky {[scat adj]}
 hard-pressed {[scat adj]}
 head-on {[scat adj]}
@@ -190,7 +186,6 @@ make-believe {[scat adj][comp v+v]}
 man-eating {[scat adj]}
 matter-of-fact {[scat adj]}
 meat-eating {[scat adj]}
-middle-aged {[scat adj]}
 middle-class {[scat adj]}
 mind-blowing {[scat adj]}
 mixed-up {[scat adj]}
@@ -204,7 +199,6 @@ off-campus {[scat adj]}
 off-kilter {[scat adj]}
 old-fashioned {[scat adj]}
 old-school {[scat adj]}
-old-fashioned {[scat adj]}
 old-time {[scat adj]}
 old-timey {[scat adj]}
 one-armed {[scat adj]}
@@ -258,7 +252,6 @@ stir-crazy {[scat adj]}
 stop-and-go {[scat n]}
 straight-up {[scat adj]}
 stuck-up {[scat adj]}
-sun-drenched {[scat adj]}
 super-duper {[scat adj]}
 sweet-toothed {[scat adj]}
 tape-on {[scat adj]}
@@ -267,7 +260,6 @@ teeny-weeny {[scat adj]}
 tell-tale {[scat adj]}
 thought-out {[scat adj]}
 three-d {[scat adj]} % 3D
-time-consuming {[scat adj]}
 tip-top {[scat adj]}
 tippy-toppy {[scat adj]}
 tired-out {[scat adj]}
@@ -289,11 +281,9 @@ washed-out {[scat adj]}
 weather-beaten {[scat adj]}
 well-known {[scat adj]}
 well-read {[scat adj]}
-well-off {[scat adj]}
 well-to-do {[scat adj]}
 white-haired {[scat adj]}
 wibbly-wobbly {[scat adj]}
-wide-eyed {[scat adj]}
 willy-nilly {[scat adj]}
 wishy-washy {[scat adj]}
 world-famous {[scat adj]}

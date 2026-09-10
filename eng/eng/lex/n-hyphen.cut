@@ -11,7 +11,7 @@ pass-through {[scat n]}
 putt-putt {[scat n]}
 white-out {[scat n]}
 put-on {[scat n]}
-check-up  {[scat n][comp v+prep]}
+check-up {[scat n][comp v+prep]}
 sleep-over {[scat n][comp v+prep]}
 mumblety-peg {[scat n]}
 set-to {[scat n]}
@@ -23,9 +23,7 @@ double-dutch {[scat n]}
 stick-in-the-mud {[scat n]}
 hand-me-down {[scat n]}
 hanky-panky {[scat n]}
-hand-me-down {[scat n]}
 a-minus {[scat n]}
-a-plus {[scat n]}
 a-plus-plus {[scat n]}
 add-on {[scat n]}
 all-in-one {[scat n]}
@@ -73,12 +71,10 @@ drive-thru {[scat n]}
 drive-up {[scat n]}
 eight-track {[scat n]}
 etch-a-sketch {[scat n]}
-etch-a-sketch {[scat n]}
 ex-con {[scat n]}
 father-in-law {[scat n]}
 felt-tip {[scat n]}
 fill-in {[scat n]}
-fix-it {[scat n]}
 fix-it {[scat n]}
 flip-flop {[scat n]}
 flip-up {[scat n]}
@@ -87,7 +83,6 @@ follow-through {[scat n]}
 for-instance {[scat n]}
 forget-me-not {[scat n]}
 forty-niner {[scat n]}
-four-by-four {[scat n]}
 four-by-four {[scat n]}
 four-d {[scat n]}
 four-wheeler {[scat n]}
@@ -107,8 +102,6 @@ greedy-guts {[scat n]}
 half-moon {[scat n]}
 half-sister {[scat n]}
 half-smoke {[scat n]}
-hand-me-down {[scat n]}
-hanky-panky {[scat n]}
 hard-of-hearing {[scat n]}
 heads-up {[scat n]}
 heart-to-heart {[scat n]}
@@ -166,7 +159,6 @@ op-ed {[scat n]}
 pac-man {[scat n]}
 papier-mache {[scat n]}
 part-timer {[scat n]}
-pass-through {[scat n]}
 pay-per-view {[scat n]}
 penny-farthing {[scat n]}
 petit-four {[scat n]}
@@ -226,7 +218,6 @@ sous-chef {[scat n]}
 special-ed {[scat n]}
 speed-up {[scat n]}
 stand-up {[scat n]}
-stick-in-the-mud {[scat n]}
 strap-on {[scat n]}
 such-and-such {[scat n]}
 such-n-such {[scat n]}

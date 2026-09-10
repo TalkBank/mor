@@ -116,34 +116,13 @@ snapdragon {[scat n]}
 towhee {[scat n]}
 stick-on {[scat n]}
 kitty_kitty {[scat n]}
-fauna {[scat n]}
-leniency {[scat n]}
-fahrenheit {[scat n]}
-mesa {[scat n]}
 oculi_orbicularis_palpebralis {[scat n]}
 orbicularis_oris {[scat n]}
 frontalis_pars_lateralis {[scat n]}
-paranoia {[scat n]}
-altimetry {[scat n]}
-boondoggle {[scat n]}
-butte {[scat n]}
 crewmate {[scat n]}
-cyberbullying {[scat n]}
-detector {[scat n]}
-paraprofessional {[scat n]}
-penitent {[scat n]}
 plagiarize {[scat v]}
-psychologist {[scat n]}
-scoliosis {[scat n]}
-socialite {[scat n]}
 spectate {[scat v]}
-theorist {[scat n]}
-therapist {[scat n]}
-tourney {[scat n]}
-trifold {[scat n]}
-zygomaticus {[scat n]}
 chateau {[scat n]}
-alliteration {[scat n]}
 baroness {[scat n]}
 cartographer {[scat n]}
 exorcist {[scat n]}
@@ -151,7 +130,6 @@ gastroenterology {[scat n]}
 geographer {[scat n]}
 gnocchi {[scat n]}
 lancet {[scat n]}
-orthopaedist {[scat n]}
 pergola {[scat n]}
 braciole {[scat n]}
 cornhole {[scat n]}
@@ -174,15 +152,11 @@ oppressor {[scat n]}
 pescatarian {[scat n]}
 pointe {[scat n][block OR ed er ing]}
 quinceanera {[scat n]}
-severance {[scat n]}
 synergy {[scat n]}
 timbale {[scat n]}
 truancy {[scat n]}
-tween {[scat n]}
 zeta {[scat n]}
-therapist {[scat n]}
 ambulation {[scat n]}
-aqueduct {[scat n]}
 doulas {[scat n]}
 nine_eleven {[scat n]}
 orthotist {[scat n]}
@@ -199,11 +173,9 @@ abc {[scat n]}
 abdomen {[scat n]}
 abduction {[scat n]}
 abductor {[scat n]}
-abductor {[scat n]}
 aberration {[scat n]}
 abeyance {[scat n]}
 abjection {[scat n]}
-ablation {[scat n]}
 ablation {[scat n]}
 abode {[scat n]}
 abolition {[scat n]}
@@ -355,7 +327,6 @@ agency {[scat n]}
 agenda {[scat n]}
 agent {[scat n][block re]}
 aggie {[scat n]}
-aggie {[scat n]}
 aggregate {[scat n]}
 aggression {[scat n]}
 aggressor {[scat n]}
@@ -396,14 +367,12 @@ alert {[scat n]}
 alexia {[scat n]}
 alfalfa {[scat n]}
 alfredo {[scat n]}
-alfredo {[scat n]}
 alfresco {[scat n]}
 algae {[scat n]}
 algebra {[scat n]}
 algorithm {[scat n]}
 alias {[scat n]}
 alibi {[scat n]}
-alicorn {[scat n]}
 alicorn {[scat n]}
 alien {[scat n]}
 alimony {[scat n]}
@@ -451,7 +420,6 @@ amaranth {[scat n]}
 amateur {[scat n]}
 ambassador {[scat n]}
 ambiance {[scat n]}
-ambience {[scat n]}
 ambience {[scat n]}
 ambiguity {[scat n]}
 ambition {[scat n]}
@@ -633,8 +601,7 @@ apprentice {[scat n]}
 approach {[scat n]}
 appropriacy {[scat n]}
 approval {[scat n]}
-appurtenance  {[scat n]}
-appurtenance  {[scat n]}
+appurtenance {[scat n]}
 apricot {[scat n]}
 apron {[scat n]}
 apse {[scat n]}
@@ -723,7 +690,6 @@ artillery {[scat n]}
 artisan {[scat n]}
 artistry {[scat n]}
 asbestos {[scat n]}
-ascendance {[scat n]}
 ascendance {[scat n]}
 ascendancy {[scat n]}
 ascension {[scat n]}
@@ -904,7 +870,6 @@ ballyhooey {[scat n]}
 balm {[scat n][block y]}
 baloney {[scat n]}
 balsa {[scat n]}
-balsa {[scat n]}
 balustrade {[scat n]}
 bamboo {[scat n]}
 ban {[scat n][block er]}
@@ -914,7 +879,6 @@ bandage {[scat n]}
 bandaid {[scat n]}
 bandana {[scat n]}
 bandit {[scat n]}
-bandito {[scat n]}
 bandito {[scat n]}
 bane {[scat n]}
 bang {[scat n][block y]}
@@ -1088,7 +1052,6 @@ bib {[scat n]}
 bible {[scat n]}
 bibliography {[scat n]}
 biblos {[scat n]}
-biblos {[scat n]}
 biccie {[scat n]}
 bicep {[scat n]}
 bickie {[scat n]}
@@ -1106,7 +1069,6 @@ bilirubin {[scat n]}
 bill {[scat n][block OR ie y]}
 billet {[scat n]}
 billiard {[scat n]}
-billionaire {[scat n]}
 billionaire {[scat n]}
 bin {[scat n]}
 bind {[scat n]}
@@ -1127,7 +1089,6 @@ bird {[scat n]}
 birder {[scat n]}
 biro {[scat n]}
 birth {[scat n]}
-biscotti {[scat n]}
 biscotti {[scat n]}
 biscuit {[scat n]}
 bishop {[scat n]}
@@ -1185,7 +1146,6 @@ blubber {[scat n]}
 bludgeon {[scat n]}
 bludger {[scat v]}
 blue {[scat n][block OR y ie]}
-bluetooth {[scat n]}
 bluetooth {[scat n]}
 bluff {[scat n]}
 blunder {[scat n]}
@@ -1304,7 +1264,6 @@ brag {[scat n][block y]}
 braggadocio {[scat n]}
 braille {[scat n]}
 brain {[scat n]}
-brainer {[scat n]}
 brainer {[scat n]}
 brake {[scat n]}
 bramble {[scat n]}
@@ -1552,7 +1511,6 @@ camcorder {[scat n]}
 camel {[scat n]}
 camellia {[scat n]}
 camembert {[scat n]}
-camembert {[scat n]}
 cameo {[scat n]}
 camera {[scat n]}
 camisole {[scat n]}
@@ -1608,7 +1566,6 @@ capita {[scat n]}
 capital {[scat n]}
 capitol {[scat n]}
 capoeira {[scat n]}
-capoeira {[scat n]}
 capon {[scat n]}
 cappuccino {[scat n]}
 capri {[scat n]}
@@ -1622,7 +1579,6 @@ captive {[scat n]}
 captor {[scat n]}
 capture {[scat n]}
 car {[scat n][block OR pp ed ing ly y]}
-carabiner {[scat n]}
 carabiner {[scat n]}
 carafe {[scat n]}
 caramel {[scat n]}
@@ -1700,7 +1656,6 @@ cataract {[scat n]}
 catarrh {[scat n]}
 catastrophe {[scat n]}
 catastropoo {[scat n]}
-catastropoo {[scat n]}
 catchment {[scat n]}
 catechism {[scat n]}
 category {[scat n]}
@@ -1710,7 +1665,6 @@ cathartic {[scat n]}
 cathedral {[scat n]}
 catheter {[scat n]}
 cathode {[scat n]}
-catholic {[scat n]}
 catholic {[scat n]}
 catkin {[scat n]}
 catsup {[scat n]}
@@ -1765,8 +1719,6 @@ centurian {[scat n]}
 centurion {[scat n]}
 century {[scat n]}
 ceramic {[scat n]}
-cerclage {[scat n]}
-cerclage {[scat n]}
 cereal {[scat n]}
 cerebellum {[scat n]}
 cerebrum {[scat n]}
@@ -1838,8 +1790,6 @@ chasm {[scat n]}
 chassis {[scat n]}
 chastity {[scat n]}
 chat {[scat n]}
-chateaubriand {[scat n]}
-chateaubriand {[scat n]}
 chatter {[scat n]}
 chauffeur {[scat n]}
 chauvinism {[scat n]}
@@ -1889,11 +1839,9 @@ chin {[scat n]}
 china {[scat n]}
 chinchilla {[scat n]}
 chinnegan {[scat n]}
-chinnegan {[scat n]}
 chintz {[scat n]}
 chip {[scat n]}
 chipmunk {[scat n]}
-chiprasola {[scat n]}
 chiprasola {[scat n]}
 chiropractor {[scat n]}
 chirp {[scat n][block y]}
@@ -1904,17 +1852,14 @@ chitlin {[scat n]}
 chitling {[scat n]}
 chiton {[scat n]}
 chitty_chat {[scat n]}
-chitty_chat {[scat n]}
 chivalry {[scat n]}
 chive {[scat n]}
-chiweenie {[scat n]}
 chiweenie {[scat n]}
 chloride {[scat n]}
 chlorine {[scat n]}
 chloroform {[scat n]}
 chlorophyll {[scat n]}
 choc {[scat n]}
-choccie {[scat n]}
 choccie {[scat n]}
 chocolate {[scat n]}
 choice {[scat n]}
@@ -1938,17 +1883,11 @@ chromium {[scat n]}
 chromosome {[scat n]}
 chronicle {[scat n]}
 chronograph {[scat n]}
-chronograph {[scat n]}
 chronology {[scat n]}
 chrysalid {[scat n]}
 chrysalis {[scat n]}
 chrysanthemum {[scat n]}
-chrysanthemum {[scat n]}
-chrysanthemum {[scat n]}
-chrysanthemum {[scat n]}
 chub {[scat n]}
-chub {[scat n]}
-chubber {[scat n]}
 chubber {[scat n]}
 chuck {[scat n][block y]}
 chuckle {[scat n]}
@@ -2095,7 +2034,6 @@ coconut {[scat n]}
 cocoon {[scat n]}
 cocopalm {[scat n]}
 coda {[scat n]}
-coda {[scat n]}
 code {[scat n][block OR post y]}
 codger {[scat n]}
 coed {[scat n]}
@@ -2153,7 +2091,6 @@ colosseum {[scat n]}
 colostomy {[scat n]}
 colt {[scat n]}
 column {[scat n]}
-com {[scat n]}
 com {[scat n]}
 coma {[scat n]}
 comb {[scat n]}
@@ -2290,7 +2227,6 @@ confluence {[scat n]}
 conformance {[scat n]}
 conformational {[scat n]}
 conformer {[scat n]}
-conformer {[scat n]}
 conformist {[scat n]}
 conformity {[scat n]}
 confusion {[scat n]}
@@ -2318,7 +2254,6 @@ connivance {[scat n]}
 connoisseur {[scat n]}
 conqueror {[scat n]}
 conquest {[scat n]}
-conquistador {[scat n]}
 conquistador {[scat n]}
 conquistadore {[scat n]}
 consanguinity {[scat n]}
@@ -2498,7 +2433,6 @@ count {[scat n][block OR dis ie y]}
 countenance {[scat n]}
 counter {[scat n][block en]}
 countess {[scat n]}
-countess {[scat n]}
 countian {[scat n]}
 country {[scat n]}
 county {[scat n]}
@@ -2585,7 +2519,6 @@ crescent {[scat n]}
 cress {[scat n]}
 crest {[scat n]}
 cretaceous {[scat n]}
-cretaceous {[scat n]}
 crevice {[scat n]}
 crew {[scat n]}
 crewel {[scat n]}
@@ -2650,7 +2583,6 @@ crutch {[scat n]}
 crux {[scat n]}
 cry {[scat n]}
 cryie {[scat n]}
-cryie {[scat n]}
 cryotube {[scat n]}
 crypt {[scat n]}
 crystal {[scat n]}
@@ -2665,7 +2597,6 @@ cud {[scat n]}
 cue {[scat n]}
 cuff {[scat n]}
 cuisine {[scat n]}
-culotte {[scat n]}
 culotte {[scat n]}
 culprit {[scat n]}
 cult {[scat n]}
@@ -2935,7 +2866,6 @@ detail {[scat n]}
 detainee {[scat n]}
 detection {[scat n]}
 detective {[scat n]}
-detector {[scat n]}
 detente {[scat n]}
 detention {[scat n]}
 detergency {[scat n]}
@@ -3025,7 +2955,6 @@ dingbat {[scat n]}
 dinghy {[scat n]}
 dingle {[scat n]}
 dingleberry {[scat n]}
-dingleberry {[scat n]}
 dingo {[scat n]}
 dinkum {[scat n]}
 dinner {[scat n]}
@@ -3061,7 +2990,6 @@ disc {[scat n]}
 discectomy {[scat n]}
 discharge {[scat n]}
 disciple {[scat n]}
-disciplinarian {[scat n]}
 disciplinarian {[scat n]}
 disciplinarity {[scat n]}
 discipline {[scat n]}
@@ -3142,7 +3070,6 @@ divorce {[scat n]}
 divorcee {[scat n]}
 divot {[scat n]}
 djembe {[scat n]}
-djembe {[scat n]}
 djinn {[scat n]}
 doberman {[scat n][men no]}
 doc {[scat n]}
@@ -3194,7 +3121,6 @@ doozy {[scat n]}
 dopamine {[scat n]}
 dope {[scat n]}
 dork {[scat n]}
-dorkdom {[scat n]}
 dorkdom {[scat n]}
 dorm {[scat n]}
 dormancy {[scat n]}
@@ -3323,7 +3249,6 @@ dysentery {[scat n]}
 dysfunction {[scat n]}
 dyslexia {[scat n]}
 dysphagia {[scat n]}
-dysphagia {[scat n]}
 dysphasia {[scat n]}
 dysplasia {[scat n]}
 dystrophy {[scat n]}
@@ -3383,7 +3308,6 @@ ego {[scat n]}
 egotism {[scat n]}
 egret {[scat n]}
 ejection {[scat n]}
-ejective {[scat n]}
 ejective {[scat n]}
 ejector {[scat n]}
 elan {[scat n]}
@@ -3498,14 +3422,12 @@ entourage {[scat n]}
 entrance {[scat n]}
 entrant {[scat n]}
 entreaty {[scat n]}
-entreaty {[scat n]}
 entree {[scat n]}
 entrepreneur {[scat n]}
 entrepreneurship {[scat n]}
 entropy {[scat n]}
 entry {[scat n]}
 envelope {[scat n]}
-environ {[scat n]}
 environ {[scat n]}
 environment {[scat n]}
 environmentalism {[scat n]}
@@ -3521,7 +3443,6 @@ epicure {[scat n]}
 epicycle {[scat n]}
 epidemic {[scat n]}
 epidemiology {[scat n]}
-epiderm {[scat n]}
 epiderm {[scat n]}
 epidermis {[scat n]}
 epidural {[scat n]}
@@ -3802,10 +3723,8 @@ fee {[scat n][block ly]}
 feed {[scat n]}
 feel {[scat n][block ed]}
 feeling {[scat n]}
-feeling {[scat n]}
 feint {[scat n]}
 felicity {[scat n]}
-fella {[scat n]}
 fella {[scat n]}
 feller {[scat n]}
 fellow {[scat n]}
@@ -3893,7 +3812,6 @@ finery {[scat n]}
 finesse {[scat n]}
 finger {[scat n]}
 fingerling {[scat n]}
-fingerling {[scat n]}
 finial {[scat n]}
 fink {[scat n]}
 fir {[scat n][block OR ed ing ist st pp y ie]}
@@ -3933,7 +3851,6 @@ flavor {[scat n]}
 flaw {[scat n]}
 flax {[scat n]}
 flea {[scat n]}
-fleabane {[scat n]}
 fleabane {[scat n]}
 fleck {[scat n]}
 fledgling {[scat n]}
@@ -4036,7 +3953,6 @@ fort {[scat n][block OR ie y]}
 forte {[scat n][block OR ie y]}
 fortitude {[scat n]}
 fortress {[scat n]}
-fortuitous {[scat adj]}
 fortune {[scat n]}
 fortyniner {[scat n]}
 forum {[scat n]}
@@ -4197,7 +4113,6 @@ gander {[scat n]}
 gang {[scat n][block OR ly y]}
 ganglia {[scat n]}
 gangrene {[scat n]}
-gangrene {[scat n]}
 gangster {[scat n]}
 gantlet {[scat n]}
 gap {[scat n]}
@@ -4314,7 +4229,6 @@ gin {[scat n][block y]}
 ginger {[scat n][block ly]}
 gingham {[scat n]}
 gingko {[scat n]}
-gingko {[scat n]}
 ginkgo {[scat n]}
 giraffe {[scat n]}
 girdle {[scat n]}
@@ -4385,7 +4299,6 @@ goiter {[scat n]}
 goitre {[scat n]}
 gold {[scat n][block OR ie ish y]}
 goldendoodle {[scat n]}
-goldendoodle {[scat n]}
 golem {[scat n]}
 golf {[scat n]}
 golliwog {[scat n]}
@@ -4394,7 +4307,6 @@ gondola {[scat n]}
 gondolier {[scat n]}
 goner {[scat n]}
 gong {[scat n]}
-gonorrhea {[scat n]}
 gonorrhea {[scat n]}
 goo {[scat n][block s]}
 goober {[scat n]}
@@ -4407,13 +4319,11 @@ gopher {[scat n]}
 gore {[scat n]}
 gorge {[scat n]}
 gorgonzola {[scat n]}
-gorgonzola {[scat n]}
 gorilla {[scat n]}
 gosling {[scat n]}
 gospel {[scat n]}
 gossamer {[scat n]}
 gossip {[scat n]}
-goth {[scat n]}
 goth {[scat n]}
 gouda {[scat n]}
 goulash {[scat n]}
@@ -4449,7 +4359,6 @@ granary {[scat n]}
 grandeur {[scat n]}
 grandmum {[scat n]}
 grange {[scat n]}
-grange {[scat n]}
 granite {[scat n]}
 granma {[scat n]}
 granny {[scat n]}
@@ -4470,7 +4379,6 @@ gravel {[scat n]}
 gravity {[scat n]}
 gravy {[scat n]}
 grease {[scat n]}
-grebe {[scat n]}
 greed {[scat n]}
 green {[scat n][block OR y ie ish ness]}
 greenery {[scat n]}
@@ -4516,7 +4424,6 @@ grove {[scat n]}
 growl {[scat n][block y]}
 growth {[scat n]}
 grub {[scat n]}
-grubber {[scat n]}
 grubber {[scat n]}
 grudge {[scat n]}
 gruel {[scat n]}
@@ -4742,7 +4649,6 @@ hieroglyph {[scat n]}
 hieroglyphic {[scat n]}
 high {[scat n][block OR ness ly]}
 hijinx {[scat n]}
-hijinx {[scat n]}
 hike {[scat n]}
 hilarity {[scat n]}
 hill {[scat n]}
@@ -4873,7 +4779,6 @@ hue {[scat n][block y]}
 huff {[scat n]}
 hug {[scat n][block y]}
 huggle {[scat n]}
-huggle {[scat n]}
 hula {[scat n]}
 hulk {[scat n]}
 hull {[scat n]}
@@ -4894,7 +4799,6 @@ humor {[scat n]}
 humour {[scat n]}
 hump {[scat n]}
 hun {[scat n]}
-hun {[scat n]}
 hunch {[scat n]}
 hunger {[scat n]}
 hunk {[scat n]}
@@ -4913,7 +4817,6 @@ hustle {[scat n]}
 hut {[scat n]}
 hutch {[scat n]}
 hvac {[scat n]}
-hvac {[scat n]}
 hyacinth {[scat n]}
 hybrid {[scat n]}
 hydrangea {[scat n]}
@@ -4924,7 +4827,6 @@ hydrofoil {[scat n]}
 hydrogen {[scat n]}
 hydrology {[scat n]}
 hydrophobia {[scat n]}
-hydrotherapy {[scat n]}
 hydrotherapy {[scat n]}
 hyena {[scat n]}
 hygiene {[scat n]}
@@ -4948,8 +4850,6 @@ hyrax {[scat n]}
 hysterectomy {[scat n]}
 hysteria {[scat n]}
 i_pad {[scat n]}
-i_pad {[scat n]}
-i_pod {[scat n]}
 i_pod {[scat n]}
 ibex {[scat n]}
 ibis {[scat n]}
@@ -5024,7 +4924,6 @@ imprecision {[scat n]}
 impresario {[scat n]}
 impress {[scat n]}
 impression {[scat n]}
-imprest {[scat n]}
 imprest {[scat n]}
 imprimatur {[scat n]}
 impromptu {[scat n]}
@@ -5256,7 +5155,6 @@ irreverence {[scat n]}
 irritant {[scat n]}
 island {[scat n]}
 islander {[scat n]}
-islander {[scat n]}
 isle {[scat n]}
 isolationism {[scat n]}
 issuance {[scat n]}
@@ -5309,7 +5207,6 @@ jester {[scat n]}
 jet {[scat n]}
 jetliner {[scat n]}
 jew {[scat n]}
-jew {[scat n]}
 jewel {[scat n]}
 jeweler {[scat n]}
 jewelry {[scat n]}
@@ -5359,7 +5256,6 @@ juku {[scat n]}
 julep {[scat n]}
 jumble {[scat n]}
 jump {[scat n][block y]}
-jumperoo {[scat n]}
 jumperoo {[scat n]}
 junction {[scat n]}
 juncture {[scat n]}
@@ -5414,12 +5310,10 @@ ketchup {[scat n]}
 kettle {[scat n]}
 key {[scat n]}
 keytar {[scat n]}
-keytar {[scat n]}
 khan {[scat n]}
 kiawe {[scat n]}
 kibbeh {[scat n]}
 kibble {[scat n]}
-kickie_kick {[scat n]}
 kickie_kick {[scat n]}
 kid {[scat n]}
 kiddo {[scat n]}
@@ -5486,7 +5380,6 @@ koa {[scat n]}
 koala {[scat n]}
 kohlrabi {[scat n]}
 koi {[scat n]}
-koi {[scat n]}
 kola {[scat n]}
 kolbassi {[scat n]}
 komodo {[scat n]}
@@ -5503,7 +5396,6 @@ kryptonite {[scat n]}
 kungfu {[scat n]}
 lab {[scat n]}
 label {[scat n]}
-labernese {[scat n]}
 labernese {[scat n]}
 labor {[scat n]}
 laboratory {[scat n]}
@@ -5538,7 +5430,6 @@ lane {[scat n]}
 language {[scat n]}
 lantern {[scat n]}
 lanyard {[scat n]}
-lanyard {[scat n]}
 lap {[scat n][block y]}
 lapel {[scat n]}
 lapidary {[scat n]}
@@ -5564,7 +5455,6 @@ latex {[scat n]}
 lath {[scat n]}
 lathe {[scat n]}
 lather {[scat n]}
-latino {[scat n]}
 latino {[scat n]}
 latitude {[scat n]}
 latte {[scat n]}
@@ -5616,7 +5506,6 @@ legatee {[scat n]}
 legation {[scat n]}
 legato {[scat n]}
 legend {[scat n]}
-leggiesaurus {[scat n]}
 leggiesaurus {[scat n]}
 legging {[scat n]}
 legion {[scat n]}
@@ -6002,7 +5891,6 @@ marinara {[scat n]}
 marine {[scat n][block sub]}
 mariner {[scat n]}
 marionette {[scat n]}
-marionette {[scat n]}
 mark {[scat n][block OR post re]}
 market {[scat n]}
 marlin {[scat n]}
@@ -6102,7 +5990,6 @@ medium {[scat n]}
 medley {[scat n]}
 meerkat {[scat n]}
 megalodon {[scat n]}
-megalodon {[scat n]}
 megalomania {[scat n]}
 megalosaurus {[scat n]}
 megatherium {[scat n]}
@@ -6130,7 +6017,6 @@ memory {[scat n]}
 menace {[scat n]}
 menagerie {[scat n]}
 menarche {[scat n]}
-meningioma {[scat n]}
 meningioma {[scat n]}
 meniscus {[scat n]}
 menopause {[scat n]}
@@ -6219,7 +6105,6 @@ mill {[scat n][block OR ie y]}
 millenarianism {[scat n]}
 millenium {[scat n]}
 millennial {[scat n]}
-millennial {[scat n]}
 millennium {[scat n][pl a]}
 millet {[scat n]}
 millidegree {[scat n]}
@@ -6233,7 +6118,6 @@ millisecond {[scat n]}
 millivoltmeter {[scat n]}
 milo {[scat n]}
 mime {[scat n]}
-mimeograph {[scat n]}
 mimeograph {[scat n]}
 mimesis {[scat n]}
 mimosa {[scat n]}
@@ -6320,7 +6204,6 @@ mohawk {[scat n]}
 mohican {[scat n]}
 moisture {[scat n]}
 mojo {[scat n]}
-mojo {[scat n]}
 molar {[scat n]}
 molasses {[scat n]}
 mold {[scat n]}
@@ -6366,7 +6249,6 @@ monthly {[scat n]}
 monument {[scat n]}
 mood {[scat n]}
 moon {[scat n]}
-moorhen {[scat n]}
 moorhen {[scat n]}
 moose {[scat n]}
 mop {[scat n]}
@@ -6451,11 +6333,9 @@ multiversity {[scat n]}
 mum {[scat n][block OR ie mini y]}
 mumble {[scat n][block y]}
 mumbo {[scat n]}
-mumbo {[scat n]}
 mummie {[scat n]}
 mummy {[scat n]}
 munchkin {[scat n]}
-munchkinykin {[scat n]}
 munchkinykin {[scat n]}
 mung {[scat n]}
 mungus {[scat n]}
@@ -6487,7 +6367,6 @@ mustard {[scat n]}
 muster {[scat n]}
 musth {[scat n]}
 mutagen {[scat n]}
-mutagen {[scat n]}
 mutant {[scat n]}
 mutineer {[scat n]}
 mutiny {[scat n]}
@@ -6495,9 +6374,7 @@ mutism {[scat n]}
 mutt {[scat n]}
 mutton {[scat n]}
 muzzie {[scat n]}
-muzzie {[scat n]}
 muzzle {[scat n]}
-muzzy {[scat n]}
 muzzy {[scat n]}
 mycology {[scat n]}
 myopia {[scat n]}
@@ -6521,7 +6398,6 @@ nan {[scat n][block OR ie y]}
 nana {[scat n]}
 nancy {[scat n]} "homosexual"
 nanny {[scat n]}
-nanosecond {[scat n]}
 nanosecond {[scat n]}
 nap {[scat n][block OR ie y]}
 nape {[scat n]}
@@ -6550,7 +6426,6 @@ nebbish {[scat n]}
 nebula {[scat n]}
 nebulisation {[scat n]}
 nebulizer {[scat n]}
-nebulizer {[scat n]}
 necessity {[scat n]}
 neck {[scat n]}
 neckerchief {[scat n]}
@@ -6560,7 +6435,6 @@ nectar {[scat n]}
 nectarine {[scat n]}
 need {[scat n]}
 needle {[scat n]}
-neenaw {[scat n]}
 neenaw {[scat n]}
 negative {[scat n]}
 negativism {[scat n]}
@@ -6600,7 +6474,6 @@ nicety {[scat n]}
 niche {[scat n]}
 nick {[scat n][block OR ie y]}
 nickel {[scat n]}
-nickel {[scat n]}
 nicotine {[scat n]}
 niece {[scat n]}
 nigger {[scat n]}
@@ -6617,11 +6490,9 @@ ninny {[scat n]}
 nintendo {[scat n]}
 nip {[scat n][block y]}
 nip_nap {[scat n]}
-nip_nap {[scat n]}
 nipple {[scat n]}
 nirvana {[scat n]}
 nit {[scat n]}
-nitroglycerin {[scat n]}
 nitroglycerin {[scat n]}
 nitwit {[scat n]}
 noblesse {[scat n]}
@@ -6763,7 +6634,6 @@ odometer {[scat n]}
 odor {[scat n]}
 odyssey {[scat n]}
 oenology {[scat n]}
-oenology {[scat n]}
 offal {[scat n]}
 offense {[scat n]}
 offer {[scat n]}
@@ -6772,7 +6642,6 @@ officer {[scat n]}
 official {[scat n]}
 officialdom {[scat n]}
 officiant {[scat n]}
-offspring {[scat n]}
 offspring {[scat n]}
 ogre {[scat n]}
 ogress {[scat n]}
@@ -6796,7 +6665,6 @@ oneness {[scat n]}
 oneupmanship {[scat n]}
 onion {[scat n]}
 onomatopoeia {[scat n]}
-onomatopoeia {[scat n]}
 onsie {[scat n]}
 onslaught {[scat n]}
 ontogeny {[scat n]}
@@ -6817,7 +6685,6 @@ ophthalmology {[scat n]}
 opiate {[scat n]}
 opinion {[scat n]}
 opioid {[scat n]}
-opioid {[scat n]}
 opium {[scat n]}
 opossum {[scat n]}
 opponent {[scat n]}
@@ -6833,7 +6700,6 @@ optimist {[scat n]}
 optimum {[scat n]}
 option {[scat n]}
 optometrist {[scat n]}
-optometry {[scat n]}
 optometry {[scat n]}
 opulence {[scat n]}
 opus {[scat n]}
@@ -6856,7 +6722,6 @@ orderly {[scat n]}
 ordinance {[scat n]}
 ordinary {[scat n]}
 ordinate {[scat n][block OR co sub]}
-ordnance {[scat n]}
 ordnance {[scat n]}
 ore {[scat n]}
 oregano {[scat n]}
@@ -6882,14 +6747,12 @@ orthodonture {[scat n]}
 orthodoxy {[scat n]}
 orthography {[scat n]}
 orthopedics {[scat n]}
-orthopedics {[scat n]}
 orthotic {[scat n]}
 orzo {[scat n]}
 oscillator {[scat n]}
 osmosis {[scat n]}
 osprey {[scat n]}
-ossobuco  {[scat n]}
-ossobuco  {[scat n]}
+ossobuco {[scat n]}
 ostracism {[scat n]}
 ostrich {[scat n]}
 otherness {[scat n]}
@@ -6912,7 +6775,6 @@ owie {[scat n]}
 owl {[scat n]}
 owlet {[scat n]}
 oxide {[scat n]}
-oxter {[scat n]}
 oxter {[scat n]}
 oxygen {[scat n]}
 oxymoron {[scat n]}
@@ -6952,7 +6814,6 @@ pale {[scat n]}
 paleontology {[scat n]}
 palette {[scat n]}
 palindrome {[scat n]}
-palisade {[scat n]}
 palisade {[scat n]}
 pall {[scat n]}
 palladium {[scat n]}
@@ -7014,7 +6875,6 @@ paramour {[scat n]}
 paranoiac {[scat n]}
 parapet {[scat n]}
 paraphasia {[scat n]}
-paraphasia {[scat n]}
 paraphernalia {[scat n]}
 paraphrase {[scat n]}
 paraplegic {[scat n]}
@@ -7045,7 +6905,6 @@ parlor {[scat n]}
 parmesan {[scat n]}
 parody {[scat n]}
 parole {[scat n]}
-parp {[scat n]}
 parp {[scat n]}
 parquet {[scat n]}
 parrot {[scat n]}
@@ -7099,7 +6958,6 @@ patience {[scat n]}
 patient {[scat n][block in]}
 patina {[scat n]}
 patio {[scat n]}
-patisserie {[scat n]}
 patisserie {[scat n]}
 patootie {[scat n]}
 patriarch {[scat n][ch -]}
@@ -7157,7 +7015,6 @@ peep {[scat n]}
 peer {[scat n]}
 peg {[scat n][block y]}
 pegasus {[scat n]}
-pegasus {[scat n]}
 pelagianism {[scat n]}
 pelican {[scat n]}
 pellagra {[scat n]}
@@ -7197,7 +7054,6 @@ pepperoni {[scat n]}
 perambulator {[scat n]}
 percent {[scat n]}
 percentage {[scat n]}
-percenter {[scat n]}
 percenter {[scat n]}
 percentile {[scat n]}
 percept {[scat n]}
@@ -7292,7 +7148,6 @@ philosopher {[scat n]}
 philosophy {[scat n]}
 phishing {[scat n]}
 phlegm {[scat n]}
-phlegm {[scat n]}
 pho {[scat n]}
 phobia {[scat n]}
 phoebe {[scat n]}
@@ -7312,7 +7167,6 @@ physicalism {[scat n]}
 physician {[scat n]}
 physicist {[scat n]}
 physio {[scat n]}
-physio {[scat n]}
 physiognomy {[scat n]}
 physiography {[scat n]}
 physiology {[scat n]}
@@ -7325,7 +7179,6 @@ piano {[scat n]}
 piazza {[scat n]}
 pic {[scat n]}
 piccalilli {[scat n]}
-piccolo {[scat n]}
 pickerel {[scat n]}
 picket {[scat n]}
 pickle {[scat n]}
@@ -7460,7 +7313,6 @@ pleura {[scat n]}
 plexiglass {[scat n]}
 plexus {[scat n]}
 plié {[scat n]}
-plié {[scat n]}
 plight {[scat n]}
 plimsoll {[scat n]}
 plinth {[scat n]}
@@ -7532,9 +7384,7 @@ polymer {[scat n]}
 polynomial {[scat n]}
 polyp {[scat n]}
 pom {[scat n]}
-pom {[scat n]}
 pomegranate {[scat n]}
-pomeranian {[scat n]}
 pomeranian {[scat n]}
 pomp {[scat n][block psycho]}
 pompadour {[scat n]}
@@ -7543,7 +7393,6 @@ pompon {[scat n]}
 poncho {[scat n]}
 pond {[scat n]}
 pongid {[scat n]}
-pons {[scat n]}
 pons {[scat n]}
 pontoon {[scat n]}
 pony {[scat n]}
@@ -7577,7 +7426,6 @@ porridge {[scat n]}
 port {[scat n][block OR ex re y]}
 portal {[scat n]}
 portcullis {[scat n]}
-portee {[scat n]}
 portee {[scat n]}
 portent {[scat n]}
 porter {[scat n]}
@@ -7687,7 +7535,6 @@ prep {[scat n]}
 preponderance {[scat n]}
 preposition {[scat n]}
 prequel {[scat n]}
-prereq {[scat n]}
 prereq {[scat n]}
 prerogative {[scat n]}
 prescription {[scat n]}
@@ -7820,7 +7667,6 @@ proposition {[scat n]}
 proprietor {[scat n]}
 propriety {[scat n]}
 proprioception {[scat n]}
-proprioception {[scat n]}
 propulsion {[scat n]}
 proscenium {[scat n]}
 prosciutto {[scat n]}
@@ -7887,13 +7733,11 @@ pterodactyl {[scat n]}
 pterosaur {[scat n]}
 pub {[scat n]}
 puberty {[scat n]}
-pubescence  {[scat n]}
-pubescence  {[scat n]}
+pubescence {[scat n]}
 public {[scat n]}
 publication {[scat n]}
 puce {[scat n]}
 puck {[scat n]}
-pud {[scat n]}
 pud {[scat n]}
 pudding {[scat n]}
 puddle {[scat n]}
@@ -7995,7 +7839,6 @@ queen {[scat n]}
 query {[scat n]}
 quesadilla {[scat n]}
 queso {[scat n]}
-queso {[scat n]}
 quest {[scat n][block re]}
 question {[scat n]}
 questionnaire {[scat n]}
@@ -8008,7 +7851,6 @@ quiff {[scat n]}
 quill {[scat n]}
 quilt {[scat n]}
 quince {[scat n][block y]}
-quinoa {[scat n]}
 quinoa {[scat n]}
 quintet {[scat n]}
 quintuplet {[scat n]}
@@ -8169,7 +8011,6 @@ redundancy {[scat n]}
 reed {[scat n]}
 reef {[scat n]}
 reefer {[scat n]}
-reefer {[scat n]}
 reek {[scat n]}
 reel {[scat n]}
 ref {[scat n]}
@@ -8220,7 +8061,6 @@ regulus {[scat n]}
 rehab {[scat n]}
 rehearsal {[scat n]}
 reign {[scat n]}
-reiki {[scat n]}
 reiki {[scat n]}
 rein {[scat n]}
 rejection {[scat n]}
@@ -8372,7 +8212,6 @@ revolt {[scat n]}
 revolution {[scat n]}
 revolutionary {[scat n]}
 revolver {[scat n]}
-revue {[scat n]}
 revue {[scat n]}
 revulsion {[scat n]}
 reward {[scat n]}
@@ -8583,7 +8422,6 @@ salsa {[scat n]}
 salt {[scat n]}
 saltine {[scat n]}
 salutatorian {[scat n]}
-salutatorian {[scat n]}
 salute {[scat n]}
 salvage {[scat n]}
 salvation {[scat n]}
@@ -8758,7 +8596,6 @@ secession {[scat n]}
 seclusion {[scat n]}
 second {[scat n]}
 secondment {[scat n]}
-secondment {[scat n]}
 secrecy {[scat n]}
 secret {[scat n][block OR ed ing ped]}
 secretariat {[scat n]}
@@ -8787,7 +8624,6 @@ segment {[scat n]}
 segmentation {[scat n]}
 segregation {[scat n]}
 segue {[scat n]}
-segway {[scat n]}
 segway {[scat n]}
 seismograph {[scat n]}
 seismometer {[scat n]}
@@ -8923,7 +8759,6 @@ shibboleth {[scat n]}
 shield {[scat n]}
 shift {[scat n][block y]}
 shihtzu {[scat n]}
-shihtzu {[scat n]}
 shill {[scat n]}
 shimmer {[scat n]}
 shin {[scat n]}
@@ -8945,7 +8780,6 @@ shoji {[scat n]}
 shoot {[scat n]}
 shop {[scat n][block bi]}
 shopaholic {[scat n]}
-shoparoonie {[scat n]}
 shoparoonie {[scat n]}
 shore {[scat n]}
 shortage {[scat n]}
@@ -9144,7 +8978,6 @@ smurf {[scat n]}
 smut {[scat n]}
 snack {[scat n]}
 snacket {[scat n]}
-snacket {[scat n]}
 snafu {[scat n]}
 snail {[scat n]}
 snake {[scat n]}
@@ -9157,7 +8990,6 @@ sneer {[scat n]}
 sneeze {[scat n][block y]}
 snick {[scat n]}
 snicky_snack {[scat n]}
-snicky_snack {[scat n]}
 sniffle {[scat n][block y]}
 snipper {[scat n]}
 snippet {[scat n]}
@@ -9166,7 +8998,6 @@ snobbery {[scat n]}
 snooker {[scat n]}
 snoot {[scat n]}
 snooze {[scat n]}
-snoozie_wooze {[scat n]}
 snoozie_wooze {[scat n]}
 snorkel {[scat n]}
 snort {[scat n][block y]}
@@ -9232,12 +9063,9 @@ sonnet {[scat n]}
 sonny {[scat n]}
 sonogram {[scat n]}
 sonograph {[scat n]}
-sonograph {[scat n]}
-sonographer {[scat n]}
 sonographer {[scat n]}
 sonology {[scat n]}
 sonority {[scat n]}
-sook {[scat n]}
 sook {[scat n]}
 soot {[scat n]}
 sop {[scat n][block y]}
@@ -9328,7 +9156,6 @@ spinach {[scat n]}
 spindle {[scat n]}
 spine {[scat n]}
 spinneret {[scat n]}
-spinster {[scat n]}
 spinster {[scat n]}
 spiral {[scat n]}
 spire {[scat n]}
@@ -9425,7 +9252,6 @@ stand {[scat n][block under]}
 standard {[scat n]}
 standardization {[scat n]}
 standie_uppie {[scat n]}
-standie_uppie {[scat n]}
 stanza {[scat n]}
 staph {[scat n]}
 staple {[scat n]}
@@ -9453,7 +9279,6 @@ stature {[scat n]}
 status {[scat n]}
 statute {[scat n]}
 staycation {[scat n]}
-staycation {[scat n]}
 stead {[scat n][block OR in y]}
 steak {[scat n]}
 stealth {[scat n]}
@@ -9468,7 +9293,6 @@ stem {[scat n]}
 stench {[scat n]}
 stencil {[scat n]}
 stenography {[scat n]}
-stenosis {[scat n]}
 stenosis {[scat n]}
 stent {[scat n]}
 step {[scat n]}
@@ -9581,7 +9405,6 @@ styrofoam {[scat n]}
 suavity {[scat n]}
 sub {[scat n]}
 subaltern {[scat n]}
-subarachnoid {[scat n]}
 subarachnoid {[scat n]}
 subconscious {[scat n]}
 subject {[scat n]}
@@ -9899,7 +9722,6 @@ telegram {[scat n]}
 telegraph {[scat n]}
 telegraphy {[scat n]}
 telekinesis {[scat n]}
-telekinesis {[scat n]}
 telemarketing {[scat n]}
 teleology {[scat n]}
 telepathy {[scat n]}
@@ -9953,7 +9775,6 @@ termite {[scat n]}
 tern {[scat n][block OR ex in]}
 terrace {[scat n]}
 terracotta {[scat n]}
-terradon {[scat n]}
 terradon {[scat n]}
 terrain {[scat n]}
 terrapin {[scat n]}
@@ -10024,7 +9845,6 @@ thrift {[scat n]}
 thrill {[scat n]}
 throat {[scat n]}
 throe {[scat n]}
-throe {[scat n]}
 throne {[scat n]}
 throng {[scat n]}
 throttle {[scat n]}
@@ -10044,7 +9864,6 @@ thwump {[scat n]}
 thyme {[scat n]}
 thyroid {[scat n]}
 tiara {[scat n]}
-tibia {[scat n]}
 tibia {[scat n]}
 tic {[scat n][block OR bio semi neuro]}
 tick {[scat n][block OR ly y]}
@@ -10102,10 +9921,8 @@ toboggan {[scat n]}
 toccata {[scat n]}
 toe {[scat n]}
 toesy {[scat n]}
-toesy {[scat n]}
 toffee {[scat n]}
 tofu {[scat n]}
-toga {[scat n]}
 toga {[scat n]}
 togetherness {[scat n]}
 toggle {[scat n]}
@@ -10116,7 +9933,6 @@ token {[scat n]}
 tolerance {[scat n]}
 toll {[scat n]}
 tolylene {[scat n]}
-tom {[scat n]}
 tom {[scat n]}
 tomahawk {[scat n]}
 tomato {[scat n][stem nPOT]}
@@ -10293,7 +10109,6 @@ tricycle {[scat n]}
 trident {[scat n]}
 trifle {[scat n]}
 trig {[scat n]}
-trig {[scat n]}
 trigger {[scat n]}
 trigonometry {[scat n]}
 trike {[scat n]}
@@ -10304,7 +10119,6 @@ trim {[scat n]}
 trimester {[scat n]}
 trinity {[scat n]}
 trinket {[scat n]}
-trinosaurus {[scat n]}
 trinosaurus {[scat n]}
 trio {[scat n]}
 trip {[scat n]}
@@ -10368,7 +10182,6 @@ tuition {[scat n][block in]}
 tularemia {[scat n]}
 tulip {[scat n]}
 tulle {[scat n]}
-tum {[scat n]}
 tum {[scat n]}
 tumble {[scat n][block y]}
 tumor {[scat n]}
@@ -10459,7 +10272,6 @@ unction {[scat n]}
 underling {[scat n]}
 ungulate {[scat n]}
 uni {[scat n]}
-uni {[scat n]}
 unibrow {[scat n]}
 unicorn {[scat n]}
 unicycle {[scat n]}
@@ -10549,7 +10361,6 @@ varsity {[scat n]}
 vase {[scat n]}
 vaseline {[scat n]}
 vasospasm {[scat n]}
-vasospasm {[scat n]}
 vassal {[scat n]}
 vassalage {[scat n]}
 vat {[scat n]}
@@ -10558,12 +10369,10 @@ vault {[scat n]}
 veal {[scat n]}
 vector {[scat n]}
 veg {[scat n]}
-veg {[scat n]}
 vegan {[scat n]}
 vegetable {[scat n]}
 vegetarian {[scat n]}
 veggie {[scat n]}
-vegimal {[scat n]}
 vegimal {[scat n]}
 vehemence {[scat n]}
 vehicle {[scat n]}
@@ -10590,7 +10399,6 @@ venom {[scat n]}
 vent {[scat n][block OR in pre]}
 ventilator {[scat n]}
 ventricle {[scat n]}
-ventriloquist {[scat n]}
 ventriloquist {[scat n]}
 venture {[scat n]}
 venue {[scat n][block re]}
@@ -10629,7 +10437,6 @@ vial {[scat n]}
 vibe {[scat n]}
 vibrancy {[scat n]}
 vibraphone {[scat n]}
-vibraphone {[scat n]}
 vibrato {[scat n]}
 vibrator {[scat n]}
 vicar {[scat n]}
@@ -10643,7 +10450,6 @@ victor {[scat n]}
 victory {[scat n]}
 vicuna {[scat n]}
 video {[scat n]}
-videographer {[scat n]}
 videographer {[scat n]}
 videography {[scat n]}
 view {[scat n][block OR inter re]}
@@ -10693,7 +10499,6 @@ vista {[scat n]}
 vitamin {[scat n]}
 vitasoy {[scat n]}
 viticulture {[scat n]}
-viticulture {[scat n]}
 vitriol {[scat n]}
 vitro {[scat n]}
 vivacity {[scat n]}
@@ -10730,7 +10535,6 @@ voyage {[scat n]}
 voyager {[scat n]}
 vulgarity {[scat n]}
 vulture {[scat n]}
-vulva {[scat n]}
 vulva {[scat n]}
 wackadoodle {[scat n]}
 wacko {[scat n]}
@@ -10988,8 +10792,6 @@ youngster {[scat n]}
 youth {[scat n]}
 yowl {[scat n]}
 yoyo {[scat n]}
-yoyo {[scat n]}
-yoyo {[scat n]}
 yucca {[scat n]}
 yuck {[scat n]}
 yule {[scat n]}
@@ -11007,7 +10809,6 @@ zero {[scat n][stem nPOT]}
 zest {[scat n]}
 zi {[scat n]} % in zibit game
 ziggurat {[scat n]}
-zimmer {[scat n]}
 zimmer {[scat n]}
 zinc {[scat n]}
 zing {[scat n]}

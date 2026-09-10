@@ -69,7 +69,6 @@ p_e {[scat n]}
 p_g {[scat n]}
 p_h_d {[scat n]}
 p_i_c_c {[scat n]}
-p_j {[scat n]} % "pajama"
 p_j_s {[scat n]} % "pajama"
 p_m {[scat n]}
 p_s {[scat co]}

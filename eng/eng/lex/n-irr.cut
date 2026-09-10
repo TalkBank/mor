@@ -18,7 +18,7 @@ blowfish {[scat n][block es]}
 bluefish {[scat n][block es]}
 brethren {[scat n][num pl]} "brother-PL"
 buses {[scat n]} "bus-PL"
-buts  {[scat n]} "but-PL"
+buts {[scat n]} "but-PL"
 cacti {[scat n][num pl]}
 cattle {[scat n][num pl]}
 cherubim {[scat n][num pl]}
@@ -33,7 +33,6 @@ deer {[scat n][block s]}
 dice {[scat n][num pl]} "die&PL"
 die {[scat n][block s]}
 doggy {[scat n]} "dog-DIM"
-dolly {[scat n]} "doll-DIM"
 eyeteeth {[scat n][num pl]} "eyetooth&PL"
 eyetooth {[scat n][block s]}
 fauna {[scat n][num pl]}

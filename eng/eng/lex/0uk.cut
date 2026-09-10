@@ -41,10 +41,10 @@ fiver {[scat n][dia uk]}
 forenoon {[scat n][dia uk]}
 frank {[scat v][dia uk]}
 frig {[scat co][dia uk]}
-githe  {[scat v][dia uk]} % give
+githe {[scat v][dia uk]} % give
 gurn {[scat v][dia uk]}
 hoke {[scat v][dia uk]}
-hoove {[scat v][dia uk]}  =vacuum=
+hoove {[scat v][dia uk]} =vacuum=
 jumpse {[scat n][dia uk]}
 kip {[scat n][dia uk]}
 knicks {[scat n][dia uk]}
@@ -85,8 +85,8 @@ tellie {[scat n][dia uk]}
 tenner {[scat n][dia uk]}
 thon {[scat adj][dia uk]} % that=
 todey {[scat adj][dia uk]}
-trake {[scat v][dia uk]}  % walk_laboriously=
+trake {[scat v][dia uk]} % walk_laboriously=
 weebley {[scat adj][dia uk]}
-welly {[scat n][dia uk]}  % rainboots
+welly {[scat n][dia uk]} % rainboots
 widdling {[scat v][dia uk]} % wedding=
 wonky {[scat adj][dia uk]}

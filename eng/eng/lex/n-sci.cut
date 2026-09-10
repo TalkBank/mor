@@ -1,6 +1,6 @@
 @UTF8
 @Window:	0_972_770_1024_-1_-1_41_0_41_0
-enfamil  {[scat n]}
+enfamil {[scat n]}
 plasticene {[scat n]}
 netcar {[scat n]}
 acetate {[scat n]}
@@ -425,7 +425,6 @@ nephritis {[scat n]}
 neuritis {[scat n]}
 neuroma {[scat n]}
 neuromyasthenia {[scat n]}
-neuromyasthenia {[scat n]}
 neutronics {[scat n:pt]}
 nitrate {[scat n]}
 nitrite {[scat n]}
@@ -650,7 +649,6 @@ thyroglobulin {[scat n]}
 thyronine {[scat n]}
 thyroxine {[scat n]}
 titanium {[scat n]}
-titer {[scat n]}
 tomography {[scat n]}
 tonsillectomy {[scat n]}
 tonsillitis {[scat n]}

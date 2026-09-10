@@ -39,7 +39,6 @@ cheese+steak {[scat n][comp n+n]}
 crack+house {[scat n][comp n+n]}
 ear+shot {[scat n][comp n+n]}
 fist+fight {[scat n][comp n+n]}
-land+line {[scat n][comp n+n]}
 pin+stripe {[scat n][comp n+n]}
 steak+house {[scat n][comp n+n]}
 teeny+bopper {[scat n][comp n+n]}
@@ -65,20 +64,18 @@ bush+land {[scat n][comp n+n]}
 gingerbread+man {[scat n][comp n+n]}
 trail+head {[scat n][comp n+n]}
 gang+buster {[scat n][comp n+n]}
-ear+bud  {[scat n] [comp n+n]}
+ear+bud {[scat n] [comp n+n]}
 back+man {[scat n][comp n+n]}
 fly+trap {[scat n][comp n+n]}
 lounge+room {[scat n][comp n+n]}
-boot+strap  {[scat n] [comp n+n]}
-paddle+board  {[scat n] [comp n+n]}
+boot+strap {[scat n] [comp n+n]}
+paddle+board {[scat n] [comp n+n]}
 air+bag {[scat n][comp n+n]}
 body+wash {[scat n][comp n+n]}
 bubble+wand {[scat n][comp n+n]}
 house+ware {[scat n][comp n+n]}
 pantry+man {[scat n][comp n+n]}
 bird+song {[scat n][comp n+n]}
-body+wash {[scat n][comp n+n]}
-bubble+wand {[scat n][comp n+n]}
 buggy+edger {[scat n][comp n+n]}
 camper+van {[scat n][comp n+n]}
 cherry+pie {[scat n][comp n+n]}
@@ -94,7 +91,6 @@ scouffle+bug {[scat n][comp n+n]}
 scum+gutter {[scat n][comp n+n]}
 scuttle+bug {[scat n][comp n+n]}
 sleep+suit {[scat n][comp n+n]}
-teethy+peg {[scat n][comp n+n]}
 tooth+fairy {[scat n][comp n+n]}
 toothie+peg {[scat n][comp n+n]}
 plot+line {[scat n][comp n+n]}
@@ -525,7 +521,6 @@ city+scape {[scat n][comp n+n]}
 class+mate {[scat n][comp n+n]}
 class+room {[scat n][comp n+n]}
 class+work {[scat n][comp n+n]}
-claw+foot {[scat n][comp n+n]}
 clearing+house {[scat n][comp n+n]}
 clergy+man {[scat n][comp n+n]}
 clip+board {[scat n][comp n+n]}
@@ -556,7 +551,7 @@ cockle+bur {[scat n][comp n+n]}
 cockle+shell {[scat n][comp n+n]}
 cocks+comb {[scat n][comp n+n]}
 code+book {[scat n][comp n+n]}
-coffee_cake  {[scat n][comp n+n]}
+coffee_cake {[scat n][comp n+n]}
 coffee+house {[scat n][comp n+n]}
 coffee+pot {[scat n][comp n+n]}
 coffer+dam {[scat n][comp n+n]}
@@ -655,7 +650,7 @@ data+base {[scat n][comp n+n]}
 day+bed {[scat n][comp n+n]}
 day+care {[scat n][comp n+n]}
 day+dream {[scat n][comp n+n]}
-day+dreamer {[scat n][comp n+n]}  % this is a hack until this is fixed
+day+dreamer {[scat n][comp n+n]} % this is a hack until this is fixed
 day+light {[scat n][comp n+n]}
 day+time {[scat n][comp n+n]}
 death+bed {[scat n][comp n+n]}
@@ -1332,7 +1327,6 @@ mer+people {[scat n][comp n+n][num pl]} "mer+person&PL"
 mer+person {[scat n][comp n+n]}
 mess+pot {[scat n][comp n+n]}
 metal+work {[scat n][comp n+n]}
-middle+man {[scat n][comp n+n]}
 midship+man {[scat n][comp n+n]}
 mile+stone {[scat n][comp n+n]}
 milk+box {[scat n][comp n+n]}
